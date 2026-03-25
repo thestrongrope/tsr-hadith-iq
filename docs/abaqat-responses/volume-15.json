@@ -1,0 +1,130 @@
+{
+  "volume_number": 15,
+  "hadith_defended": "Hadith of the City of Knowledge (حديث مدينة العلم)",
+  "volume_section": "Sanad and Dalalah",
+  "overview": "This volume is dedicated to defending the Hadith of the City of Knowledge ('I am the city of knowledge and Ali is its gate'). The author systematically refutes Shah Abdul Aziz Dehlavi's claim that the hadith is fabricated (Mawdu'). He achieves this by analyzing the chains of transmission, citing major Sunni hadith masters who authenticated it or graded it Hasan (such as Al-Hafiz Al-Ala'i, Ibn Hajar al-Asqalani, and Al-Suyuti), and severely critiquing Ibn al-Jawzi for incorrectly including it in his book of fabricated hadiths. The volume also deconstructs and mocks counter-hadiths fabricated by Sunnis to include Abu Bakr, Umar, and Uthman as the 'roof' or 'walls' of the city.",
+  "responses_to_dehlavi": [
+    {
+      "dehlavi_claim_addressed": "Hadith of the City of Knowledge: Declares it fabricated and rejected, citing multiple major Sunni Hadith masters.",
+      "author_response_summary": "The author proves that the claim of fabrication originated primarily from Ibn al-Jawzi, whose strictness and errors in 'Al-Mawdu'at' were heavily criticized and refuted by later, more prominent Sunni Hadith masters like Al-Hafiz Al-Ala'i, Ibn Hajar al-Asqalani, and Jalal al-Din al-Suyuti. The author provides multiple authentic chains (turuq) from Sunni sources (e.g., Al-Hakim, Al-Tirmidhi, Yahya bin Ma'in) to prove the hadith is at least Hasan (good) or Sahih (authentic).",
+      "response_type": "SANAD_DEFENSE",
+      "key_evidence_cited": [
+        "Al-Mustadrak by Al-Hakim",
+        "Jami' al-Tirmidhi",
+        "Al-La'ali al-Masnu'ah by Al-Suyuti",
+        "Statements of Yahya bin Ma'in authenticating the narrator Abu Mu'awiyah",
+        "Al-Maqasid al-Hasanah by Al-Sakhawi"
+      ]
+    },
+    {
+      "dehlavi_claim_addressed": "Hadith of the City of Knowledge: Declares it fabricated and rejected, citing multiple major Sunni Hadith masters.",
+      "author_response_summary": "The author exposes the absurdity of Sunni counter-fabrications that attempt to dilute Ali's merit by adding 'Abu Bakr is its foundation, Umar its walls, and Uthman its roof.' He uses Sunni Rijal criticism to prove these additions are the actual fabrications, while the original hadith restricting the gate to Ali is authentic.",
+      "response_type": "CONTRADICTION_EXPOSURE",
+      "key_evidence_cited": [
+        "Lisan al-Mizan by Ibn Hajar",
+        "Tarikh Baghdad by Al-Khatib al-Baghdadi",
+        "Al-Mawdu'at by Ibn al-Jawzi (used against the Sunni additions)"
+      ]
+    }
+  ],
+  "biographical_dossiers": [
+    {
+      "scholar_name": "Ibn al-Jawzi (ابن الجوزي)",
+      "rijal_sources_cited": [
+        "Al-La'ali al-Masnu'ah",
+        "Tadrib al-Rawi"
+      ],
+      "evaluation_summary": "Evaluated negatively for his excessive strictness (tashaddud) and carelessness in declaring authentic hadiths as fabricated in his book 'Al-Mawdu'at'. The author shows how later Sunni scholars universally recognized his errors regarding the Hadith of the City of Knowledge."
+    },
+    {
+      "scholar_name": "Ikrimah, the freed slave of Ibn Abbas (عكرمة مولى ابن عباس)",
+      "rijal_sources_cited": [
+        "Tahdhib al-Tahdhib",
+        "Mizan al-I'tidal",
+        "Tarikh Baghdad"
+      ],
+      "evaluation_summary": "Extensively analyzed to show his Kharijite (Ibadi/Sufrite) leanings, his acceptance of gifts from rulers, and the fact that many major scholars (including Malik and Ibn Sirin) rejected his hadiths or called him a liar, undermining Sunni reliance on him in other contexts."
+    },
+    {
+      "scholar_name": "Ibn Abd al-Hadi (ابن عبد الهادي)",
+      "rijal_sources_cited": [
+        "Tabaqat al-Huffaz",
+        "Al-Durar al-Kaminah"
+      ],
+      "evaluation_summary": "A detailed biography is provided, listing his birth, death, teachers, and extensive works, evaluating him as a strict Hanbali/Taymi scholar whose anti-Shia bias affects his hadith grading."
+    },
+    {
+      "scholar_name": "Qatadah (قتادة)",
+      "rijal_sources_cited": [
+        "Tahdhib al-Tahdhib",
+        "Mizan al-I'tidal"
+      ],
+      "evaluation_summary": "Evaluated for his practice of Tadlis (concealing defects in the chain) and his theological leanings (Qadariyyah), questioning the absolute reliability of his solitary reports."
+    }
+  ],
+  "argument_lineage_traced": [
+    {
+      "claim": "The Hadith of the City of Knowledge is a fabrication (Mawdu').",
+      "chain": [
+        "Ibn al-Jawzi (d. 597 AH) in Al-Mawdu'at",
+        "Ibn Taymiyyah (d. 728 AH)",
+        "Shah Abdul Aziz Dehlavi (d. 1239 AH)"
+      ]
+    }
+  ],
+  "rebuttal_lineage_cited": [
+    {
+      "prior_scholar": "Al-Hafiz Al-Ala'i",
+      "work": "Al-Naqd al-Sahih",
+      "what_they_refuted": "Refuted Ibn al-Jawzi's claim that the Hadith of the City of Knowledge is fabricated, proving it has valid chains."
+    },
+    {
+      "prior_scholar": "Ibn Hajar al-Asqalani",
+      "work": "Lisan al-Mizan / Fatawa",
+      "what_they_refuted": "Confirmed the hadith has a basis and many chains, refuting the absolute ruling of fabrication."
+    },
+    {
+      "prior_scholar": "Jalal al-Din al-Suyuti",
+      "work": "Al-La'ali al-Masnu'ah fi al-Ahadith al-Mawdu'ah",
+      "what_they_refuted": "Systematically dismantled Ibn al-Jawzi's arguments against the hadith, proving it is Hasan (good) and Sahih (authentic) through corroborating chains."
+    }
+  ],
+  "scholars_mentioned": [
+    "Shah Abdul Aziz Dehlavi",
+    "Ibn al-Jawzi",
+    "Al-Hafiz Al-Ala'i",
+    "Ibn Hajar al-Asqalani",
+    "Jalal al-Din al-Suyuti",
+    "Al-Sakhawi",
+    "Al-Hakim al-Nishapuri",
+    "Al-Tirmidhi",
+    "Yahya bin Ma'in",
+    "Ahmad bin Hanbal",
+    "Al-Daraqutni",
+    "Al-Khatib al-Baghdadi",
+    "Al-Dhahabi",
+    "Ibn Taymiyyah",
+    "Ibn Abd al-Hadi",
+    "Abu Hatim al-Razi",
+    "Abu Zur'ah",
+    "Ikrimah",
+    "Qatadah",
+    "Al-A'mash",
+    "Abu Mu'awiyah"
+  ],
+  "books_cited": [
+    "Tuhfat al-Ithna Ashariyya",
+    "Al-Mawdu'at",
+    "Al-La'ali al-Masnu'ah",
+    "Al-Mustadrak ala al-Sahihayn",
+    "Jami' al-Tirmidhi",
+    "Tarikh Baghdad",
+    "Lisan al-Mizan",
+    "Tahdhib al-Tahdhib",
+    "Mizan al-I'tidal",
+    "Al-Maqasid al-Hasanah",
+    "Al-Sawa'iq al-Muhriqah",
+    "Tabaqat al-Huffaz",
+    "Al-Durar al-Kaminah"
+  ]
+}

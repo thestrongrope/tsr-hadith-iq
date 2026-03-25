@@ -1,0 +1,245 @@
+{
+  "volume_number": 10,
+  "hadith_defended": "Hadith of Ghadir Khumm (specifically the preamble 'Alastu Awla' and the incident of Al-Harith b. Al-Nu'man)",
+  "volume_section": "Dalalah (Implication/Meaning) and Sanad (Chain of Transmission)",
+  "overview": "This volume focuses on proving that the word 'Mawla' in the Hadith of Ghadir means 'Awla bi al-Tasarruf' (having more right to authority/disposal). The author achieves this by establishing the authenticity of the preamble 'Alastu Awla bi al-Mu'minin min Anfusihim' (Am I not more having authority over the believers than themselves?) and the incident of Al-Harith b. Al-Nu'man (the revelation of Surah Al-Ma'arij 70:1-3). He systematically refutes the linguistic, chronological, and geographical objections raised by Shah Abdul Aziz Dehlavi and Ibn Taymiyyah, using extensive citations from Sunni exegesis (Tafsir), Hadith, and biographical dictionaries.",
+  "responses_to_dehlavi": [
+    {
+      "dehlavi_claim_addressed": "The word 'Mawla' in the Hadith of Ghadir means friend/helper, not ruler or 'Awla bi al-Tasarruf'.",
+      "author_response_summary": "The author argues that the Prophet prefaced the declaration with 'Alastu Awla bi al-Mu'minin min Anfusihim' (Am I not more having authority over the believers than themselves?). By linking 'Mawla' to 'Awla', the Prophet explicitly defined 'Mawla' as having supreme authority. The author cites numerous Sunni exegetes (Al-Wahidi, Al-Baghawi, Al-Zamakhshari, Al-Baydawi) who interpret 'Awla' in Surah Al-Ahzab (33:6) as 'Nafudh al-Hukm' (penetration of command) and 'Wujub al-Ta'ah' (obligation of obedience).",
+      "response_type": "LINGUISTIC_ANALYSIS",
+      "key_evidence_cited": [
+        "Tafsir al-Kashshaf by Al-Zamakhshari",
+        "Anwar al-Tanzil by Al-Baydawi",
+        "Ma'alim al-Tanzil by Al-Baghawi",
+        "Al-Tafsir al-Wasit by Al-Wahidi"
+      ]
+    },
+    {
+      "dehlavi_claim_addressed": "The story of Al-Harith b. Al-Nu'man challenging the Prophet about Ali's appointment and the subsequent revelation of 'Sa'ala Sa'ilun' (70:1) is fabricated, as Surah Al-Ma'arij is Makkan and Ghadir happened after the Farewell Pilgrimage.",
+      "author_response_summary": "The author refutes this chronological objection by demonstrating the Quranic principle of 'Ta'addud al-Nuzul' (multiple revelations of the same verse for different occasions), citing Al-Suyuti's 'Al-Itqan'. He also lists dozens of eminent Sunni scholars who authenticated and narrated the incident of Al-Harith, proving it is a recognized historical event in Sunni tradition.",
+      "response_type": "SANAD_DEFENSE",
+      "key_evidence_cited": [
+        "Al-Itqan fi 'Ulum al-Quran by Al-Suyuti",
+        "Tafsir Al-Tha'labi",
+        "Al-Fusul al-Muhimmah by Ibn al-Sabbagh al-Maliki",
+        "Fayd al-Qadir by Al-Manawi"
+      ]
+    },
+    {
+      "dehlavi_claim_addressed": "Ibn Taymiyyah's claim that the incident of Al-Harith is false because it mentions 'Abtah' (a location in Makkah), whereas the Prophet did not return to Makkah after Ghadir.",
+      "author_response_summary": "The author uses classical Arabic lexicons to prove that 'Abtah' is a common noun meaning 'a wide valley with pebbles' and is not exclusively a proper noun for a location in Makkah. He cites Sunni geographers and linguists to show that Madinah also has areas referred to as 'Abtah' or 'Batha'.",
+      "response_type": "LINGUISTIC_ANALYSIS",
+      "key_evidence_cited": [
+        "Al-Sihah by Al-Jawhari",
+        "Al-Qamus al-Muhit by Al-Firuzabadi",
+        "Al-Nihayah by Ibn al-Athir",
+        "Wafa' al-Wafa by Al-Samhudi"
+      ]
+    },
+    {
+      "dehlavi_claim_addressed": "Ali never claimed Imamate or used the Hadith of Ghadir to prove his immediate succession against the other Caliphs.",
+      "author_response_summary": "The author extensively documents the 'Munashadah' (adjuration) of Ali in the Rahbah of Kufa, where Ali publicly asked the Sahaba to testify if they heard the Prophet declare 'Man Kuntu Mawlah' at Ghadir. Numerous Sahaba stood and testified. The author also highlights that those who concealed their testimony (like Anas b. Malik and Zayd b. Arqam) were struck with blindness or leprosy due to Ali's curse, proving the immense gravity of the declaration.",
+      "response_type": "COUNTER_CITATION",
+      "key_evidence_cited": [
+        "Musnad Ahmad bin Hanbal",
+        "Khasa'is Amir al-Mu'minin by Al-Nasa'i",
+        "Al-Mu'jam al-Kabir by Al-Tabarani",
+        "Usd al-Ghabah by Ibn al-Athir"
+      ]
+    },
+    {
+      "dehlavi_claim_addressed": "Fakhr al-Din al-Razi's claim that the preamble 'Alastu Awla bi al-Mu'minin' is not narrated by most Sunni scholars and is therefore unreliable.",
+      "author_response_summary": "The author compiles a massive list of over 50 prominent Sunni Hadith masters and historians who explicitly narrated the preamble 'Alastu Awla' as part of the Hadith of Ghadir, exposing Al-Razi's claim as a blatant falsehood and demonstrating the author's superior mastery of Sunni Hadith literature.",
+      "response_type": "CONTRADICTION_EXPOSURE",
+      "key_evidence_cited": [
+        "Sunan Ibn Majah",
+        "Sahih Muslim",
+        "Al-Mustadrak by Al-Hakim",
+        "Tarikh Ibn Kathir"
+      ]
+    }
+  ],
+  "biographical_dossiers": [
+    {
+      "scholar_name": "Abd al-Ra'uf al-Manawi",
+      "rijal_sources_cited": [
+        "Khulasat al-Athar by Al-Muhibbi",
+        "Kashf al-Zunun by Katib Celebi"
+      ],
+      "evaluation_summary": "Highly positive. Described as a great Shafi'i Imam, ascetic, and prolific author of 'Fayd al-Qadir', whose works are universally accepted by Sunni scholars."
+    },
+    {
+      "scholar_name": "Nur al-Din al-Halabi",
+      "rijal_sources_cited": [
+        "Khulasat al-Athar by Al-Muhibbi",
+        "Tuhfat al-Bahiyyah by Al-Sharqawi"
+      ],
+      "evaluation_summary": "Positive. Acknowledged as a leading Shafi'i scholar, historian, and author of 'Al-Sirah al-Halabiyyah', known for his deep knowledge and piety."
+    },
+    {
+      "scholar_name": "Sufyan bin 'Uyaynah",
+      "rijal_sources_cited": [
+        "Tahdhib al-Asma wa al-Lughat by Al-Nawawi",
+        "Tadhkirat al-Huffaz by Al-Dhahabi",
+        "Al-'Ibar by Al-Dhahabi",
+        "Mir'at al-Janan by Al-Yafi'i"
+      ],
+      "evaluation_summary": "Extremely positive. Regarded as a definitive Hujjah (proof), Hafiz, and one of the greatest Imams of Hadith in the Hijaz, whose narrations are universally trusted."
+    },
+    {
+      "scholar_name": "Sibt Ibn al-Jawzi",
+      "rijal_sources_cited": [
+        "Wafayat al-A'yan by Ibn Khallikan",
+        "Mir'at al-Janan by Al-Yafi'i",
+        "Al-'Ibar by Al-Dhahabi",
+        "Kata'ib A'lam al-Akhyar by Al-Kafawi"
+      ],
+      "evaluation_summary": "Positive defense. The author defends him against Al-Dhahabi's accusations of being a Rafidi, proving that major Sunni historians relied on his 'Mir'at al-Zaman' and considered him a reliable Hanafi Imam."
+    },
+    {
+      "scholar_name": "Al-Hakim al-Naysaburi",
+      "rijal_sources_cited": [
+        "Wafayat al-A'yan by Ibn Khallikan",
+        "Rijal Mishkat by Abd al-Haqq Dehlavi",
+        "Tabaqat al-Shafi'iyyah by Al-Asnawi"
+      ],
+      "evaluation_summary": "Highly positive. Recognized as the Imam of Hadith in his era, whose judgments on the authenticity of narrations are authoritative for Sunnis."
+    }
+  ],
+  "argument_lineage_traced": [
+    {
+      "claim": "The interpretation of 'Awla' (in Surah Al-Ahzab 33:6) as 'Awla bi al-Tasarruf' (having more right to authority/disposal) and 'Nafudh al-Hukm' (penetration of command).",
+      "chain": [
+        "Ibn Abbas (Sahabi)",
+        "Ata' bin Yasar (d. 103 AH)",
+        "Al-Wahidi (d. 468 AH)",
+        "Al-Baghawi (d. 510 AH)",
+        "Al-Zamakhshari (d. 538 AH)",
+        "Al-Baydawi (d. 685 AH)",
+        "Al-Nasafi (d. 710 AH)",
+        "Al-Naysaburi (d. 728 AH)",
+        "Al-Khatib al-Shirbini (d. 977 AH)"
+      ]
+    },
+    {
+      "claim": "The narration of the incident of Al-Harith b. Al-Nu'man and the revelation of 'Sa'ala Sa'ilun' at Ghadir Khumm.",
+      "chain": [
+        "Sufyan bin 'Uyaynah (d. 198 AH)",
+        "Al-Tha'labi (d. 427 AH)",
+        "Ibn al-Sabbagh al-Maliki (d. 855 AH)",
+        "Al-Samhudi (d. 911 AH)",
+        "Al-Manawi (d. 1031 AH)",
+        "Al-Halabi (d. 1044 AH)"
+      ]
+    }
+  ],
+  "rebuttal_lineage_cited": [
+    {
+      "prior_scholar": "Al-Qastalani",
+      "work": "Irshad al-Sari",
+      "what_they_refuted": "Refuted the idea that 'Awla' only means love or friendship, explicitly stating it means 'Nafudh al-Hukm' (penetration of command) and 'Wujub al-Ta'ah' (obligation of obedience)."
+    },
+    {
+      "prior_scholar": "Sibt Ibn al-Jawzi",
+      "work": "Tadhkirat Khawass al-Ummah",
+      "what_they_refuted": "Refuted the claim that 'Mawla' in the Hadith of Ghadir means anything other than 'Awla' (having more right/authority), explicitly stating that the 10th meaning (Awla) is the only one that fits the context of obedience."
+    },
+    {
+      "prior_scholar": "Muhammad bin Yusuf al-Ganji al-Shafi'i",
+      "work": "Kifayat al-Talib",
+      "what_they_refuted": "Refuted the claim that the Prophet did not appoint a successor, stating that the Hadith of Ghadir explicitly indicates 'Tawliyah' and 'Istikhlaf' (appointment and succession)."
+    }
+  ],
+  "scholars_mentioned": [
+    "Shah Abdul Aziz Dehlavi",
+    "Ibn Taymiyyah",
+    "Fakhr al-Din al-Razi",
+    "Al-Tha'labi",
+    "Sufyan bin 'Uyaynah",
+    "Ibn al-Sabbagh al-Maliki",
+    "Abd al-Ra'uf al-Manawi",
+    "Nur al-Din al-Halabi",
+    "Ahmad bin al-Fadl Ba Kathir",
+    "Muhammad bin Isma'il al-San'ani",
+    "Al-Suyuti",
+    "Al-Wahidi",
+    "Al-Baghawi",
+    "Al-Zamakhshari",
+    "Al-Baydawi",
+    "Al-Nasafi",
+    "Al-Naysaburi",
+    "Al-Khatib al-Shirbini",
+    "Al-Qastalani",
+    "Al-'Ayni",
+    "Sibt Ibn al-Jawzi",
+    "Al-Hakim al-Naysaburi",
+    "Ahmad bin Hanbal",
+    "Al-Nasa'i",
+    "Al-Tabarani",
+    "Ibn Hajar al-Asqalani",
+    "Ibn Hajar al-Haytami",
+    "Al-Dhahabi",
+    "Al-Sam'ani",
+    "Al-Nawawi",
+    "Ibn Khallikan",
+    "Abd al-Rahman Jami",
+    "Siddiq Hasan Khan",
+    "Muhammad Isma'il Dehlavi",
+    "Al-Qushji",
+    "Al-Taftazani",
+    "Al-Samhudi",
+    "Ibn al-Athir",
+    "Al-Khatib al-Baghdadi",
+    "Abu Nu'aym al-Isfahani",
+    "Al-Darqutni",
+    "Ibn Kathir",
+    "Al-Khwarizmi",
+    "Al-Ghazali",
+    "Sana'i al-Ghaznawi",
+    "Farid al-Din 'Attar"
+  ],
+  "books_cited": [
+    "Tuhfat al-Ithna Ashariyya",
+    "Minhaj al-Sunnah",
+    "Nihayat al-'Uqul",
+    "Al-Kashshaf",
+    "Anwar al-Tanzil (Tafsir al-Baydawi)",
+    "Ma'alim al-Tanzil (Tafsir al-Baghawi)",
+    "Al-Tafsir al-Wasit",
+    "Al-Itqan fi 'Ulum al-Quran",
+    "Al-Durr al-Manthur",
+    "Fayd al-Qadir",
+    "Al-Sirah al-Halabiyyah",
+    "Tadhkirat Khawass al-Ummah",
+    "Al-Mustadrak 'ala al-Sahihayn",
+    "Musnad Ahmad",
+    "Khasa'is Amir al-Mu'minin",
+    "Al-Mu'jam al-Kabir",
+    "Al-Sawa'iq al-Muhriqah",
+    "Khulasat al-Athar",
+    "Wafayat al-A'yan",
+    "Tadhkirat al-Huffaz",
+    "Mizan al-I'tidal",
+    "Nafahat al-Uns",
+    "Sirr al-'Alamin",
+    "Al-Riyad al-Nadirah",
+    "Fara'id al-Simtayn",
+    "Yanabi' al-Mawaddah",
+    "Kanz al-'Ummal",
+    "Al-Bidayah wa al-Nihayah",
+    "Al-Fusul al-Muhimmah",
+    "Wafa' al-Wafa",
+    "Irshad al-Sari",
+    "Umdat al-Qari",
+    "Al-Sihah",
+    "Al-Qamus al-Muhit",
+    "Al-Nihayah fi Gharib al-Hadith",
+    "Usd al-Ghabah",
+    "Al-Isabah fi Tamyiz al-Sahabah",
+    "Hilyat al-Awliya'",
+    "Kifayat al-Talib",
+    "Mawaddat al-Qurba",
+    "Al-Mawa'iz wa al-I'tibar (Al-Khitat)"
+  ]
+}

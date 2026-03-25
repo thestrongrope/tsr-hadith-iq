@@ -1,0 +1,3743 @@
+[
+  {
+    "volume_number": 1,
+    "hadith_defended": "Hadith of Ghadir Khumm",
+    "volume_section": "Sanad",
+    "overview": "This volume focuses entirely on the Sanad (chains of transmission) of the Hadith of Ghadir Khumm. The author refutes Dehlavi's attempt to minimize the hadith's transmission by framing it as an isolated report narrated primarily by Buraydah. Mir Hamid Husain exhaustively proves the Tawatur (mass-transmission) of the hadith by listing over 100 Sahaba who narrated it. He catalogs numerous major Sunni scholars who wrote dedicated books compiling the chains of Ghadir (such as Ibn Uqdah, al-Tabari, al-Sijistani, and al-Haskani) and defends these scholars against Dehlavi's accusations of them being Shia fabricators by building extensive biographical dossiers from Sunni Rijal works.",
+    "responses_to_dehlavi": [
+      {
+        "dehlavi_claim_addressed": "Dehlavi minimizes the transmission of Ghadir, attributing it primarily to Buraydah and framing it as a specific, isolated response to a complaint made in Yemen.",
+        "author_response_summary": "The author proves the hadith is Mutawatir (mass-transmitted), narrated by over 100 companions. He lists the names of 98 Sahaba explicitly and cites major Sunni hadith masters (al-Suyuti, al-Dhahabi, Ibn al-Jazari, Ali al-Muttaqi) who formally declared the hadith to be Mutawatir.",
+        "response_type": "SANAD_DEFENSE",
+        "key_evidence_cited": [
+          "Asna al-Matalib by Ibn al-Jazari",
+          "Al-Azhar al-Mutanathira by Al-Suyuti",
+          "Qatf al-Azhar by Ali al-Muttaqi",
+          "Al-Tarif by Al-Dhahabi"
+        ]
+      },
+      {
+        "dehlavi_claim_addressed": "Dehlavi (following Nasrullah al-Kabuli) attacks Ibn Uqdah as a 'Rafidi' to dismiss his book which compiled 105 chains for the Hadith of Ghadir.",
+        "author_response_summary": "The author compiles a massive biographical dossier proving Ibn Uqdah is a highly respected Hafiz and a central authority in Sunni Rijal, praised by al-Daraqutni, al-Dhahabi, and relied upon by Ibn Hajar al-Asqalani.",
+        "response_type": "BIOGRAPHICAL_DOSSIER",
+        "key_evidence_cited": [
+          "Al-Ansab by Al-Sam'ani",
+          "Tadhkirat al-Huffaz by Al-Dhahabi",
+          "Tahdhib al-Tahdhib by Ibn Hajar",
+          "Tabaqat al-Huffaz by Al-Suyuti"
+        ]
+      },
+      {
+        "dehlavi_claim_addressed": "Dehlavi claims that Shia rely on only 12 hadiths for Imamate.",
+        "author_response_summary": "The author exposes this as a false limitation copied from Kabuli, demonstrating that Shia and Sunni sources contain hundreds of hadiths proving the Imamate and superiority of Ali, far exceeding the arbitrary number of 12.",
+        "response_type": "CONTRADICTION_EXPOSURE",
+        "key_evidence_cited": [
+          "Al-Sawa'iq by Nasrullah al-Kabuli",
+          "Numerous Sunni compilations of virtues (Manaqib)"
+        ]
+      }
+    ],
+    "biographical_dossiers": [
+      {
+        "scholar_name": "Ibn Uqdah (Ahmad bin Muhammad bin Sa'id)",
+        "rijal_sources_cited": [
+          "Al-Ansab by Al-Sam'ani",
+          "Tahdhib al-Tahdhib by Ibn Hajar",
+          "Al-Ibar by Al-Dhahabi",
+          "Tabaqat al-Huffaz by Al-Suyuti",
+          "Tabaqat al-Shafi'iyya by Al-Subki"
+        ],
+        "evaluation_summary": "Highly positive. Proven to be a master Hafiz, trusted by Al-Daraqutni, and a primary source for later Sunni hadith masters. His alleged 'Tashayyu' (Shi'ism) is shown to be merely a love for Ahl al-Bayt, which does not invalidate his hadith transmission according to Sunni standards."
+      },
+      {
+        "scholar_name": "Muhammad bin Jarir al-Tabari",
+        "rijal_sources_cited": [
+          "Mu'jam al-Udaba by Yaqut al-Hamawi",
+          "Tadhkirat al-Huffaz by Al-Dhahabi",
+          "Tabaqat al-Shafi'iyya by Al-Subki",
+          "Al-Ibar by Al-Dhahabi"
+        ],
+        "evaluation_summary": "Highly positive. Acknowledged as a Mujtahid and Imam in multiple sciences. The author highlights Tabari's dedicated 2-volume work on the chains of Ghadir (Kitab al-Wilayah) containing 75 chains, written specifically to refute those in Baghdad who denied the event."
+      },
+      {
+        "scholar_name": "Al-Haskani (Ubaydullah bin Abdullah)",
+        "rijal_sources_cited": [
+          "Tabaqat al-Huffaz by Al-Suyuti",
+          "Tarikh Naysabur by Abd al-Ghafir al-Farsi",
+          "Al-Sira al-Shamiyya by Muhammad bin Yusuf al-Shami"
+        ],
+        "evaluation_summary": "Highly positive. Defended against charges of Rafd; proven to be a meticulous Sunni Hafiz who authored 'Du'a al-Hudat' compiling the chains of Ghadir."
+      },
+      {
+        "scholar_name": "Abu Sa'id al-Sijistani (Mas'ud bin Nasir)",
+        "rijal_sources_cited": [
+          "Al-Ansab by Al-Sam'ani",
+          "Al-Ibar by Al-Dhahabi",
+          "Mir'at al-Jinan by Al-Yafi'i",
+          "Tabaqat al-Huffaz by Al-Suyuti"
+        ],
+        "evaluation_summary": "Highly positive. Praised for his precision and memory. Authored a massive 17-volume work 'Dirayat Hadith al-Wilayah' containing 1300 chains for the Hadith of Ghadir."
+      },
+      {
+        "scholar_name": "Ibn al-Jazari (Muhammad bin Muhammad)",
+        "rijal_sources_cited": [
+          "Kashf al-Zunun by Hajji Khalifa",
+          "Tabaqat al-Huffaz by Al-Suyuti",
+          "Bustan al-Muhaddithin by Shah Abdul Aziz al-Dehlavi"
+        ],
+        "evaluation_summary": "Highly positive. Acknowledged as the ultimate authority in Qira'at and a major Hadith scholar. His book 'Asna al-Matalib' is cited where he explicitly declares the Hadith of Ghadir to be Mutawatir."
+      },
+      {
+        "scholar_name": "Jalal al-Din al-Suyuti",
+        "rijal_sources_cited": [
+          "Lawaqih al-Anwar by Al-Sha'rani",
+          "Fath al-Muta'al by Al-Maqqari",
+          "Khulasat al-Athar by Al-Muhibbi"
+        ],
+        "evaluation_summary": "Highly positive. Recognized as the Mujaddid of the 9th century. His works 'Al-Azhar al-Mutanathira' and 'Qatf al-Azhar' are used as definitive proof that Ghadir is Mutawatir among Sunni hadith masters."
+      }
+    ],
+    "argument_lineage_traced": [
+      {
+        "claim": "Restricting the Shia proofs for Imamate to exactly 12 hadiths and attacking Ibn Uqdah as a Rafidi fabricator.",
+        "chain": [
+          "Nasrullah al-Kabuli (author of Al-Sawa'iq) -> Shah Abdul Aziz al-Dehlavi (author of Tuhfat al-Ithna Ashariyya)"
+        ]
+      }
+    ],
+    "rebuttal_lineage_cited": [
+      {
+        "prior_scholar": "Sayyid Muhammad Quli (Author's Father)",
+        "work": "Tashyid al-Mata'in",
+        "what_they_refuted": "Chapter 10 of Tuhfat al-Ithna Ashariyya (Dehlavi's defense of the Caliphs and attacks on Shia historical claims)"
+      },
+      {
+        "prior_scholar": "Sayyid Muhammad Quli (Author's Father)",
+        "work": "Masari' al-Ifham",
+        "what_they_refuted": "Chapter 11 of Tuhfat al-Ithna Ashariyya"
+      }
+    ],
+    "scholars_mentioned": [
+      "Shah Abdul Aziz al-Dehlavi",
+      "Nasrullah al-Kabuli",
+      "Ibn Uqdah",
+      "Ibn al-Maghazili",
+      "Muhammad bin Jarir al-Tabari",
+      "Al-Haskani",
+      "Abu Sa'id al-Sijistani",
+      "Al-Dhahabi",
+      "Ibn Hajar al-Asqalani",
+      "Ibn al-Jazari",
+      "Jalal al-Din al-Suyuti",
+      "Ali al-Muttaqi",
+      "Mirza Makhdum",
+      "Ataullah al-Nishapuri",
+      "Mulla Ali al-Qari",
+      "Diya al-Din al-Muqbili",
+      "Muhammad bin Isma'il al-San'ani",
+      "Qadi Sanaullah Panipati",
+      "Sayyid Ali bin Tawus"
+    ],
+    "books_cited": [
+      "Tuhfat al-Ithna Ashariyya",
+      "Al-Sawa'iq (by Kabuli)",
+      "Al-Manaqib (by Ibn al-Maghazili)",
+      "Kitab al-Wilayah (by Ibn Uqdah)",
+      "Kitab al-Wilayah (by Al-Tabari)",
+      "Dirayat Hadith al-Wilayah (by Al-Sijistani)",
+      "Du'a al-Hudat (by Al-Haskani)",
+      "Fath al-Bari",
+      "Al-Isabah fi Tamyiz al-Sahaba",
+      "Tabaqat al-Huffaz",
+      "Al-Ibar fi Khabar man Ghabar",
+      "Al-Ansab",
+      "Kashf al-Zunun",
+      "Asna al-Matalib",
+      "Al-Azhar al-Mutanathira",
+      "Qatf al-Azhar",
+      "Al-Tara'if",
+      "Al-Iqbal bi Salih al-A'mal",
+      "Bustan al-Muhaddithin"
+    ]
+  },
+  {
+    "volume_number": 2,
+    "hadith_defended": "Hadith of Ghadir Khumm",
+    "volume_section": "Sanad",
+    "overview": "This volume defends the Sanad of the Hadith of Ghadir against the specific objection raised by Fakhr al-Din al-Razi (and adopted by later polemicists like Dehlavi and Haydar Ali Fayzabadi) that the hadith is unreliable because it was not narrated by Bukhari and Muslim. The author systematically dismantles the absolute authority of the Sahihayn, proving that authentic hadiths are not restricted to them, and extensively documents how major Sunni scholars criticized, weakened, or declared fabricated numerous hadiths found within Bukhari and Muslim.",
+    "responses_to_dehlavi": [
+      {
+        "dehlavi_claim_addressed": "Sanad Criticism: Rigorously analyzing the chains of transmission of hadiths cited by Shias, exposing weak, fabricated, or extremist (Ghali) narrators (specifically the implicit claim that a hadith's absence from the Sahihayn weakens it).",
+        "author_response_summary": "The author argues that the absence of a hadith in Bukhari and Muslim does not negate its authenticity. He cites Al-Nawawi, Ibn al-Salah, and Al-Hazimi to prove that the Sahihayn never claimed to encompass all authentic hadiths. Furthermore, he establishes the fundamental Usuli rule that 'the affirmer takes precedence over the denier' (Al-Muthbit Muqaddam 'ala al-Nafi).",
+        "response_type": "SANAD_DEFENSE",
+        "key_evidence_cited": [
+          "Sharh Sahih Muslim by Al-Nawawi",
+          "Manhal al-Rawi by Ibn Jama'ah",
+          "Zad al-Ma'ad by Ibn Qayyim al-Jawziyya"
+        ]
+      },
+      {
+        "dehlavi_claim_addressed": "Shia: Ali constantly complained about the first three caliphs... Dehlavi: These reports of complaining are Shia fabrications. Authentic reports... show Ali praising Abu Bakr...",
+        "author_response_summary": "The author uses Sahih Bukhari and Sahih Muslim to prove that Fatima died angry with Abu Bakr, boycotted him, and that Ali delayed his Bay'ah for six months. He exposes the contradiction of contemporary Sunni polemicists (like Haydar Ali Fayzabadi) who are forced to attack and declare their own Sahihayn as 'fabricated' or 'weak' just to escape the theological implications of these authentic Sunni reports.",
+        "response_type": "CONTRADICTION_EXPOSURE",
+        "key_evidence_cited": [
+          "Sahih Bukhari (Kitab al-Maghazi, Kitab al-Fara'id)",
+          "Sahih Muslim (Kitab al-Jihad)",
+          "Muntaha al-Kalam by Haydar Ali Fayzabadi",
+          "Izalat al-Ghayn by Haydar Ali Fayzabadi"
+        ]
+      },
+      {
+        "dehlavi_claim_addressed": "Sanad Criticism: Rigorously analyzing the chains of transmission of hadiths cited by Shias...",
+        "author_response_summary": "The author turns the methodology of Sanad criticism against the Sahihayn themselves. He compiles a massive dossier showing that top Sunni Hadith masters (Abu Zur'ah, Al-Dhuhli, Al-Daraqutni, Ibn Hazm, Al-Ghazali, Ibn al-Jawzi) severely criticized, weakened, or declared fabricated dozens of hadiths present in Bukhari and Muslim (e.g., the Hadith of Ibrahim's three lies, the Hadith of Mut'ah being banned at Khaybar, the Hadith of Isra'). Therefore, using the Sahihayn as an infallible standard to reject Ghadir is hypocritical.",
+        "response_type": "COUNTER_CITATION",
+        "key_evidence_cited": [
+          "Mizan al-I'tidal by Al-Dhahabi",
+          "Siyar A'lam al-Nubala by Al-Dhahabi",
+          "Fath al-Bari by Ibn Hajar al-Asqalani",
+          "Umdat al-Qari by Badr al-Din al-Ayni",
+          "Al-Mawdu'at by Ibn al-Jawzi",
+          "Al-Muhalla by Ibn Hazm"
+        ]
+      }
+    ],
+    "biographical_dossiers": [
+      {
+        "scholar_name": "Abu Zur'ah al-Razi (Ubaydullah b. Abd al-Karim)",
+        "rijal_sources_cited": [
+          "Siyar A'lam al-Nubala",
+          "Tadhhib al-Tahdhib",
+          "Mizan al-I'tidal",
+          "Tarikh Baghdad",
+          "Tahdhib al-Kamal",
+          "Al-Ansab"
+        ],
+        "evaluation_summary": "Extremely positive. He is established as a supreme Imam and Hafiz of the Sunnis whose memory and piety were unmatched. The author builds this massive dossier to validate Abu Zur'ah's severe criticism and rejection of Sahih Muslim and Sahih Bukhari, proving that early Sunni titans did not view the Sahihayn as infallible."
+      },
+      {
+        "scholar_name": "Muhammad b. Yahya al-Dhuhli",
+        "rijal_sources_cited": [
+          "Siyar A'lam al-Nubala",
+          "Tarikh Baghdad",
+          "Tadhhib al-Tahdhib",
+          "Al-Ansab",
+          "Tabaqat al-Huffaz"
+        ],
+        "evaluation_summary": "Highly positive. He is presented as the Imam of Khurasan and the 'Heir of Al-Zuhri'. The author compiles his biography to highlight his intense conflict with Al-Bukhari over the 'Lafdh' (creation of the Quran) issue, showing that Al-Dhuhli boycotted Al-Bukhari, considered him worse than the Jahmiyya, and forced him out of Nishapur."
+      },
+      {
+        "scholar_name": "Ibn Abi Hatim al-Razi (Abd al-Rahman b. Muhammad)",
+        "rijal_sources_cited": [
+          "Siyar A'lam al-Nubala",
+          "Fawat al-Wafayat",
+          "Al-Ibar",
+          "Mir'at al-Jinan"
+        ],
+        "evaluation_summary": "Positive. A major Rijal scholar and author of Al-Jarh wa al-Ta'dil. His biography is used to show that he and his father (Abu Hatim) abandoned narrating from Al-Bukhari due to his theological stance on the Quran."
+      },
+      {
+        "scholar_name": "Ibn Abd al-Barr (Yusuf b. Abdullah)",
+        "rijal_sources_cited": [
+          "Siyar A'lam al-Nubala"
+        ],
+        "evaluation_summary": "Positive. Hafiz of the Maghrib. The author uses his authority to show his rejection of certain hadiths in Bukhari (e.g., the hadith of Ibn Umar regarding the ranking of the Caliphs and the story of the monkeys stoning each other for adultery)."
+      },
+      {
+        "scholar_name": "Badr al-Din al-Zarkashi",
+        "rijal_sources_cited": [
+          "Miftah Kanz al-Dirayah",
+          "Bustan al-Muhaddithin"
+        ],
+        "evaluation_summary": "Positive. A major Shafi'i scholar whose work 'Al-Tanqih' is cited to show the rejection of Bukhari's hadith regarding the revelation of the verse of fighting factions."
+      }
+    ],
+    "argument_lineage_traced": [
+      {
+        "claim": "The Hadith of Ghadir is not authentic or mutawatir because it was not narrated by Al-Bukhari and Muslim.",
+        "chain": [
+          "Fakhr al-Din al-Razi (d. 606) -> Sa'd al-Din al-Taftazani (d. 791) -> Shah Abdul Aziz al-Dehlavi (d. 1239) / Haydar Ali Fayzabadi"
+        ]
+      }
+    ],
+    "rebuttal_lineage_cited": [
+      {
+        "prior_scholar": "Al-Nawawi",
+        "work": "Sharh Sahih Muslim",
+        "what_they_refuted": "Refuted the idea that Bukhari and Muslim encompassed all authentic hadiths, stating they only intended to collect a portion of them."
+      },
+      {
+        "prior_scholar": "Ibn Qayyim al-Jawziyya",
+        "work": "Zad al-Ma'ad",
+        "what_they_refuted": "Refuted the claim that the denier (Nafi) is equal to the affirmer (Muthbit), establishing that the one who affirms a hadith or event takes precedence over the one who denies or omits it."
+      }
+    ],
+    "scholars_mentioned": [
+      "Fakhr al-Din al-Razi",
+      "Al-Bukhari",
+      "Muslim bin al-Hajjaj",
+      "Abu Zur'ah al-Razi",
+      "Muhammad b. Yahya al-Dhuhli",
+      "Ibn Hajar al-Asqalani",
+      "Badr al-Din al-Ayni",
+      "Al-Nawawi",
+      "Al-Ghazali",
+      "Ibn Hazm",
+      "Al-Daraqutni",
+      "Al-Isma'ili",
+      "Ibn Abd al-Barr",
+      "Ibn al-Jawzi",
+      "Ibn Taymiyyah",
+      "Shah Abdul Aziz al-Dehlavi",
+      "Haydar Ali Fayzabadi",
+      "Rashid al-Din Khan",
+      "Abd al-Ali Bahr al-Ulum",
+      "Al-Taftazani",
+      "Al-Qastallani",
+      "Ibn Qayyim al-Jawziyya",
+      "Al-Khatib al-Baghdadi",
+      "Al-Dhahabi",
+      "Al-Suyuti"
+    ],
+    "books_cited": [
+      "Nihayat al-Uqul",
+      "Sahih Bukhari",
+      "Sahih Muslim",
+      "Fath al-Bari",
+      "Umdat al-Qari",
+      "Siyar A'lam al-Nubala",
+      "Mizan al-I'tidal",
+      "Tadhhib al-Tahdhib",
+      "Tarikh Baghdad",
+      "Al-Ansab",
+      "Tabaqat al-Shafi'iyya",
+      "Muntaha al-Kalam",
+      "Izalat al-Ghayn",
+      "Tuhfat al-Ithna Ashariyya",
+      "Zad al-Ma'ad",
+      "Al-Mawdu'at",
+      "Al-Muhalla",
+      "Al-Mustasfa",
+      "Al-Mankhul",
+      "Irshad al-Sari",
+      "Al-Isti'ab",
+      "Fawatih al-Rahmut (Sharh Musallam al-Thubut)"
+    ]
+  },
+  {
+    "volume_number": 3,
+    "hadith_defended": "Hadith of Ghadir Khumm",
+    "volume_section": "Sanad",
+    "overview": "This volume defends the Tawatur and authenticity of the Hadith of Ghadir against the argument raised by Fakhr al-Din al-Razi (and followed by later Sunni polemicists) that the hadith is weakened because early historians like Al-Waqidi and Ibn Ishaq omitted it. The author systematically destroys the credibility of Al-Waqidi and Ibn Ishaq using Sunni Rijal sources, proving they are considered weak, fabricators, or unreliable. He also proves that Ibn Ishaq actually did narrate the context of Ghadir. Furthermore, he attacks Razi for relying on Al-Jahiz, exposing Al-Jahiz as a Nasibi and refuting his anti-Ali arguments using the works of Abu Ja'far al-Iskafi and Shaykh al-Mufid.",
+    "responses_to_dehlavi": [
+      {
+        "dehlavi_claim_addressed": "Hadith of Ghadir Khumm: Dehlavi accepts the hadith as authentic but completely rejects the Shia linguistic and contextual interpretation. (The author addresses the broader Sunni polemical foundation, specifically Fakhr al-Razi's claim, which attempts to deny the Tawatur of Ghadir).",
+        "author_response_summary": "The author refutes the argument that Ghadir lacks Tawatur because historians like Al-Waqidi and Ibn Ishaq omitted it. He proves through extensive Sunni Rijal citations that Waqidi and Ibn Ishaq are considered weak, fabricators, and unreliable by Sunni scholars themselves, making their omission irrelevant. Furthermore, he proves that Ibn Ishaq actually did narrate the context of Ghadir (the complaint of the army of Yemen).",
+        "response_type": "SANAD_DEFENSE",
+        "key_evidence_cited": [
+          "Mizan al-I'tidal by Al-Dhahabi",
+          "Taqrib al-Tahdhib by Ibn Hajar",
+          "Uyun al-Athar by Ibn Sayyid al-Nas",
+          "Al-Bidayah wa al-Nihayah by Ibn Kathir",
+          "Al-Sawa'iq al-Muhriqah by Ibn Hajar al-Haytami"
+        ]
+      },
+      {
+        "dehlavi_claim_addressed": "Shia: No one, friend or foe, narrates any faults about Ali. Dehlavi: This is factually incorrect... the Khawarij and Nawasib fabricated massive volumes of faults against Ali. Dehlavi lists several of these alleged faults to prove they exist.",
+        "author_response_summary": "The author attacks the Sunni reliance on Nasibi scholars like Al-Jahiz to undermine Ali's virtues. He quotes Abu Ja'far al-Iskafi and Shaykh al-Mufid to systematically dismantle Al-Jahiz's attempts to downplay Ali's early Islam (claiming it was just the imitation of a child), his bravery in battles, and his sacrifice on the night of Hijrah (Laylat al-Mabit).",
+        "response_type": "REBUTTAL_LINEAGE",
+        "key_evidence_cited": [
+          "Al-Fusul al-Mukhtarah by Al-Shaykh al-Mufid",
+          "Naqd al-Uthmaniyyah by Abu Ja'far al-Iskafi",
+          "Sharh Nahj al-Balaghah by Ibn Abi al-Hadid"
+        ]
+      }
+    ],
+    "biographical_dossiers": [
+      {
+        "scholar_name": "Al-Waqidi (Muhammad bin Umar)",
+        "rijal_sources_cited": [
+          "Mizan al-I'tidal",
+          "Tadhhib al-Tahdhib",
+          "Al-Kashif",
+          "Taqrib al-Tahdhib",
+          "Wafayat al-A'yan",
+          "Uyun al-Athar"
+        ],
+        "evaluation_summary": "Extremely negative. Evaluated as a liar, a fabricator of hadith, and abandoned (matruk) by major Sunni scholars including Ahmad bin Hanbal, Ibn Ma'in, Bukhari, Abu Hatim, and Nasa'i."
+      },
+      {
+        "scholar_name": "Ibn Ishaq (Muhammad bin Ishaq)",
+        "rijal_sources_cited": [
+          "Mizan al-I'tidal",
+          "Uyun al-Athar",
+          "Al-Ma'arif",
+          "Fawatih al-Rahmut"
+        ],
+        "evaluation_summary": "Negative. Evaluated as weak, a mudallis, and accused of lying and Qadarism by several Sunni Imams such as Malik, Hisham bin Urwah, and Yahya al-Qattan."
+      },
+      {
+        "scholar_name": "Al-Jahiz (Amr bin Bahr)",
+        "rijal_sources_cited": [
+          "Minhaj al-Sunnah",
+          "Sharh Nahj al-Balaghah"
+        ],
+        "evaluation_summary": "Evaluated as a Nasibi, an enemy of the Ahl al-Bayt, and a fabricator of lies and faults against Ali bin Abi Talib, particularly in his book Al-Uthmaniyyah."
+      },
+      {
+        "scholar_name": "Al-Sharif al-Radi",
+        "rijal_sources_cited": [
+          "Yatimah al-Dahr",
+          "Wafayat al-A'yan",
+          "Mir'at al-Janan",
+          "Dumyat al-Qasr"
+        ],
+        "evaluation_summary": "Highly positive. Evaluated as a great scholar, the most poetic of the Quraysh, and a noble descendant of the Prophet, cited to counter Sunni polemical attacks on his credibility."
+      }
+    ],
+    "argument_lineage_traced": [
+      {
+        "claim": "The Hadith of Ghadir is weakened because Bukhari, Muslim, Waqidi, and Ibn Ishaq did not narrate it.",
+        "chain": [
+          "Fakhr al-Din al-Razi",
+          "Sa'd al-Din al-Taftazani",
+          "Ala al-Din al-Qushji",
+          "Abd al-Haqq al-Dehlavi"
+        ]
+      }
+    ],
+    "rebuttal_lineage_cited": [
+      {
+        "prior_scholar": "Abu Ja'far al-Iskafi",
+        "work": "Naqd al-Uthmaniyyah",
+        "what_they_refuted": "Refuted Al-Jahiz's attempts to downplay Ali's early Islam, his bravery, and his sacrifice on Laylat al-Mabit."
+      },
+      {
+        "prior_scholar": "Al-Shaykh al-Mufid",
+        "work": "Al-Fusul al-Mukhtarah",
+        "what_they_refuted": "Refuted Ibrahim al-Nazzam and Al-Jahiz regarding their attacks on Ali's infallibility, his early Islam, and his virtues."
+      },
+      {
+        "prior_scholar": "Ibn Abi al-Hadid",
+        "work": "Sharh Nahj al-Balaghah",
+        "what_they_refuted": "Refuted Al-Jahiz and the Uthmaniyyah sect's arguments against Ali."
+      }
+    ],
+    "scholars_mentioned": [
+      "Fakhr al-Din al-Razi",
+      "Al-Waqidi",
+      "Ibn Ishaq",
+      "Al-Jahiz",
+      "Ibrahim al-Nazzam",
+      "Abu Ja'far al-Iskafi",
+      "Al-Shaykh al-Mufid",
+      "Al-Sharif al-Murtada",
+      "Al-Sharif al-Radi",
+      "Ibn Abi al-Hadid",
+      "Ibn Taymiyyah",
+      "Shah Abdul Aziz Dehlavi",
+      "Fadlullah bin Ruzbahan",
+      "Muhammad Muhsin Kashmiri",
+      "Al-Dhahabi",
+      "Ibn Hajar al-Asqalani",
+      "Al-Suyuti",
+      "Al-Yafi'i",
+      "Ibn Khallikan",
+      "Al-Tha'alibi",
+      "Al-Bakharzi",
+      "Abu al-Ala al-Ma'arri",
+      "Abu al-Tayyib al-Tabari",
+      "Abu Tahir al-Silafi"
+    ],
+    "books_cited": [
+      "Mizan al-I'tidal",
+      "Tadhhib al-Tahdhib",
+      "Al-Mughni",
+      "Al-Kashif",
+      "Siyar A'lam al-Nubala",
+      "Taqrib al-Tahdhib",
+      "Uyun al-Athar",
+      "Al-Ma'arif",
+      "Fawatih al-Rahmut",
+      "Minhaj al-Sunnah",
+      "Al-Fusul al-Mukhtarah",
+      "Sharh Nahj al-Balaghah",
+      "Wafayat al-A'yan",
+      "Mir'at al-Janan",
+      "Bughyat al-Wu'at",
+      "Yatimah al-Dahr",
+      "Dumyat al-Qasr",
+      "Tuhfah al-Ithna Ashariyyah",
+      "Ibtal al-Batil",
+      "Nahj al-Haqq",
+      "Al-Sawa'iq al-Muhriqah",
+      "Marafid al-Rawafid",
+      "Nawaqid al-Rawafid",
+      "Al-Bidayah wa al-Nihayah",
+      "Al-Ansab"
+    ]
+  },
+  {
+    "volume_number": 4,
+    "hadith_defended": "Hadith of the Twelve Caliphs (حديث الاثني عشر خليفة)",
+    "volume_section": "Dalalah",
+    "overview": "This volume defends the scholarly authority of Sharif al-Murtada against Dehlavi's attempts to belittle his mastery of Arabic literature and theology. The author compiles massive biographical dossiers from Sunni sources to prove al-Murtada's undisputed greatness, while exposing Dehlavi's own ignorance and misreading of classical Arabic texts. The volume then transitions to refuting the Sunni interpretation of the 'Hadith of the Twelve Caliphs', which attempts to include the oppressive Umayyad and Abbasid rulers among the prophesied twelve. The author uses Sunni historical texts to expose the atrocities, sins, and lack of qualifications of caliphs like Mansur, Harun, and Ma'mun, arguing it is absurd to consider them righteous successors. It also refutes the reliance on Al-Jahiz as an objective source, proving his deep-seated anti-Shia bias (Nasb).",
+    "responses_to_dehlavi": [
+      {
+        "dehlavi_claim_addressed": "Dehlavi mocked Sharif al-Murtada's understanding of Arabic poetry (specifically a poem by Dhu al-Rummah), claiming he misunderstood basic Arabic grammar, and thus questioned his title 'Alam al-Huda' and his scholarly authority.",
+        "author_response_summary": "The author compiles a massive biographical dossier of Sharif al-Murtada from top Sunni scholars proving his undisputed mastery in Arabic language, literature, and theology. He then shows that Dehlavi himself misread and distorted the text of al-Murtada's 'Al-Ghurar wa al-Durar' (misreading 'ضرائك' as 'جيرانك' and 'سبّحت' as 'شخت'), exposing Dehlavi's own ignorance of Arabic.",
+        "response_type": "BIOGRAPHICAL_DOSSIER",
+        "key_evidence_cited": [
+          "Wafayat al-A'yan by Ibn Khallikan",
+          "Mir'at al-Jinan by Al-Yafi'i",
+          "Bughyat al-Wu'at by Al-Suyuti",
+          "Al-Ghurar wa al-Durar by Sharif al-Murtada"
+        ]
+      },
+      {
+        "dehlavi_claim_addressed": "Dehlavi claimed that Shia rely on the poetry of ignorant poets (like Dhu al-Rummah) for their theological beliefs (like Divine Justice / 'Adl), violating the Quranic condemnation of poets.",
+        "author_response_summary": "Al-Murtada did not cite Dhu al-Rummah to prove the theological doctrine of 'Adl, but merely to show historically that Dhu al-Rummah held the belief of 'Adl. Dehlavi completely misunderstood the context of the citation.",
+        "response_type": "LINGUISTIC_ANALYSIS",
+        "key_evidence_cited": [
+          "Al-Ghurar wa al-Durar by Sharif al-Murtada",
+          "Al-Nihayah fi Gharib al-Hadith by Ibn al-Athir"
+        ]
+      },
+      {
+        "dehlavi_claim_addressed": "Sunni scholars interpret the 'Hadith of the Twelve Caliphs' to include the Abbasid caliphs (like Mansur, Harun, Ma'mun) as the righteous successors.",
+        "author_response_summary": "The author details the atrocities, sins, and lack of religious qualifications of the Abbasid caliphs (Mansur, Harun, Ma'mun) using Sunni historical texts. He argues it is absurd to consider these oppressive rulers as the prophesied Twelve Caliphs of Islam. He also points out that Sunni scholars themselves acknowledge the Abbasids' crimes, yet contradictorily praise them as 'Amir al-Mu'minin'.",
+        "response_type": "CONTRADICTION_EXPOSURE",
+        "key_evidence_cited": [
+          "Tarikh al-Khulafa by Al-Suyuti",
+          "Tarikh Ibn Khaldun",
+          "Hayat al-Hayawan by Al-Damiri",
+          "Tarikh al-Khamis by Al-Diyarbakri"
+        ]
+      },
+      {
+        "dehlavi_claim_addressed": "Dehlavi and his proxies use Al-Jahiz's praise of Ali to argue that Sunnis/Mu'tazilis are fair and love the Ahl al-Bayt, using Al-Jahiz as an authoritative source for evaluating Ali's merits.",
+        "author_response_summary": "Al-Jahiz was a known Nasibi (anti-Shia) who wrote books against the Ahl al-Bayt (e.g., claiming the Imamate belonged to Abbas, not Ali). Any praise from him is either forced, contradictory, or used by Shia scholars strictly as a binding argument (Ilzam) against opponents, not because Al-Jahiz is a reliable or objective source.",
+        "response_type": "REBUTTAL_LINEAGE",
+        "key_evidence_cited": [
+          "Ihqaq al-Haqq by Qazi Nurullah Shushtari",
+          "Al-Shafi fi al-Imamah by Sharif al-Murtada"
+        ]
+      }
+    ],
+    "biographical_dossiers": [
+      {
+        "scholar_name": "Sharif al-Murtada (سيد مرتضى)",
+        "rijal_sources_cited": [
+          "Wafayat al-A'yan",
+          "Mir'at al-Jinan",
+          "Dumyat al-Qasr",
+          "Bughyat al-Wu'at",
+          "Al-'Ibar fi Khabar man Ghabar",
+          "Lisan al-Mizan"
+        ],
+        "evaluation_summary": "Extremely positive. Acknowledged as a master of theology, literature, poetry, and language. His book 'Al-Ghurar wa al-Durar' is highly praised by Sunni scholars."
+      },
+      {
+        "scholar_name": "Ibn Khallikan (ابن خلكان)",
+        "rijal_sources_cited": [
+          "Tatimmat al-Mukhtasar",
+          "Al-Wafi bi al-Wafayat",
+          "Mir'at al-Jinan",
+          "Tabaqat al-Shafi'iyya (Al-Subki)",
+          "Tabaqat al-Shafi'iyya (Al-Isnawi)",
+          "Tabaqat al-Shafi'iyya (Al-Asadi)",
+          "Al-Nujum al-Zahira",
+          "Husn al-Muhadara"
+        ],
+        "evaluation_summary": "Highly positive. A great judge, historian, and scholar of literature. Used to validate his praise of Sharif al-Murtada."
+      },
+      {
+        "scholar_name": "Al-Yafi'i (يافعي)",
+        "rijal_sources_cited": [
+          "Tabaqat al-Shafi'iyya (Al-Isnawi)",
+          "Al-Durar al-Kamina",
+          "Tabaqat al-Shafi'iyya (Al-Asadi)",
+          "Tabaqat al-Khawas",
+          "Nafahat al-Uns"
+        ],
+        "evaluation_summary": "Highly positive. A great Sufi, scholar, and historian. Used to validate his praise of Sharif al-Murtada."
+      },
+      {
+        "scholar_name": "Ibn Hajar al-'Asqalani (ابن حجر عسقلاني)",
+        "rijal_sources_cited": [
+          "Al-Daw' al-Lami'",
+          "Tabaqat al-Huffaz",
+          "Nazm al-'Iqyan",
+          "Husn al-Muhadara"
+        ],
+        "evaluation_summary": "Highly positive. The 'Shaykh al-Islam' and greatest Hadith master of his time. Used to validate his praise of Sharif al-Murtada."
+      },
+      {
+        "scholar_name": "Abu Ishaq al-Shirazi (ابو اسحاق شيرازي)",
+        "rijal_sources_cited": [
+          "Wafayat al-A'yan",
+          "Siyar A'lam al-Nubala'",
+          "Mir'at al-Jinan",
+          "Tabaqat al-Shafi'iyya (Al-Isnawi)",
+          "Tabaqat al-Shafi'iyya (Al-Asadi)",
+          "Tatimmat al-Mukhtasar"
+        ],
+        "evaluation_summary": "Highly positive. A leading Shafi'i jurist and scholar. Used to validate his praise of Sharif al-Murtada."
+      },
+      {
+        "scholar_name": "Shams al-A'imma al-Kardari (شمس الائمة الكردري)",
+        "rijal_sources_cited": [
+          "Al-Jawahir al-Mudiyya",
+          "Kata'ib A'lam al-Akhyar"
+        ],
+        "evaluation_summary": "Highly positive. A leading Hanafi jurist. Used to show his severe refutation of Al-Ghazali and the Shafi'is, demonstrating internal Sunni contradictions."
+      }
+    ],
+    "argument_lineage_traced": [
+      {
+        "claim": "The Hadith of the Twelve Caliphs applies to the first four caliphs, Ibn al-Zubayr, Umar b. Abd al-Aziz, and several Abbasid caliphs.",
+        "chain": [
+          "Sunni Hadith commentators",
+          "Fadl ibn Ruzbahan al-Shirazi",
+          "Shah Abdul Aziz Dehlavi / Fadl Rashid"
+        ]
+      }
+    ],
+    "rebuttal_lineage_cited": [
+      {
+        "prior_scholar": "Qazi Nurullah Shushtari",
+        "work": "Ihqaq al-Haqq",
+        "what_they_refuted": "Refuted Fadl ibn Ruzbahan's reliance on Al-Jahiz, proving Al-Jahiz was a Nasibi."
+      },
+      {
+        "prior_scholar": "Qazi Nurullah Shushtari",
+        "work": "Majalis al-Mu'minin",
+        "what_they_refuted": "Refuted the legitimacy of the Abbasid caliphs, showing their crimes against the Ahl al-Bayt, and explaining that calling them 'Shia' only meant they believed in the political right of the Hashimites over the Umayyads, not true Imamate."
+      },
+      {
+        "prior_scholar": "Sharif al-Murtada",
+        "work": "Al-Shafi fi al-Imamah",
+        "what_they_refuted": "Refuted Al-Jahiz's claim that the Imamate belonged to Al-Abbas by inheritance."
+      }
+    ],
+    "scholars_mentioned": [
+      "Sharif al-Murtada",
+      "Sharif al-Radi",
+      "Shah Abdul Aziz Dehlavi",
+      "Fadl Rashid",
+      "Ibn Khallikan",
+      "Al-Yafi'i",
+      "Al-Suyuti",
+      "Al-Dhahabi",
+      "Ibn Hajar al-'Asqalani",
+      "Abu Ishaq al-Shirazi",
+      "Al-Jahiz",
+      "Fadl ibn Ruzbahan al-Shirazi",
+      "Qazi Nurullah Shushtari",
+      "Ibn Khaldun",
+      "Al-Damiri",
+      "Al-Taftazani",
+      "Al-Kardari (Shams al-A'imma)",
+      "Al-Ghazali",
+      "Abu Shakur al-Kashshi",
+      "Fakhr al-Din al-Razi",
+      "Al-Qurtubi",
+      "Al-Shami"
+    ],
+    "books_cited": [
+      "Tuhfat al-Ithna Ashariyya",
+      "Al-Ghurar wa al-Durar",
+      "Wafayat al-A'yan",
+      "Mir'at al-Jinan",
+      "Tabaqat al-Shafi'iyya",
+      "Al-Nujum al-Zahira",
+      "Husn al-Muhadara",
+      "Al-Durar al-Kamina",
+      "Nafahat al-Uns",
+      "Dumyat al-Qasr",
+      "Bughyat al-Wu'at",
+      "Al-'Ibar fi Khabar man Ghabar",
+      "Al-Daw' al-Lami'",
+      "Tabaqat al-Huffaz",
+      "Lisan al-Mizan",
+      "Siyar A'lam al-Nubala'",
+      "Tatimmat al-Mukhtasar",
+      "Ihqaq al-Haqq",
+      "Majalis al-Mu'minin",
+      "Masa'ib al-Nawasib",
+      "Al-Shafi fi al-Imamah",
+      "Tarikh al-Khulafa",
+      "Tarikh Ibn Khaldun",
+      "Hayat al-Hayawan",
+      "Tarikh al-Khamis",
+      "Kanz al-'Ummal",
+      "Al-Lali' al-Masnu'a",
+      "Al-Asas fi Manaqib Bani al-Abbas",
+      "Al-Inafa fi Rutbat al-Khilafa",
+      "Al-Jawahir al-Mudiyya",
+      "Al-Sayf al-Maslul fi al-Radd ala al-Mankhul",
+      "Al-Mankhul",
+      "Manaqib al-Imam al-Shafi'i",
+      "Nihayat al-'Uqul",
+      "Al-Tamhid fi Bayan al-Tawhid",
+      "Sahih al-Bukhari",
+      "Sahih Muslim",
+      "Fath al-Bari",
+      "Al-Mufhim",
+      "Subul al-Huda wa al-Rashad"
+    ]
+  },
+  {
+    "volume_number": 5,
+    "hadith_defended": "Hadith of Ghadir (and Hadith of Thaqalayn)",
+    "volume_section": "Sanad Criticism, Rijal Analysis, and Historical Context",
+    "overview": "This volume focuses on defending the Hadith of Ghadir against the criticisms of Fakhr al-Din al-Razi and Shah Abdul Aziz Dehlavi, who relied on the jarh (criticism) of Al-Jahiz, Ibn Abi Dawud, and Abu Hatim al-Razi to weaken the hadith. The author systematically destroys the credibility of these three critics using Sunni Rijal sources, proving they were Nasibis, fabricators, or overly strict. He also refutes the historical claim that Imam Ali was in Yemen during the event of Ghadir by citing the Sihah Sittah, and attacks the credibility of Abu Hurayrah and Sufyan al-Thawri.",
+    "responses_to_dehlavi": [
+      {
+        "dehlavi_claim_addressed": "Dehlavi (following Fakhr al-Razi) attacks the authenticity and consensus of Hadith Ghadir by citing the criticisms of Al-Jahiz, Ibn Abi Dawud, and Abu Hatim al-Razi.",
+        "author_response_summary": "The author argues that these critics are entirely unreliable according to Sunni standards. Al-Jahiz was a known heretic (Zindiq) and Nasibi; Ibn Abi Dawud was declared a liar by his own father and other scholars; and Abu Hatim was known to be overly strict and anomalous in his Rijal criticism.",
+        "response_type": "BIOGRAPHICAL_DOSSIER",
+        "key_evidence_cited": [
+          "Mizan al-I'tidal by Al-Dhahabi",
+          "Lisan al-Mizan by Ibn Hajar al-Asqalani",
+          "Siyar A'lam al-Nubala by Al-Dhahabi"
+        ]
+      },
+      {
+        "dehlavi_claim_addressed": "Dehlavi claims that considering Al-Jahiz an enemy of Wilayah (a Nasibi) is a 'Shia invention' and a false accusation.",
+        "author_response_summary": "The author provides extensive quotes from top Sunni scholars (Al-Khattabi, Al-Dhahabi, Ibn Hajar, Tha'lab, Al-Azhari) who explicitly declared Al-Jahiz a heretic, a fabricator of hadith, a mocker of Islam, and a Nasibi who wrote books defending the enemies of Ahl al-Bayt.",
+        "response_type": "COUNTER_CITATION",
+        "key_evidence_cited": [
+          "Gharib al-Hadith by Al-Khattabi",
+          "Ta'wil Mukhtalaf al-Hadith by Ibn Qutaybah",
+          "Tahdhib al-Lughah by Al-Azhari"
+        ]
+      },
+      {
+        "dehlavi_claim_addressed": "Dehlavi and Razi claim that Imam Ali was in Yemen during the Farewell Hajj and the event of Ghadir Khumm, making the Shia narrative impossible.",
+        "author_response_summary": "The author exposes this as a blatant contradiction of the most authentic Sunni books. He cites Sahih Bukhari, Sahih Muslim, Sunan Abi Dawud, Sunan al-Nasa'i, and Sunan Ibn Majah, all of which explicitly record that Imam Ali returned from Yemen and joined the Prophet in Mecca for the Farewell Hajj before the event of Ghadir.",
+        "response_type": "CONTRADICTION_EXPOSURE",
+        "key_evidence_cited": [
+          "Sahih Bukhari (Kitab al-Hajj)",
+          "Sahih Muslim (Description of Hajjat al-Wada')",
+          "Sunan al-Nasa'i (Al-Khasa'is)"
+        ]
+      },
+      {
+        "dehlavi_claim_addressed": "Dehlavi claims that Sunnis do not narrate faults about the Sahaba, and that only Shia fabricate such faults.",
+        "author_response_summary": "The author dedicates a section to exposing the faults of Abu Hurayrah using exclusively Sunni sources. He shows that Umar b. al-Khattab beat Abu Hurayrah for stealing from the public treasury in Bahrain, called him an enemy of God, and threatened to exile him for fabricating hadiths. He also shows Aisha repeatedly rejecting and mocking Abu Hurayrah's narrations.",
+        "response_type": "CONTRADICTION_EXPOSURE",
+        "key_evidence_cited": [
+          "Al-Iqd al-Farid by Ibn Abd Rabbih",
+          "Tarikh Ibn Kathir",
+          "Ayn al-Isabah by Al-Suyuti",
+          "Ta'wil Mukhtalaf al-Hadith by Ibn Qutaybah"
+        ]
+      }
+    ],
+    "biographical_dossiers": [
+      {
+        "scholar_name": "Amr b. Bahr Al-Jahiz",
+        "rijal_sources_cited": [
+          "Mizan al-I'tidal",
+          "Lisan al-Mizan",
+          "Siyar A'lam al-Nubala",
+          "Al-Mughni",
+          "Al-Wafi bi al-Wafayat"
+        ],
+        "evaluation_summary": "Extremely negative. Declared a Nasibi, a fabricator of hadith (including a fake Hadith of Fadak), a heretic (Zindiq), and someone who mocked Islamic tenets. The author compiles quotes from Tha'lab, Al-Khattabi, Ibn Qutaybah, and Al-Azhari to prove his complete lack of credibility."
+      },
+      {
+        "scholar_name": "Abu Bakr Abdullah b. Sulayman (Ibn Abi Dawud)",
+        "rijal_sources_cited": [
+          "Mizan al-I'tidal",
+          "Lisan al-Mizan",
+          "Siyar A'lam al-Nubala"
+        ],
+        "evaluation_summary": "Negative. Shown to be a fabricator and a Nasibi. The author highlights that his own father (Abu Dawud, author of the Sunan) called him a liar, and other scholars like Ibrahim al-Isbahani and Ibn Sa'id confirmed his fabrications and extreme hostility towards Imam Ali."
+      },
+      {
+        "scholar_name": "Abu Hatim al-Razi",
+        "rijal_sources_cited": [
+          "Siyar A'lam al-Nubala",
+          "Tabaqat al-Shafi'iyya"
+        ],
+        "evaluation_summary": "Negative in the context of Jarh. The author cites Al-Dhahabi to prove that Abu Hatim was 'mut'annit' (overly strict and anomalous) in his criticism, to the point where he even attacked Imam Bukhari. Therefore, his weakening of Hadith Ghadir is worthless."
+      },
+      {
+        "scholar_name": "Abu Hurayrah",
+        "rijal_sources_cited": [
+          "Tarikh Ibn Kathir",
+          "Al-Iqd al-Farid",
+          "Ayn al-Isabah",
+          "Al-Mustadrak"
+        ],
+        "evaluation_summary": "Negative. The author compiles Sunni reports showing he was beaten by Umar for theft, threatened with exile for excessive and false narrations, and repeatedly corrected and called a liar by Aisha and Ibn Umar."
+      },
+      {
+        "scholar_name": "Sufyan al-Thawri",
+        "rijal_sources_cited": [
+          "Mizan al-I'tidal",
+          "Tahdhib al-Tahdhib",
+          "Taqrib al-Tahdhib",
+          "Lawaqih al-Anwar"
+        ],
+        "evaluation_summary": "Negative. Proven to be a 'Mudallis' (one who deceptively conceals weak narrators in chains) and shown to have harbored hostility and disrespect towards Imam Ja'far al-Sadiq."
+      },
+      {
+        "scholar_name": "Ibrahim b. Sayyar al-Nazzam",
+        "rijal_sources_cited": [
+          "Al-Wafi bi al-Wafayat"
+        ],
+        "evaluation_summary": "Negative. The teacher of Al-Jahiz, described as a heretic, a drunkard, and someone who held corrupt beliefs, further invalidating the intellectual lineage of Al-Jahiz."
+      }
+    ],
+    "argument_lineage_traced": [
+      {
+        "claim": "Hadith Ghadir is weak or its context is flawed.",
+        "chain": [
+          "Al-Jahiz / Ibn Abi Dawud / Abu Hatim al-Razi",
+          "Fakhr al-Din al-Razi",
+          "Shah Abdul Aziz Dehlavi"
+        ]
+      }
+    ],
+    "rebuttal_lineage_cited": [
+      {
+        "prior_scholar": "Al-Khattabi",
+        "work": "Gharib al-Hadith",
+        "what_they_refuted": "Refuted Al-Jahiz's linguistic and theological claims, calling him a heretic."
+      },
+      {
+        "prior_scholar": "Ibn Qutaybah",
+        "work": "Ta'wil Mukhtalaf al-Hadith",
+        "what_they_refuted": "Refuted Al-Jahiz's mockery of hadith and his Nasibi tendencies."
+      },
+      {
+        "prior_scholar": "Al-Azhari",
+        "work": "Tahdhib al-Lughah",
+        "what_they_refuted": "Refuted Al-Jahiz's linguistic fabrications."
+      }
+    ],
+    "scholars_mentioned": [
+      "Shah Abdul Aziz Dehlavi",
+      "Fakhr al-Din al-Razi",
+      "Amr b. Bahr Al-Jahiz",
+      "Ibn Abi Dawud",
+      "Abu Hatim al-Razi",
+      "Al-Khattabi",
+      "Al-Dhahabi",
+      "Ibn Hajar al-Asqalani",
+      "Jalal al-Din al-Suyuti",
+      "Al-Azhari",
+      "Tha'lab",
+      "Ibn Khallikan",
+      "Al-Safadi",
+      "Abu Hurayrah",
+      "Umar b. al-Khattab",
+      "Aisha bint Abi Bakr",
+      "Sufyan al-Thawri",
+      "Ibrahim al-Nazzam",
+      "Ibn Qutaybah",
+      "Ibn Abd Rabbih",
+      "Al-Zamakhshari"
+    ],
+    "books_cited": [
+      "Tuhfat al-Ithna Ashariyya",
+      "Mizan al-I'tidal",
+      "Lisan al-Mizan",
+      "Siyar A'lam al-Nubala",
+      "Wafayat al-A'yan",
+      "Tabaqat al-Shafi'iyya",
+      "Tabaqat al-Huffaz",
+      "Al-Ansab",
+      "Al-Wafi bi al-Wafayat",
+      "Gharib al-Hadith",
+      "Ta'wil Mukhtalaf al-Hadith",
+      "Tahdhib al-Lughah",
+      "Tarikh Ibn Kathir (Al-Bidayah wa al-Nihayah)",
+      "Al-Mustadrak ala al-Sahihayn",
+      "Sahih Bukhari",
+      "Sahih Muslim",
+      "Sunan Abi Dawud",
+      "Sunan Ibn Majah",
+      "Sunan al-Nasa'i",
+      "Al-Iqd al-Farid",
+      "Ayn al-Isabah",
+      "Al-Khasa'is",
+      "Nihayat al-Uqul",
+      "Al-Arba'in fi Usul al-Din",
+      "Tafsir Mafatih al-Ghayb"
+    ]
+  },
+  {
+    "volume_number": 6,
+    "hadith_defended": "Hadith of Ghadir Khumm",
+    "volume_section": "Sanad and Tawatur",
+    "overview": "This volume is dedicated to defending the Tawatur (mass-transmission) and Sihhah (authenticity) of the Hadith of Ghadir Khumm. The author systematically dismantles the claims of Sunni polemicists (from Fakhr al-Razi to Abdul Haq al-Dehlavi and Husam al-Din al-Saharanpuri) who argued that the hadith is an isolated report (Ahad) or was weakened by major Hadith scholars like Abu Dawood and Abu Hatim. The author proves its Tawatur by cataloging its transmission by dozens of prominent Sunni scholars across centuries (from the 2nd to the 13th century AH) and provides extensive biographical dossiers (Tarajim) from Sunni Rijal books to prove the absolute reliability of its narrators.",
+    "responses_to_dehlavi": [
+      {
+        "dehlavi_claim_addressed": "The Hadith of Ghadir is not Mutawatir (mass-transmitted) and is an isolated report (Ahad) that was weakened by major scholars like Abu Dawood and Abu Hatim, and was ignored by Bukhari and Muslim.",
+        "author_response_summary": "The author exposes this as a fabricated claim blindly copied by later Sunni scholars from Fakhr al-Razi. He proves that Abu Dawood actually narrated the hadith, making the claim of his weakening it a lie. He cites major Sunni Hadith masters like Al-Dhahabi, Ibn Hajar, and Al-Suyuti who explicitly declared the hadith Mutawatir and authentic. He argues that the omission of a hadith by Bukhari and Muslim does not negate its Tawatur, just as their omission of the Mutawatir miracle of the Splitting of the Moon does not negate its occurrence.",
+        "response_type": "CONTRADICTION_EXPOSURE",
+        "key_evidence_cited": [
+          "Al-Sawa'iq al-Muhriqah by Ibn Hajar al-Haytami",
+          "Siyar A'lam al-Nubala by Al-Dhahabi",
+          "Fath al-Bari by Ibn Hajar al-Asqalani",
+          "Al-Itqan fi Ulum al-Quran by Al-Suyuti"
+        ]
+      },
+      {
+        "dehlavi_claim_addressed": "The Hadith of Ghadir cannot be used as a definitive proof for Imamate because there is disagreement among Sunni scholars regarding its authenticity.",
+        "author_response_summary": "The author argues that disagreement by a few biased scholars (Nawasib) does not harm a Mutawatir text. He draws a parallel to the companion Ibn Mas'ud, who denied that the Mu'awwidhatayn (Surahs Al-Falaq and Al-Nas) were part of the Quran. Just as Ibn Mas'ud's denial does not harm the Tawatur of the Quran, the denial of Ghadir by a few prejudiced scholars does not harm its Tawatur. He also quotes Shah Abdul Aziz himself acknowledging that those who reject the hadith entirely are Nawasib.",
+        "response_type": "REBUTTAL_LINEAGE",
+        "key_evidence_cited": [
+          "Al-Itqan fi Ulum al-Quran by Al-Suyuti",
+          "Tafsir al-Razi",
+          "Al-Muhalla by Ibn Hazm",
+          "Tuhfat al-Ithna Ashariyya by Shah Abdul Aziz"
+        ]
+      },
+      {
+        "dehlavi_claim_addressed": "The narrators of the Shia versions of the hadith are weak or unreliable.",
+        "author_response_summary": "The author completely bypasses Shia chains and instead builds massive biographical dossiers for dozens of Sunni narrators of the Hadith of Ghadir, proving from Sunni Rijal books (like Tahdhib al-Tahdhib, Tabaqat al-Huffaz, Al-Kashif, etc.) that the narrators are the highest authorities in Sunni Islam, including the teachers of Bukhari, Muslim, Abu Dawood, Al-Tirmidhi, and Al-Nasa'i.",
+        "response_type": "BIOGRAPHICAL_DOSSIER",
+        "key_evidence_cited": [
+          "Tahdhib al-Tahdhib by Ibn Hajar",
+          "Tabaqat al-Huffaz by Al-Suyuti",
+          "Al-Ibar by Al-Dhahabi",
+          "Mir'at al-Janan by Al-Yafi'i"
+        ]
+      }
+    ],
+    "biographical_dossiers": [
+      {
+        "scholar_name": "Ibn Hazm al-Andalusi",
+        "rijal_sources_cited": [
+          "Lisan al-Mizan",
+          "Siyar A'lam al-Nubala",
+          "Al-Muhalla"
+        ],
+        "evaluation_summary": "Negative. The author quotes Ibn Hajar and Al-Dhahabi to show Ibn Hazm's extreme errors, his harsh tongue against major Imams, and his Nasibi tendencies, including his shocking defense of Ibn Muljam (the assassin of Imam Ali) as a 'Mujtahid'. This destroys Ibn Hazm's credibility in weakening the Hadith of Ghadir."
+      },
+      {
+        "scholar_name": "Muhammad bin Ishaq",
+        "rijal_sources_cited": [
+          "Uyun al-Athar",
+          "Duwal al-Islam",
+          "Mir'at al-Janan"
+        ],
+        "evaluation_summary": "Positive. Defended as the 'Amir al-Mu'minin in Hadith' according to Shu'bah, and the primary authority in Maghazi (Prophetic biographies), proving his narration of Ghadir is highly authoritative."
+      },
+      {
+        "scholar_name": "Ahmad bin Hanbal",
+        "rijal_sources_cited": [
+          "Rijal Mishkat",
+          "Mir'at al-Janan"
+        ],
+        "evaluation_summary": "Positive. Highlighted as the Imam of the Hanbalis who narrated the Hadith of Ghadir through numerous chains in his Musnad and Fada'il al-Sahabah, and who explicitly stated that no companion had as many authentic virtues narrated about them as Ali."
+      },
+      {
+        "scholar_name": "Al-Nasa'i (Ahmad bin Shu'ayb)",
+        "rijal_sources_cited": [
+          "Al-Ibar",
+          "Taqrib al-Tahdhib",
+          "Tabaqat al-Huffaz"
+        ],
+        "evaluation_summary": "Positive. Praised as the author of the Sunan and Al-Khasa'is, who compiled numerous authentic chains for the Hadith of Ghadir and was martyred in Damascus for refusing to narrate virtues of Mu'awiyah."
+      },
+      {
+        "scholar_name": "Al-Tabari (Muhammad bin Jarir)",
+        "rijal_sources_cited": [
+          "Al-Ibar",
+          "Mir'at al-Janan"
+        ],
+        "evaluation_summary": "Positive. Praised as the Imam of Tafsir and History who wrote an entire multi-volume work dedicated solely to compiling the chains of transmission for the Hadith of Ghadir."
+      },
+      {
+        "scholar_name": "Al-Daraqutni (Ali bin Umar)",
+        "rijal_sources_cited": [
+          "Al-Ibar"
+        ],
+        "evaluation_summary": "Positive. Acknowledged as the 'Amir al-Mu'minin in Hadith' of his time, who narrated the Hadith of Ghadir and confirmed its authenticity."
+      },
+      {
+        "scholar_name": "Al-Hakim al-Naysaburi",
+        "rijal_sources_cited": [
+          "Mir'at al-Janan"
+        ],
+        "evaluation_summary": "Positive. Praised as the Imam of Hadith who authenticated multiple chains of the Hadith of Ghadir in his Al-Mustadrak according to the strict conditions of Bukhari and Muslim."
+      },
+      {
+        "scholar_name": "Al-Khatib al-Baghdadi",
+        "rijal_sources_cited": [
+          "Mir'at al-Janan",
+          "Tabaqat al-Shafi'iyyah"
+        ],
+        "evaluation_summary": "Positive. Recognized as the seal of the Huffaz and author of Tarikh Baghdad, who narrated the Hadith of Ghadir and whose authority in Hadith sciences is undisputed among Sunnis."
+      }
+    ],
+    "argument_lineage_traced": [
+      {
+        "claim": "The Hadith of Ghadir is an isolated report (Ahad) and was weakened by Abu Dawood and Abu Hatim.",
+        "chain": [
+          "Fakhr al-Razi",
+          "Al-Iji (Al-Mawaqif)",
+          "Al-Taftazani (Sharh al-Maqasid)",
+          "Al-Jurjani (Sharh al-Mawaqif)",
+          "Al-Qushji (Sharh al-Tajrid)",
+          "Ibn Hajar al-Haytami (Al-Sawa'iq al-Muhriqah)",
+          "Al-Halabi (Insan al-Uyun)",
+          "Ali al-Qari (Mirqat)",
+          "Abdul Haq al-Dehlavi",
+          "Husam al-Din al-Saharanpuri"
+        ]
+      }
+    ],
+    "rebuttal_lineage_cited": [
+      {
+        "prior_scholar": "Al-Dhahabi",
+        "work": "Siyar A'lam al-Nubala / Tadhkirat al-Huffaz",
+        "what_they_refuted": "Refuted the claim that the Hadith of Ghadir is weak by explicitly declaring it Mutawatir and authenticating numerous chains."
+      },
+      {
+        "prior_scholar": "Ibn Hajar al-Asqalani",
+        "work": "Fath al-Bari / Lisan al-Mizan",
+        "what_they_refuted": "Refuted Ibn Hazm's methodology of weakening authentic narrators and defended the Tawatur of mass-transmitted events."
+      },
+      {
+        "prior_scholar": "Al-Suyuti",
+        "work": "Al-Itqan fi Ulum al-Quran",
+        "what_they_refuted": "Refuted the idea that the denial of a single companion (like Ibn Mas'ud regarding the Mu'awwidhatayn) or a later scholar harms the Tawatur of an established text."
+      }
+    ],
+    "scholars_mentioned": [
+      "Fakhr al-Razi",
+      "Al-Iji",
+      "Al-Taftazani",
+      "Al-Jurjani",
+      "Al-Qushji",
+      "Ibn Hajar al-Haytami",
+      "Ali al-Qari",
+      "Abdul Haq al-Dehlavi",
+      "Shah Abdul Aziz Dehlavi",
+      "Ibn Taymiyyah",
+      "Ibn Hazm",
+      "Al-Dhahabi",
+      "Al-Suyuti",
+      "Ibn Hajar al-Asqalani",
+      "Abu Dawood",
+      "Abu Hatim al-Razi",
+      "Al-Bukhari",
+      "Muslim",
+      "Al-Waqidi",
+      "Ibrahim al-Harbi",
+      "Ali bin al-Madini",
+      "Muhammad bin Ishaq",
+      "Ahmad bin Hanbal",
+      "Al-Nasa'i",
+      "Al-Tabari",
+      "Al-Hakim al-Naysaburi",
+      "Al-Khatib al-Baghdadi",
+      "Al-Daraqutni",
+      "Al-Bayhaqi"
+    ],
+    "books_cited": [
+      "Tashyid al-Qawa'id",
+      "Matali' al-Anzar",
+      "Al-Mawaqif",
+      "Sharh al-Maqasid",
+      "Sharh al-Mawaqif",
+      "Sharh al-Tajrid",
+      "Al-Sawa'iq al-Muhriqah",
+      "Insan al-Uyun (Al-Sirah al-Halabiyyah)",
+      "Mirqat Sharh al-Mishkat",
+      "Nawaqid al-Rawafid",
+      "Al-Siham al-Thaqibah",
+      "Al-Itqan fi Ulum al-Quran",
+      "Al-Muhalla",
+      "Minhaj al-Sunnah",
+      "Lisan al-Mizan",
+      "Siyar A'lam al-Nubala",
+      "Tahdhib al-Tahdhib",
+      "Tabaqat al-Huffaz",
+      "Al-Ibar fi Khabar man Ghabar",
+      "Mir'at al-Janan",
+      "Al-Ansab",
+      "Kanz al-Ummal",
+      "Al-Bidayah wa al-Nihayah",
+      "Musnad Ahmad",
+      "Al-Mustadrak",
+      "Al-Khasa'is",
+      "Al-Riyad al-Nadirah",
+      "Fada'il al-Sahabah"
+    ]
+  },
+  {
+    "volume_number": 7,
+    "hadith_defended": "Hadith of Ghadir Khumm",
+    "volume_section": "Sanad",
+    "overview": "This volume is entirely dedicated to the Sanad (chains of transmission) of the Hadith of Ghadir Khumm. The author compiles a massive, exhaustive list of prominent Sunni scholars, hadith masters, historians, and exegetes who have narrated, authenticated, and relied upon the hadith. The primary goal is to prove the absolute Tawatur (mass-transmission) of the hadith, refuting any Sunni polemical attempts (such as those by Fakhr al-Razi) to downgrade it to an isolated report (Khabar Wahid) in order to evade its binding theological implications for Imamate.",
+    "responses_to_dehlavi": [
+      {
+        "dehlavi_claim_addressed": "Hadith of Ghadir Khumm: Dehlavi accepts the hadith as authentic but completely rejects the Shia linguistic and contextual interpretation.",
+        "author_response_summary": "While Dehlavi nominally accepts the hadith's authenticity, the broader Sunni polemical tradition (which Dehlavi builds upon) often attempts to downgrade its epistemological weight by classifying it as an isolated report (Ahad), as explicitly stated by Fakhr al-Razi. The author responds by establishing the undeniable Tawatur (mass-transmission) of the hadith. By proving that it was narrated by over a hundred companions and recorded by dozens of the highest Sunni authorities across all centuries, the author forces the opponent to accept it as Qat'i al-Sudur (absolutely certain in its issuance), which is a prerequisite for establishing foundational theological doctrines like Imamate.",
+        "response_type": "SANAD_DEFENSE",
+        "key_evidence_cited": [
+          "Fakhr al-Razi's admission in 'Mafatih al-Ghayb' and 'Nihayat al-Uqul'",
+          "Al-Dhahabi's dedicated work compiling the routes of Ghadir and his authentications in 'Tadhkirat al-Huffaz'",
+          "Al-Jazari's explicit declaration of its Tawatur in 'Asna al-Matalib'",
+          "Al-Suyuti's declaration of its Tawatur",
+          "Shah Waliullah Dehlavi's narration of it in 'Qurrat al-Aynayn' and 'Izalat al-Khafa'"
+        ]
+      }
+    ],
+    "biographical_dossiers": [
+      {
+        "scholar_name": "Fakhr al-Din al-Razi",
+        "rijal_sources_cited": [
+          "Mir'at al-Janan by Al-Yafi'i",
+          "Wafayat al-A'yan by Ibn Khallikan",
+          "Tabaqat al-Shafi'iyya by Al-Subki"
+        ],
+        "evaluation_summary": "Highly praised as the Imam of his time in theology and exegesis, proving that his admission of the hadith's narration carries immense weight."
+      },
+      {
+        "scholar_name": "Diya al-Din al-Maqdisi",
+        "rijal_sources_cited": [
+          "Tadhkirat al-Huffaz by Al-Dhahabi",
+          "Al-Ibar by Al-Dhahabi",
+          "Tabaqat al-Huffaz by Al-Suyuti"
+        ],
+        "evaluation_summary": "Described as a definitive Hujjah (proof), Hafiz, and the Sheikh of the Sunnah in the Levant, validating his inclusion of the hadith in his 'Al-Ahadith al-Mukhtara'."
+      },
+      {
+        "scholar_name": "Yahya b. Sharaf al-Nawawi",
+        "rijal_sources_cited": [
+          "Tabaqat al-Shafi'iyya by Ibn Qadi Shuhba",
+          "Tabaqat al-Huffaz by Al-Suyuti"
+        ],
+        "evaluation_summary": "Revered as Sheikh al-Islam and a master of hadith and jurisprudence, validating his authentication of the hadith in 'Tahdhib al-Asma wa al-Lughat'."
+      },
+      {
+        "scholar_name": "Muhibb al-Din al-Tabari",
+        "rijal_sources_cited": [
+          "Tabaqat al-Shafi'iyya by Al-Isnawi"
+        ],
+        "evaluation_summary": "Acknowledged as the Sheikh of the Hijaz and a great scholar of traditions, validating his extensive narrations of Ghadir in 'Al-Riyad al-Nadira' and 'Dhakha'ir al-Uqba'."
+      }
+    ],
+    "argument_lineage_traced": [
+      {
+        "claim": "The Hadith of Ghadir is a Khabar Wahid (isolated report) and thus cannot establish foundational doctrines.",
+        "chain": [
+          "Fakhr al-Din al-Razi (d. 606 AH) in 'Arba'in fi Usul al-Din' -> Later Sunni polemicists"
+        ]
+      }
+    ],
+    "rebuttal_lineage_cited": [
+      {
+        "prior_scholar": "Shams al-Din al-Dhahabi",
+        "work": "Tadhkirat al-Huffaz / Dedicated treatise on Ghadir",
+        "what_they_refuted": "Refuted the claim that the hadith is weak or isolated by compiling its numerous authentic routes."
+      },
+      {
+        "prior_scholar": "Shams al-Din al-Jazari",
+        "work": "Asna al-Matalib fi Manaqib Ali b. Abi Talib",
+        "what_they_refuted": "Explicitly declared the hadith to be Mutawatir from Ali and from the Prophet, dismissing those who attempt to weaken it as ignorant."
+      },
+      {
+        "prior_scholar": "Jalal al-Din al-Suyuti",
+        "work": "Al-Jami' al-Saghir / Tarikh al-Khulafa",
+        "what_they_refuted": "Explicitly classified the Hadith of Ghadir as Mutawatir."
+      }
+    ],
+    "scholars_mentioned": [
+      "Fakhr al-Din al-Razi",
+      "Ibn al-Athir al-Jazari",
+      "Diya al-Din al-Maqdisi",
+      "Ibn al-Shaykh al-Balawi",
+      "Ibn Talha al-Shafi'i",
+      "Sibt Ibn al-Jawzi",
+      "Al-Ganji al-Shafi'i",
+      "Yahya b. Sharaf al-Nawawi",
+      "Muhibb al-Din al-Tabari",
+      "Ibrahim al-Wasabi",
+      "Sa'id al-Din al-Farghani",
+      "Ibrahim b. Muhammad al-Hamawayh al-Juwayni",
+      "Jamal al-Din al-Mizzi",
+      "Shams al-Din al-Dhahabi",
+      "Hasan al-Nisaburi",
+      "Ahmad al-Simnani",
+      "Al-Khatib al-Tabrizi",
+      "Ibn al-Wardi",
+      "Taj al-Din al-Qaysi",
+      "Jamal al-Din al-Zarandi",
+      "Abdullah al-Yafi'i",
+      "Sa'id al-Din al-Kazaruni",
+      "Ibn Kathir al-Dimashqi",
+      "Ibn al-Muhibb al-Samit",
+      "Khwaja Muhammad Parsa",
+      "Shams al-Din al-Jazari",
+      "Al-Maqrizi",
+      "Shihab al-Din Dawlatabadi",
+      "Ibn Hajar al-Asqalani",
+      "Ibn al-Sabbagh al-Maliki",
+      "Husayn al-Maybudi",
+      "Mahmud b. Ahmad al-Ayni",
+      "Asil al-Din al-Harawi",
+      "Fadlullah b. Ruzbahan",
+      "Al-Samhudi",
+      "Jalal al-Din al-Suyuti",
+      "Ali al-Muttaqi al-Hindi",
+      "Muhammad Tahir al-Fatani",
+      "Mirza Makhdum",
+      "Mulla Ali al-Qari",
+      "Al-Munawi",
+      "Al-Aydarus",
+      "Mahmud al-Shaykhani",
+      "Nur al-Din al-Halabi",
+      "Ahmad b. Kathir al-Makki",
+      "Muhammad Sadr Alam",
+      "Shah Waliullah Dehlavi",
+      "Al-Shubrakhiti",
+      "Muhammad b. Isma'il al-San'ani",
+      "Muhammad b. Ali al-Sabban",
+      "Ahmad al-Ujayli",
+      "Rashid al-Din Khan",
+      "Muhammad Mubin al-Lakhnawi",
+      "Muhammad Salim al-Dihlawi",
+      "Waliullah al-Lakhnawi"
+    ],
+    "books_cited": [
+      "Arba'in fi Usul al-Din",
+      "Mafatih al-Ghayb",
+      "Jami' al-Usul",
+      "Asd al-Ghaba fi Ma'rifat al-Sahaba",
+      "Al-Ahadith al-Mukhtara",
+      "Alif Ba",
+      "Matalib al-Su'ul",
+      "Tadhkirat Khawass al-Ummah",
+      "Kifayat al-Talib",
+      "Tahdhib al-Asma wa al-Lughat",
+      "Al-Riyad al-Nadira",
+      "Dhakha'ir al-Uqba",
+      "Al-Iktifa",
+      "Fara'id al-Simtayn",
+      "Tuhfat al-Ashraf",
+      "Tadhkirat al-Huffaz",
+      "Mishkat al-Masabih",
+      "Tatimmat al-Mukhtasar",
+      "Nazm Durar al-Simtayn",
+      "Mir'at al-Janan",
+      "Al-Muntaqa",
+      "Al-Bidaya wa al-Nihaya",
+      "Asna al-Matalib",
+      "Fawatuh al-Asrar",
+      "Umdat al-Qari",
+      "Habib al-Siyar",
+      "Kanz al-Ummal",
+      "Majma' Bihar al-Anwar",
+      "Mirqat Sharh al-Mishkat",
+      "Fayd al-Qadir",
+      "Al-Sawa'iq al-Muhriqa",
+      "Izalat al-Khafa",
+      "Qurrat al-Aynayn",
+      "Al-Isaba fi Tamyiz al-Sahaba",
+      "Fath al-Bari",
+      "Al-Fusul al-Muhimma",
+      "Wafa al-Wafa",
+      "Tarikh al-Khulafa",
+      "Al-Khasais",
+      "Al-Mustadrak ala al-Sahihayn",
+      "Musnad Ahmad b. Hanbal"
+    ]
+  },
+  {
+    "volume_number": 8,
+    "hadith_defended": "Hadith of Ghadir Khumm",
+    "volume_section": "Dalalah (Implication/Meaning)",
+    "overview": "This volume focuses entirely on the semantic implication (Dalalah) of the Hadith of Ghadir Khumm. It systematically refutes Dehlavi's claim that the word 'Mawla' cannot mean 'Awla' (having more right/authority). The author compiles an exhaustive list of 42 prominent Sunni linguists, grammarians, and exegetes who explicitly interpreted 'Mawla' as 'Awla' in the Quran and Hadith. He provides detailed biographical dossiers to establish their supreme authority in the Arabic language, thereby proving that Dehlavi's claim of a 'unanimous rejection' by Arabic linguists is a fabrication. The author also refutes Fakhr al-Din al-Razi's grammatical objections and exposes contradictions in Sunni polemics regarding the meaning of the hadith.",
+    "responses_to_dehlavi": [
+      {
+        "dehlavi_claim_addressed": "Hadith of Ghadir Khumm: Dehlavi accepts the hadith as authentic but completely rejects the Shia linguistic and contextual interpretation. Specifically, he claims that Arabic linguists unanimously deny that 'Mawla' can mean 'Awla' (having more right to rule).",
+        "author_response_summary": "The author proves this is a blatant fabrication by listing 42 of the most authoritative Sunni linguists, grammarians, and Quranic exegetes (such as Al-Farra, Abu Ubaydah, Al-Akhfash, Tha'lab, Al-Mubarrad, Al-Jawhari, and Al-Zamakhshari) who explicitly state in their lexicons and Tafsirs that 'Mawla' means 'Awla'.",
+        "response_type": "LINGUISTIC_ANALYSIS",
+        "key_evidence_cited": [
+          "Tafsir of Muhammad b. Sa'ib al-Kalbi",
+          "Mafatih al-Ghayb by Fakhr al-Din al-Razi (quoting Abu Ubaydah and Al-Farra)",
+          "Al-Sihah by Al-Jawhari",
+          "Al-Kashshaf by Al-Zamakhshari",
+          "Anwar al-Tanzil by Al-Baydawi"
+        ]
+      },
+      {
+        "dehlavi_claim_addressed": "Hadith of Ghadir Khumm: Dehlavi claims that only Abu Zayd al-Lughawi allowed 'Mawla' to mean 'Awla', and that the majority of Arabic scholars refuted him for this.",
+        "author_response_summary": "The author demonstrates that Abu Zayd was not alone, as dozens of other leading scholars held the exact same view. Furthermore, he builds a massive biographical dossier on Abu Zayd al-Ansari, proving from Sunni Rijal sources that he was considered the supreme authority in the Arabic language, superior even to Al-Asma'i and Abu Ubaydah in his breadth of vocabulary, and was never 'refuted' by the majority for this linguistic stance.",
+        "response_type": "BIOGRAPHICAL_DOSSIER",
+        "key_evidence_cited": [
+          "Al-Muzhir by Al-Suyuti",
+          "Tahdhib al-Asma wa al-Lughat by Al-Nawawi",
+          "Wafayat al-A'yan by Ibn Khallikan",
+          "Mir'at al-Janan by Al-Yafi'i"
+        ]
+      },
+      {
+        "dehlavi_claim_addressed": "Hadith of Ghadir Khumm: Dehlavi (copying Fakhr al-Din al-Razi) argues that grammatically, the morphological pattern 'Maf'al' (مفعل) cannot carry the meaning of the comparative 'Af'al' (أفعل).",
+        "author_response_summary": "The author refutes this grammatical objection by showing that the Arabic language contains many anomalous words and usages that lack direct morphological parallels but are nonetheless valid and established by transmission (Sama') from the Arabs. He cites numerous examples of such unique linguistic phenomena accepted by major grammarians, proving that Razi's strict rational-morphological restriction violates actual Arabic usage.",
+        "response_type": "LINGUISTIC_ANALYSIS",
+        "key_evidence_cited": [
+          "Al-Ashbah wa al-Naza'ir by Al-Suyuti",
+          "Al-Muzhir by Al-Suyuti",
+          "Al-Sihah by Al-Jawhari"
+        ]
+      },
+      {
+        "dehlavi_claim_addressed": "Hadith of Ghadir Khumm: Dehlavi argues that 'Mawla' means 'Nasir' (helper) or 'Muhibb' (friend), and that Abu Bakr and Umar understood it this way when they congratulated Ali.",
+        "author_response_summary": "The author exposes the internal contradictions of Sunni polemicists. He quotes Ibn Hajar al-Haytami's Al-Sawa'iq al-Muhriqah, where Ibn Hajar admits that 'Mawla' can mean 'Awla bil-Ittiba' (most worthy of being followed) or 'Mutasarrif fil-Amr' (administrator of affairs). The author also cites other authentic versions of the Ghadir hadith found in Sunni sources that explicitly use the unambiguous phrases 'Awla bihi min nafsihi' (has more right over him than himself) or 'Waliyyuhu', which serve as an internal commentary (Tafsir) on the word 'Mawla'.",
+        "response_type": "CONTRADICTION_EXPOSURE",
+        "key_evidence_cited": [
+          "Al-Sawa'iq al-Muhriqah by Ibn Hajar al-Haytami",
+          "Musnad Ahmad bin Hanbal",
+          "Khasa'is Amir al-Mu'minin by Al-Nasa'i",
+          "Al-Mustadrak by Al-Hakim al-Naysaburi"
+        ]
+      }
+    ],
+    "biographical_dossiers": [
+      {
+        "scholar_name": "Abu Zayd al-Ansari (Sa'id b. Aws)",
+        "rijal_sources_cited": [
+          "Tahdhib al-Asma wa al-Lughat",
+          "Al-Ibar",
+          "Mir'at al-Janan",
+          "Ghayat al-Nihayah",
+          "Bughyat al-Wu'at",
+          "Al-Muzhir"
+        ],
+        "evaluation_summary": "Highly positive. Evaluated as a supreme authority in the Arabic language, a reliable transmitter of Hadith, and one of the most knowledgeable linguists of Basra. Sources confirm he memorized two-thirds of the Arabic language, making him superior to Al-Asma'i and Abu Ubaydah in breadth of linguistic knowledge."
+      },
+      {
+        "scholar_name": "Al-Farra (Yahya b. Ziyad)",
+        "rijal_sources_cited": [
+          "Wafayat al-A'yan",
+          "Mir'at al-Janan",
+          "Tadhkirat al-Huffaz",
+          "Al-Ibar",
+          "Tarikh Baghdad"
+        ],
+        "evaluation_summary": "Highly positive. Evaluated as the absolute leader of the Kufan school of grammar, a brilliant scholar of literature, and the author of foundational texts in Arabic linguistics."
+      },
+      {
+        "scholar_name": "Abu Ubaydah (Ma'mar b. al-Muthanna)",
+        "rijal_sources_cited": [
+          "Tadhkirat al-Huffaz",
+          "Al-Ibar",
+          "Al-Nihayah fi Gharib al-Hadith",
+          "Al-Muzhir"
+        ],
+        "evaluation_summary": "Highly positive. Evaluated as a master linguist, historian, and the very first scholar to compile a book on 'Gharib al-Hadith' (rare words in Hadith), making his linguistic interpretations highly authoritative."
+      },
+      {
+        "scholar_name": "Ibn al-Anbari (Muhammad b. al-Qasim)",
+        "rijal_sources_cited": [
+          "Ansab al-Sam'ani",
+          "Wafayat al-A'yan",
+          "Tadhkirat al-Huffaz",
+          "Mir'at al-Janan",
+          "Ghayat al-Nihayah",
+          "Bughyat al-Wu'at"
+        ],
+        "evaluation_summary": "Highly positive. Evaluated as an Imam of literature and grammar, possessing an extraordinary memory (memorizing 300,000 verses of poetry as Quranic evidence), and a pious, reliable Sunni scholar."
+      },
+      {
+        "scholar_name": "Al-Zamakhshari (Mahmud b. Umar)",
+        "rijal_sources_cited": [
+          "Kata'ib A'lam al-Akhyar",
+          "Jami' al-Usul",
+          "Mir'at al-Janan"
+        ],
+        "evaluation_summary": "Highly positive. Evaluated as the Imam of his era in Tafsir, Arabic grammar, and rhetoric, whose work 'Al-Kashshaf' is considered a pinnacle of linguistic exegesis."
+      }
+    ],
+    "argument_lineage_traced": [
+      {
+        "claim": "The morphological pattern 'Maf'al' cannot mean 'Af'al', therefore 'Mawla' cannot mean 'Awla'.",
+        "chain": [
+          "Fakhr al-Din al-Razi (Nihayat al-Uqul) -> Al-Iji (Al-Mawaqif) -> Al-Jurjani (Sharh al-Mawaqif) -> Ibn Hajar al-Haytami (Al-Sawa'iq al-Muhriqah) -> Shah Abdul Aziz Dehlavi (Tuhfat al-Ithna Ashariyya)"
+        ]
+      }
+    ],
+    "rebuttal_lineage_cited": [
+      {
+        "prior_scholar": "Al-Sharif al-Murtada",
+        "work": "Al-Shafi fi al-Imamah",
+        "what_they_refuted": "Refuted the claim that 'Mawla' does not mean 'Awla' by citing the explicit linguistic rulings of Al-Mubarrad and Ibn al-Anbari."
+      }
+    ],
+    "scholars_mentioned": [
+      "Shah Abdul Aziz Dehlavi",
+      "Fakhr al-Din al-Razi",
+      "Ibn Hajar al-Haytami",
+      "Sa'd al-Din al-Taftazani",
+      "Ala al-Din al-Qushji",
+      "Al-Sharif al-Murtada",
+      "Jalal al-Din al-Suyuti",
+      "Shams al-Din al-Dhahabi",
+      "Ibn Khallikan",
+      "Abd al-Karim al-Sam'ani",
+      "Isma'il b. Hammad al-Jawhari",
+      "Mahmud b. Umar al-Zamakhshari",
+      "Nasir al-Din al-Baydawi",
+      "Abdullah b. Ahmad al-Nasafi",
+      "Abu Zayd al-Ansari",
+      "Abu Ubaydah Ma'mar b. al-Muthanna",
+      "Yahya b. Ziyad al-Farra",
+      "Sa'id b. Mas'adah al-Akhfash",
+      "Ahmad b. Yahya Tha'lab",
+      "Muhammad b. Yazid al-Mubarrad",
+      "Muhammad b. al-Qasim Ibn al-Anbari",
+      "Ahmad b. Muhammad al-Tha'labi",
+      "Ali b. Ahmad al-Wahidi",
+      "Al-Husayn b. Mas'ud al-Baghawi",
+      "Abd al-Rahman Ibn al-Jawzi",
+      "Shihab al-Din al-Khafaji"
+    ],
+    "books_cited": [
+      "Tuhfat al-Ithna Ashariyya",
+      "Al-Sawa'iq al-Muhriqah",
+      "Nihayat al-Uqul",
+      "Sharh al-Maqasid",
+      "Sharh al-Tajrid",
+      "Al-Shafi fi al-Imamah",
+      "Wafayat al-A'yan",
+      "Tadhkirat al-Huffaz",
+      "Al-Ibar fi Khabar man Ghabar",
+      "Ansab al-Sam'ani",
+      "Bughyat al-Wu'at",
+      "Al-Muzhir fi Ulum al-Lughah",
+      "Mafatih al-Ghayb (Tafsir al-Kabir)",
+      "Al-Kashshaf",
+      "Anwar al-Tanzil (Tafsir al-Baydawi)",
+      "Madarik al-Tanzil (Tafsir al-Nasafi)",
+      "Al-Sihah",
+      "Al-Nihayah fi Gharib al-Hadith",
+      "Musnad Ahmad bin Hanbal",
+      "Khasa'is Amir al-Mu'minin",
+      "Al-Mustadrak ala al-Sahihayn",
+      "Manaqib Khawarizmi"
+    ]
+  },
+  {
+    "volume_number": 9,
+    "hadith_defended": "Hadith of Ghadir Khumm",
+    "volume_section": "Dalalah (Meaning and Implication)",
+    "overview": "This volume focuses on the Dalalah (semantic and contextual implication) of the Hadith of Ghadir. The author systematically refutes Fakhr al-Razi and Shah Abdul Aziz Dehlavi's linguistic argument that 'Mawla' cannot mean 'Awla' (more rightful/superior). He then proves the contextual link of Ghadir to Imamate by demonstrating through numerous Sunni sources that the Verse of Tabligh (5:67), the Verse of Ikmal (5:3), and the Verse of Sa'ala Sa'il (70:1) were all revealed regarding Ali at Ghadir Khumm. Finally, he cites the poetry of Hassan b. Thabit and Qays b. Sa'd to show that the early companions explicitly understood the Prophet's declaration of 'Mawla' to mean 'Imam' and 'Hadi'.",
+    "responses_to_dehlavi": [
+      {
+        "dehlavi_claim_addressed": "Hadith of Ghadir Khumm: Shia say: The word 'Mawla' means 'Awla bi al-Tasarruf' (the one with the most right to rule/administer). Therefore, Ali is the designated Caliph. Dehlavi's attack: He accepts the hadith as authentic but completely rejects the Shia linguistic and contextual interpretation.",
+        "author_response_summary": "The author refutes the linguistic objection (originating from Fakhr al-Razi) that synonyms must be perfectly interchangeable in all grammatical constructs (e.g., Razi argued you cannot say 'Huwa Mawla min Fulan' instead of 'Awla min Fulan'). The author cites Sunni linguists and Usul scholars to prove that synonyms do not require absolute interchangeability due to specific Arabic usage rules. He lists numerous Sunni exegetes and linguists (Abu Ubaydah, Al-Farra, Al-Zajjaj, Al-Akhfash) who explicitly interpreted 'Mawla' as 'Awla'.",
+        "response_type": "LINGUISTIC_ANALYSIS",
+        "key_evidence_cited": [
+          "Al-Radi's Sharh al-Kafiyah",
+          "Al-Suyuti's Al-Ashbah wa al-Naza'ir",
+          "Statements of Abu Ubaydah, Al-Farra, Al-Zajjaj, Al-Akhfash",
+          "Al-Bukhari's Sahih (Kitab al-Fara'id)"
+        ]
+      },
+      {
+        "dehlavi_claim_addressed": "Hadith of Ghadir Khumm: He accepts the hadith as authentic but completely rejects the Shia linguistic and contextual interpretation.",
+        "author_response_summary": "The author proves the contextual connection of Ghadir to Imamate by citing Sunni consensus and narrations that the Verse of Tabligh (5:67) was revealed commanding the Prophet to declare Ali's Wilayah, and the Verse of Ikmal (5:3) was revealed immediately after the declaration, signifying the completion of the religion through Imamate.",
+        "response_type": "COUNTER_CITATION",
+        "key_evidence_cited": [
+          "Al-Suyuti's Al-Durr al-Manthur",
+          "Al-Wahidi's Asbab al-Nuzul",
+          "Al-Tha'labi's Al-Kashf wa al-Bayan",
+          "Narrations from Ibn Abi Hatim, Ibn Mardawayh, and Ibn Asakir",
+          "Al-Nisaburi's Ghara'ib al-Quran"
+        ]
+      },
+      {
+        "dehlavi_claim_addressed": "Hadith of Ghadir Khumm: He accepts the hadith as authentic but completely rejects the Shia linguistic and contextual interpretation.",
+        "author_response_summary": "The author cites Sunni sources proving that the Verse of 'Sa'ala Sa'il' (70:1) was revealed when Al-Harith b. al-Nu'man al-Fihri objected to the Prophet's declaration of Ali's Wilayah at Ghadir and asked God to send a stone upon him if it was truly from God.",
+        "response_type": "COUNTER_CITATION",
+        "key_evidence_cited": [
+          "Al-Tha'labi's Tafsir",
+          "Sibt Ibn al-Jawzi's Tadhkirat al-Khawass",
+          "Al-Zarandi's Durar al-Simtayn",
+          "Al-Samhudi's Jawahir al-Iqdayn"
+        ]
+      },
+      {
+        "dehlavi_claim_addressed": "Hadith of Ghadir Khumm: He accepts the hadith as authentic but completely rejects the Shia linguistic and contextual interpretation.",
+        "author_response_summary": "The author cites the poetry of Hassan b. Thabit recited at Ghadir with the Prophet's approval, and the poetry of Qays b. Sa'd at Siffin, both explicitly using the words 'Imam' and 'Hadi' as the direct meaning of the Prophet's declaration 'Mawla'. This proves the companions understood it as political and spiritual leadership.",
+        "response_type": "COUNTER_CITATION",
+        "key_evidence_cited": [
+          "Al-Khawarizmi's Manaqib",
+          "Al-Hamawini's Fara'id al-Simtayn",
+          "Al-Ganji al-Shafi'i's Kifayat al-Talib",
+          "Al-Suyuti's Al-Izdihar"
+        ]
+      }
+    ],
+    "biographical_dossiers": [
+      {
+        "scholar_name": "Ibn Abi Hatim al-Razi",
+        "rijal_sources_cited": [
+          "Siyar A'lam al-Nubala",
+          "Tadhkirat al-Huffaz",
+          "Tabaqat al-Shafi'iyyah",
+          "Tabaqat al-Huffaz"
+        ],
+        "evaluation_summary": "Highly praised as a leading Imam, Hafiz, and critic of Hadith. His Tafsir is considered one of the most authentic, as he committed to only including sound reports."
+      },
+      {
+        "scholar_name": "Ibn Mardawayh",
+        "rijal_sources_cited": [
+          "Tadhkirat al-Huffaz",
+          "Al-Ibar fi Khabar man Ghabar",
+          "Tabaqat al-Huffaz"
+        ],
+        "evaluation_summary": "Acknowledged as a great Hafiz, historian, and reliable authority in Rijal and Hadith."
+      },
+      {
+        "scholar_name": "Abu Nu'aym al-Isfahani",
+        "rijal_sources_cited": [
+          "Wafayat al-A'yan",
+          "Al-Wafi bi al-Wafayat",
+          "Al-Ikmal fi Asma' al-Rijal"
+        ],
+        "evaluation_summary": "Described as a famous Hafiz, one of the greatest scholars of Hadith, and author of Hilyat al-Awliya."
+      },
+      {
+        "scholar_name": "Al-Wahidi",
+        "rijal_sources_cited": [
+          "Al-Kamil fi al-Tarikh",
+          "Siyar A'lam al-Nubala",
+          "Tabaqat al-Shafi'iyyah",
+          "Wafayat al-A'yan"
+        ],
+        "evaluation_summary": "Recognized as the Imam of his time in Tafsir, grammar, and linguistics, and author of the famous Asbab al-Nuzul."
+      },
+      {
+        "scholar_name": "Al-Tha'labi",
+        "rijal_sources_cited": [
+          "Wafayat al-A'yan",
+          "Al-Ibar fi Khabar man Ghabar",
+          "Tabaqat al-Shafi'iyyah",
+          "Mir'at al-Jinan"
+        ],
+        "evaluation_summary": "Praised as the unique scholar of his time in Tafsir, highly reliable in transmission, and praised by Al-Qushayri."
+      },
+      {
+        "scholar_name": "Ibn Asakir",
+        "rijal_sources_cited": [
+          "Mu'jam al-Udaba",
+          "Wafayat al-A'yan",
+          "Tadhkirat al-Huffaz",
+          "Mir'at al-Jinan"
+        ],
+        "evaluation_summary": "Revered as the Hafiz of the Levant, a massive authority in history and Hadith, and author of Tarikh Dimashq."
+      },
+      {
+        "scholar_name": "Badr al-Din al-Ayni",
+        "rijal_sources_cited": [
+          "Al-Daw' al-Lami'",
+          "Husn al-Muhadarah",
+          "Bughyat al-Wu'at",
+          "Kashf al-Zunun"
+        ],
+        "evaluation_summary": "Highly respected Hanafi Chief Justice, historian, and author of Umdat al-Qari (commentary on Sahih al-Bukhari)."
+      },
+      {
+        "scholar_name": "Al-Samhudi",
+        "rijal_sources_cited": [
+          "Al-Daw' al-Lami'",
+          "Al-Nur al-Safir"
+        ],
+        "evaluation_summary": "Respected as the Mufti and historian of Medina, a great Shafi'i scholar, and author of Wafa' al-Wafa and Jawahir al-Iqdayn."
+      },
+      {
+        "scholar_name": "Shahr b. Hawshab",
+        "rijal_sources_cited": [
+          "Al-Kamal fi Ma'rifat al-Rijal",
+          "Tahdhib al-Tahdhib",
+          "Mizan al-Itidal"
+        ],
+        "evaluation_summary": "Defended against Ibn Kathir's weakening; shown to be authenticated by Ahmad b. Hanbal, Yahya b. Ma'in, Al-Bukhari, and Al-Tirmidhi."
+      }
+    ],
+    "argument_lineage_traced": [
+      {
+        "claim": "The word 'Mawla' cannot mean 'Awla' because synonyms must be perfectly interchangeable in all grammatical constructs (e.g., you cannot say 'Huwa Mawla min Fulan').",
+        "chain": [
+          "Fakhr al-Razi (d. 606) -> Al-Iji (d. 756) -> Al-Jurjani (d. 816) -> Shah Abdul Aziz Dehlavi (d. 1239)"
+        ]
+      }
+    ],
+    "rebuttal_lineage_cited": [
+      {
+        "prior_scholar": "Al-Qadi Nurullah al-Shushtari",
+        "work": "Ihqaq al-Haqq",
+        "what_they_refuted": "Refuted Al-Iji and Al-Jurjani's linguistic argument that 'Mawla' cannot mean 'Awla', demonstrating that Arabic usage does not require absolute interchangeability of synonyms."
+      }
+    ],
+    "scholars_mentioned": [
+      "Fakhr al-Razi",
+      "Shah Abdul Aziz Dehlavi",
+      "Al-Suyuti",
+      "Ibn Hajar al-Asqalani",
+      "Al-Dhahabi",
+      "Ibn Khallikan",
+      "Al-Tha'labi",
+      "Al-Wahidi",
+      "Ibn Mardawayh",
+      "Abu Nu'aym al-Isfahani",
+      "Ibn Asakir",
+      "Badr al-Din al-Ayni",
+      "Al-Samhudi",
+      "Sibt Ibn al-Jawzi",
+      "Al-Ganji al-Shafi'i",
+      "Al-Hamawini",
+      "Nizam al-Din al-Nisaburi",
+      "Abd al-Razzaq al-Ras'ani",
+      "Al-Zarandi",
+      "Shihab al-Din al-Dawlatabadi",
+      "Qays b. Sa'd b. Ubadah",
+      "Hassan b. Thabit"
+    ],
+    "books_cited": [
+      "Nihayat al-Uqul",
+      "Al-Mawaqif",
+      "Al-Sawa'iq al-Muhriqah",
+      "Al-Tafsir al-Kabir (Mafatih al-Ghayb)",
+      "Al-Durr al-Manthur",
+      "Asbab al-Nuzul",
+      "Al-Kashf wa al-Bayan",
+      "Tarikh Dimashq",
+      "Umdat al-Qari",
+      "Wafayat al-A'yan",
+      "Tadhkirat al-Huffaz",
+      "Mizan al-Itidal",
+      "Lisan al-Mizan",
+      "Al-Isabah",
+      "Usd al-Ghabah",
+      "Al-Isti'ab",
+      "Fara'id al-Simtayn",
+      "Kifayat al-Talib",
+      "Tadhkirat Khawass al-Ummah",
+      "Jawahir al-Iqdayn",
+      "Durar al-Simtayn",
+      "Ma'arij al-Wusul",
+      "Al-Bidayah wa al-Nihayah",
+      "Ihqaq al-Haqq",
+      "Al-Ashbah wa al-Naza'ir",
+      "Sharh al-Kafiyah"
+    ]
+  },
+  {
+    "volume_number": 10,
+    "hadith_defended": "Hadith of Ghadir Khumm (specifically the preamble 'Alastu Awla' and the incident of Al-Harith b. Al-Nu'man)",
+    "volume_section": "Dalalah (Implication/Meaning) and Sanad (Chain of Transmission)",
+    "overview": "This volume focuses on proving that the word 'Mawla' in the Hadith of Ghadir means 'Awla bi al-Tasarruf' (having more right to authority/disposal). The author achieves this by establishing the authenticity of the preamble 'Alastu Awla bi al-Mu'minin min Anfusihim' (Am I not more having authority over the believers than themselves?) and the incident of Al-Harith b. Al-Nu'man (the revelation of Surah Al-Ma'arij 70:1-3). He systematically refutes the linguistic, chronological, and geographical objections raised by Shah Abdul Aziz Dehlavi and Ibn Taymiyyah, using extensive citations from Sunni exegesis (Tafsir), Hadith, and biographical dictionaries.",
+    "responses_to_dehlavi": [
+      {
+        "dehlavi_claim_addressed": "The word 'Mawla' in the Hadith of Ghadir means friend/helper, not ruler or 'Awla bi al-Tasarruf'.",
+        "author_response_summary": "The author argues that the Prophet prefaced the declaration with 'Alastu Awla bi al-Mu'minin min Anfusihim' (Am I not more having authority over the believers than themselves?). By linking 'Mawla' to 'Awla', the Prophet explicitly defined 'Mawla' as having supreme authority. The author cites numerous Sunni exegetes (Al-Wahidi, Al-Baghawi, Al-Zamakhshari, Al-Baydawi) who interpret 'Awla' in Surah Al-Ahzab (33:6) as 'Nafudh al-Hukm' (penetration of command) and 'Wujub al-Ta'ah' (obligation of obedience).",
+        "response_type": "LINGUISTIC_ANALYSIS",
+        "key_evidence_cited": [
+          "Tafsir al-Kashshaf by Al-Zamakhshari",
+          "Anwar al-Tanzil by Al-Baydawi",
+          "Ma'alim al-Tanzil by Al-Baghawi",
+          "Al-Tafsir al-Wasit by Al-Wahidi"
+        ]
+      },
+      {
+        "dehlavi_claim_addressed": "The story of Al-Harith b. Al-Nu'man challenging the Prophet about Ali's appointment and the subsequent revelation of 'Sa'ala Sa'ilun' (70:1) is fabricated, as Surah Al-Ma'arij is Makkan and Ghadir happened after the Farewell Pilgrimage.",
+        "author_response_summary": "The author refutes this chronological objection by demonstrating the Quranic principle of 'Ta'addud al-Nuzul' (multiple revelations of the same verse for different occasions), citing Al-Suyuti's 'Al-Itqan'. He also lists dozens of eminent Sunni scholars who authenticated and narrated the incident of Al-Harith, proving it is a recognized historical event in Sunni tradition.",
+        "response_type": "SANAD_DEFENSE",
+        "key_evidence_cited": [
+          "Al-Itqan fi 'Ulum al-Quran by Al-Suyuti",
+          "Tafsir Al-Tha'labi",
+          "Al-Fusul al-Muhimmah by Ibn al-Sabbagh al-Maliki",
+          "Fayd al-Qadir by Al-Manawi"
+        ]
+      },
+      {
+        "dehlavi_claim_addressed": "Ibn Taymiyyah's claim that the incident of Al-Harith is false because it mentions 'Abtah' (a location in Makkah), whereas the Prophet did not return to Makkah after Ghadir.",
+        "author_response_summary": "The author uses classical Arabic lexicons to prove that 'Abtah' is a common noun meaning 'a wide valley with pebbles' and is not exclusively a proper noun for a location in Makkah. He cites Sunni geographers and linguists to show that Madinah also has areas referred to as 'Abtah' or 'Batha'.",
+        "response_type": "LINGUISTIC_ANALYSIS",
+        "key_evidence_cited": [
+          "Al-Sihah by Al-Jawhari",
+          "Al-Qamus al-Muhit by Al-Firuzabadi",
+          "Al-Nihayah by Ibn al-Athir",
+          "Wafa' al-Wafa by Al-Samhudi"
+        ]
+      },
+      {
+        "dehlavi_claim_addressed": "Ali never claimed Imamate or used the Hadith of Ghadir to prove his immediate succession against the other Caliphs.",
+        "author_response_summary": "The author extensively documents the 'Munashadah' (adjuration) of Ali in the Rahbah of Kufa, where Ali publicly asked the Sahaba to testify if they heard the Prophet declare 'Man Kuntu Mawlah' at Ghadir. Numerous Sahaba stood and testified. The author also highlights that those who concealed their testimony (like Anas b. Malik and Zayd b. Arqam) were struck with blindness or leprosy due to Ali's curse, proving the immense gravity of the declaration.",
+        "response_type": "COUNTER_CITATION",
+        "key_evidence_cited": [
+          "Musnad Ahmad bin Hanbal",
+          "Khasa'is Amir al-Mu'minin by Al-Nasa'i",
+          "Al-Mu'jam al-Kabir by Al-Tabarani",
+          "Usd al-Ghabah by Ibn al-Athir"
+        ]
+      },
+      {
+        "dehlavi_claim_addressed": "Fakhr al-Din al-Razi's claim that the preamble 'Alastu Awla bi al-Mu'minin' is not narrated by most Sunni scholars and is therefore unreliable.",
+        "author_response_summary": "The author compiles a massive list of over 50 prominent Sunni Hadith masters and historians who explicitly narrated the preamble 'Alastu Awla' as part of the Hadith of Ghadir, exposing Al-Razi's claim as a blatant falsehood and demonstrating the author's superior mastery of Sunni Hadith literature.",
+        "response_type": "CONTRADICTION_EXPOSURE",
+        "key_evidence_cited": [
+          "Sunan Ibn Majah",
+          "Sahih Muslim",
+          "Al-Mustadrak by Al-Hakim",
+          "Tarikh Ibn Kathir"
+        ]
+      }
+    ],
+    "biographical_dossiers": [
+      {
+        "scholar_name": "Abd al-Ra'uf al-Manawi",
+        "rijal_sources_cited": [
+          "Khulasat al-Athar by Al-Muhibbi",
+          "Kashf al-Zunun by Katib Celebi"
+        ],
+        "evaluation_summary": "Highly positive. Described as a great Shafi'i Imam, ascetic, and prolific author of 'Fayd al-Qadir', whose works are universally accepted by Sunni scholars."
+      },
+      {
+        "scholar_name": "Nur al-Din al-Halabi",
+        "rijal_sources_cited": [
+          "Khulasat al-Athar by Al-Muhibbi",
+          "Tuhfat al-Bahiyyah by Al-Sharqawi"
+        ],
+        "evaluation_summary": "Positive. Acknowledged as a leading Shafi'i scholar, historian, and author of 'Al-Sirah al-Halabiyyah', known for his deep knowledge and piety."
+      },
+      {
+        "scholar_name": "Sufyan bin 'Uyaynah",
+        "rijal_sources_cited": [
+          "Tahdhib al-Asma wa al-Lughat by Al-Nawawi",
+          "Tadhkirat al-Huffaz by Al-Dhahabi",
+          "Al-'Ibar by Al-Dhahabi",
+          "Mir'at al-Janan by Al-Yafi'i"
+        ],
+        "evaluation_summary": "Extremely positive. Regarded as a definitive Hujjah (proof), Hafiz, and one of the greatest Imams of Hadith in the Hijaz, whose narrations are universally trusted."
+      },
+      {
+        "scholar_name": "Sibt Ibn al-Jawzi",
+        "rijal_sources_cited": [
+          "Wafayat al-A'yan by Ibn Khallikan",
+          "Mir'at al-Janan by Al-Yafi'i",
+          "Al-'Ibar by Al-Dhahabi",
+          "Kata'ib A'lam al-Akhyar by Al-Kafawi"
+        ],
+        "evaluation_summary": "Positive defense. The author defends him against Al-Dhahabi's accusations of being a Rafidi, proving that major Sunni historians relied on his 'Mir'at al-Zaman' and considered him a reliable Hanafi Imam."
+      },
+      {
+        "scholar_name": "Al-Hakim al-Naysaburi",
+        "rijal_sources_cited": [
+          "Wafayat al-A'yan by Ibn Khallikan",
+          "Rijal Mishkat by Abd al-Haqq Dehlavi",
+          "Tabaqat al-Shafi'iyyah by Al-Asnawi"
+        ],
+        "evaluation_summary": "Highly positive. Recognized as the Imam of Hadith in his era, whose judgments on the authenticity of narrations are authoritative for Sunnis."
+      }
+    ],
+    "argument_lineage_traced": [
+      {
+        "claim": "The interpretation of 'Awla' (in Surah Al-Ahzab 33:6) as 'Awla bi al-Tasarruf' (having more right to authority/disposal) and 'Nafudh al-Hukm' (penetration of command).",
+        "chain": [
+          "Ibn Abbas (Sahabi)",
+          "Ata' bin Yasar (d. 103 AH)",
+          "Al-Wahidi (d. 468 AH)",
+          "Al-Baghawi (d. 510 AH)",
+          "Al-Zamakhshari (d. 538 AH)",
+          "Al-Baydawi (d. 685 AH)",
+          "Al-Nasafi (d. 710 AH)",
+          "Al-Naysaburi (d. 728 AH)",
+          "Al-Khatib al-Shirbini (d. 977 AH)"
+        ]
+      },
+      {
+        "claim": "The narration of the incident of Al-Harith b. Al-Nu'man and the revelation of 'Sa'ala Sa'ilun' at Ghadir Khumm.",
+        "chain": [
+          "Sufyan bin 'Uyaynah (d. 198 AH)",
+          "Al-Tha'labi (d. 427 AH)",
+          "Ibn al-Sabbagh al-Maliki (d. 855 AH)",
+          "Al-Samhudi (d. 911 AH)",
+          "Al-Manawi (d. 1031 AH)",
+          "Al-Halabi (d. 1044 AH)"
+        ]
+      }
+    ],
+    "rebuttal_lineage_cited": [
+      {
+        "prior_scholar": "Al-Qastalani",
+        "work": "Irshad al-Sari",
+        "what_they_refuted": "Refuted the idea that 'Awla' only means love or friendship, explicitly stating it means 'Nafudh al-Hukm' (penetration of command) and 'Wujub al-Ta'ah' (obligation of obedience)."
+      },
+      {
+        "prior_scholar": "Sibt Ibn al-Jawzi",
+        "work": "Tadhkirat Khawass al-Ummah",
+        "what_they_refuted": "Refuted the claim that 'Mawla' in the Hadith of Ghadir means anything other than 'Awla' (having more right/authority), explicitly stating that the 10th meaning (Awla) is the only one that fits the context of obedience."
+      },
+      {
+        "prior_scholar": "Muhammad bin Yusuf al-Ganji al-Shafi'i",
+        "work": "Kifayat al-Talib",
+        "what_they_refuted": "Refuted the claim that the Prophet did not appoint a successor, stating that the Hadith of Ghadir explicitly indicates 'Tawliyah' and 'Istikhlaf' (appointment and succession)."
+      }
+    ],
+    "scholars_mentioned": [
+      "Shah Abdul Aziz Dehlavi",
+      "Ibn Taymiyyah",
+      "Fakhr al-Din al-Razi",
+      "Al-Tha'labi",
+      "Sufyan bin 'Uyaynah",
+      "Ibn al-Sabbagh al-Maliki",
+      "Abd al-Ra'uf al-Manawi",
+      "Nur al-Din al-Halabi",
+      "Ahmad bin al-Fadl Ba Kathir",
+      "Muhammad bin Isma'il al-San'ani",
+      "Al-Suyuti",
+      "Al-Wahidi",
+      "Al-Baghawi",
+      "Al-Zamakhshari",
+      "Al-Baydawi",
+      "Al-Nasafi",
+      "Al-Naysaburi",
+      "Al-Khatib al-Shirbini",
+      "Al-Qastalani",
+      "Al-'Ayni",
+      "Sibt Ibn al-Jawzi",
+      "Al-Hakim al-Naysaburi",
+      "Ahmad bin Hanbal",
+      "Al-Nasa'i",
+      "Al-Tabarani",
+      "Ibn Hajar al-Asqalani",
+      "Ibn Hajar al-Haytami",
+      "Al-Dhahabi",
+      "Al-Sam'ani",
+      "Al-Nawawi",
+      "Ibn Khallikan",
+      "Abd al-Rahman Jami",
+      "Siddiq Hasan Khan",
+      "Muhammad Isma'il Dehlavi",
+      "Al-Qushji",
+      "Al-Taftazani",
+      "Al-Samhudi",
+      "Ibn al-Athir",
+      "Al-Khatib al-Baghdadi",
+      "Abu Nu'aym al-Isfahani",
+      "Al-Darqutni",
+      "Ibn Kathir",
+      "Al-Khwarizmi",
+      "Al-Ghazali",
+      "Sana'i al-Ghaznawi",
+      "Farid al-Din 'Attar"
+    ],
+    "books_cited": [
+      "Tuhfat al-Ithna Ashariyya",
+      "Minhaj al-Sunnah",
+      "Nihayat al-'Uqul",
+      "Al-Kashshaf",
+      "Anwar al-Tanzil (Tafsir al-Baydawi)",
+      "Ma'alim al-Tanzil (Tafsir al-Baghawi)",
+      "Al-Tafsir al-Wasit",
+      "Al-Itqan fi 'Ulum al-Quran",
+      "Al-Durr al-Manthur",
+      "Fayd al-Qadir",
+      "Al-Sirah al-Halabiyyah",
+      "Tadhkirat Khawass al-Ummah",
+      "Al-Mustadrak 'ala al-Sahihayn",
+      "Musnad Ahmad",
+      "Khasa'is Amir al-Mu'minin",
+      "Al-Mu'jam al-Kabir",
+      "Al-Sawa'iq al-Muhriqah",
+      "Khulasat al-Athar",
+      "Wafayat al-A'yan",
+      "Tadhkirat al-Huffaz",
+      "Mizan al-I'tidal",
+      "Nafahat al-Uns",
+      "Sirr al-'Alamin",
+      "Al-Riyad al-Nadirah",
+      "Fara'id al-Simtayn",
+      "Yanabi' al-Mawaddah",
+      "Kanz al-'Ummal",
+      "Al-Bidayah wa al-Nihayah",
+      "Al-Fusul al-Muhimmah",
+      "Wafa' al-Wafa",
+      "Irshad al-Sari",
+      "Umdat al-Qari",
+      "Al-Sihah",
+      "Al-Qamus al-Muhit",
+      "Al-Nihayah fi Gharib al-Hadith",
+      "Usd al-Ghabah",
+      "Al-Isabah fi Tamyiz al-Sahabah",
+      "Hilyat al-Awliya'",
+      "Kifayat al-Talib",
+      "Mawaddat al-Qurba",
+      "Al-Mawa'iz wa al-I'tibar (Al-Khitat)"
+    ]
+  },
+  {
+    "volume_number": 11,
+    "hadith_defended": "Hadith of Manzilah",
+    "volume_section": "Sanad and Dalalah",
+    "overview": "This volume defends the Hadith of Manzilah ('You are to me as Harun was to Musa') against Shah Abdul Aziz Dehlavi's claim that it only indicates a temporary deputyship during the expedition of Tabuk. The author establishes the mass-transmission (Tawatur) of the hadith from Sunni sources, proves it was uttered on multiple occasions (not just Tabuk), and uses linguistic analysis of the exception ('except there is no prophet after me') to demonstrate that it confers all ranks of Harun, including permanent succession, upon Ali.",
+    "responses_to_dehlavi": [
+      {
+        "dehlavi_claim_addressed": "The hadith was only said at Tabuk to comfort Ali, implying a temporary deputyship.",
+        "author_response_summary": "The Prophet uttered this hadith on numerous occasions (e.g., Day of Brotherhood, Khaybar, in the house of Umm Salama), proving it was a general declaration of Ali's permanent status, not a situational comfort.",
+        "response_type": "COUNTER_CITATION",
+        "key_evidence_cited": [
+          "Sunni Hadith collections showing multiple contexts for the hadith"
+        ]
+      },
+      {
+        "dehlavi_claim_addressed": "Harun died before Musa, so he was not his successor. Thus, comparing Ali to Harun does not prove Ali's succession after the Prophet.",
+        "author_response_summary": "The hadith establishes the rank (Manzilah) of Harun for Ali. Harun was the designated successor; his premature death doesn't negate his rank. Since Ali survived the Prophet, the succession is actualized.",
+        "response_type": "DALALAH_DEFENSE",
+        "key_evidence_cited": [
+          "Rational analysis of the concept of 'Manzilah'",
+          "Quranic verses regarding Musa and Harun"
+        ]
+      },
+      {
+        "dehlavi_claim_addressed": "The comparison to Harun only means temporary deputyship over Medina, just as Harun was deputy over the Israelites when Musa went to Mount Tur.",
+        "author_response_summary": "The linguistic structure of the exception ('except there is no prophet after me') proves that all ranks of Harun (Wazir, brother, successor) are affirmed for Ali, except prophethood. If it meant only temporary deputyship, excepting prophethood would be linguistically absurd.",
+        "response_type": "LINGUISTIC_ANALYSIS",
+        "key_evidence_cited": [
+          "Arabic grammar rules regarding Istithna' (exception) and 'Umum (generality)"
+        ]
+      }
+    ],
+    "biographical_dossiers": [
+      {
+        "scholar_name": "Qaza'ah bin Suwayd (قزعة بن سويد)",
+        "rijal_sources_cited": [
+          "Yahya bin Ma'in",
+          "Abu Hatim al-Razi",
+          "Ibn 'Adi",
+          "Al-Daraqutni",
+          "Mizan al-Iktidal by Al-Dhahabi"
+        ],
+        "evaluation_summary": "Evaluated negatively as weak (Da'if) and his hadiths as Mudtarib (confounded) to refute a specific counter-narration."
+      }
+    ],
+    "argument_lineage_traced": [
+      {
+        "claim": "The argument that Harun's death before Musa negates the implication of succession for Ali.",
+        "chain": [
+          "Al-Iji (Al-Mawaqif)",
+          "Al-Jurjani (Sharh al-Mawaqif) / Al-Taftazani (Sharh al-Maqasid)",
+          "Shah Abdul Aziz Dehlavi"
+        ]
+      }
+    ],
+    "rebuttal_lineage_cited": [],
+    "scholars_mentioned": [
+      "Shah Abdul Aziz Dehlavi",
+      "Al-Iji",
+      "Al-Jurjani",
+      "Al-Taftazani",
+      "Al-Suyuti",
+      "Ibn Hajar al-Asqalani",
+      "Al-Dhahabi",
+      "Al-Hakim al-Nishapuri",
+      "Al-Tirmidhi",
+      "Muslim",
+      "Al-Bukhari",
+      "Ibn Abd al-Barr",
+      "Ibn Asakir",
+      "Qaza'ah bin Suwayd"
+    ],
+    "books_cited": [
+      "Tuhfat al-Ithna Ashariyya",
+      "Al-Mawaqif",
+      "Sharh al-Mawaqif",
+      "Sharh al-Maqasid",
+      "Sahih al-Bukhari",
+      "Sahih Muslim",
+      "Sunan al-Tirmidhi",
+      "Khasa'is Amir al-Mu'minin",
+      "Al-Isti'ab",
+      "Usd al-Ghabah",
+      "Tarikh Baghdad",
+      "Mizan al-Iktidal",
+      "Al-Sawa'iq al-Muhriqah"
+    ]
+  },
+  {
+    "volume_number": 12,
+    "hadith_defended": "Hadith of Wilayah",
+    "volume_section": "Sanad",
+    "overview": "This volume is dedicated to defending the authenticity (Sanad) of the Hadith of Wilayah ('Ali is the Wali of every believer after me'). The author systematically refutes Shah Abdul Aziz Dehlavi's claim that the hadith is weak due to the presence of Ajlah al-Kindi and other narrators. The author compiles extensive biographical dossiers (taraajim) from Sunni Rijal sources to prove the reliability of the narrators and traces the multiple authentic chains of this hadith.",
+    "responses_to_dehlavi": [
+      {
+        "dehlavi_claim_addressed": "Attacks the chain due to the presence of Ajlah, a weak Shia narrator.",
+        "author_response_summary": "The author provides a massive biographical dossier on Ajlah al-Kindi (Yahya bin Abdullah), proving that major Sunni Hadith masters (like Yahya bin Ma'in, Ibn Sa'd, Al-Nasa'i, and Al-Dhahabi) considered him reliable (Thiqah) or acceptable. He also demonstrates that Ajlah's Shia inclinations do not invalidate his narrations according to Sunni Rijal principles, and that his narrations are included in major Sunni collections.",
+        "response_type": "SANAD_DEFENSE",
+        "key_evidence_cited": [
+          "Tahdhib al-Tahdhib by Ibn Hajar al-Asqalani",
+          "Mizan al-Itidal by Al-Dhahabi",
+          "Al-Jarh wa al-Ta'dil by Ibn Abi Hatim",
+          "Statements of Yahya bin Ma'in validating Ajlah"
+        ]
+      },
+      {
+        "dehlavi_claim_addressed": "Attacks the chain due to the presence of Ajlah, a weak Shia narrator.",
+        "author_response_summary": "The author shows that the Hadith of Wilayah is not solely dependent on Ajlah. He presents numerous other authentic chains (Turuq) from various companions (like Imran bin Husayn, Ibn Abbas, Buraidah, and Ali himself) that do not include Ajlah, thereby proving the hadith is Mutawatir or at least Sahih/Hasan through multiple routes.",
+        "response_type": "SANAD_DEFENSE",
+        "key_evidence_cited": [
+          "Musnad Ahmad bin Hanbal",
+          "Sunan al-Tirmidhi",
+          "Al-Mustadrak by Al-Hakim al-Nishapuri",
+          "Khasa'is Amir al-Mu'minin by Al-Nasa'i"
+        ]
+      }
+    ],
+    "biographical_dossiers": [
+      {
+        "scholar_name": "Ajlah al-Kindi (Yahya bin Abdullah)",
+        "rijal_sources_cited": [
+          "Tahdhib al-Tahdhib",
+          "Mizan al-Itidal",
+          "Al-Jarh wa al-Ta'dil",
+          "Tabaqat Ibn Sa'd"
+        ],
+        "evaluation_summary": "The author compiles extensive quotes showing that while some criticized him for his Shia leanings, major authorities like Yahya bin Ma'in, Al-Nasa'i, and Ibn Sa'd declared him Thiqah (reliable) or Saduq (truthful), and his hadiths are accepted in Sunni scholarship."
+      },
+      {
+        "scholar_name": "Abu Dawud al-Tayalisi",
+        "rijal_sources_cited": [
+          "Tahdhib al-Tahdhib",
+          "Mizan al-Itidal",
+          "Tarikh Baghdad"
+        ],
+        "evaluation_summary": "Defended as a major Hafiz and reliable transmitter of the Hadith of Wilayah."
+      },
+      {
+        "scholar_name": "Ibn Jarir al-Tabari",
+        "rijal_sources_cited": [
+          "Tarikh Baghdad",
+          "Tabaqat al-Shafi'iyya",
+          "Wafayat al-Ayan"
+        ],
+        "evaluation_summary": "Extensively profiled to show his immense stature in Sunni scholarship, validating his authentication of the Hadith of Wilayah and his refutation of those who denied it."
+      }
+    ],
+    "argument_lineage_traced": [],
+    "rebuttal_lineage_cited": [],
+    "scholars_mentioned": [
+      "Shah Abdul Aziz Dehlavi",
+      "Ajlah al-Kindi",
+      "Yahya bin Ma'in",
+      "Ibn Hajar al-Asqalani",
+      "Al-Dhahabi",
+      "Al-Tirmidhi",
+      "Ahmad bin Hanbal",
+      "Al-Nasa'i",
+      "Al-Hakim al-Nishapuri",
+      "Ibn Jarir al-Tabari",
+      "Ibn Abi Hatim",
+      "Abu Dawud al-Tayalisi"
+    ],
+    "books_cited": [
+      "Tuhfat al-Ithna Ashariyya",
+      "Musnad Ahmad",
+      "Sunan al-Tirmidhi",
+      "Khasa'is Amir al-Mu'minin",
+      "Al-Mustadrak ala al-Sahihayn",
+      "Tahdhib al-Tahdhib",
+      "Mizan al-Itidal",
+      "Al-Jarh wa al-Ta'dil",
+      "Tarikh Baghdad",
+      "Wafayat al-Ayan",
+      "Tabaqat Ibn Sa'd"
+    ]
+  },
+  {
+    "volume_number": 13,
+    "hadith_defended": "Hadith of the Roasted Bird (Tayr)",
+    "volume_section": "Sanad and Dalalah",
+    "overview": "This volume is a comprehensive defense of the Hadith of the Roasted Bird (Hadith al-Tayr). The author systematically refutes Shah Abdul Aziz Dehlavi's claims that the hadith is fabricated (Mawdu') or weak. He provides an exhaustive list of 86 prominent Sunni scholars and traditionists who narrated the hadith, proving its mutawatir status. He refutes the weakening of the hadith by Ibn al-Jawzi, Ibn Taymiyyah, and Al-Dhahabi by citing other major Sunni authorities (like Al-Suyuti and Ibn Hajar) who authenticated it and criticized Ibn al-Jawzi's leniency in declaring hadiths fabricated. Furthermore, he defends the Dalalah (meaning) of the hadith, refuting Dehlavi's attempt to restrict the meaning of 'most beloved of Your creation' to merely 'most beloved in eating this bird', providing 70 rational and linguistic arguments against this restriction. He also refutes Dehlavi's use of the counter-hadith 'Iqtadu bil-ladhayni min ba'di' (Follow the two after me).",
+    "responses_to_dehlavi": [
+      {
+        "dehlavi_claim_addressed": "Hadith of the Roasted Bird (Tayr): Shia say: Ali is the most beloved person to God, and the most beloved must be the Imam. Dehlavi's attack: Strongly attacks authenticity, citing Al-Dhahabi and Al-Jazari who classify it as fabricated.",
+        "author_response_summary": "The author proves the hadith is Mutawatir by listing dozens of Sahaba who narrated it and 86 major Sunni scholars who recorded it in their authentic books. He shows that major Sunni hadith masters (like Al-Suyuti, Ibn Hajar, and Al-Sakhawi) rejected Ibn al-Jawzi's and Al-Dhahabi's classification of it as Mawdu' (fabricated). He even lists 14 Sunni scholars who wrote independent treatises solely on the Hadith of the Bird.",
+        "response_type": "SANAD_DEFENSE",
+        "key_evidence_cited": [
+          "Sunan al-Tirmidhi",
+          "Khasa'is Amir al-Mu'minin by Al-Nasa'i",
+          "Al-Mustadrak by Al-Hakim",
+          "Al-La'ali al-Masnu'a by Al-Suyuti"
+        ]
+      },
+      {
+        "dehlavi_claim_addressed": "Ibn Taymiyyah's claim (adopted by Dehlavi) that the hadith is not found in the Sihah or reliable Sunni books.",
+        "author_response_summary": "The author exposes this as a blatant lie by quoting the hadith directly from Al-Tirmidhi, Al-Nasa'i, and other major Sunni collections, proving Ibn Taymiyyah's extreme bias and lack of reliability in hadith sciences.",
+        "response_type": "CONTRADICTION_EXPOSURE",
+        "key_evidence_cited": [
+          "Minhaj al-Sunnah by Ibn Taymiyyah",
+          "Sunan al-Tirmidhi",
+          "Khasa'is by Al-Nasa'i"
+        ]
+      },
+      {
+        "dehlavi_claim_addressed": "Even if authentic, the word 'Ahabb' (most beloved) is restricted to 'most beloved in eating this bird with me', not absolute superiority.",
+        "author_response_summary": "The author rejects this restriction (takhsis) as baseless, illogical, and contrary to the absolute wording of the Prophet's prayer ('most beloved of Your creation to You'). He provides 70 distinct rational, linguistic, and contextual arguments to invalidate this interpretation.",
+        "response_type": "DALALAH_DEFENSE",
+        "key_evidence_cited": [
+          "Linguistic analysis of the absolute phrase 'Ahabb Khalqika'",
+          "Contextual analysis of the Prophet's prayer"
+        ]
+      },
+      {
+        "dehlavi_claim_addressed": "The hadith is contradicted by the hadith 'Iqtadu bil-ladhayni min ba'di Abu Bakr wa Umar' (Follow the two after me).",
+        "author_response_summary": "The author refutes the authenticity and applicability of the 'Iqtadu' hadith through 10 specific arguments, showing it is weak according to Sunni standards and cannot override the definitive and mutawatir Hadith al-Tayr.",
+        "response_type": "SANAD_DEFENSE",
+        "key_evidence_cited": [
+          "Sunni Rijal criticism of the narrators of the 'Iqtadu' hadith"
+        ]
+      }
+    ],
+    "biographical_dossiers": [
+      {
+        "scholar_name": "Al-Hakim al-Naysaburi",
+        "rijal_sources_cited": [
+          "Tadhkirat al-Huffaz",
+          "Wafayat al-A'yan",
+          "Tabaqat al-Shafi'iyya"
+        ],
+        "evaluation_summary": "Highly positive. Established as a supreme authority in Hadith whose authentication of Hadith al-Tayr in his Al-Mustadrak is binding."
+      },
+      {
+        "scholar_name": "Al-Tirmidhi",
+        "rijal_sources_cited": [
+          "Tadhkirat al-Huffaz",
+          "Wafayat al-A'yan"
+        ],
+        "evaluation_summary": "Highly positive. His inclusion of the hadith in his Sunan/Jami' proves it is a recognized and relied-upon narration in mainstream Sunnism."
+      },
+      {
+        "scholar_name": "Al-Nasa'i",
+        "rijal_sources_cited": [
+          "Tadhkirat al-Huffaz",
+          "Wafayat al-A'yan",
+          "Tabaqat al-Shafi'iyya"
+        ],
+        "evaluation_summary": "Highly positive. His narration of the hadith in his Khasa'is Amir al-Mu'minin is used to destroy Ibn Taymiyyah's claim that the hadith is absent from the Sihah."
+      },
+      {
+        "scholar_name": "Ibn al-Jawzi",
+        "rijal_sources_cited": [
+          "Al-La'ali al-Masnu'a",
+          "Various Sunni Rijal works"
+        ],
+        "evaluation_summary": "Negative regarding his hadith criticism. The author compiles statements from major Sunni scholars criticizing Ibn al-Jawzi for his extreme leniency in declaring authentic hadiths as 'Mawdu' (fabricated) in his book Al-Mawdu'at."
+      },
+      {
+        "scholar_name": "Al-Dhahabi",
+        "rijal_sources_cited": [
+          "Tadhkirat al-Huffaz",
+          "Mizan al-I'tidal"
+        ],
+        "evaluation_summary": "Critical. The author exposes Al-Dhahabi's contradictions and anti-Shia bias (Nasb) when evaluating hadiths praising Imam Ali, showing his weakening of Hadith al-Tayr is driven by theological prejudice rather than objective hadith science."
+      }
+    ],
+    "argument_lineage_traced": [
+      {
+        "claim": "Hadith al-Tayr is Mawdu' (fabricated).",
+        "chain": [
+          "Ibn al-Jawzi (d. 597) -> Ibn Taymiyyah (d. 728) -> Al-Dhahabi (d. 748) -> Shah Abdul Aziz Dehlavi (d. 1239)"
+        ]
+      },
+      {
+        "claim": "The phrase 'Ahabb Khalqika' is restricted to eating the bird, not absolute superiority.",
+        "chain": [
+          "Classical Sunni Mutakallimin -> Shah Abdul Aziz Dehlavi"
+        ]
+      }
+    ],
+    "rebuttal_lineage_cited": [
+      {
+        "prior_scholar": "Jalal al-Din al-Suyuti",
+        "work": "Al-La'ali al-Masnu'a fi al-Ahadith al-Mawdu'a",
+        "what_they_refuted": "Refuted Ibn al-Jawzi's claim that Hadith al-Tayr is fabricated, proving it has numerous authentic chains."
+      },
+      {
+        "prior_scholar": "Ibn Hajar al-Asqalani",
+        "work": "Various Hadith commentaries and Rijal works",
+        "what_they_refuted": "Refuted the extreme weakening of hadiths praising Ahl al-Bayt by scholars like Ibn al-Jawzi."
+      }
+    ],
+    "scholars_mentioned": [
+      "Shah Abdul Aziz Dehlavi",
+      "Ibn al-Jawzi",
+      "Ibn Taymiyyah",
+      "Al-Dhahabi",
+      "Al-Hakim al-Naysaburi",
+      "Al-Tirmidhi",
+      "Al-Nasa'i",
+      "Al-Tabarani",
+      "Al-Daraqutni",
+      "Al-Khatib al-Baghdadi",
+      "Al-Suyuti",
+      "Ibn Hajar al-Asqalani",
+      "Al-Sakhawi",
+      "Abu Nu'aym al-Isfahani",
+      "Al-Baghawi",
+      "Ibn Khallikan",
+      "Al-Subki",
+      "Al-Sam'ani"
+    ],
+    "books_cited": [
+      "Tuhfat al-Ithna Ashariyya",
+      "Al-Mawdu'at",
+      "Minhaj al-Sunnah",
+      "Al-Mustadrak 'ala al-Sahihayn",
+      "Sunan al-Tirmidhi",
+      "Khasa'is Amir al-Mu'minin",
+      "Al-Mu'jam al-Kabir",
+      "Al-Mu'jam al-Awsat",
+      "Al-Mu'jam al-Saghir",
+      "Tarikh Baghdad",
+      "Hilyat al-Awliya",
+      "Al-La'ali al-Masnu'a",
+      "Tadhkirat al-Huffaz",
+      "Mizan al-I'tidal",
+      "Tahdhib al-Tahdhib",
+      "Wafayat al-A'yan",
+      "Tabaqat al-Shafi'iyya"
+    ]
+  },
+  {
+    "volume_number": 14,
+    "hadith_defended": "Hadith of the City of Knowledge (Madinat al-Ilm)",
+    "volume_section": "Sanad",
+    "overview": "This volume is dedicated to defending the chain of transmission (Sanad) of the Hadith 'I am the city of knowledge and Ali is its gate'. The author exhaustively refutes Shah Abdul Aziz Dehlavi's claim that the hadith is fabricated by compiling a massive list of Sunni scholars across centuries who narrated, authenticated, or defended the hadith, while also providing detailed biographical dossiers to vindicate key narrators.",
+    "responses_to_dehlavi": [
+      {
+        "dehlavi_claim_addressed": "Hadith of the City of Knowledge: Shia say: Ali is the gate to the Prophet's knowledge, making him the most knowledgeable and thus the rightful Imam. Dehlavi's attack: Declares it fabricated and rejected, citing multiple major Sunni Hadith masters.",
+        "author_response_summary": "The author demonstrates that the claim of fabrication originated primarily with Ibn al-Jawzi, whose judgment was explicitly rejected by subsequent major Sunni Hadith masters like Ibn Hajar al-Asqalani, Al-Suyuti, and Al-Sakhawi. The author proves the hadith is considered Sahih or Hasan by Sunni standards and defends the integrity of its narrators, particularly Abu al-Salt al-Harawi.",
+        "response_type": "SANAD_DEFENSE",
+        "key_evidence_cited": [
+          "Al-Mustadrak by Al-Hakim al-Nishapuri (authenticated it)",
+          "Al-La'ali al-Masnu'ah by Al-Suyuti (refuted fabrication)",
+          "Lisan al-Mizan and Fatawa by Ibn Hajar al-Asqalani (refuted fabrication)",
+          "Statements of Yahya bin Ma'in authenticating Abu al-Salt al-Harawi"
+        ]
+      }
+    ],
+    "biographical_dossiers": [
+      {
+        "scholar_name": "Abu al-Salt al-Harawi (Abd al-Salam bin Salih)",
+        "rijal_sources_cited": [
+          "Tarikh Baghdad",
+          "Tahdhib al-Tahdhib",
+          "Statements of Yahya bin Ma'in"
+        ],
+        "evaluation_summary": "The author defends Abu al-Salt against accusations of lying and fabrication, proving his reliability (Wathaqah) through the endorsements of strict Rijal scholars like Yahya bin Ma'in, thereby validating his narration of the hadith."
+      },
+      {
+        "scholar_name": "Yahya bin Ma'in",
+        "rijal_sources_cited": [
+          "Tarikh Baghdad",
+          "Tahdhib al-Kamal",
+          "Tadhkirat al-Huffaz"
+        ],
+        "evaluation_summary": "The author establishes Yahya bin Ma'in's supreme authority in the science of Rijal to emphasize the weight of his authentication of the hadith and its narrators."
+      }
+    ],
+    "argument_lineage_traced": [
+      {
+        "claim": "The Hadith of the City of Knowledge is fabricated (Mawdu').",
+        "chain": [
+          "Ibn al-Jawzi (d. 597) in Al-Mawdu'at",
+          "Shah Abdul Aziz Dehlavi in Tuhfat al-Ithna Ashariyya"
+        ]
+      }
+    ],
+    "rebuttal_lineage_cited": [
+      {
+        "prior_scholar": "Ibn Hajar al-Asqalani",
+        "work": "Lisan al-Mizan / Fatawa",
+        "what_they_refuted": "Refuted Ibn al-Jawzi's classification of the hadith as fabricated, stating it has numerous chains that elevate it to the level of Hasan."
+      },
+      {
+        "prior_scholar": "Jalal al-Din al-Suyuti",
+        "work": "Al-La'ali al-Masnu'ah / Al-Ta'aqqubat",
+        "what_they_refuted": "Explicitly criticized Ibn al-Jawzi for including this hadith in his book of fabrications, proving it is Hasan."
+      },
+      {
+        "prior_scholar": "Al-Sakhawi",
+        "work": "Al-Maqasid al-Hasanah",
+        "what_they_refuted": "Confirmed the hadith has a basis and is at least Hasan, rejecting the claim of fabrication."
+      }
+    ],
+    "scholars_mentioned": [
+      "Yahya bin Ma'in",
+      "Abu al-Salt al-Harawi",
+      "Ibn al-Jawzi",
+      "Al-Hakim al-Nishapuri",
+      "Al-Khatib al-Baghdadi",
+      "Ibn Hajar al-Asqalani",
+      "Jalal al-Din al-Suyuti",
+      "Al-Sakhawi",
+      "Al-Tirmidhi",
+      "Al-Tabari",
+      "Ibn Hajar al-Haytami",
+      "Al-Muttaqi al-Hindi",
+      "Abu Mu'awiyah al-Darir"
+    ],
+    "books_cited": [
+      "Tuhfat al-Ithna Ashariyya",
+      "Al-Mawdu'at",
+      "Al-Mustadrak 'ala al-Sahihayn",
+      "Tarikh Baghdad",
+      "Lisan al-Mizan",
+      "Al-La'ali al-Masnu'ah",
+      "Al-Maqasid al-Hasanah",
+      "Jami' al-Tirmidhi",
+      "Al-Sawa'iq al-Muhriqah",
+      "Kanz al-Ummal",
+      "Tahdhib al-Tahdhib"
+    ]
+  },
+  {
+    "volume_number": 15,
+    "hadith_defended": "Hadith of the City of Knowledge (حديث مدينة العلم)",
+    "volume_section": "Sanad and Dalalah",
+    "overview": "This volume is dedicated to defending the Hadith of the City of Knowledge ('I am the city of knowledge and Ali is its gate'). The author systematically refutes Shah Abdul Aziz Dehlavi's claim that the hadith is fabricated (Mawdu'). He achieves this by analyzing the chains of transmission, citing major Sunni hadith masters who authenticated it or graded it Hasan (such as Al-Hafiz Al-Ala'i, Ibn Hajar al-Asqalani, and Al-Suyuti), and severely critiquing Ibn al-Jawzi for incorrectly including it in his book of fabricated hadiths. The volume also deconstructs and mocks counter-hadiths fabricated by Sunnis to include Abu Bakr, Umar, and Uthman as the 'roof' or 'walls' of the city.",
+    "responses_to_dehlavi": [
+      {
+        "dehlavi_claim_addressed": "Hadith of the City of Knowledge: Declares it fabricated and rejected, citing multiple major Sunni Hadith masters.",
+        "author_response_summary": "The author proves that the claim of fabrication originated primarily from Ibn al-Jawzi, whose strictness and errors in 'Al-Mawdu'at' were heavily criticized and refuted by later, more prominent Sunni Hadith masters like Al-Hafiz Al-Ala'i, Ibn Hajar al-Asqalani, and Jalal al-Din al-Suyuti. The author provides multiple authentic chains (turuq) from Sunni sources (e.g., Al-Hakim, Al-Tirmidhi, Yahya bin Ma'in) to prove the hadith is at least Hasan (good) or Sahih (authentic).",
+        "response_type": "SANAD_DEFENSE",
+        "key_evidence_cited": [
+          "Al-Mustadrak by Al-Hakim",
+          "Jami' al-Tirmidhi",
+          "Al-La'ali al-Masnu'ah by Al-Suyuti",
+          "Statements of Yahya bin Ma'in authenticating the narrator Abu Mu'awiyah",
+          "Al-Maqasid al-Hasanah by Al-Sakhawi"
+        ]
+      },
+      {
+        "dehlavi_claim_addressed": "Hadith of the City of Knowledge: Declares it fabricated and rejected, citing multiple major Sunni Hadith masters.",
+        "author_response_summary": "The author exposes the absurdity of Sunni counter-fabrications that attempt to dilute Ali's merit by adding 'Abu Bakr is its foundation, Umar its walls, and Uthman its roof.' He uses Sunni Rijal criticism to prove these additions are the actual fabrications, while the original hadith restricting the gate to Ali is authentic.",
+        "response_type": "CONTRADICTION_EXPOSURE",
+        "key_evidence_cited": [
+          "Lisan al-Mizan by Ibn Hajar",
+          "Tarikh Baghdad by Al-Khatib al-Baghdadi",
+          "Al-Mawdu'at by Ibn al-Jawzi (used against the Sunni additions)"
+        ]
+      }
+    ],
+    "biographical_dossiers": [
+      {
+        "scholar_name": "Ibn al-Jawzi (ابن الجوزي)",
+        "rijal_sources_cited": [
+          "Al-La'ali al-Masnu'ah",
+          "Tadrib al-Rawi"
+        ],
+        "evaluation_summary": "Evaluated negatively for his excessive strictness (tashaddud) and carelessness in declaring authentic hadiths as fabricated in his book 'Al-Mawdu'at'. The author shows how later Sunni scholars universally recognized his errors regarding the Hadith of the City of Knowledge."
+      },
+      {
+        "scholar_name": "Ikrimah, the freed slave of Ibn Abbas (عكرمة مولى ابن عباس)",
+        "rijal_sources_cited": [
+          "Tahdhib al-Tahdhib",
+          "Mizan al-I'tidal",
+          "Tarikh Baghdad"
+        ],
+        "evaluation_summary": "Extensively analyzed to show his Kharijite (Ibadi/Sufrite) leanings, his acceptance of gifts from rulers, and the fact that many major scholars (including Malik and Ibn Sirin) rejected his hadiths or called him a liar, undermining Sunni reliance on him in other contexts."
+      },
+      {
+        "scholar_name": "Ibn Abd al-Hadi (ابن عبد الهادي)",
+        "rijal_sources_cited": [
+          "Tabaqat al-Huffaz",
+          "Al-Durar al-Kaminah"
+        ],
+        "evaluation_summary": "A detailed biography is provided, listing his birth, death, teachers, and extensive works, evaluating him as a strict Hanbali/Taymi scholar whose anti-Shia bias affects his hadith grading."
+      },
+      {
+        "scholar_name": "Qatadah (قتادة)",
+        "rijal_sources_cited": [
+          "Tahdhib al-Tahdhib",
+          "Mizan al-I'tidal"
+        ],
+        "evaluation_summary": "Evaluated for his practice of Tadlis (concealing defects in the chain) and his theological leanings (Qadariyyah), questioning the absolute reliability of his solitary reports."
+      }
+    ],
+    "argument_lineage_traced": [
+      {
+        "claim": "The Hadith of the City of Knowledge is a fabrication (Mawdu').",
+        "chain": [
+          "Ibn al-Jawzi (d. 597 AH) in Al-Mawdu'at",
+          "Ibn Taymiyyah (d. 728 AH)",
+          "Shah Abdul Aziz Dehlavi (d. 1239 AH)"
+        ]
+      }
+    ],
+    "rebuttal_lineage_cited": [
+      {
+        "prior_scholar": "Al-Hafiz Al-Ala'i",
+        "work": "Al-Naqd al-Sahih",
+        "what_they_refuted": "Refuted Ibn al-Jawzi's claim that the Hadith of the City of Knowledge is fabricated, proving it has valid chains."
+      },
+      {
+        "prior_scholar": "Ibn Hajar al-Asqalani",
+        "work": "Lisan al-Mizan / Fatawa",
+        "what_they_refuted": "Confirmed the hadith has a basis and many chains, refuting the absolute ruling of fabrication."
+      },
+      {
+        "prior_scholar": "Jalal al-Din al-Suyuti",
+        "work": "Al-La'ali al-Masnu'ah fi al-Ahadith al-Mawdu'ah",
+        "what_they_refuted": "Systematically dismantled Ibn al-Jawzi's arguments against the hadith, proving it is Hasan (good) and Sahih (authentic) through corroborating chains."
+      }
+    ],
+    "scholars_mentioned": [
+      "Shah Abdul Aziz Dehlavi",
+      "Ibn al-Jawzi",
+      "Al-Hafiz Al-Ala'i",
+      "Ibn Hajar al-Asqalani",
+      "Jalal al-Din al-Suyuti",
+      "Al-Sakhawi",
+      "Al-Hakim al-Nishapuri",
+      "Al-Tirmidhi",
+      "Yahya bin Ma'in",
+      "Ahmad bin Hanbal",
+      "Al-Daraqutni",
+      "Al-Khatib al-Baghdadi",
+      "Al-Dhahabi",
+      "Ibn Taymiyyah",
+      "Ibn Abd al-Hadi",
+      "Abu Hatim al-Razi",
+      "Abu Zur'ah",
+      "Ikrimah",
+      "Qatadah",
+      "Al-A'mash",
+      "Abu Mu'awiyah"
+    ],
+    "books_cited": [
+      "Tuhfat al-Ithna Ashariyya",
+      "Al-Mawdu'at",
+      "Al-La'ali al-Masnu'ah",
+      "Al-Mustadrak ala al-Sahihayn",
+      "Jami' al-Tirmidhi",
+      "Tarikh Baghdad",
+      "Lisan al-Mizan",
+      "Tahdhib al-Tahdhib",
+      "Mizan al-I'tidal",
+      "Al-Maqasid al-Hasanah",
+      "Al-Sawa'iq al-Muhriqah",
+      "Tabaqat al-Huffaz",
+      "Al-Durar al-Kaminah"
+    ]
+  },
+  {
+    "volume_number": 16,
+    "hadith_defended": "Hadith of Resemblance to Prophets (Hadith al-Tashbih)",
+    "volume_section": "Sanad and Dalalah",
+    "overview": "This volume is dedicated to defending the 'Hadith of Resemblance' (Hadith al-Tashbih), wherein the Prophet Muhammad (pbuh) said: 'Whoever wishes to look at Adam in his knowledge, Nuh in his piety, Ibrahim in his forbearance, Musa in his awe, and Isa in his worship, let him look at Ali bin Abi Talib.' The author systematically dismantles Shah Abdul Aziz Dehlavi's claim that Allamah Hilli fabricated this hadith and falsely attributed it to Sunni sources. The author provides an exhaustive catalog of major Sunni Hadith masters who narrated this tradition, accompanied by extensive biographical dossiers proving their reliability. Furthermore, he engages in a deep linguistic and rhetorical analysis of 'Tashbih' (simile) to refute Dehlavi's argument that resemblance to Prophets necessitates claiming Prophethood.",
+    "responses_to_dehlavi": [
+      {
+        "dehlavi_claim_addressed": "Accuses Allamah Hilli of lying and falsely attributing the hadith to Sunni sources, claiming it is a Shia fabrication.",
+        "author_response_summary": "The author proves that the hadith is widely recorded in authoritative Sunni texts by major Sunni Hadith masters and historians. He lists dozens of prominent Sunni scholars who transmitted it, demonstrating that Dehlavi's accusation of fabrication against Allamah Hilli is entirely baseless and exposes Dehlavi's ignorance of his own sect's literature.",
+        "response_type": "COUNTER_CITATION",
+        "key_evidence_cited": [
+          "Musnad Ahmad bin Hanbal",
+          "Tarikh Baghdad by Al-Khatib al-Baghdadi",
+          "Hilyat al-Awliya by Abu Nu'aym al-Isfahani",
+          "Manaqib by Al-Khatib al-Khwarizmi",
+          "Al-Riyadh al-Nadirah by Muhibb al-Din al-Tabari",
+          "Tarikh Dimashq by Ibn Asakir"
+        ]
+      },
+      {
+        "dehlavi_claim_addressed": "If Ali is equal to the Prophets in their greatest attributes, he would share in Prophethood, receiving revelation, which is absurd.",
+        "author_response_summary": "The author uses the sciences of Arabic rhetoric (Ilm al-Bayan) to explain the rules of Tashbih (simile) and Isti'arah (metaphor). He argues that comparing someone to a Prophet in a specific attribute (Wajh al-Shabah) does not necessitate absolute equality in all respects, nor does it confer Prophethood. He proves that resemblance in virtues establishes superiority for Imamate, not a claim to Prophethood.",
+        "response_type": "LINGUISTIC_ANALYSIS",
+        "key_evidence_cited": [
+          "Rules of Ilm al-Bayan (Rhetoric)",
+          "Classical Arabic grammar and lexicon regarding the particles of comparison (Kaf, Mithl)"
+        ]
+      },
+      {
+        "dehlavi_claim_addressed": "The concept of comparing companions to Prophets is absurd and leads to heretical conclusions.",
+        "author_response_summary": "The author exposes a double standard by pointing out that Sunni hadith literature contains numerous reports where the Prophet allegedly compared Abu Bakr and Umar to various Prophets (e.g., Abu Bakr to Ibrahim and Isa; Umar to Nuh and Musa). If such comparisons do not make Abu Bakr and Umar Prophets, then the same logic applies to Ali.",
+        "response_type": "CONTRADICTION_EXPOSURE",
+        "key_evidence_cited": [
+          "Sunni hadiths comparing Abu Bakr and Umar to Prophets"
+        ]
+      }
+    ],
+    "biographical_dossiers": [
+      {
+        "scholar_name": "Abd al-Razzaq al-San'ani",
+        "rijal_sources_cited": [
+          "Tahdhib al-Kamal",
+          "Mizan al-I'tidal",
+          "Tarikh Baghdad"
+        ],
+        "evaluation_summary": "Highly positive. Established as a major Hafiz and a pillar of Sunni hadith transmission, proving the chains containing him are authentic according to Sunni standards."
+      },
+      {
+        "scholar_name": "Ibn Shihab al-Zuhri",
+        "rijal_sources_cited": [
+          "Tahdhib al-Tahdhib",
+          "Tabaqat Ibn Sa'd"
+        ],
+        "evaluation_summary": "Highly positive. Confirmed as one of the greatest Tabi'in and a central figure in Sunni hadith, validating the early transmission of the hadith."
+      },
+      {
+        "scholar_name": "Sa'id bin al-Musayyab",
+        "rijal_sources_cited": [
+          "Tahdhib al-Tahdhib",
+          "Tabaqat Ibn Sa'd"
+        ],
+        "evaluation_summary": "Highly positive. Recognized as the foremost of the Tabi'in in Madinah, further strengthening the foundational chain of the narration."
+      },
+      {
+        "scholar_name": "Ahmad bin Hanbal",
+        "rijal_sources_cited": [
+          "Tarikh Baghdad",
+          "Tabaqat al-Hanabilah"
+        ],
+        "evaluation_summary": "Highly positive. Acknowledged as the Imam of the Hanbali school and a premier Hadith master, whose inclusion of the hadith in his works serves as a definitive proof against Dehlavi."
+      },
+      {
+        "scholar_name": "Abu Hatim al-Razi",
+        "rijal_sources_cited": [
+          "Al-Jarh wa al-Ta'dil",
+          "Tabaqat al-Shafi'iyyah"
+        ],
+        "evaluation_summary": "Highly positive. Established as a rigorous hadith critic whose transmission of the hadith adds immense weight to its authenticity."
+      },
+      {
+        "scholar_name": "Abu Nu'aym al-Isfahani",
+        "rijal_sources_cited": [
+          "Tabaqat al-Shafi'iyyah",
+          "Siyar A'lam al-Nubala"
+        ],
+        "evaluation_summary": "Highly positive. Defended against detractors; established as a major Hafiz and author of Hilyat al-Awliya, a key source for the hadith."
+      },
+      {
+        "scholar_name": "Al-Khatib al-Khwarizmi",
+        "rijal_sources_cited": [
+          "Al-Jawahir al-Mudiyyah",
+          "Tabaqat al-Hanafiyyah"
+        ],
+        "evaluation_summary": "Highly positive. Established as a major Hanafi scholar and orator, refuting any claims that his Manaqib is a Shia work."
+      },
+      {
+        "scholar_name": "Muhibb al-Din al-Tabari",
+        "rijal_sources_cited": [
+          "Tabaqat al-Shafi'iyyah",
+          "Tarikh al-Islam"
+        ],
+        "evaluation_summary": "Highly positive. Confirmed as a leading Shafi'i jurist and Hafiz of Makkah, whose work Al-Riyadh al-Nadirah is a definitive Sunni source."
+      }
+    ],
+    "argument_lineage_traced": [
+      {
+        "claim": "The Hadith of Resemblance is a Shia fabrication falsely attributed to Sunni books.",
+        "chain": [
+          "Ibn Taymiyyah (d. 728 AH)",
+          "Shah Abdul Aziz Dehlavi (d. 1239 AH)"
+        ]
+      }
+    ],
+    "rebuttal_lineage_cited": [
+      {
+        "prior_scholar": "Allamah Hilli",
+        "work": "Minhaj al-Karamah",
+        "what_they_refuted": "Cited the Hadith of Resemblance from Sunni sources to prove Ali's absolute superiority and right to Imamate."
+      }
+    ],
+    "scholars_mentioned": [
+      "Abd al-Razzaq al-San'ani",
+      "Ibn Shihab al-Zuhri",
+      "Sa'id bin al-Musayyab",
+      "Abu Hurayrah",
+      "Ahmad bin Hanbal",
+      "Abu Hatim al-Razi",
+      "Ibn Mardawayh",
+      "Abu Nu'aym al-Isfahani",
+      "Al-Bayhaqi",
+      "Al-Khatib al-Khwarizmi",
+      "Muhibb al-Din al-Tabari",
+      "Ibn Asakir",
+      "Fakhr al-Din al-Razi",
+      "Ibn Taymiyyah",
+      "Ibn Hajar al-Asqalani",
+      "Al-Khatib al-Baghdadi",
+      "Al-Dhahabi"
+    ],
+    "books_cited": [
+      "Musnad Ahmad",
+      "Hilyat al-Awliya",
+      "Manaqib al-Khwarizmi",
+      "Al-Riyadh al-Nadirah",
+      "Tarikh Baghdad",
+      "Tarikh Dimashq",
+      "Sunan al-Bayhaqi",
+      "Minhaj al-Karamah",
+      "Tuhfat al-Ithna Ashariyya",
+      "Tahdhib al-Kamal",
+      "Mizan al-I'tidal",
+      "Tabaqat al-Shafi'iyyah",
+      "Siyar A'lam al-Nubala"
+    ]
+  },
+  {
+    "volume_number": 17,
+    "hadith_defended": "Hadith of the Light (Nur)",
+    "volume_section": "Sanad (Chains of Transmission)",
+    "overview": "This volume is dedicated to refuting Shah Abdul Aziz Dehlavi's claim that the Hadith of Nur (which states that the Prophet Muhammad and Imam Ali were created from the same pre-eternal light) is a fabrication. Mir Hamid Husain systematically lists dozens of prominent Sunni scholars, Hadith masters, and historians who have narrated this hadith in their works. He provides extensive biographical dossiers (tarajim) for each scholar using Sunni Rijal sources to prove their reliability, thereby demonstrating that the hadith has multiple authentic chains and is widely accepted in classical Sunni literature.",
+    "responses_to_dehlavi": [
+      {
+        "dehlavi_claim_addressed": "Hadith of the Light (Nur): Shia say: Ali and the Prophet were created from the same pre-eternal light, proving Ali's absolute superiority and right to succession. Dehlavi's attack: Declares it fabricated, naming specific liars in the chain.",
+        "author_response_summary": "The author refutes Dehlavi's claim of fabrication by demonstrating that the hadith is not reliant on a single weak chain. He compiles a massive list of highly authoritative Sunni scholars—spanning several centuries—who narrated the Hadith of Nur in their authentic collections. By establishing the impeccable Sunni credentials of these narrators through Sunni Rijal books, he proves that Dehlavi's dismissal is academically flawed and ignores the mass transmission (Tawatur/Istifadah) of the hadith in Sunni corpus.",
+        "response_type": "SANAD_DEFENSE | BIOGRAPHICAL_DOSSIER | COUNTER_CITATION",
+        "key_evidence_cited": [
+          "Fada'il al-Sahaba by Ahmad bin Hanbal",
+          "Tarikh Dimashq by Ibn Asakir",
+          "Manaqib by Ibn Maghazili",
+          "Kifayat al-Talib by Al-Ganji al-Shafi'i",
+          "Al-Riyad al-Nadirah by Muhibb al-Din al-Tabari",
+          "Fara'id al-Simtayn by Al-Hamawini"
+        ]
+      }
+    ],
+    "biographical_dossiers": [
+      {
+        "scholar_name": "Ahmad bin Hanbal",
+        "rijal_sources_cited": [
+          "Tarikh Baghdad",
+          "Tahdhib al-Kamal",
+          "Tabaqat al-Hanabilah"
+        ],
+        "evaluation_summary": "Highly positive. Established as the Imam of the Hanbali school and a foremost authority in Hadith, proving that his narration of the Hadith of Nur in 'Fada'il al-Sahaba' carries immense weight."
+      },
+      {
+        "scholar_name": "Ibn Asakir (Ali bin al-Hasan)",
+        "rijal_sources_cited": [
+          "Siyar A'lam al-Nubala",
+          "Tabaqat al-Shafi'iyya",
+          "Wafayat al-A'yan"
+        ],
+        "evaluation_summary": "Highly positive. Recognized as the Hafiz of the Levant and a meticulous Hadith master. His inclusion of the hadith in 'Tarikh Dimashq' is used as strong evidence of its Sunni transmission."
+      },
+      {
+        "scholar_name": "Al-Ganji al-Shafi'i (Muhammad bin Yusuf)",
+        "rijal_sources_cited": [
+          "Tabaqat al-Shafi'iyya",
+          "Various historical chronicles"
+        ],
+        "evaluation_summary": "Positive. Validated as a reliable Shafi'i scholar and Hafiz, defending his work 'Kifayat al-Talib' against anti-Shia bias."
+      },
+      {
+        "scholar_name": "Muhibb al-Din al-Tabari",
+        "rijal_sources_cited": [
+          "Tabaqat al-Shafi'iyya",
+          "Shadharat al-Dhahab"
+        ],
+        "evaluation_summary": "Positive. Confirmed as the Shaykh of the Haram in Mecca and a leading Shafi'i jurist and Hadith scholar."
+      },
+      {
+        "scholar_name": "Al-Hamawini (Ibrahim bin Muhammad)",
+        "rijal_sources_cited": [
+          "Tadhkirat al-Huffaz",
+          "Al-Durar al-Kaminah"
+        ],
+        "evaluation_summary": "Positive. Established as a great Hadith master (Hafiz) and Sufi Shaykh, validating his narrations in 'Fara'id al-Simtayn'."
+      }
+    ],
+    "argument_lineage_traced": [
+      {
+        "claim": "The Hadith of Nur is a fabrication due to specific weak narrators in its chain.",
+        "chain": [
+          "Ibn al-Jawzi (d. 597) -> Al-Dhahabi (d. 748) -> Shah Abdul Aziz Dehlavi (d. 1239)"
+        ]
+      }
+    ],
+    "rebuttal_lineage_cited": [
+      {
+        "prior_scholar": "Jalal al-Din al-Suyuti",
+        "work": "Al-La'ali al-Masnu'ah fi al-Ahadith al-Mawdu'ah",
+        "what_they_refuted": "Refuted Ibn al-Jawzi's overly strict methodology of declaring hadiths fabricated (Mawdu') simply because of a single weak chain, showing that many such hadiths have corroborating authentic chains."
+      }
+    ],
+    "scholars_mentioned": [
+      "Shah Abdul Aziz Dehlavi",
+      "Ahmad bin Hanbal",
+      "Ibn Maghazili",
+      "Akhtab Khwarizm",
+      "Ibn Asakir",
+      "Ibn al-Jawzi",
+      "Sibt Ibn al-Jawzi",
+      "Al-Ganji al-Shafi'i",
+      "Muhibb al-Din al-Tabari",
+      "Ibn Abi al-Hadid",
+      "Al-Hamawini",
+      "Ibn Sabbagh al-Maliki",
+      "Ibn Hajar al-Haytami",
+      "Al-Muttaqi al-Hindi",
+      "Al-Qunduzi al-Hanafi",
+      "Jalal al-Din al-Suyuti",
+      "Al-Dhahabi"
+    ],
+    "books_cited": [
+      "Tuhfat al-Ithna Ashariyya",
+      "Fada'il al-Sahaba",
+      "Manaqib (Ibn Maghazili)",
+      "Manaqib (Khwarizmi)",
+      "Tarikh Dimashq",
+      "Al-Mawdu'at",
+      "Tadhkirat al-Khawass",
+      "Kifayat al-Talib",
+      "Al-Riyad al-Nadirah",
+      "Sharh Nahj al-Balagha",
+      "Fara'id al-Simtayn",
+      "Al-Fusul al-Muhimmah",
+      "Al-Sawa'iq al-Muhriqah",
+      "Kanz al-Ummal",
+      "Yanabi' al-Mawaddah",
+      "Al-La'ali al-Masnu'ah"
+    ]
+  },
+  {
+    "volume_number": 18,
+    "hadith_defended": "Hadith of Thaqalayn",
+    "volume_section": "Sanad",
+    "overview": "This volume focuses on proving the mass-transmitted (Mutawatir) status of Hadith al-Thaqalayn through Sunni sources. The author systematically dismantles Dehlavi's attempt to downplay the hadith. Dehlavi had claimed that the Shia rely solely on Zayd bin Arqam's narration and deliberately omitted key phrases like 'itrati' (my progeny) and 'lan yatafarraqa' (they shall not separate) from his presentation of the hadith to weaken the Shia argument for the Imamate and Ismah of the Ahl al-Bayt. In response, the author catalogs 187 prominent Sunni scholars across 12 centuries who narrated the hadith with the exact wording that supports the Shia doctrine, providing extensive biographical dossiers (tarajim) from Sunni Rijal books to prove the absolute reliability of these narrators.",
+    "responses_to_dehlavi": [
+      {
+        "dehlavi_claim_addressed": "Dehlavi accepts the hadith but argues Sunnis are its true practitioners, and attempts to weaken the Shia argument by implying the hadith is an isolated report primarily from Zayd bin Arqam, omitting its Mutawatir status.",
+        "author_response_summary": "The author proves the hadith is Mutawatir by listing 187 Sunni scholars from the 2nd to the 13th century who narrated it. He shows it was narrated not just by Zayd bin Arqam, but also by Abu Sa'id al-Khudri, Zayd bin Thabit, Jabir bin 'Abdullah, Hudhayfah bin Asid, and 'Ali bin Abi Talib.",
+        "response_type": "SANAD_DEFENSE",
+        "key_evidence_cited": [
+          "Lists of narrators categorized by century, starting from Sa'id bin Masruq al-Thawri (d. 126 AH) up to scholars of the 13th century."
+        ]
+      },
+      {
+        "dehlavi_claim_addressed": "Dehlavi omitted the word 'itrati' (my progeny) and the phrase 'lan yatafarraqa hatta yarida 'alayya al-hawd' (they shall not separate until they meet me at the Pond) from his citation of the hadith to avoid the implication of the Ahl al-Bayt's infallibility.",
+        "author_response_summary": "The author exposes this academic dishonesty (takhdimat) by quoting the exact texts from major Sunni Hadith books, demonstrating that these specific phrases are integral, authentic parts of the hadith as recorded by top Sunni authorities.",
+        "response_type": "CONTRADICTION_EXPOSURE",
+        "key_evidence_cited": [
+          "Sahih Muslim",
+          "Sahih Tirmidhi",
+          "Musnad Ahmad bin Hanbal",
+          "Al-Mustadrak 'ala al-Sahihayn"
+        ]
+      }
+    ],
+    "biographical_dossiers": [
+      {
+        "scholar_name": "'Abd al-Malik bin Abi Sulayman al-'Arzami",
+        "rijal_sources_cited": [
+          "Al-Thiqat (Ibn Hibban)",
+          "Asma' Rijal al-Sahihayn (Ibn Tahir)",
+          "Al-Ansab (Al-Sam'ani)",
+          "Al-Kamal ('Abd al-Ghani al-Maqdisi)",
+          "Tadhkirat al-Huffaz (Dhahabi)",
+          "Tahdhib al-Tahdhib (Ibn Hajar)"
+        ],
+        "evaluation_summary": "Highly positive. Evaluated as a major Hafiz and one of the best scholars of Kufa. Ibn Hajar and Dhahabi defend him against isolated criticisms regarding his memory, establishing him as a reliable proof (Hujjah)."
+      },
+      {
+        "scholar_name": "Sulayman bin Mihran al-A'mash",
+        "rijal_sources_cited": [
+          "Al-Thiqat (Ibn Hibban)",
+          "Asma' Rijal al-Sahihayn (Ibn Tahir)",
+          "Al-Ansab (Al-Sam'ani)",
+          "Al-Kamal ('Abd al-Ghani al-Maqdisi)",
+          "Wafayat al-A'yan (Ibn Khallikan)",
+          "Tadhkirat al-Huffaz (Dhahabi)",
+          "Tahdhib al-Tahdhib (Ibn Hajar)",
+          "Tabaqat al-Huffaz (Suyuti)"
+        ],
+        "evaluation_summary": "Extremely positive. Described as a massive pillar of Hadith, a 'Sign of Islam', and the most knowledgeable of his time in Kufa regarding Quran and Fara'id. Universally accepted as a top-tier reliable narrator."
+      },
+      {
+        "scholar_name": "Muhammad bin Ishaq bin Yasar al-Madani",
+        "rijal_sources_cited": [
+          "Al-Thiqat (Ibn Hibban)",
+          "Tadhkirat Khawas al-Ummah (Sibt Ibn al-Jawzi)",
+          "Wafayat al-A'yan (Ibn Khallikan)",
+          "Tahdhib al-Kamal (Al-Mizzi)",
+          "Al-Kashif (Dhahabi)",
+          "Tabaqat al-Shafi'iyyah (Subki)"
+        ],
+        "evaluation_summary": "Positive. Acknowledged as the Imam of Maghazi (Prophetic biographies). The author cites multiple Sunni authorities defending him against Imam Malik's harsh criticism, proving his hadiths are considered 'Hasan' or 'Sahih' by major scholars like Ahmad bin Hanbal and Shu'bah."
+      },
+      {
+        "scholar_name": "Abu 'Awanah Waddah bin 'Abdullah al-Yashkuri",
+        "rijal_sources_cited": [
+          "Asma' Rijal al-Sahihayn (Ibn Tahir)",
+          "Tahdhib al-Kamal (Al-Mizzi)",
+          "Tadhkirat al-Huffaz (Dhahabi)",
+          "Taqrib al-Tahdhib (Ibn Hajar)",
+          "Tabaqat al-Huffaz (Suyuti)"
+        ],
+        "evaluation_summary": "Positive. Evaluated as a reliable Hafiz with a very correct book. Scholars noted that while he might make mistakes if narrating from memory, his written records were impeccable."
+      },
+      {
+        "scholar_name": "Muslim bin al-Hajjaj al-Naysaburi",
+        "rijal_sources_cited": [
+          "Wafayat al-A'yan (Ibn Khallikan)",
+          "Tadhkirat al-Huffaz (Dhahabi)",
+          "Al-'Ibar (Dhahabi)",
+          "Mir'at al-Janan (Yafi'i)",
+          "Tabaqat al-Huffaz (Suyuti)"
+        ],
+        "evaluation_summary": "Extremely positive. Universally recognized as the author of the Sahih, a pillar of Islam, and one of the greatest Hadith masters in history."
+      }
+    ],
+    "argument_lineage_traced": [
+      {
+        "claim": "The continuous, mass-transmitted (Mutawatir) status of Hadith al-Thaqalayn across all generations of Sunni scholarship.",
+        "chain": [
+          "2nd Century Scholars (e.g., Sa'id bin Masruq, al-A'mash, Isra'il bin Yunus)",
+          "3rd Century Scholars (e.g., Ahmad bin Hanbal, Muslim, Abu Dawud, Tirmidhi)",
+          "4th Century Scholars (e.g., Al-Nasa'i, Al-Tabari, Ibn Khuzaymah)",
+          "5th Century Scholars (e.g., Al-Hakim, Al-Bayhaqi, Ibn 'Abd al-Barr)",
+          "Subsequent centuries up to the 13th Century"
+        ]
+      }
+    ],
+    "rebuttal_lineage_cited": [
+      {
+        "prior_scholar": "Ibn Hajar al-'Asqalani",
+        "work": "Tahdhib al-Tahdhib",
+        "what_they_refuted": "Refuted isolated criticisms against narrators like 'Abd al-Malik bin Abi Sulayman by citing the consensus of major Hadith masters (like Ahmad and Yahya bin Ma'in) who declared him a reliable proof."
+      },
+      {
+        "prior_scholar": "Ibn Hibban",
+        "work": "Al-Thiqat",
+        "what_they_refuted": "Defended Muhammad bin Ishaq against the harsh attacks of Malik bin Anas, explaining the personal reasons behind the conflict and affirming Ibn Ishaq's reliability in Hadith."
+      }
+    ],
+    "scholars_mentioned": [
+      "Shah Abdul Aziz Dehlavi",
+      "Zayd bin Arqam",
+      "Abu Sa'id al-Khudri",
+      "Zayd bin Thabit",
+      "Jabir bin 'Abdullah",
+      "Hudhayfah bin Asid",
+      "'Ali bin Abi Talib",
+      "Ibn Hibban",
+      "Al-Dhahabi",
+      "Ibn Hajar al-'Asqalani",
+      "Al-Sam'ani",
+      "Al-Mizzi",
+      "Al-Suyuti",
+      "Al-Yafi'i",
+      "Ibn Khallikan",
+      "Ahmad bin Hanbal",
+      "Muslim bin al-Hajjaj",
+      "Abu Dawud al-Sijistani",
+      "Al-Tirmidhi",
+      "Al-Nasa'i",
+      "Al-Hakim al-Naysaburi",
+      "Al-Bayhaqi",
+      "Al-Tabarani",
+      "Ibn Khuzaymah",
+      "Fakhr al-Din al-Razi",
+      "Al-Nawawi",
+      "Sibt Ibn al-Jawzi"
+    ],
+    "books_cited": [
+      "Tuhfat al-Ithna Ashariyya",
+      "Sahih Muslim",
+      "Sahih Tirmidhi",
+      "Musnad Ahmad bin Hanbal",
+      "Al-Thiqat",
+      "Asma' Rijal al-Sahihayn",
+      "Al-Ansab",
+      "Al-Kamal fi Asma' al-Rijal",
+      "Tahdhib al-Kamal",
+      "Tadhkirat al-Huffaz",
+      "Al-Kashif",
+      "Al-'Ibar fi Khabar man Ghabar",
+      "Mir'at al-Janan",
+      "Tahdhib al-Tahdhib",
+      "Taqrib al-Tahdhib",
+      "Wafayat al-A'yan",
+      "Tabaqat al-Huffaz",
+      "Lisan al-'Arab",
+      "Al-Mu'jam al-Saghir",
+      "Al-Mu'jam al-Kabir",
+      "Al-Mustadrak 'ala al-Sahihayn",
+      "Khasa'is Amir al-Mu'minin",
+      "Manaqib",
+      "Fara'id al-Simtayn",
+      "Sunan Abi Dawud",
+      "Jami' al-Usul"
+    ]
+  },
+  {
+    "volume_number": 19,
+    "hadith_defended": "Hadith of Thaqalayn",
+    "volume_section": "Sanad",
+    "overview": "This volume focuses on defending the Sanad (chain of transmission) and the exact wording of the Hadith of Thaqalayn. The author compiles an exhaustive list of eminent Sunni scholars, hadith masters, and exegetes who have narrated, authenticated, and relied upon this hadith. He meticulously builds biographical dossiers for these scholars to prove their high status in Sunni Islam. Furthermore, he dedicates a significant portion of the text to refuting the attempts by Ibn al-Jawzi and Ibn Taymiyyah to weaken the hadith or its specific wordings (such as 'my progeny' and 'they shall not separate'), using the statements of other major Sunni authorities against them.",
+    "responses_to_dehlavi": [
+      {
+        "dehlavi_claim_addressed": "Hadith of Thaqalayn: Shia say: The Prophet ordered the Ummah to hold onto the Ahl al-Bayt, proving they are the Imams. Dehlavi's attack: Accepts the hadith but argues Sunnis are its true practitioners.",
+        "author_response_summary": "While Dehlavi accepts the hadith in principle, the author addresses the root of Sunni polemics against the Shia interpretation by defending the absolute authenticity of the specific wording 'my progeny, my Ahl al-Bayt' and 'they shall never separate until they meet me at the Pond'. The author proves these phrases are mass-transmitted and authenticated by the greatest Sunni hadith masters (like Muslim, Tirmidhi, and Hakim). He systematically dismantles the attempts by Ibn al-Jawzi and Ibn Taymiyyah to weaken these specific binding phrases, showing that their weakening contradicts the consensus of Sunni hadith scholars and has been explicitly rejected by authorities like Sakhawi, Samhudi, and Ibn Hajar al-Makki. He even cites al-Jahiz, a known anti-Shia polemicist, who used the full wording of the hadith to prove the superiority of the Ahl al-Bayt.",
+        "response_type": "SANAD_DEFENSE | CONTRADICTION_EXPOSURE | REBUTTAL_LINEAGE | COUNTER_CITATION",
+        "key_evidence_cited": [
+          "Sahih Muslim",
+          "Sunan al-Tirmidhi",
+          "Al-Mustadrak 'ala al-Sahihayn by al-Hakim",
+          "Istijlab Irtiqa' al-Ghuraf by al-Sakhawi",
+          "Jawahir al-'Iqdayn by al-Samhudi",
+          "Al-Sawa'iq al-Muhriqah by Ibn Hajar al-Makki",
+          "Risalat Madh Bani Hashim by al-Jahiz"
+        ]
+      }
+    ],
+    "biographical_dossiers": [
+      {
+        "scholar_name": "Jamal al-Din al-Ifriqi (Ibn Manzur)",
+        "rijal_sources_cited": [
+          "Al-Wafi bi al-Wafayat",
+          "Fawat al-Wafayat",
+          "Al-Durar al-Kaminah",
+          "Bughyat al-Wu'at",
+          "Abjad al-'Ulum"
+        ],
+        "evaluation_summary": "Highly praised as a master of Arabic language, literature, and history; author of Lisan al-Arab; recognized for his vast knowledge and numerous summaries of major works."
+      },
+      {
+        "scholar_name": "Shams al-Din al-Dhahabi",
+        "rijal_sources_cited": [
+          "Al-Badr al-Tali'",
+          "Taj Mukallal",
+          "Ithaf al-Nubala'"
+        ],
+        "evaluation_summary": "Revered as the seal of the hadith masters, a brilliant critic of chains of transmission, and the ultimate authority in the science of Rijal and Islamic history."
+      },
+      {
+        "scholar_name": "Sharaf al-Din al-Tibi",
+        "rijal_sources_cited": [
+          "Al-Durar al-Kaminah",
+          "Bughyat al-Wu'at",
+          "Tabaqat al-Mufassirin",
+          "Al-Badr al-Tali'",
+          "Taj Mukallal"
+        ],
+        "evaluation_summary": "Celebrated as a famous Imam, a master of rational and transmitted sciences, rhetoric, and exegesis; known for his piety, wealth spent in charity, and his indispensable commentary on Mishkat al-Masabih."
+      },
+      {
+        "scholar_name": "Ibn Kathir al-Dimashqi",
+        "rijal_sources_cited": [
+          "Tabaqat al-Mufassirin",
+          "Abjad al-'Ulum"
+        ],
+        "evaluation_summary": "Acknowledged as a leading scholar, hafiz, historian, and exegete; highly praised for his exceptional memory, mastery of hadith texts and chains, and his monumental works in history and tafsir."
+      },
+      {
+        "scholar_name": "Nur al-Din al-Haythami",
+        "rijal_sources_cited": [
+          "Al-Daw' al-Lami'",
+          "Tabaqat al-Huffaz",
+          "Husn al-Muhadarah",
+          "Al-Badr al-Tali'",
+          "Ithaf al-Nubala'"
+        ],
+        "evaluation_summary": "Highly respected hafiz and companion of al-Iraqi; praised for his immense memorization of hadith texts, his piety, and his monumental work Majma' al-Zawa'id."
+      },
+      {
+        "scholar_name": "Majd al-Din al-Firuzabadi",
+        "rijal_sources_cited": [
+          "Ithaf al-Nubala'"
+        ],
+        "evaluation_summary": "Renowned lexicographer and author of Al-Qamus al-Muhit; celebrated for his vast travels, immense knowledge of language and hadith, and high status among kings and scholars."
+      },
+      {
+        "scholar_name": "Sa'd al-Din al-Taftazani",
+        "rijal_sources_cited": [
+          "Tabaqat al-Mufassirin",
+          "Al-Badr al-Tali'",
+          "Abjad al-'Ulum",
+          "Taj Mukallal"
+        ],
+        "evaluation_summary": "Considered the unparalleled master of his time in rational sciences, rhetoric, logic, and theology; his works became standard textbooks across the Islamic world."
+      },
+      {
+        "scholar_name": "Shams al-Din al-Sakhawi",
+        "rijal_sources_cited": [
+          "Al-Daw' al-Lami'"
+        ],
+        "evaluation_summary": "A leading hafiz and historian; the author provides a massive, detailed autobiography from Sakhawi's own work to prove his unparalleled mastery in hadith, his vast number of teachers, and his prolific authorship."
+      },
+      {
+        "scholar_name": "Shihab al-Din al-Qastallani",
+        "rijal_sources_cited": [
+          "Al-Badr al-Tali'"
+        ],
+        "evaluation_summary": "Respected scholar, hadith master, and author of Irshad al-Sari (commentary on Bukhari) and Al-Mawahib al-Ladunniyyah; known for his piety and mastery of Qira'at."
+      },
+      {
+        "scholar_name": "Shihab al-Din al-Khafaji",
+        "rijal_sources_cited": [
+          "Khulasat al-Athar",
+          "Taj Mukallal"
+        ],
+        "evaluation_summary": "Chief Judge and leading Hanafi scholar of Egypt; celebrated for his unmatched eloquence, mastery of Arabic literature, and his valuable commentaries on Tafsir al-Baydawi and Al-Shifa."
+      }
+    ],
+    "argument_lineage_traced": [
+      {
+        "claim": "The Hadith of Thaqalayn, specifically the wording 'they shall not separate' and the command to hold fast to the Ahl al-Bayt, is weak or fabricated.",
+        "chain": [
+          "Ibn al-Jawzi (d. 597) -> Ibn Taymiyyah (d. 728)"
+        ]
+      }
+    ],
+    "rebuttal_lineage_cited": [
+      {
+        "prior_scholar": "Shams al-Din al-Sakhawi",
+        "work": "Istijlab Irtiqa' al-Ghuraf",
+        "what_they_refuted": "Refuted Ibn al-Jawzi's inclusion of the Hadith of Thaqalayn in his book of weak/fabricated hadiths (Al-Ilal al-Mutanahiyah), expressing astonishment at his claim that it is not authentic when it is recorded in Sahih Muslim and other major collections."
+      },
+      {
+        "prior_scholar": "Nur al-Din al-Samhudi",
+        "work": "Jawahir al-'Iqdayn",
+        "what_they_refuted": "Refuted Ibn al-Jawzi's weakening of the hadith, warning readers not to be deceived by him and pointing out his negligence of the hadith's numerous authentic chains."
+      },
+      {
+        "prior_scholar": "Ibn Hajar al-Makki",
+        "work": "Al-Sawa'iq al-Muhriqah",
+        "what_they_refuted": "Refuted Ibn al-Jawzi's claim, stating it was a result of illusion or negligence regarding the hadith's many authentic chains, including the one in Sahih Muslim."
+      },
+      {
+        "prior_scholar": "Abd al-Ra'uf al-Munawi",
+        "work": "Fayd al-Qadir",
+        "what_they_refuted": "Explicitly stated that whoever claims the hadith is weak, like Ibn al-Jawzi, is suffering from an illusion (wahm)."
+      }
+    ],
+    "scholars_mentioned": [
+      "Nizam al-Din al-Nisaburi",
+      "Sa'id al-Din al-Farghani",
+      "Jamal al-Din al-Ifriqi (Ibn Manzur)",
+      "Sadr al-Din al-Hamuwayi",
+      "Najm al-Din al-Qamuli",
+      "Ala al-Din al-Khazin",
+      "Fakhr al-Din al-Hansawi",
+      "Wali al-Din al-Khatib (al-Tabrizi)",
+      "Abu al-Hajjaj al-Mizzi",
+      "Sharaf al-Din al-Tibi",
+      "Shams al-Din al-Khalkhali",
+      "Shams al-Din al-Dhahabi",
+      "Jamal al-Din al-Zarandi",
+      "Sa'id al-Din al-Kazaruni",
+      "Ibn Kathir",
+      "Ali al-Hamadani",
+      "Sa'd al-Din al-Taftazani",
+      "Hamid al-Mahalli",
+      "Nur al-Din al-Haythami",
+      "Majd al-Din al-Firuzabadi",
+      "Khwaja Parsa",
+      "Shihab al-Din al-Dawlatabadi",
+      "Ibn al-Sabbagh al-Maliki",
+      "Shams al-Din al-Sakhawi",
+      "Ali al-Samhudi",
+      "Fadlullah b. Ruzbahan",
+      "Shihab al-Din al-Qastallani",
+      "Shams al-Din al-Alqami",
+      "Ali al-Qari",
+      "Abd al-Ra'uf al-Munawi",
+      "Ali al-Muttaqi al-Hindi",
+      "Muhammad Tahir al-Fattani",
+      "Mirza Makhdum",
+      "Muhammad b. Mu'tamad Khan al-Badakhshi",
+      "Mahmud al-Shaykhani",
+      "Shah Waliullah al-Dehlavi",
+      "Muhammad Mu'in al-Sindi",
+      "Muhammad b. Isma'il al-Amir al-San'ani",
+      "Muhammad b. Ali al-Sabban",
+      "Muhammad Murtada al-Zabidi",
+      "Ahmad b. Abd al-Qadir al-'Ujayli",
+      "Muhammad Mubin al-Lakhnawi",
+      "Ikram al-Din al-Dehlavi",
+      "Hasan Ali al-Lakhnawi",
+      "Abd al-Rahim al-Safi Puri",
+      "Rashid al-Din Khan al-Dehlavi",
+      "Hasan al-Adawi al-Hamzawi",
+      "Sulayman al-Balkhi al-Qunduzi",
+      "Siddiq Hasan Khan",
+      "Ibn al-Jawzi",
+      "Ibn Taymiyyah",
+      "al-Jahiz",
+      "Abu Ali al-Nisaburi",
+      "Abu Zur'ah al-Razi",
+      "Abu al-Ala al-Hamadani"
+    ],
+    "books_cited": [
+      "Ghara'ib al-Quran",
+      "Lisan al-Arab",
+      "Fara'id al-Simtayn",
+      "Lubab al-Ta'wil (Tafsir al-Khazin)",
+      "Dastur al-Haqa'iq",
+      "Mishkat al-Masabih",
+      "Tuhfat al-Ashraf",
+      "Al-Kashif (Sharh Mishkat)",
+      "Mizan al-I'tidal",
+      "Nazm Durar al-Simtayn",
+      "Al-Muntaqa fi Sirat al-Mustafa",
+      "Tafsir Ibn Kathir",
+      "Al-Bidayah wa al-Nihayah",
+      "Mawaddat al-Qurba",
+      "Sharh al-Maqasid",
+      "Mahasin al-Azhar",
+      "Majma' al-Zawa'id",
+      "Al-Qamus al-Muhit",
+      "Fasl al-Khitab",
+      "Hidayat al-Su'ada",
+      "Al-Fusul al-Muhimmah",
+      "Istijlab Irtiqa' al-Ghuraf",
+      "Jawahir al-'Iqdayn",
+      "Al-Mawahib al-Ladunniyyah",
+      "Al-Kawkab al-Munir",
+      "Kanz al-Ummal",
+      "Majma' al-Bihar",
+      "Al-Nawaqid",
+      "Subul al-Huda wa al-Rashad",
+      "Al-Siraj al-Munir",
+      "Al-Sawa'iq al-Muhriqah",
+      "Miftah al-Naja",
+      "Nuzul al-Abrar",
+      "Sirat Sawi",
+      "Izalat al-Khafa",
+      "Qurrat al-'Aynayn",
+      "Dirasat al-Labib",
+      "Al-Rawdah al-Nadiyyah",
+      "Is'af al-Raghibin",
+      "Taj al-'Arus",
+      "Zakhirat al-Ma'al",
+      "Wasilat al-Najat",
+      "Sa'adat al-Kawnayn",
+      "Tafrih al-Ahbab",
+      "Mir'at al-Mu'minin",
+      "Haqq Mubin",
+      "Mashariq al-Anwar",
+      "Yanabi' al-Mawaddah",
+      "Siraj Wahhaj",
+      "Al-Ilal al-Mutanahiyah",
+      "Minhaj al-Sunnah",
+      "Risalat Madh Bani Hashim"
+    ]
+  },
+  {
+    "volume_number": 20,
+    "hadith_defended": "Hadith of Thaqalayn",
+    "volume_section": "Dalalah and Sanad (Refutation of Counter-Hadiths)",
+    "overview": "This volume focuses on defending the Hadith of Thaqalayn. The author first refutes Dehlavi's claim that the hadith was solely narrated by Zayd b. Arqam by listing 34 Sahaba who narrated it. He then proves the hadith implies Imamate (Dalalah) by analyzing terms like 'Thaqalayn', 'Tamassuk', and 'Khalifatayn' using Sunni sources. Finally, he systematically dismantles Dehlavi's counter-arguments which relied on three Sunni hadiths: 'Follow the Sunnah of the Khulafa', 'Take half your religion from Humayra', and 'Be guided by Ammar', proving them to be either weak, fabricated, or actually supportive of the Shia position.",
+    "responses_to_dehlavi": [
+      {
+        "dehlavi_claim_addressed": "Dehlavi claimed that the Hadith of Thaqalayn was only narrated by Zayd bin Arqam, attempting to downplay its mass-transmission.",
+        "author_response_summary": "The author lists 34 companions (Sahaba) who narrated the Hadith of Thaqalayn, including Ali, Hasan, Salman, Abu Dharr, Ibn Abbas, Abu Sa'id al-Khudri, and Jabir. He quotes numerous Sunni scholars like al-Sakhawi, al-Samhudi, and Ibn Hajar al-Makki who explicitly acknowledge its mass-transmission (Tawatur) and multitude of chains.",
+        "response_type": "SANAD_DEFENSE",
+        "key_evidence_cited": [
+          "Al-Sakhawi's Istijlab Irtiqa' al-Ghuraf",
+          "Al-Samhudi's Jawahir al-Iqdayn",
+          "Ibn Hajar al-Makki's Al-Sawa'iq al-Muhriqah"
+        ]
+      },
+      {
+        "dehlavi_claim_addressed": "Dehlavi accepts the hadith but argues Sunnis are its true practitioners, implying it does not prove Shia Imamate or absolute obedience.",
+        "author_response_summary": "The author provides over 60 'Wajh' (aspects/arguments) proving the hadith mandates absolute obedience and Imamate. He analyzes the words 'Tamassuk' (holding fast), 'I'tisam' (seeking refuge), and 'Khalifatayn' (two successors), quoting Sunni scholars who state that holding fast to the Ahl al-Bayt means following their rulings, guidance, and leadership, which is synonymous with Imamate.",
+        "response_type": "DALALAH_DEFENSE",
+        "key_evidence_cited": [
+          "Al-Taftazani's Sharh al-Maqasid",
+          "Al-Qari's Mirqat Mafatih",
+          "Al-Munawi's Fayd al-Qadir",
+          "Al-Zarqani's Sharh al-Mawahib"
+        ]
+      },
+      {
+        "dehlavi_claim_addressed": "Dehlavi countered Thaqalayn with the Sunni hadith: 'Follow my Sunnah and the Sunnah of the rightly guided caliphs (Khulafa)'.",
+        "author_response_summary": "The author attacks the Sanad of this hadith, showing it is not in the Sahihayn and its narrators (like Khalid b. Ma'dan, Thawr b. Yazid, and Baqiyyah b. al-Walid) are weak, fabricators, or Nasibis from Homs who hated Ali. He also argues that even if authentic, the 'Khulafa' refers to the Ahl al-Bayt, as the Prophet explicitly called them 'Khalifatayn' in authentic versions of Thaqalayn.",
+        "response_type": "BIOGRAPHICAL_DOSSIER",
+        "key_evidence_cited": [
+          "Al-Dhahabi's Mizan al-I'tidal",
+          "Ibn Hajar's Tahdhib al-Tahdhib"
+        ]
+      },
+      {
+        "dehlavi_claim_addressed": "Dehlavi countered Thaqalayn with the hadith: 'Take half your religion from this Humayra (Aisha)'.",
+        "author_response_summary": "The author proves this hadith is a known fabrication (Mawdu'). He quotes major Sunni Hadith masters who explicitly state it has no chain of transmission and is a fabricated lie.",
+        "response_type": "SANAD_DEFENSE",
+        "key_evidence_cited": [
+          "Al-Mizzi and Al-Dhahabi (quoted via Ibn Kathir)",
+          "Ibn Hajar al-Asqalani's Fath al-Bari",
+          "Al-Sakhawi's Al-Maqasid al-Hasanah",
+          "Ibn al-Jawzi's Al-Mawdu'at"
+        ]
+      },
+      {
+        "dehlavi_claim_addressed": "Dehlavi countered Thaqalayn with the hadith: 'Be guided by the guidance of Ammar'.",
+        "author_response_summary": "The author uses Ilzam to show that Ammar was a staunch, devoted follower of Ali who fought against the Sunni caliphs and Muawiyah. He cites historical accounts showing Umar rejected Ammar's hadith on Tayammum, Uthman had Ammar beaten, and Muawiyah killed him at Siffin. Therefore, following Ammar's guidance means following Ali and rejecting his opponents.",
+        "response_type": "CONTRADICTION_EXPOSURE",
+        "key_evidence_cited": [
+          "Ibn Qutaybah's Al-Imamah wa al-Siyasah",
+          "Al-Tabari's Tarikh",
+          "Ibn al-Athir's Al-Kamil fi al-Tarikh",
+          "Ahmad b. Hanbal's Musnad"
+        ]
+      }
+    ],
+    "biographical_dossiers": [
+      {
+        "scholar_name": "Thawr b. Yazid (ثور بن يزيد)",
+        "rijal_sources_cited": [
+          "Mizan al-I'tidal",
+          "Tahdhib al-Tahdhib",
+          "Umdat al-Qari"
+        ],
+        "evaluation_summary": "Negative. A Nasibi from Homs whose grandfather was killed at Siffin fighting for Muawiyah. He openly hated Ali. He was also a Qadari (believed in free will against Sunni orthodoxy) and was criticized by Malik, Al-Awza'i, and Yahya al-Qattan."
+      },
+      {
+        "scholar_name": "Khalid b. Ma'dan (خالد بن معدان)",
+        "rijal_sources_cited": [
+          "Tahdhib al-Tahdhib",
+          "Dhayl al-Mudhayyal"
+        ],
+        "evaluation_summary": "Negative. He was the chief of police for the tyrant Yazid b. Muawiyah and a Nasibi from Homs. The author argues a chief of police for Yazid cannot be trusted in religion."
+      },
+      {
+        "scholar_name": "Baqiyyah b. al-Walid (بقية بن الوليد)",
+        "rijal_sources_cited": [
+          "Mizan al-I'tidal",
+          "Tahdhib al-Tahdhib",
+          "Al-Mawdu'at",
+          "Taqrib al-Tahdhib"
+        ],
+        "evaluation_summary": "Negative. A known Mudallis (concealer of defects) who narrated from weak narrators, unknown people, and liars, dropping their names to make the chains look authentic. Criticized heavily by Ibn al-Jawzi, Al-Dhahabi, Abu Hatim, and Ibn Hibban."
+      },
+      {
+        "scholar_name": "Muawiyah b. Salih (معاوية بن صالح)",
+        "rijal_sources_cited": [
+          "Mizan al-I'tidal",
+          "Tahdhib al-Tahdhib",
+          "Taqrib al-Tahdhib"
+        ],
+        "evaluation_summary": "Negative. He was the Qadi of Andalusia for the Umayyads. Criticized by Yahya al-Qattan and Abu Hatim, who said he cannot be used as proof."
+      }
+    ],
+    "argument_lineage_traced": [
+      {
+        "claim": "The hadith 'Take half your religion from Humayra' is a fabrication with no chain.",
+        "chain": [
+          "Al-Mizzi / Al-Dhahabi -> Ibn Kathir -> Ibn Hajar al-Asqalani -> Al-Sakhawi -> Al-Suyuti -> Ali al-Qari"
+        ]
+      }
+    ],
+    "rebuttal_lineage_cited": [
+      {
+        "prior_scholar": "Al-Mizzi and Al-Dhahabi",
+        "work": "Quoted in Ibn Kathir's Takhrij Ahadith Mukhtasar Ibn al-Hajib",
+        "what_they_refuted": "Refuted the existence of any chain (Sanad) for the hadith 'Take half your religion from Humayra'."
+      },
+      {
+        "prior_scholar": "Ibn Hajar al-Asqalani",
+        "work": "Fath al-Bari",
+        "what_they_refuted": "Stated he never saw the word 'Humayra' in any authentic hadith except the one about the Abyssinians playing, refuting the 'half your religion' hadith."
+      }
+    ],
+    "scholars_mentioned": [
+      "Shah Abdul Aziz Dehlavi",
+      "Al-Tirmidhi",
+      "Al-Nasa'i",
+      "Abu Dawud",
+      "Ibn Majah",
+      "Ahmad b. Hanbal",
+      "Al-Hakim al-Naysaburi",
+      "Al-Dhahabi",
+      "Ibn Hajar al-Asqalani",
+      "Ibn Hajar al-Makki",
+      "Al-Sakhawi",
+      "Al-Samhudi",
+      "Al-Taftazani",
+      "Mulla Ali al-Qari",
+      "Al-Munawi",
+      "Al-Zarqani",
+      "Ibn Kathir",
+      "Al-Mizzi",
+      "Ibn Qutaybah",
+      "Al-Tabari",
+      "Ibn al-Athir",
+      "Al-Suyuti",
+      "Shah Waliullah Dehlavi"
+    ],
+    "books_cited": [
+      "Tuhfat al-Ithna Ashariyya",
+      "Al-Sawa'iq al-Muhriqah",
+      "Istijlab Irtiqa' al-Ghuraf",
+      "Jawahir al-Iqdayn",
+      "Sharh al-Maqasid",
+      "Mirqat Mafatih",
+      "Fayd al-Qadir",
+      "Sharh al-Mawahib al-Ladunniyyah",
+      "Yanabi' al-Mawaddah",
+      "Al-Mustadrak",
+      "Mizan al-I'tidal",
+      "Tahdhib al-Tahdhib",
+      "Al-Taqrir wa al-Tahbir",
+      "Al-Maqasid al-Hasanah",
+      "Al-Mawdu'at",
+      "Al-Imamah wa al-Siyasah",
+      "Tarikh al-Tabari",
+      "Al-Kamil fi al-Tarikh",
+      "Fath al-Bari",
+      "Izalat al-Khafa"
+    ]
+  },
+  {
+    "volume_number": 21,
+    "hadith_defended": "Hadith of Thaqalayn",
+    "volume_section": "Sanad",
+    "overview": "This volume continues the defense of the Hadith of Thaqalayn by systematically refuting the counter-hadiths Shah Abdul Aziz Dehlavi brought to oppose it. Dehlavi cited hadiths commanding the Ummah to follow Ammar, Ibn Mas'ud, Mu'adh, Abu Bakr, Umar (Hadith of Iqtida), and the Companions in general (Hadith of Nujum) to argue that the command to follow is not restricted to the Ahl al-Bayt. The author destroys these claims by exposing the fabricated and weak chains (Sanad) of these Sunni hadiths using Sunni Rijal sources, and by highlighting historical contradictions where prominent Sunni figures ignored or violated the guidance of these very companions.",
+    "responses_to_dehlavi": [
+      {
+        "dehlavi_claim_addressed": "Dehlavi counters the exclusivity of Thaqalayn by citing the Hadith of Ammar ('Be guided by the guidance of Ammar').",
+        "author_response_summary": "The author exposes the historical contradiction that prominent Sunni figures and companions, such as Amr b. al-As and Abu al-Ghadiyah, fought against Ammar and killed him at Siffin, completely ignoring the alleged prophetic command to follow his guidance.",
+        "response_type": "CONTRADICTION_EXPOSURE",
+        "key_evidence_cited": [
+          "Ibn Sa'd's Tabaqat",
+          "Ahmad b. Hanbal's Musnad",
+          "Al-Tabari's Tarikh",
+          "Ibn al-Athir's Usd al-Ghaba"
+        ]
+      },
+      {
+        "dehlavi_claim_addressed": "Dehlavi counters Thaqalayn by citing the Hadith of Ibn Mas'ud ('Hold fast to the covenant of Ibn Umm Abd' / 'I am pleased for you with what Ibn Umm Abd is pleased').",
+        "author_response_summary": "The author attacks the Sanad of this hadith, pointing out weak narrators like Qabisah b. Uqbah and Abu al-Za'ra. He also highlights the contradiction that Umar forbade Ibn Mas'ud from issuing fatwas, and Uthman beat him and cut off his stipend, proving the Caliphs did not follow his covenant.",
+        "response_type": "CONTRADICTION_EXPOSURE",
+        "key_evidence_cited": [
+          "Al-Dhahabi's Mizan al-I'tidal",
+          "Al-Darimi's Sunan",
+          "Shah Waliullah's Izalat al-Khafa",
+          "Al-Ya'qubi's Tarikh",
+          "Ibn Qutaybah's Al-Ma'arif"
+        ]
+      },
+      {
+        "dehlavi_claim_addressed": "Dehlavi counters Thaqalayn by citing the Hadith of Mu'adh ('The most knowledgeable of you regarding halal and haram is Mu'adh').",
+        "author_response_summary": "The author weakens the chain by exposing narrators like Ibn al-Bailamani and Zayd al-Ammi. He then exposes Mu'adh's ignorance of halal and haram by citing historical reports where Mu'adh took gifts/bribes while acting as a governor in Yemen, which Umar and Abu Bakr forced him to surrender to the public treasury.",
+        "response_type": "CONTRADICTION_EXPOSURE",
+        "key_evidence_cited": [
+          "Al-Bukhari's Kitab al-Du'afa",
+          "Al-Nasa'i's Kitab al-Du'afa",
+          "Ibn Abd al-Barr's Al-Isti'ab",
+          "Ibn Sa'd's Tabaqat"
+        ]
+      },
+      {
+        "dehlavi_claim_addressed": "Dehlavi counters Thaqalayn by citing the Hadith of Iqtida ('Follow those after me, Abu Bakr and Umar').",
+        "author_response_summary": "The author proves this hadith is weak, fabricated, and rejected by major Sunni Hadith masters, showing that its narrators (like Yahya b. Salama and Isma'il b. Yahya) are abandoned (Matruk).",
+        "response_type": "SANAD_DEFENSE",
+        "key_evidence_cited": [
+          "Abu Hatim al-Razi's judgments",
+          "Al-Bazzar's Musnad",
+          "Al-Daraqutni's judgments",
+          "Ibn Hazm's Ibtal al-Ra'y wal-Qiyas"
+        ]
+      },
+      {
+        "dehlavi_claim_addressed": "Dehlavi counters Thaqalayn by citing the Hadith of Nujum ('My companions are like stars, whichever you follow, you will be guided').",
+        "author_response_summary": "The author dedicates a massive section to proving the Hadith of Nujum is a fabrication. He cites dozens of Sunni scholars who declared it baseless, weak, or an outright lie, dismantling every known chain of transmission for it.",
+        "response_type": "SANAD_DEFENSE",
+        "key_evidence_cited": [
+          "Ahmad b. Hanbal",
+          "Al-Muzani",
+          "Ibn Abd al-Barr's Jami' Bayan al-'Ilm",
+          "Ibn Hazm's Al-Ahkam",
+          "Al-Bayhaqi's Al-Madkhal and Al-I'tiqad",
+          "Ibn Hajar's Takhrij Ahadith al-Kashshaf"
+        ]
+      }
+    ],
+    "biographical_dossiers": [
+      {
+        "scholar_name": "Abu Hatim Muhammad b. Idris al-Razi",
+        "rijal_sources_cited": [
+          "Al-Sam'ani's Al-Ansab",
+          "Ibn al-Athir's Al-Kamil",
+          "Al-Dhahabi's Siyar A'lam al-Nubala",
+          "Al-Dhahabi's Tadhkirat al-Huffaz",
+          "Al-Subki's Tabaqat al-Shafi'iyya",
+          "Ibn Hajar's Taqrib al-Tahdhib"
+        ],
+        "evaluation_summary": "Highly positive. Acknowledged as a supreme Imam, Hafiz, and peer of Bukhari and Muslim, whose judgments on Hadith and Rijal are authoritative."
+      },
+      {
+        "scholar_name": "Abu Ahmad Abdullah b. Adi al-Jurjani (Ibn al-Qattan)",
+        "rijal_sources_cited": [
+          "Al-Sam'ani's Al-Ansab",
+          "Al-Dhahabi's Tadhkirat al-Huffaz",
+          "Al-Dhahabi's Al-'Ibar",
+          "Al-Yafi'i's Mir'at al-Janan",
+          "Al-Suyuti's Tabaqat al-Huffaz"
+        ],
+        "evaluation_summary": "Highly positive. Recognized as a great Hafiz and the author of 'Al-Kamil fi al-Du'afa', an indispensable reference for weakening narrators."
+      },
+      {
+        "scholar_name": "Abu Hayyan Muhammad b. Yusuf al-Gharnati",
+        "rijal_sources_cited": [
+          "Al-Dhahabi's Mu'jam al-Mukhtassin",
+          "Al-Safadi's Al-Wafi bi al-Wafayat",
+          "Al-Kutubi's Fawat al-Wafayat",
+          "Al-Subki's Tabaqat al-Shafi'iyya",
+          "Al-Asnawi's Tabaqat al-Shafi'iyya",
+          "Ibn al-Jazari's Tabaqat al-Qurra'"
+        ],
+        "evaluation_summary": "Highly positive. Praised as the Imam of Nahw, a master of Tafsir, and a leading Hafiz whose rejection of the Hadith of Nujum is definitive."
+      },
+      {
+        "scholar_name": "Isma'il b. Yahya al-Muzani",
+        "rijal_sources_cited": [
+          "Ibn Khallikan's Wafayat al-A'yan",
+          "Al-Dhahabi's Al-'Ibar",
+          "Al-Yafi'i's Mir'at al-Janan",
+          "Al-Subki's Tabaqat al-Shafi'iyya",
+          "Al-Suyuti's Husn al-Muhadara"
+        ],
+        "evaluation_summary": "Highly positive. Celebrated as the premier student and champion of Imam al-Shafi'i, known for his piety and deep understanding of jurisprudence."
+      }
+    ],
+    "argument_lineage_traced": [
+      {
+        "claim": "The Hadith of Nujum ('My companions are like stars') is a fabricated, baseless lie.",
+        "chain": [
+          "Ahmad b. Hanbal (d. 241)",
+          "Al-Bazzar (d. 292)",
+          "Ibn Abd al-Barr (d. 463)",
+          "Ibn Hazm (d. 456)",
+          "Abu Hayyan al-Gharnati (d. 745)",
+          "Ibn Hajar al-Asqalani (d. 852)",
+          "Al-Sakhawi (d. 902)",
+          "Al-Shawkani (d. 1250)"
+        ]
+      }
+    ],
+    "rebuttal_lineage_cited": [
+      {
+        "prior_scholar": "Ibn Hazm al-Zahiri",
+        "work": "Ibtal al-Ra'y wal-Qiyas",
+        "what_they_refuted": "Refuted both the Hadith of Iqtida and the Hadith of Nujum, declaring them absolute fabrications."
+      },
+      {
+        "prior_scholar": "Ibn Hajar al-Asqalani",
+        "work": "Takhrij Ahadith al-Kashshaf",
+        "what_they_refuted": "Systematically dismantled every chain of the Hadith of Nujum, proving each contains liars or unknown narrators."
+      },
+      {
+        "prior_scholar": "Al-Bayhaqi",
+        "work": "Al-Madkhal and Al-I'tiqad",
+        "what_they_refuted": "Admitted that the chains for the Hadith of Nujum are weak and broken, despite recording them."
+      }
+    ],
+    "scholars_mentioned": [
+      "Shah Abdul Aziz Dehlavi",
+      "Ibn Hajar al-Asqalani",
+      "Al-Dhahabi",
+      "Al-Daraqutni",
+      "Al-Bazzar",
+      "Abu Hatim al-Razi",
+      "Ibn Hazm",
+      "Al-Bayhaqi",
+      "Ibn Abd al-Barr",
+      "Al-Muzani",
+      "Abu Hayyan al-Gharnati",
+      "Al-Shawkani",
+      "Al-Sakhawi",
+      "Al-Suyuti",
+      "Ibn al-Jawzi",
+      "Al-Uqayli",
+      "Ibn Adi",
+      "Al-Tirmidhi",
+      "Al-Bukhari",
+      "Muslim",
+      "Ahmad b. Hanbal",
+      "Fakhr al-Din al-Razi",
+      "Ibn Amir al-Hajj",
+      "Mulla Ali al-Qari",
+      "Al-Munawi"
+    ],
+    "books_cited": [
+      "Tuhfat al-Ithna Ashariyya",
+      "Mizan al-I'tidal",
+      "Lisan al-Mizan",
+      "Tahdhib al-Tahdhib",
+      "Talkhis al-Habir",
+      "Takhrij Ahadith al-Kashshaf",
+      "Al-Kamil fi al-Du'afa",
+      "Al-Madkhal",
+      "Al-I'tiqad",
+      "Jami' Bayan al-'Ilm",
+      "Ibtal al-Ra'y wal-Qiyas",
+      "Al-Bahr al-Muhit",
+      "Al-Mawdu'at",
+      "Al-'Ilal al-Mutanahiya",
+      "Fayd al-Qadir",
+      "Nayl al-Awtar",
+      "Al-Taqrir wal-Tahbir",
+      "Siyar A'lam al-Nubala",
+      "Tadhkirat al-Huffaz",
+      "Al-Ansab",
+      "Wafayat al-A'yan",
+      "Al-Tabaqat al-Kubra",
+      "Tarikh al-Tabari",
+      "Usd al-Ghaba",
+      "Musnad Ahmad"
+    ]
+  },
+  {
+    "volume_number": 22,
+    "hadith_defended": "Hadith of Thaqalayn (by refuting the counter-Hadith of the Stars)",
+    "volume_section": "Dalalat",
+    "overview": "This volume defends the Hadith of Thaqalayn by systematically dismantling the Sunni counter-narrative based on the 'Hadith of the Stars' (My companions are like the stars; whichever you follow, you will be guided). The author proves the Hadith of the Stars is fabricated and logically absurd by cataloging the numerous theological, legal, and moral blunders of prominent Sahaba, proving they cannot be absolute guides. He also explicitly refutes Dehlavi's reliance on Ali's statement 'Shura belongs to the Muhajirun and Ansar' by demonstrating historically that the caliphates of Abu Bakr, Umar, and Uthman were not established through genuine Shura, citing Sunni sources to show they were established by force, hasty mistakes (falta), and rigged committees.",
+    "responses_to_dehlavi": [
+      {
+        "dehlavi_claim_addressed": "Hadith of Thaqalayn: Accepts the hadith but argues Sunnis are its true practitioners. (Implicitly relying on the 'Hadith of the Stars' to argue all Sahaba are equal sources of guidance).",
+        "author_response_summary": "The author destroys the 'Hadith of the Stars' (أصحابي كالنجوم) which Sunnis use to bypass the exclusive guidance of the Ahl al-Bayt established in Thaqalayn. He lists dozens of instances where prominent Sahaba gave blatantly incorrect fatwas (e.g., Abu Musa al-Ash'ari on adult breastfeeding, Umar on Tayammum), committed major sins (Samura b. Jundub selling wine, Mu'awiya selling idols), and cursed or physically attacked one another. He argues that it is logically impossible for the Prophet to designate fallible, contradictory, and sometimes sinful individuals as absolute stars of guidance.",
+        "response_type": "CONTRADICTION_EXPOSURE",
+        "key_evidence_cited": [
+          "Al-Mabsut by Al-Sarkhasi",
+          "Al-Ihkam by Ibn Hazm",
+          "I'lam al-Muwaqqi'in by Ibn al-Qayyim",
+          "Al-Mustasfa by Al-Ghazali",
+          "Historical records of Sahaba contradicting the Quran and Sunnah"
+        ]
+      },
+      {
+        "dehlavi_claim_addressed": "Nass is not required. Ali himself stated that the right to choose the Caliph belongs to the Muhajirun and Ansar through Shura (consultation).",
+        "author_response_summary": "The author dedicates a specific section to refuting the argument based on the phrase 'Consultation is only for the Muhajirun and Ansar' (إنما الشورى للمهاجرين والأنصار). He proves through Sunni historical texts that genuine Shura never took place for the first three caliphs. He cites Umar's own admission in Sahih al-Bukhari that Abu Bakr's election was a 'falta' (hasty mistake/slip) that lacked broad consultation. He shows Umar was appointed by a written decree from Abu Bakr without Shura, and Uthman was selected by a rigged six-man committee where Umar ordered the execution of anyone who disagreed.",
+        "response_type": "COUNTER_CITATION",
+        "key_evidence_cited": [
+          "Sahih al-Bukhari (Umar's sermon on the 'falta' of Saqifah)",
+          "Tarikh al-Tabari",
+          "Al-Kamil fi al-Tarikh by Ibn al-Athir",
+          "Al-Tabaqat by Ibn Sa'd",
+          "Al-Iqd al-Farid by Ibn Abd Rabbih"
+        ]
+      }
+    ],
+    "biographical_dossiers": [
+      {
+        "scholar_name": "Abu Burda (son of Abu Musa al-Ash'ari)",
+        "rijal_sources_cited": [
+          "Tarikh al-Tabari",
+          "Sharh Nahj al-Balagha by Ibn Abi al-Hadid"
+        ],
+        "evaluation_summary": "Evaluated negatively. Exposed as a liar and a traitor who gave false testimony against the pious companion Hujr b. Adi to please Ziyad and Mu'awiya."
+      },
+      {
+        "scholar_name": "Samura b. Jundub",
+        "rijal_sources_cited": [
+          "Musnad Ahmad",
+          "Sahih Muslim",
+          "Sharh Nahj al-Balagha by Ibn Abi al-Hadid"
+        ],
+        "evaluation_summary": "Evaluated negatively. Highlighted for selling wine (which Umar cursed him for), taking massive bribes from Mu'awiya to fabricate hadiths against Imam Ali, and inciting people to fight Imam Husayn."
+      },
+      {
+        "scholar_name": "Abu Hurayrah",
+        "rijal_sources_cited": [
+          "Ta'wil Mukhtalif al-Hadith by Ibn Qutaybah",
+          "Tadhkirat al-Huffaz by Al-Dhahabi",
+          "Al-Tafdil by Abu Ja'far al-Iskafi"
+        ],
+        "evaluation_summary": "Evaluated negatively. The author compiles evidence showing Abu Hurayrah was beaten by Umar for narrating too many hadiths, accused of lying by Aisha and Imam Ali, and explicitly rejected by Abu Hanifa and Ibrahim al-Nakha'i."
+      },
+      {
+        "scholar_name": "Anas b. Malik",
+        "rijal_sources_cited": [
+          "Sharh Nahj al-Balagha by Ibn Abi al-Hadid",
+          "Ansab al-Ashraf by Al-Baladhuri"
+        ],
+        "evaluation_summary": "Evaluated negatively. Documented as having concealed his testimony regarding the Hadith of Ghadir when asked by Imam Ali, resulting in Ali cursing him with leprosy, which he subsequently contracted."
+      }
+    ],
+    "argument_lineage_traced": [
+      {
+        "claim": "The absolute Adalah (justice/reliability) of all Sahaba and the validity of the Hadith of the Stars.",
+        "chain": [
+          "Al-Muzani (d. 264) -> Al-Sarkhasi (d. 483) -> Al-Ghazali (d. 505) -> Ibn Abd al-Barr (d. 463)"
+        ]
+      }
+    ],
+    "rebuttal_lineage_cited": [
+      {
+        "prior_scholar": "Abu Ja'far al-Iskafi",
+        "work": "Al-Tafdil",
+        "what_they_refuted": "Refuted the reliability of Abu Hurayrah, Amr b. al-Aas, and Mu'awiya, exposing their fabrication of hadiths against Imam Ali for political gain."
+      },
+      {
+        "prior_scholar": "Ibrahim al-Nakha'i",
+        "work": "Cited via Al-Iskafi and Ibn Kathir",
+        "what_they_refuted": "Refuted the reliability of Abu Hurayrah, stating that the scholars of Kufa would reject his hadiths unless they were corroborated by the Quran or established Sunnah."
+      }
+    ],
+    "scholars_mentioned": [
+      "Al-Ghazali",
+      "Al-Sarkhasi",
+      "Ibn Hazm",
+      "Ibn al-Qayyim",
+      "Al-Tabari",
+      "Ibn al-Athir",
+      "Jalal al-Din al-Suyuti",
+      "Al-Amidi",
+      "Fakhr al-Din al-Razi",
+      "Ibn Hajar al-Asqalani",
+      "Al-Dhahabi",
+      "Abu Ja'far al-Iskafi",
+      "Al-Muzani",
+      "Al-Shafi'i",
+      "Abu Hanifa",
+      "Ibn Abd al-Barr",
+      "Shah Waliullah Dehlavi",
+      "Ibn Abi al-Hadid",
+      "Al-Muttaqi al-Hindi"
+    ],
+    "books_cited": [
+      "Al-Mustasfa",
+      "Al-Mabsut",
+      "Al-Ihkam fi Usul al-Ahkam",
+      "I'lam al-Muwaqqi'in",
+      "Tarikh al-Tabari",
+      "Al-Kamil fi al-Tarikh",
+      "Fath al-Bari",
+      "Kanz al-Ummal",
+      "Sharh Nahj al-Balagha",
+      "Al-Tafdil",
+      "Al-Mahsul",
+      "Jami' Bayan al-Ilm",
+      "Al-Tabaqat al-Kubra",
+      "Al-Iqd al-Farid",
+      "Izalat al-Khafa",
+      "Tadhkirat al-Huffaz",
+      "Al-Isabah",
+      "Musnad Ahmad",
+      "Sahih al-Bukhari",
+      "Sahih Muslim"
+    ]
+  },
+  {
+    "volume_number": 23,
+    "hadith_defended": "Hadith of Safinah (حديث سفينه)",
+    "volume_section": "Sanad and Dalalah",
+    "overview": "This volume defends the Hadith of Safinah (comparing the Ahl al-Bayt to Noah's Ark). The author first establishes its widespread transmission (Tawatur) among Sunni scholars, refuting Ibn Taymiyyah's claim that it has no basis. He then details multiple ways the hadith proves the Imamate and infallibility of the Ahl al-Bayt. Finally, he systematically refutes Dehlavi's claims that the hadith only implies love, that Sunnis are its true followers, and that the 'Hadith of the Stars' restricts Ahl al-Bayt to spiritual guidance (Tariqah) while Sahabah hold legislative authority (Sharia).",
+    "responses_to_dehlavi": [
+      {
+        "dehlavi_claim_addressed": "The hadith only proves that salvation depends on loving and following the Ahl al-Bayt, not their Imamate.",
+        "author_response_summary": "If following them absolutely guarantees salvation and opposing them guarantees destruction, this necessitates their absolute infallibility (Ismah). Only an infallible person can be an absolute guide, which is the very definition of Imamate.",
+        "response_type": "DALALAH_DEFENSE",
+        "key_evidence_cited": [
+          "Logical deduction from the concepts of absolute obedience and salvation",
+          "Quotes from Sunni scholars like Al-Samhudi and Al-Asimi acknowledging the hadith implies absolute leadership"
+        ]
+      },
+      {
+        "dehlavi_claim_addressed": "Sunnis are the true practitioners of this hadith because they love all Ahl al-Bayt, whereas Shia sects reject some of them.",
+        "author_response_summary": "The author exposes this as a massive contradiction. He quotes extensively from Sunni texts to show that Sunni scholars frequently criticize, diminish, or reject the authority and knowledge of the Ahl al-Bayt (e.g., attacking Imam Hasan's treaties, Imam Husayn's uprising, Imam Sadiq's hadiths, and denying their infallibility). Thus, Sunnis do not truly follow the 'Ark'.",
+        "response_type": "CONTRADICTION_EXPOSURE",
+        "key_evidence_cited": [
+          "Ibn Taymiyyah's Minhaj al-Sunnah",
+          "Shah Waliullah's Qurrat al-Aynayn and Izalat al-Khafa",
+          "Ibn al-Humam's Fath al-Qadir",
+          "Ibn Khaldun's Muqaddimah"
+        ]
+      },
+      {
+        "dehlavi_claim_addressed": "The 'Hadith of the Stars' (My companions are like stars) shows that Sharia should be taken from the Companions, while the Hadith of Safinah shows Tariqah (spiritual path) should be taken from Ahl al-Bayt.",
+        "author_response_summary": "The 'Hadith of the Stars' is fabricated and weak according to major Sunni scholars. Furthermore, separating Sharia and Tariqah in this way is baseless; the Ahl al-Bayt are the true inheritors of the Prophet's complete knowledge (both Sharia and Tariqah), and the Prophet commanded taking Sharia from them.",
+        "response_type": "SANAD_DEFENSE",
+        "key_evidence_cited": [
+          "Ibn Hazm's Al-Ihkam fi Usul al-Ahkam",
+          "Al-Subki's Al-Ibhaj",
+          "Al-Shawkani's Irshad al-Fuhul"
+        ]
+      }
+    ],
+    "biographical_dossiers": [
+      {
+        "scholar_name": "Nabit b. Sharit al-Ashja'i (نبيط بن شريط أشجعى)",
+        "rijal_sources_cited": [
+          "Ibn Abd al-Barr's Al-Isti'ab",
+          "Al-Dhahabi's Tajrid al-Sahabah and Al-Kashif",
+          "Ibn Hajar's Al-Isabah, Tahdhib al-Tahdhib, and Taqrib",
+          "Ibn al-Athir's Jami al-Usul and Usd al-Ghabah",
+          "Al-Khazraji's Khulasah"
+        ],
+        "evaluation_summary": "The author compiles these sources to prove Nabit is a recognized Sahabi and a reliable narrator, refuting Muhammad Tahir al-Fatani and Al-Shawkani who falsely labeled him a 'liar' to weaken a hadith praising the Ahl al-Bayt."
+      }
+    ],
+    "argument_lineage_traced": [
+      {
+        "claim": "Shia contradict themselves by only following some Imams, and they use 'Taqiyyah' to cover their mistakes.",
+        "chain": [
+          "Sulayman b. Jarir (Zaydi)",
+          "Fakhr al-Din al-Razi (Al-Muhassal) & Al-Shahrastani (Al-Milal wa al-Nihal)",
+          "Shah Abdul Aziz Dehlavi (Tuhfah)"
+        ]
+      },
+      {
+        "claim": "Sharia is taken from the Sahabah (based on Hadith of Stars) and Tariqah from Ahl al-Bayt (based on Hadith of Safinah).",
+        "chain": [
+          "Mulla Yaqub Multani",
+          "Shah Abdul Aziz Dehlavi (Fath al-Aziz)"
+        ]
+      }
+    ],
+    "rebuttal_lineage_cited": [
+      {
+        "prior_scholar": "Ibn Hazm al-Andalusi",
+        "work": "Al-Ihkam fi Usul al-Ahkam",
+        "what_they_refuted": "The authenticity and logical validity of the 'Hadith of the Stars' (أصحابي كالنجوم)."
+      },
+      {
+        "prior_scholar": "Muhammad Mu'in al-Sindi",
+        "work": "Dirasat al-Labib",
+        "what_they_refuted": "Ibn al-Humam's disrespectful claims against Imam Hasan (regarding excessive divorce) and Imam Muhammad al-Baqir."
+      }
+    ],
+    "scholars_mentioned": [
+      "Ibn Taymiyyah",
+      "Shah Abdul Aziz Dehlavi",
+      "Shah Waliullah Dehlavi",
+      "Ibn Hajar al-Makki",
+      "Fakhr al-Din al-Razi",
+      "Ibn Hazm",
+      "Al-Samhudi",
+      "Al-Shawkani",
+      "Ibn al-Humam",
+      "Muhammad Mu'in al-Sindi",
+      "Al-Dhahabi",
+      "Ibn Hajar al-Asqalani",
+      "Ibn Khaldun",
+      "Mulla Yaqub Multani"
+    ],
+    "books_cited": [
+      "Minhaj al-Sunnah",
+      "Tuhfat al-Ithna Ashariyya",
+      "Qurrat al-Aynayn",
+      "Izalat al-Khafa",
+      "Al-Sawa'iq al-Muhriqah",
+      "Dirasat al-Labib",
+      "Al-Ihkam fi Usul al-Ahkam",
+      "Fath al-Aziz",
+      "Yanabi al-Mawaddah",
+      "Fath al-Qadir",
+      "Muqaddimah Ibn Khaldun",
+      "Al-Isti'ab",
+      "Usd al-Ghabah",
+      "Tahdhib al-Tahdhib",
+      "Al-Ibhaj",
+      "Irshad al-Fuhul"
+    ]
+  }
+]

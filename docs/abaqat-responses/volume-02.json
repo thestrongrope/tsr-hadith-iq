@@ -1,0 +1,163 @@
+{
+  "volume_number": 2,
+  "hadith_defended": "Hadith of Ghadir Khumm",
+  "volume_section": "Sanad",
+  "overview": "This volume defends the Sanad of the Hadith of Ghadir against the specific objection raised by Fakhr al-Din al-Razi (and adopted by later polemicists like Dehlavi and Haydar Ali Fayzabadi) that the hadith is unreliable because it was not narrated by Bukhari and Muslim. The author systematically dismantles the absolute authority of the Sahihayn, proving that authentic hadiths are not restricted to them, and extensively documents how major Sunni scholars criticized, weakened, or declared fabricated numerous hadiths found within Bukhari and Muslim.",
+  "responses_to_dehlavi": [
+    {
+      "dehlavi_claim_addressed": "Sanad Criticism: Rigorously analyzing the chains of transmission of hadiths cited by Shias, exposing weak, fabricated, or extremist (Ghali) narrators (specifically the implicit claim that a hadith's absence from the Sahihayn weakens it).",
+      "author_response_summary": "The author argues that the absence of a hadith in Bukhari and Muslim does not negate its authenticity. He cites Al-Nawawi, Ibn al-Salah, and Al-Hazimi to prove that the Sahihayn never claimed to encompass all authentic hadiths. Furthermore, he establishes the fundamental Usuli rule that 'the affirmer takes precedence over the denier' (Al-Muthbit Muqaddam 'ala al-Nafi).",
+      "response_type": "SANAD_DEFENSE",
+      "key_evidence_cited": [
+        "Sharh Sahih Muslim by Al-Nawawi",
+        "Manhal al-Rawi by Ibn Jama'ah",
+        "Zad al-Ma'ad by Ibn Qayyim al-Jawziyya"
+      ]
+    },
+    {
+      "dehlavi_claim_addressed": "Shia: Ali constantly complained about the first three caliphs... Dehlavi: These reports of complaining are Shia fabrications. Authentic reports... show Ali praising Abu Bakr...",
+      "author_response_summary": "The author uses Sahih Bukhari and Sahih Muslim to prove that Fatima died angry with Abu Bakr, boycotted him, and that Ali delayed his Bay'ah for six months. He exposes the contradiction of contemporary Sunni polemicists (like Haydar Ali Fayzabadi) who are forced to attack and declare their own Sahihayn as 'fabricated' or 'weak' just to escape the theological implications of these authentic Sunni reports.",
+      "response_type": "CONTRADICTION_EXPOSURE",
+      "key_evidence_cited": [
+        "Sahih Bukhari (Kitab al-Maghazi, Kitab al-Fara'id)",
+        "Sahih Muslim (Kitab al-Jihad)",
+        "Muntaha al-Kalam by Haydar Ali Fayzabadi",
+        "Izalat al-Ghayn by Haydar Ali Fayzabadi"
+      ]
+    },
+    {
+      "dehlavi_claim_addressed": "Sanad Criticism: Rigorously analyzing the chains of transmission of hadiths cited by Shias...",
+      "author_response_summary": "The author turns the methodology of Sanad criticism against the Sahihayn themselves. He compiles a massive dossier showing that top Sunni Hadith masters (Abu Zur'ah, Al-Dhuhli, Al-Daraqutni, Ibn Hazm, Al-Ghazali, Ibn al-Jawzi) severely criticized, weakened, or declared fabricated dozens of hadiths present in Bukhari and Muslim (e.g., the Hadith of Ibrahim's three lies, the Hadith of Mut'ah being banned at Khaybar, the Hadith of Isra'). Therefore, using the Sahihayn as an infallible standard to reject Ghadir is hypocritical.",
+      "response_type": "COUNTER_CITATION",
+      "key_evidence_cited": [
+        "Mizan al-I'tidal by Al-Dhahabi",
+        "Siyar A'lam al-Nubala by Al-Dhahabi",
+        "Fath al-Bari by Ibn Hajar al-Asqalani",
+        "Umdat al-Qari by Badr al-Din al-Ayni",
+        "Al-Mawdu'at by Ibn al-Jawzi",
+        "Al-Muhalla by Ibn Hazm"
+      ]
+    }
+  ],
+  "biographical_dossiers": [
+    {
+      "scholar_name": "Abu Zur'ah al-Razi (Ubaydullah b. Abd al-Karim)",
+      "rijal_sources_cited": [
+        "Siyar A'lam al-Nubala",
+        "Tadhhib al-Tahdhib",
+        "Mizan al-I'tidal",
+        "Tarikh Baghdad",
+        "Tahdhib al-Kamal",
+        "Al-Ansab"
+      ],
+      "evaluation_summary": "Extremely positive. He is established as a supreme Imam and Hafiz of the Sunnis whose memory and piety were unmatched. The author builds this massive dossier to validate Abu Zur'ah's severe criticism and rejection of Sahih Muslim and Sahih Bukhari, proving that early Sunni titans did not view the Sahihayn as infallible."
+    },
+    {
+      "scholar_name": "Muhammad b. Yahya al-Dhuhli",
+      "rijal_sources_cited": [
+        "Siyar A'lam al-Nubala",
+        "Tarikh Baghdad",
+        "Tadhhib al-Tahdhib",
+        "Al-Ansab",
+        "Tabaqat al-Huffaz"
+      ],
+      "evaluation_summary": "Highly positive. He is presented as the Imam of Khurasan and the 'Heir of Al-Zuhri'. The author compiles his biography to highlight his intense conflict with Al-Bukhari over the 'Lafdh' (creation of the Quran) issue, showing that Al-Dhuhli boycotted Al-Bukhari, considered him worse than the Jahmiyya, and forced him out of Nishapur."
+    },
+    {
+      "scholar_name": "Ibn Abi Hatim al-Razi (Abd al-Rahman b. Muhammad)",
+      "rijal_sources_cited": [
+        "Siyar A'lam al-Nubala",
+        "Fawat al-Wafayat",
+        "Al-Ibar",
+        "Mir'at al-Jinan"
+      ],
+      "evaluation_summary": "Positive. A major Rijal scholar and author of Al-Jarh wa al-Ta'dil. His biography is used to show that he and his father (Abu Hatim) abandoned narrating from Al-Bukhari due to his theological stance on the Quran."
+    },
+    {
+      "scholar_name": "Ibn Abd al-Barr (Yusuf b. Abdullah)",
+      "rijal_sources_cited": [
+        "Siyar A'lam al-Nubala"
+      ],
+      "evaluation_summary": "Positive. Hafiz of the Maghrib. The author uses his authority to show his rejection of certain hadiths in Bukhari (e.g., the hadith of Ibn Umar regarding the ranking of the Caliphs and the story of the monkeys stoning each other for adultery)."
+    },
+    {
+      "scholar_name": "Badr al-Din al-Zarkashi",
+      "rijal_sources_cited": [
+        "Miftah Kanz al-Dirayah",
+        "Bustan al-Muhaddithin"
+      ],
+      "evaluation_summary": "Positive. A major Shafi'i scholar whose work 'Al-Tanqih' is cited to show the rejection of Bukhari's hadith regarding the revelation of the verse of fighting factions."
+    }
+  ],
+  "argument_lineage_traced": [
+    {
+      "claim": "The Hadith of Ghadir is not authentic or mutawatir because it was not narrated by Al-Bukhari and Muslim.",
+      "chain": [
+        "Fakhr al-Din al-Razi (d. 606) -> Sa'd al-Din al-Taftazani (d. 791) -> Shah Abdul Aziz al-Dehlavi (d. 1239) / Haydar Ali Fayzabadi"
+      ]
+    }
+  ],
+  "rebuttal_lineage_cited": [
+    {
+      "prior_scholar": "Al-Nawawi",
+      "work": "Sharh Sahih Muslim",
+      "what_they_refuted": "Refuted the idea that Bukhari and Muslim encompassed all authentic hadiths, stating they only intended to collect a portion of them."
+    },
+    {
+      "prior_scholar": "Ibn Qayyim al-Jawziyya",
+      "work": "Zad al-Ma'ad",
+      "what_they_refuted": "Refuted the claim that the denier (Nafi) is equal to the affirmer (Muthbit), establishing that the one who affirms a hadith or event takes precedence over the one who denies or omits it."
+    }
+  ],
+  "scholars_mentioned": [
+    "Fakhr al-Din al-Razi",
+    "Al-Bukhari",
+    "Muslim bin al-Hajjaj",
+    "Abu Zur'ah al-Razi",
+    "Muhammad b. Yahya al-Dhuhli",
+    "Ibn Hajar al-Asqalani",
+    "Badr al-Din al-Ayni",
+    "Al-Nawawi",
+    "Al-Ghazali",
+    "Ibn Hazm",
+    "Al-Daraqutni",
+    "Al-Isma'ili",
+    "Ibn Abd al-Barr",
+    "Ibn al-Jawzi",
+    "Ibn Taymiyyah",
+    "Shah Abdul Aziz al-Dehlavi",
+    "Haydar Ali Fayzabadi",
+    "Rashid al-Din Khan",
+    "Abd al-Ali Bahr al-Ulum",
+    "Al-Taftazani",
+    "Al-Qastallani",
+    "Ibn Qayyim al-Jawziyya",
+    "Al-Khatib al-Baghdadi",
+    "Al-Dhahabi",
+    "Al-Suyuti"
+  ],
+  "books_cited": [
+    "Nihayat al-Uqul",
+    "Sahih Bukhari",
+    "Sahih Muslim",
+    "Fath al-Bari",
+    "Umdat al-Qari",
+    "Siyar A'lam al-Nubala",
+    "Mizan al-I'tidal",
+    "Tadhhib al-Tahdhib",
+    "Tarikh Baghdad",
+    "Al-Ansab",
+    "Tabaqat al-Shafi'iyya",
+    "Muntaha al-Kalam",
+    "Izalat al-Ghayn",
+    "Tuhfat al-Ithna Ashariyya",
+    "Zad al-Ma'ad",
+    "Al-Mawdu'at",
+    "Al-Muhalla",
+    "Al-Mustasfa",
+    "Al-Mankhul",
+    "Irshad al-Sari",
+    "Al-Isti'ab",
+    "Fawatih al-Rahmut (Sharh Musallam al-Thubut)"
+  ]
+}

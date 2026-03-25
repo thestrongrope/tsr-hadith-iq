@@ -1,0 +1,93 @@
+{
+  "volume_number": 14,
+  "hadith_defended": "Hadith of the City of Knowledge (Madinat al-Ilm)",
+  "volume_section": "Sanad",
+  "overview": "This volume is dedicated to defending the chain of transmission (Sanad) of the Hadith 'I am the city of knowledge and Ali is its gate'. The author exhaustively refutes Shah Abdul Aziz Dehlavi's claim that the hadith is fabricated by compiling a massive list of Sunni scholars across centuries who narrated, authenticated, or defended the hadith, while also providing detailed biographical dossiers to vindicate key narrators.",
+  "responses_to_dehlavi": [
+    {
+      "dehlavi_claim_addressed": "Hadith of the City of Knowledge: Shia say: Ali is the gate to the Prophet's knowledge, making him the most knowledgeable and thus the rightful Imam. Dehlavi's attack: Declares it fabricated and rejected, citing multiple major Sunni Hadith masters.",
+      "author_response_summary": "The author demonstrates that the claim of fabrication originated primarily with Ibn al-Jawzi, whose judgment was explicitly rejected by subsequent major Sunni Hadith masters like Ibn Hajar al-Asqalani, Al-Suyuti, and Al-Sakhawi. The author proves the hadith is considered Sahih or Hasan by Sunni standards and defends the integrity of its narrators, particularly Abu al-Salt al-Harawi.",
+      "response_type": "SANAD_DEFENSE",
+      "key_evidence_cited": [
+        "Al-Mustadrak by Al-Hakim al-Nishapuri (authenticated it)",
+        "Al-La'ali al-Masnu'ah by Al-Suyuti (refuted fabrication)",
+        "Lisan al-Mizan and Fatawa by Ibn Hajar al-Asqalani (refuted fabrication)",
+        "Statements of Yahya bin Ma'in authenticating Abu al-Salt al-Harawi"
+      ]
+    }
+  ],
+  "biographical_dossiers": [
+    {
+      "scholar_name": "Abu al-Salt al-Harawi (Abd al-Salam bin Salih)",
+      "rijal_sources_cited": [
+        "Tarikh Baghdad",
+        "Tahdhib al-Tahdhib",
+        "Statements of Yahya bin Ma'in"
+      ],
+      "evaluation_summary": "The author defends Abu al-Salt against accusations of lying and fabrication, proving his reliability (Wathaqah) through the endorsements of strict Rijal scholars like Yahya bin Ma'in, thereby validating his narration of the hadith."
+    },
+    {
+      "scholar_name": "Yahya bin Ma'in",
+      "rijal_sources_cited": [
+        "Tarikh Baghdad",
+        "Tahdhib al-Kamal",
+        "Tadhkirat al-Huffaz"
+      ],
+      "evaluation_summary": "The author establishes Yahya bin Ma'in's supreme authority in the science of Rijal to emphasize the weight of his authentication of the hadith and its narrators."
+    }
+  ],
+  "argument_lineage_traced": [
+    {
+      "claim": "The Hadith of the City of Knowledge is fabricated (Mawdu').",
+      "chain": [
+        "Ibn al-Jawzi (d. 597) in Al-Mawdu'at",
+        "Shah Abdul Aziz Dehlavi in Tuhfat al-Ithna Ashariyya"
+      ]
+    }
+  ],
+  "rebuttal_lineage_cited": [
+    {
+      "prior_scholar": "Ibn Hajar al-Asqalani",
+      "work": "Lisan al-Mizan / Fatawa",
+      "what_they_refuted": "Refuted Ibn al-Jawzi's classification of the hadith as fabricated, stating it has numerous chains that elevate it to the level of Hasan."
+    },
+    {
+      "prior_scholar": "Jalal al-Din al-Suyuti",
+      "work": "Al-La'ali al-Masnu'ah / Al-Ta'aqqubat",
+      "what_they_refuted": "Explicitly criticized Ibn al-Jawzi for including this hadith in his book of fabrications, proving it is Hasan."
+    },
+    {
+      "prior_scholar": "Al-Sakhawi",
+      "work": "Al-Maqasid al-Hasanah",
+      "what_they_refuted": "Confirmed the hadith has a basis and is at least Hasan, rejecting the claim of fabrication."
+    }
+  ],
+  "scholars_mentioned": [
+    "Yahya bin Ma'in",
+    "Abu al-Salt al-Harawi",
+    "Ibn al-Jawzi",
+    "Al-Hakim al-Nishapuri",
+    "Al-Khatib al-Baghdadi",
+    "Ibn Hajar al-Asqalani",
+    "Jalal al-Din al-Suyuti",
+    "Al-Sakhawi",
+    "Al-Tirmidhi",
+    "Al-Tabari",
+    "Ibn Hajar al-Haytami",
+    "Al-Muttaqi al-Hindi",
+    "Abu Mu'awiyah al-Darir"
+  ],
+  "books_cited": [
+    "Tuhfat al-Ithna Ashariyya",
+    "Al-Mawdu'at",
+    "Al-Mustadrak 'ala al-Sahihayn",
+    "Tarikh Baghdad",
+    "Lisan al-Mizan",
+    "Al-La'ali al-Masnu'ah",
+    "Al-Maqasid al-Hasanah",
+    "Jami' al-Tirmidhi",
+    "Al-Sawa'iq al-Muhriqah",
+    "Kanz al-Ummal",
+    "Tahdhib al-Tahdhib"
+  ]
+}

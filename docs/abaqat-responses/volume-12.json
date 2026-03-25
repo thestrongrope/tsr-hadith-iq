@@ -1,0 +1,89 @@
+{
+  "volume_number": 12,
+  "hadith_defended": "Hadith of Wilayah",
+  "volume_section": "Sanad",
+  "overview": "This volume is dedicated to defending the authenticity (Sanad) of the Hadith of Wilayah ('Ali is the Wali of every believer after me'). The author systematically refutes Shah Abdul Aziz Dehlavi's claim that the hadith is weak due to the presence of Ajlah al-Kindi and other narrators. The author compiles extensive biographical dossiers (taraajim) from Sunni Rijal sources to prove the reliability of the narrators and traces the multiple authentic chains of this hadith.",
+  "responses_to_dehlavi": [
+    {
+      "dehlavi_claim_addressed": "Attacks the chain due to the presence of Ajlah, a weak Shia narrator.",
+      "author_response_summary": "The author provides a massive biographical dossier on Ajlah al-Kindi (Yahya bin Abdullah), proving that major Sunni Hadith masters (like Yahya bin Ma'in, Ibn Sa'd, Al-Nasa'i, and Al-Dhahabi) considered him reliable (Thiqah) or acceptable. He also demonstrates that Ajlah's Shia inclinations do not invalidate his narrations according to Sunni Rijal principles, and that his narrations are included in major Sunni collections.",
+      "response_type": "SANAD_DEFENSE",
+      "key_evidence_cited": [
+        "Tahdhib al-Tahdhib by Ibn Hajar al-Asqalani",
+        "Mizan al-Itidal by Al-Dhahabi",
+        "Al-Jarh wa al-Ta'dil by Ibn Abi Hatim",
+        "Statements of Yahya bin Ma'in validating Ajlah"
+      ]
+    },
+    {
+      "dehlavi_claim_addressed": "Attacks the chain due to the presence of Ajlah, a weak Shia narrator.",
+      "author_response_summary": "The author shows that the Hadith of Wilayah is not solely dependent on Ajlah. He presents numerous other authentic chains (Turuq) from various companions (like Imran bin Husayn, Ibn Abbas, Buraidah, and Ali himself) that do not include Ajlah, thereby proving the hadith is Mutawatir or at least Sahih/Hasan through multiple routes.",
+      "response_type": "SANAD_DEFENSE",
+      "key_evidence_cited": [
+        "Musnad Ahmad bin Hanbal",
+        "Sunan al-Tirmidhi",
+        "Al-Mustadrak by Al-Hakim al-Nishapuri",
+        "Khasa'is Amir al-Mu'minin by Al-Nasa'i"
+      ]
+    }
+  ],
+  "biographical_dossiers": [
+    {
+      "scholar_name": "Ajlah al-Kindi (Yahya bin Abdullah)",
+      "rijal_sources_cited": [
+        "Tahdhib al-Tahdhib",
+        "Mizan al-Itidal",
+        "Al-Jarh wa al-Ta'dil",
+        "Tabaqat Ibn Sa'd"
+      ],
+      "evaluation_summary": "The author compiles extensive quotes showing that while some criticized him for his Shia leanings, major authorities like Yahya bin Ma'in, Al-Nasa'i, and Ibn Sa'd declared him Thiqah (reliable) or Saduq (truthful), and his hadiths are accepted in Sunni scholarship."
+    },
+    {
+      "scholar_name": "Abu Dawud al-Tayalisi",
+      "rijal_sources_cited": [
+        "Tahdhib al-Tahdhib",
+        "Mizan al-Itidal",
+        "Tarikh Baghdad"
+      ],
+      "evaluation_summary": "Defended as a major Hafiz and reliable transmitter of the Hadith of Wilayah."
+    },
+    {
+      "scholar_name": "Ibn Jarir al-Tabari",
+      "rijal_sources_cited": [
+        "Tarikh Baghdad",
+        "Tabaqat al-Shafi'iyya",
+        "Wafayat al-Ayan"
+      ],
+      "evaluation_summary": "Extensively profiled to show his immense stature in Sunni scholarship, validating his authentication of the Hadith of Wilayah and his refutation of those who denied it."
+    }
+  ],
+  "argument_lineage_traced": [],
+  "rebuttal_lineage_cited": [],
+  "scholars_mentioned": [
+    "Shah Abdul Aziz Dehlavi",
+    "Ajlah al-Kindi",
+    "Yahya bin Ma'in",
+    "Ibn Hajar al-Asqalani",
+    "Al-Dhahabi",
+    "Al-Tirmidhi",
+    "Ahmad bin Hanbal",
+    "Al-Nasa'i",
+    "Al-Hakim al-Nishapuri",
+    "Ibn Jarir al-Tabari",
+    "Ibn Abi Hatim",
+    "Abu Dawud al-Tayalisi"
+  ],
+  "books_cited": [
+    "Tuhfat al-Ithna Ashariyya",
+    "Musnad Ahmad",
+    "Sunan al-Tirmidhi",
+    "Khasa'is Amir al-Mu'minin",
+    "Al-Mustadrak ala al-Sahihayn",
+    "Tahdhib al-Tahdhib",
+    "Mizan al-Itidal",
+    "Al-Jarh wa al-Ta'dil",
+    "Tarikh Baghdad",
+    "Wafayat al-Ayan",
+    "Tabaqat Ibn Sa'd"
+  ]
+}

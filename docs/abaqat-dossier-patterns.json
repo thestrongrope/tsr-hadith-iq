@@ -1,0 +1,346 @@
+{
+  "dossier_catalog": [
+    {
+      "heading": "«ترجمة واقدى د ركتاب ميزان الاعتدال»",
+      "subject_scholar": "محمد بن عمر بن واقد الواقدي",
+      "rijal_authority": "الذهبي",
+      "rijal_source_book": "ميزان الاعتدال فى نقد الرجال",
+      "argumentative_purpose": "To prove that Waqidi is considered a liar and fabricator by major Sunni authorities, invalidating Fakhr al-Razi's argument that Waqidi's omission of Hadith al-Ghadir weakens the Hadith."
+    },
+    {
+      "heading": "«ترجمه واقدى در كتاب تذهيب التهذيب»",
+      "subject_scholar": "محمد بن عمر بن واقد الواقدي",
+      "rijal_authority": "الذهبي",
+      "rijal_source_book": "تذهيب التهذيب",
+      "argumentative_purpose": "To reinforce Waqidi's unreliability using another work by Al-Dhahabi."
+    },
+    {
+      "heading": "ونيز حافظ ذهبي د ركتاب (مغنى)...",
+      "subject_scholar": "محمد بن عمر بن واقد الواقدي",
+      "rijal_authority": "الذهبي",
+      "rijal_source_book": "المغني في الضعفاء",
+      "argumentative_purpose": "Further corroboration of Waqidi's weakness from Al-Dhahabi."
+    },
+    {
+      "heading": "ونيز ذهبى در (عبر فى خبر مسن غبر)...",
+      "subject_scholar": "محمد بن عمر بن واقد الواقدي",
+      "rijal_authority": "الذهبي",
+      "rijal_source_book": "العبر في خبر من غبر",
+      "argumentative_purpose": "To show that even in historical chronicles, Waqidi is noted as weak."
+    },
+    {
+      "heading": "ونيز ذهبى در (كاشف)...",
+      "subject_scholar": "محمد بن عمر بن واقد الواقدي",
+      "rijal_authority": "الذهبي",
+      "rijal_source_book": "الكاشف",
+      "argumentative_purpose": "To show Al-Dhahabi's consistent grading of Waqidi as 'Matruk' (abandoned)."
+    },
+    {
+      "heading": "ونيز علامة ذهبي د ركتاب (سير النبلا)...",
+      "subject_scholar": "محمد بن عمر بن واقد الواقدي",
+      "rijal_authority": "الذهبي",
+      "rijal_source_book": "سير أعلام النبلاء",
+      "argumentative_purpose": "To demonstrate that Waqidi belongs to the fourth tier of narrators whose hadiths are generally rejected."
+    },
+    {
+      "heading": "ومحمد بن اسماعيل بخارى صاحب صحيح در ( تاريخ صغيسر )...",
+      "subject_scholar": "محمد بن عمر بن واقد الواقدي",
+      "rijal_authority": "البخاري",
+      "rijal_source_book": "التاريخ الصغير",
+      "argumentative_purpose": "To show that the author of Sahih al-Bukhari explicitly stated that scholars abandoned Waqidi."
+    },
+    {
+      "heading": "وابوسعد عبدالكريم بن محمد المروزى الشافعى دركتاب (انساب)...",
+      "subject_scholar": "محمد بن عمر بن واقد الواقدي",
+      "rijal_authority": "السمعاني",
+      "rijal_source_book": "الأنساب",
+      "argumentative_purpose": "To show that despite his fame in history, Hadith scholars criticized him."
+    },
+    {
+      "heading": "وشمس الدين ابوالعباس احمد بن محمد المعروف بان خلسكان... در (وفيات الاعيان...)",
+      "subject_scholar": "محمد بن عمر بن واقد الواقدي",
+      "rijal_authority": "ابن خلكان",
+      "rijal_source_book": "وفيات الأعيان",
+      "argumentative_purpose": "To show that even biographers outside strict Hadith sciences acknowledge his weakness in Hadith."
+    },
+    {
+      "heading": "وابومحمد عبدالله بن اسعد اليافعى اليمنى درتاريخ خود مسمى (بمرآة الجنان...)",
+      "subject_scholar": "محمد بن عمر بن واقد الواقدي",
+      "rijal_authority": "اليافعي",
+      "rijal_source_book": "مرآة الجنان",
+      "argumentative_purpose": "To reiterate the consensus of Hadith scholars on his weakness."
+    },
+    {
+      "heading": "وابن حجر عسقلانى حتماً حكم كرده بآذكه واقدى متروك استجنانجه در(تقريب التهذيب)...",
+      "subject_scholar": "محمد بن عمر بن واقد الواقدي",
+      "rijal_authority": "ابن حجر العسقلاني",
+      "rijal_source_book": "تقريب التهذيب",
+      "argumentative_purpose": "To provide the definitive ruling of a late master (Ibn Hajar) that Waqidi is 'Matruk'."
+    },
+    {
+      "heading": "وبدرالدين محمودبناحمد العينى در (عمدةالقارى)...",
+      "subject_scholar": "محمد بن عمر بن واقد الواقدي",
+      "rijal_authority": "العيني",
+      "rijal_source_book": "عمدة القاري",
+      "argumentative_purpose": "To show that Waqidi's historical dates are rejected when they conflict with authentic Hadith."
+    },
+    {
+      "heading": "وجلال الدين سيوطى هم فضايح واقدى نق ل كرده... در «طبقات الحفاظ»...",
+      "subject_scholar": "محمد بن عمر بن واقد الواقدي",
+      "rijal_authority": "السيوطي",
+      "rijal_source_book": "طبقات الحفاظ",
+      "argumentative_purpose": "To show Al-Suyuti's transmission of severe jarh against Waqidi."
+    },
+    {
+      "heading": "ونيزجلال الدينعبدالرحمن السيوطى دررسالة (در منتثرة فى الاحاديث المشتهرة)...",
+      "subject_scholar": "محمد بن عمر بن واقد الواقدي",
+      "rijal_authority": "السيوطي (quoting Al-Shafi'i)",
+      "rijal_source_book": "الدر المنتثرة",
+      "argumentative_purpose": "To quote Al-Shafi'i calling Waqidi's books 'lies'."
+    },
+    {
+      "heading": "ونيزجلال الدينسيوطى در(ندريبالراوىفى شرح تقريب النواوى)...",
+      "subject_scholar": "محمد بن عمر بن واقد الواقدي",
+      "rijal_authority": "السيوطي (quoting Al-Nasa'i)",
+      "rijal_source_book": "تدريب الراوي",
+      "argumentative_purpose": "To quote Al-Nasa'i listing Waqidi among the four famous fabricators of Hadith."
+    },
+    {
+      "heading": "وبرهان الدين ابراهيم بنمحمد ابى الوفا بن سبط ابن العجمى... دركتاب خود مسمى (بالكشف الحثيث...)",
+      "subject_scholar": "محمد بن عمر بن واقد الواقدي",
+      "rijal_authority": "سبط ابن العجمي",
+      "rijal_source_book": "الكشف الحثيث عمن رمي بوضع الحديث",
+      "argumentative_purpose": "To reinforce Waqidi's status as a known fabricator."
+    },
+    {
+      "heading": "وشيخ رحمة الله بنعبدالله المندى در (مختصر تنزيه الشريعة...)",
+      "subject_scholar": "محمد بن عمر بن واقد الواقدي",
+      "rijal_authority": "رحمة الله السندي",
+      "rijal_source_book": "مختصر تنزيه الشريعة",
+      "argumentative_purpose": "To show Waqidi listed in a dictionary of fabricators."
+    },
+    {
+      "heading": "وحافظ ابوالمؤيد محمد بنمحمود الخوارزمى... در جامع مسانيد أبى حنيفة...",
+      "subject_scholar": "محمد بن عمر بن واقد الواقدي",
+      "rijal_authority": "الخوارزمي",
+      "rijal_source_book": "جامع مسانيد أبي حنيفة",
+      "argumentative_purpose": "To show that Sunni scholars reject Waqidi's historical reports when defending Abu Hanifa, proving double standards."
+    },
+    {
+      "heading": "ومحمدبن يوسف شامىدمشقى... د ركتاب (سبل الهدى والرشاد...)",
+      "subject_scholar": "محمد بن عمر بن واقد الواقدي",
+      "rijal_authority": "الصالحي الشامي",
+      "rijal_source_book": "سبل الهدى والرشاد",
+      "argumentative_purpose": "To show that even authors of Sira admit Waqidi is 'Matruk' in Hadith."
+    },
+    {
+      "heading": "ومحمدمحسنكشميرى دركتاب (نجاة المؤمنين)...",
+      "subject_scholar": "محمد بن عمر بن واقد الواقدي",
+      "rijal_authority": "محمد محسن الكشميري",
+      "rijal_source_book": "نجاة المؤمنين",
+      "argumentative_purpose": "To show a hostile anti-Shi'a polemicist calling Waqidi a fabricator to reject Shi'a arguments, highlighting the hypocrisy of using Waqidi's silence against the Shi'a."
+    },
+    {
+      "heading": "وابو الفتح محمد بن محمد بن محمد بن احمد المعروف بابن سيد الناس الاندلسى در (عيون الاثر...)",
+      "subject_scholar": "محمد بن عمر بن واقد الواقدي",
+      "rijal_authority": "ابن سيد الناس",
+      "rijal_source_book": "عيون الأثر",
+      "argumentative_purpose": "To provide a comprehensive dossier containing both praise and severe criticism of Waqidi, concluding with his rejection in Hadith."
+    },
+    {
+      "heading": "قال فى ميزان الاعتدال فى نقد الرجال : محمد ابن اسحاق بن يسار...",
+      "subject_scholar": "محمد بن إسحاق",
+      "rijal_authority": "الذهبي",
+      "rijal_source_book": "ميزان الاعتدال",
+      "argumentative_purpose": "To prove that Ibn Ishaq is also heavily criticized by Sunni scholars, invalidating Fakhr al-Razi's reliance on his omission of Hadith al-Ghadir."
+    },
+    {
+      "heading": "ومحمد بن محمد المعروف بابى الفتح بن سيد الناس الاندلسى در اوائل «عيون الاثر...»",
+      "subject_scholar": "محمد بن إسحاق",
+      "rijal_authority": "ابن سيد الناس",
+      "rijal_source_book": "عيون الأثر",
+      "argumentative_purpose": "To present a detailed compilation of jarh against Ibn Ishaq."
+    },
+    {
+      "heading": "ذهبى در ( مغنى »كفته...",
+      "subject_scholar": "محمد بن إسحاق",
+      "rijal_authority": "الذهبي",
+      "rijal_source_book": "المغني في الضعفاء",
+      "argumentative_purpose": "To show Al-Dhahabi listing those who called Ibn Ishaq a liar."
+    },
+    {
+      "heading": "وعبدالله بن مسلم بن قتيبة د ركتاب «معارف »كفته...",
+      "subject_scholar": "محمد بن إسحاق",
+      "rijal_authority": "ابن قتيبة",
+      "rijal_source_book": "المعارف",
+      "argumentative_purpose": "To show early criticism of Ibn Ishaq."
+    },
+    {
+      "heading": "ومولوى عبدالعلى بن نظام الدين... دركتاب «فواتئح الرحموت شرح مسلم الثبوت»كفته...",
+      "subject_scholar": "محمد بن إسحاق",
+      "rijal_authority": "عبد العلي بن نظام الدين",
+      "rijal_source_book": "فواتح الرحموت",
+      "argumentative_purpose": "To show a late Sunni scholar acknowledging the severe jarh against Ibn Ishaq."
+    },
+    {
+      "heading": "«ترجمه آبَنَ كيمية حرانى»",
+      "subject_scholar": "أحمد بن عبدالحليم بن تيمية",
+      "rijal_authority": "ابن شاكر الكتبي",
+      "rijal_source_book": "فوات الوفيات",
+      "argumentative_purpose": "To establish Ibn Taymiyya's immense authority among Sunnis, so his admission that Al-Jahiz wrote a book defending the Marwanids can be used to prove Al-Jahiz's Nasibi bias."
+    },
+    {
+      "heading": "قاضى القضاة شمس الدين ابوالعباس احمد بن محمد بن ابراهيم بن خلكان... در «وفيات الاعيان...»",
+      "subject_scholar": "محمد بن يزيد المبرد",
+      "rijal_authority": "ابن خلكان",
+      "rijal_source_book": "وفيات الأعيان",
+      "argumentative_purpose": "To establish the authority of Al-Mubarrad, who quoted the correspondence between Mu'awiya and Muhammad b. Abi Bakr, proving Mu'awiya's enmity and his admission of Ali's virtues."
+    },
+    {
+      "heading": "وعلامه سيوطى در كتاب « طبقات الحفاظ »... كفته",
+      "subject_scholar": "عبدالرحمن بن يوسف بن خراش",
+      "rijal_authority": "السيوطي",
+      "rijal_source_book": "طبقات الحفاظ",
+      "argumentative_purpose": "To show that even a great Sunni Hafiz like Ibn Khirash was accused of Rafd and writing against the Shaykhayn, proving that Sunni scholars' praise of someone's knowledge doesn't mean they agree with their sectarian leanings."
+    },
+    {
+      "heading": "جنانجه ابومنصورعبدالملك بن محمد التعاليى »كه علامه شمس الدين ابن خلكان در « وفيات الاعيان » بترجمةاو كفته...",
+      "subject_scholar": "عبدالملك بن محمد الثعالبي",
+      "rijal_authority": "ابن خلكان",
+      "rijal_source_book": "وفيات الأعيان",
+      "argumentative_purpose": "To establish Al-Tha'alibi's authority, as he praised Al-Sharif al-Radi."
+    },
+    {
+      "heading": "لإدركتاب « يتيمة الدهر فى محاسن أهل العصر »... كفته",
+      "subject_scholar": "محمد بن الحسين الشريف الرضي",
+      "rijal_authority": "الثعالبي",
+      "rijal_source_book": "يتيمة الدهر",
+      "argumentative_purpose": "To show that Sunni scholars highly praised Al-Sharif al-Radi, refuting the opponent's claim that he was merely a despised Rafidi."
+    },
+    {
+      "heading": "لإوأبو الحسن على بن الحسن الباخرزي »كه از اعاظم نحارير... أبوسعد عبدالكريم بن محمد المروزي الشافمى السمعاني در كتاب (انساب)كفته...",
+      "subject_scholar": "علي بن الحسن الباخرزي",
+      "rijal_authority": "السمعاني",
+      "rijal_source_book": "الأنساب",
+      "argumentative_purpose": "To establish Al-Bakharzi's authority, as he also praised Al-Sharif al-Radi."
+    },
+    {
+      "heading": "عمر بن مظفر المعروف بابنالوردي در«تتمةالمختصرباخبار البشر»... كفته",
+      "subject_scholar": "عمر بن مظفر بن الوردي",
+      "rijal_authority": "ابن شاكر الكتبي",
+      "rijal_source_book": "فوات الوفيات",
+      "argumentative_purpose": "To establish his authority, as he praised Abu al-Ala al-Ma'arri and quoted his poem praising Al-Sharif al-Radi's father."
+    },
+    {
+      "heading": "عمر بن مظفر المعروف بابنالوردي در«تتمةالمختصرباخبار البشر»... كفته",
+      "subject_scholar": "أحمد بن عبدالله التنوخي (أبو العلاء المعري)",
+      "rijal_authority": "ابن الوردي",
+      "rijal_source_book": "تتمة المختصر",
+      "argumentative_purpose": "To show that even someone accused of heresy like Al-Ma'arri praised the Ahl al-Bayt, so Al-Jahiz's praise of Ali doesn't negate his Nasibi enmity."
+    },
+    {
+      "heading": "«ترجمه قاضى ابسو الطيب طبرى مادح معرى»",
+      "subject_scholar": "طاهر بن عبدالله الطبري",
+      "rijal_authority": "السمعاني",
+      "rijal_source_book": "الأنساب",
+      "argumentative_purpose": "To establish his authority, as he praised Al-Ma'arri."
+    },
+    {
+      "heading": "« ترجمة ابوطاهر سلفى اصفهانى »",
+      "subject_scholar": "أحمد بن محمد سلفة الاصبهاني",
+      "rijal_authority": "السمعاني",
+      "rijal_source_book": "الأنساب",
+      "argumentative_purpose": "To establish his authority, as he compiled the news of Al-Ma'arri."
+    },
+    {
+      "heading": "ابوسعيد عبدالكريم سمعانى د ركتاب انسا ب كفته...",
+      "subject_scholar": "محمد بن عبدالله الاسكافي",
+      "rijal_authority": "السمعاني",
+      "rijal_source_book": "الأنساب",
+      "argumentative_purpose": "To establish his authority as a Mu'tazili scholar who refuted Al-Jahiz's 'Al-Uthmaniyya'."
+    },
+    {
+      "heading": "جمال الدين عبد الرحيم بن الحسن بن على الاسنوى الشافعى در ( طبقات فتهاء شافعيه ) كفته...",
+      "subject_scholar": "عبدالجبار بن أحمد (القاضي عبد الجبار)",
+      "rijal_authority": "الإسنوي",
+      "rijal_source_book": "طبقات الشافعية",
+      "argumentative_purpose": "To establish his authority, as he praised Al-Iskafi."
+    }
+  ],
+  "internal_structure_patterns": {
+    "consistent_data_fields": [
+      "Full Name and Lineage (e.g., محمد بنعمرو بن واقد الاسلمى)",
+      "Kunya and Nisba (e.g., أبو عبدالله الاسلمى)",
+      "Birth and Death Dates (e.g., ولد الواقدى سنة ثلاثين ومأة... مات سنة سبع ومأتين)",
+      "Teachers/Shuyukh (e.g., لقى ابن جريح ، وابن عجلان)",
+      "Students/Narrators (e.g., وعنه الشافعى ، وأبو عبيد)",
+      "Books Authored (e.g., صاحب التصائيف)",
+      "Evaluations (Jarh and Ta'dil quotes)"
+    ],
+    "jarh_formatting": [
+      "قال احمد بن حنبل : هوكذاب يقلب الأحاديث",
+      "وقال ابن معين : ليس بثقة ، وقال مرة : لايكتب حديثه",
+      "وقال البخارى ، وأبو حاتم : متروك",
+      "وقال ابن عدى : احاديثه غير محفوظة ؛ والبلاء منه"
+    ],
+    "tadil_formatting": [
+      "وقال مصعب : ثقة مأمون",
+      "وعن الدراوردى قال : الواقدى أمير المؤمنين فى الحديث",
+      "وقال جابر بنكردرى : سمعت يزيد بن هارون يقول : الواقدى ثقة"
+    ],
+    "direct_quotes_vs_paraphrased": "Evaluations are almost always direct Arabic quotes introduced by 'قال' or 'وقال'. The author sometimes provides a Farsi paraphrase or summary before or after the Arabic quote (e.g., 'وامام احمد بن حنبل او راكذاب بصيغة مبالفه كفته').",
+    "author_commentary": "The author frequently interjects in Farsi to summarize the Arabic quotes, draw argumentative conclusions, or highlight the severity of the criticism. Example: 'از اين عبارت واضح است كه احمد بن حنبل واقدى را باتب كذاب نواخته'.",
+    "start_and_end": "Dossiers typically start with the author stating the source and the authority (e.g., 'علامه شمس الدين ذهبسى در ميزان الاعتدال... كفته'), followed by the Arabic text starting with the scholar's name. They end with the scholar's death date or a concluding Farsi synthesis by the author."
+  },
+  "multi_source_patterns": {
+    "transitions": "The author transitions between sources using phrases like 'ونيز علامه ذهبي در (تذهيب التهذيب)... كفته' (And also Allamah Dhahabi said in Tadhhib al-Tahdhib...) or simply 'وقال...' when quoting multiple authorities within the same source.",
+    "order": "The author often presents the most comprehensive or authoritative source first (like Mizan al-I'tidal), followed by corroborating sources by the same author (like Al-Mughni, Al-Kashif) or other major scholars (like Ibn Hajar, Al-Suyuti).",
+    "positive_negative_order": "When quoting a source that contains both praise and criticism (like Ibn Sayyid al-Nas on Waqidi), the author quotes the full text, which often lists praise first, followed by the severe jarh. The author then focuses his Farsi commentary entirely on the negative evaluations to prove his point.",
+    "synthesis_conclusion": "After presenting multiple sources, the author synthesizes the findings in Farsi, explicitly stating that the consensus or overwhelming weight of Sunni scholarship considers the person weak or a fabricator. Example: 'بالجملة اكر واقدى باجماعاهل سنت موثق ومعتمد عليه... بازهم تمسك وتشبث يعدم اخراج او حديث غديررا سمتى از جواز نداشت'."
+  },
+  "evaluation_vocabulary": {
+    "positive_terms": [
+      "ثقة (Trustworthy)",
+      "مأمون (Reliable)",
+      "صدوق (Truthful)",
+      "امام (Imam)",
+      "علامة (Allamah)",
+      "حافظ (Hafiz)",
+      "أمير المؤمنين فى الحديث (Commander of the Faithful in Hadith)",
+      "صالح الحديث (Good in Hadith)"
+    ],
+    "negative_terms": [
+      "متروك (Abandoned)",
+      "كذاب (Liar)",
+      "يضع الحديث (Fabricates Hadith)",
+      "ضعيف (Weak)",
+      "ليس بثقة (Not trustworthy)",
+      "لا يكتب حديثه (His hadith is not written)",
+      "البلاء منه (The affliction is from him)",
+      "دجال من الدجاجلة (A deceiver among deceivers)",
+      "ليس بالقوي (Not strong)"
+    ],
+    "formulaic_phrases": [
+      "قال [Name] : ...",
+      "وقال [Name] : ...",
+      "سمعت [Name] يقول : ...",
+      "سألت [Name] عن [Name] فقال : ..."
+    ]
+  },
+  "dossier_types": [
+    "Full biographical entry: Includes lineage, dates, teachers, students, and extensive evaluations (e.g., Waqidi from Mizan al-I'tidal).",
+    "Brief evaluation only: A short quote focusing solely on the jarh or ta'dil (e.g., Waqidi from Taqrib al-Tahdhib: 'متروك مع سعة علمه').",
+    "Comparative dossier: Presenting a source that contrasts different authorities' views (e.g., Ibn Sayyid al-Nas on Waqidi).",
+    "Polemical dossier: Building a dossier specifically to show that the opponent's reliance on a scholar is flawed because the opponent's own sect considers that scholar a liar (e.g., the entire Waqidi and Ibn Ishaq sections)."
+  ],
+  "argumentative_integration": {
+    "triggers": "The author builds a dossier when an opponent (like Fakhr al-Razi) uses a narrator's action (like omitting a Hadith) as an argument against the Shi'a. The author builds the dossier to destroy the credibility of that narrator.",
+    "transition_in": "The author transitions from the argument by stating that the opponent's reliance is absurd because the narrator is heavily criticized in their own books. Example: 'واين همه يك سو است آنجه اكابسر سنيه دركتب رجالية از مناقب ومحامد و اقدى يادكردداند...'",
+    "transition_out": "The author transitions back by summarizing the dossier's findings and declaring the opponent's argument invalid. Example: 'يس احتجاجرازى ومقلدينزش بعدماخر اجواقدى حديث غديررا بجند وجه موهون ومخدوشاست .'",
+    "explicit_conclusion": "Yes, the author always draws an explicit conclusion, usually stating that the opponent's argument is 'makhdush' (flawed) or 'batil' (void) based on the biographical evidence presented."
+  },
+  "cross_referencing_within_dossiers": {
+    "noting_multiple_appearances": "The author notes when the same scholar is evaluated in multiple books by using phrases like 'ونيز علامه ذهبي در...' (And also Allamah Dhahabi in...).",
+    "cumulative_cases": "The author builds highly cumulative cases, stacking quotes from 10-20 different Sunni Rijal and Tarikh books to prove beyond doubt that a narrator (like Waqidi) is rejected, making it impossible for the opponent to defend their reliance on him."
+  }
+}

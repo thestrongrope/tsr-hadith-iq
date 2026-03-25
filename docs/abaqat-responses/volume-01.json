@@ -1,0 +1,161 @@
+{
+  "volume_number": 1,
+  "hadith_defended": "Hadith of Ghadir Khumm",
+  "volume_section": "Sanad",
+  "overview": "This volume focuses entirely on the Sanad (chains of transmission) of the Hadith of Ghadir Khumm. The author refutes Dehlavi's attempt to minimize the hadith's transmission by framing it as an isolated report narrated primarily by Buraydah. Mir Hamid Husain exhaustively proves the Tawatur (mass-transmission) of the hadith by listing over 100 Sahaba who narrated it. He catalogs numerous major Sunni scholars who wrote dedicated books compiling the chains of Ghadir (such as Ibn Uqdah, al-Tabari, al-Sijistani, and al-Haskani) and defends these scholars against Dehlavi's accusations of them being Shia fabricators by building extensive biographical dossiers from Sunni Rijal works.",
+  "responses_to_dehlavi": [
+    {
+      "dehlavi_claim_addressed": "Dehlavi minimizes the transmission of Ghadir, attributing it primarily to Buraydah and framing it as a specific, isolated response to a complaint made in Yemen.",
+      "author_response_summary": "The author proves the hadith is Mutawatir (mass-transmitted), narrated by over 100 companions. He lists the names of 98 Sahaba explicitly and cites major Sunni hadith masters (al-Suyuti, al-Dhahabi, Ibn al-Jazari, Ali al-Muttaqi) who formally declared the hadith to be Mutawatir.",
+      "response_type": "SANAD_DEFENSE",
+      "key_evidence_cited": [
+        "Asna al-Matalib by Ibn al-Jazari",
+        "Al-Azhar al-Mutanathira by Al-Suyuti",
+        "Qatf al-Azhar by Ali al-Muttaqi",
+        "Al-Tarif by Al-Dhahabi"
+      ]
+    },
+    {
+      "dehlavi_claim_addressed": "Dehlavi (following Nasrullah al-Kabuli) attacks Ibn Uqdah as a 'Rafidi' to dismiss his book which compiled 105 chains for the Hadith of Ghadir.",
+      "author_response_summary": "The author compiles a massive biographical dossier proving Ibn Uqdah is a highly respected Hafiz and a central authority in Sunni Rijal, praised by al-Daraqutni, al-Dhahabi, and relied upon by Ibn Hajar al-Asqalani.",
+      "response_type": "BIOGRAPHICAL_DOSSIER",
+      "key_evidence_cited": [
+        "Al-Ansab by Al-Sam'ani",
+        "Tadhkirat al-Huffaz by Al-Dhahabi",
+        "Tahdhib al-Tahdhib by Ibn Hajar",
+        "Tabaqat al-Huffaz by Al-Suyuti"
+      ]
+    },
+    {
+      "dehlavi_claim_addressed": "Dehlavi claims that Shia rely on only 12 hadiths for Imamate.",
+      "author_response_summary": "The author exposes this as a false limitation copied from Kabuli, demonstrating that Shia and Sunni sources contain hundreds of hadiths proving the Imamate and superiority of Ali, far exceeding the arbitrary number of 12.",
+      "response_type": "CONTRADICTION_EXPOSURE",
+      "key_evidence_cited": [
+        "Al-Sawa'iq by Nasrullah al-Kabuli",
+        "Numerous Sunni compilations of virtues (Manaqib)"
+      ]
+    }
+  ],
+  "biographical_dossiers": [
+    {
+      "scholar_name": "Ibn Uqdah (Ahmad bin Muhammad bin Sa'id)",
+      "rijal_sources_cited": [
+        "Al-Ansab by Al-Sam'ani",
+        "Tahdhib al-Tahdhib by Ibn Hajar",
+        "Al-Ibar by Al-Dhahabi",
+        "Tabaqat al-Huffaz by Al-Suyuti",
+        "Tabaqat al-Shafi'iyya by Al-Subki"
+      ],
+      "evaluation_summary": "Highly positive. Proven to be a master Hafiz, trusted by Al-Daraqutni, and a primary source for later Sunni hadith masters. His alleged 'Tashayyu' (Shi'ism) is shown to be merely a love for Ahl al-Bayt, which does not invalidate his hadith transmission according to Sunni standards."
+    },
+    {
+      "scholar_name": "Muhammad bin Jarir al-Tabari",
+      "rijal_sources_cited": [
+        "Mu'jam al-Udaba by Yaqut al-Hamawi",
+        "Tadhkirat al-Huffaz by Al-Dhahabi",
+        "Tabaqat al-Shafi'iyya by Al-Subki",
+        "Al-Ibar by Al-Dhahabi"
+      ],
+      "evaluation_summary": "Highly positive. Acknowledged as a Mujtahid and Imam in multiple sciences. The author highlights Tabari's dedicated 2-volume work on the chains of Ghadir (Kitab al-Wilayah) containing 75 chains, written specifically to refute those in Baghdad who denied the event."
+    },
+    {
+      "scholar_name": "Al-Haskani (Ubaydullah bin Abdullah)",
+      "rijal_sources_cited": [
+        "Tabaqat al-Huffaz by Al-Suyuti",
+        "Tarikh Naysabur by Abd al-Ghafir al-Farsi",
+        "Al-Sira al-Shamiyya by Muhammad bin Yusuf al-Shami"
+      ],
+      "evaluation_summary": "Highly positive. Defended against charges of Rafd; proven to be a meticulous Sunni Hafiz who authored 'Du'a al-Hudat' compiling the chains of Ghadir."
+    },
+    {
+      "scholar_name": "Abu Sa'id al-Sijistani (Mas'ud bin Nasir)",
+      "rijal_sources_cited": [
+        "Al-Ansab by Al-Sam'ani",
+        "Al-Ibar by Al-Dhahabi",
+        "Mir'at al-Jinan by Al-Yafi'i",
+        "Tabaqat al-Huffaz by Al-Suyuti"
+      ],
+      "evaluation_summary": "Highly positive. Praised for his precision and memory. Authored a massive 17-volume work 'Dirayat Hadith al-Wilayah' containing 1300 chains for the Hadith of Ghadir."
+    },
+    {
+      "scholar_name": "Ibn al-Jazari (Muhammad bin Muhammad)",
+      "rijal_sources_cited": [
+        "Kashf al-Zunun by Hajji Khalifa",
+        "Tabaqat al-Huffaz by Al-Suyuti",
+        "Bustan al-Muhaddithin by Shah Abdul Aziz al-Dehlavi"
+      ],
+      "evaluation_summary": "Highly positive. Acknowledged as the ultimate authority in Qira'at and a major Hadith scholar. His book 'Asna al-Matalib' is cited where he explicitly declares the Hadith of Ghadir to be Mutawatir."
+    },
+    {
+      "scholar_name": "Jalal al-Din al-Suyuti",
+      "rijal_sources_cited": [
+        "Lawaqih al-Anwar by Al-Sha'rani",
+        "Fath al-Muta'al by Al-Maqqari",
+        "Khulasat al-Athar by Al-Muhibbi"
+      ],
+      "evaluation_summary": "Highly positive. Recognized as the Mujaddid of the 9th century. His works 'Al-Azhar al-Mutanathira' and 'Qatf al-Azhar' are used as definitive proof that Ghadir is Mutawatir among Sunni hadith masters."
+    }
+  ],
+  "argument_lineage_traced": [
+    {
+      "claim": "Restricting the Shia proofs for Imamate to exactly 12 hadiths and attacking Ibn Uqdah as a Rafidi fabricator.",
+      "chain": [
+        "Nasrullah al-Kabuli (author of Al-Sawa'iq) -> Shah Abdul Aziz al-Dehlavi (author of Tuhfat al-Ithna Ashariyya)"
+      ]
+    }
+  ],
+  "rebuttal_lineage_cited": [
+    {
+      "prior_scholar": "Sayyid Muhammad Quli (Author's Father)",
+      "work": "Tashyid al-Mata'in",
+      "what_they_refuted": "Chapter 10 of Tuhfat al-Ithna Ashariyya (Dehlavi's defense of the Caliphs and attacks on Shia historical claims)"
+    },
+    {
+      "prior_scholar": "Sayyid Muhammad Quli (Author's Father)",
+      "work": "Masari' al-Ifham",
+      "what_they_refuted": "Chapter 11 of Tuhfat al-Ithna Ashariyya"
+    }
+  ],
+  "scholars_mentioned": [
+    "Shah Abdul Aziz al-Dehlavi",
+    "Nasrullah al-Kabuli",
+    "Ibn Uqdah",
+    "Ibn al-Maghazili",
+    "Muhammad bin Jarir al-Tabari",
+    "Al-Haskani",
+    "Abu Sa'id al-Sijistani",
+    "Al-Dhahabi",
+    "Ibn Hajar al-Asqalani",
+    "Ibn al-Jazari",
+    "Jalal al-Din al-Suyuti",
+    "Ali al-Muttaqi",
+    "Mirza Makhdum",
+    "Ataullah al-Nishapuri",
+    "Mulla Ali al-Qari",
+    "Diya al-Din al-Muqbili",
+    "Muhammad bin Isma'il al-San'ani",
+    "Qadi Sanaullah Panipati",
+    "Sayyid Ali bin Tawus"
+  ],
+  "books_cited": [
+    "Tuhfat al-Ithna Ashariyya",
+    "Al-Sawa'iq (by Kabuli)",
+    "Al-Manaqib (by Ibn al-Maghazili)",
+    "Kitab al-Wilayah (by Ibn Uqdah)",
+    "Kitab al-Wilayah (by Al-Tabari)",
+    "Dirayat Hadith al-Wilayah (by Al-Sijistani)",
+    "Du'a al-Hudat (by Al-Haskani)",
+    "Fath al-Bari",
+    "Al-Isabah fi Tamyiz al-Sahaba",
+    "Tabaqat al-Huffaz",
+    "Al-Ibar fi Khabar man Ghabar",
+    "Al-Ansab",
+    "Kashf al-Zunun",
+    "Asna al-Matalib",
+    "Al-Azhar al-Mutanathira",
+    "Qatf al-Azhar",
+    "Al-Tara'if",
+    "Al-Iqbal bi Salih al-A'mal",
+    "Bustan al-Muhaddithin"
+  ]
+}

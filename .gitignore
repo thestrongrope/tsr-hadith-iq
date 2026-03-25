@@ -1,0 +1,19 @@
+# API keys
+.env
+
+# Cloned reference repos (not our work)
+reference/
+
+# Source texts (large OCR files, not diffable)
+sources/
+
+# IDE / OS
+.DS_Store
+*.code-workspace
+.vscode/
+.idea/
+
+# Python
+__pycache__/
+*.pyc
+.venv/

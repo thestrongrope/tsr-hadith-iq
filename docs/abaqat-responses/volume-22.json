@@ -1,0 +1,131 @@
+{
+  "volume_number": 22,
+  "hadith_defended": "Hadith of Thaqalayn (by refuting the counter-Hadith of the Stars)",
+  "volume_section": "Dalalat",
+  "overview": "This volume defends the Hadith of Thaqalayn by systematically dismantling the Sunni counter-narrative based on the 'Hadith of the Stars' (My companions are like the stars; whichever you follow, you will be guided). The author proves the Hadith of the Stars is fabricated and logically absurd by cataloging the numerous theological, legal, and moral blunders of prominent Sahaba, proving they cannot be absolute guides. He also explicitly refutes Dehlavi's reliance on Ali's statement 'Shura belongs to the Muhajirun and Ansar' by demonstrating historically that the caliphates of Abu Bakr, Umar, and Uthman were not established through genuine Shura, citing Sunni sources to show they were established by force, hasty mistakes (falta), and rigged committees.",
+  "responses_to_dehlavi": [
+    {
+      "dehlavi_claim_addressed": "Hadith of Thaqalayn: Accepts the hadith but argues Sunnis are its true practitioners. (Implicitly relying on the 'Hadith of the Stars' to argue all Sahaba are equal sources of guidance).",
+      "author_response_summary": "The author destroys the 'Hadith of the Stars' (أصحابي كالنجوم) which Sunnis use to bypass the exclusive guidance of the Ahl al-Bayt established in Thaqalayn. He lists dozens of instances where prominent Sahaba gave blatantly incorrect fatwas (e.g., Abu Musa al-Ash'ari on adult breastfeeding, Umar on Tayammum), committed major sins (Samura b. Jundub selling wine, Mu'awiya selling idols), and cursed or physically attacked one another. He argues that it is logically impossible for the Prophet to designate fallible, contradictory, and sometimes sinful individuals as absolute stars of guidance.",
+      "response_type": "CONTRADICTION_EXPOSURE",
+      "key_evidence_cited": [
+        "Al-Mabsut by Al-Sarkhasi",
+        "Al-Ihkam by Ibn Hazm",
+        "I'lam al-Muwaqqi'in by Ibn al-Qayyim",
+        "Al-Mustasfa by Al-Ghazali",
+        "Historical records of Sahaba contradicting the Quran and Sunnah"
+      ]
+    },
+    {
+      "dehlavi_claim_addressed": "Nass is not required. Ali himself stated that the right to choose the Caliph belongs to the Muhajirun and Ansar through Shura (consultation).",
+      "author_response_summary": "The author dedicates a specific section to refuting the argument based on the phrase 'Consultation is only for the Muhajirun and Ansar' (إنما الشورى للمهاجرين والأنصار). He proves through Sunni historical texts that genuine Shura never took place for the first three caliphs. He cites Umar's own admission in Sahih al-Bukhari that Abu Bakr's election was a 'falta' (hasty mistake/slip) that lacked broad consultation. He shows Umar was appointed by a written decree from Abu Bakr without Shura, and Uthman was selected by a rigged six-man committee where Umar ordered the execution of anyone who disagreed.",
+      "response_type": "COUNTER_CITATION",
+      "key_evidence_cited": [
+        "Sahih al-Bukhari (Umar's sermon on the 'falta' of Saqifah)",
+        "Tarikh al-Tabari",
+        "Al-Kamil fi al-Tarikh by Ibn al-Athir",
+        "Al-Tabaqat by Ibn Sa'd",
+        "Al-Iqd al-Farid by Ibn Abd Rabbih"
+      ]
+    }
+  ],
+  "biographical_dossiers": [
+    {
+      "scholar_name": "Abu Burda (son of Abu Musa al-Ash'ari)",
+      "rijal_sources_cited": [
+        "Tarikh al-Tabari",
+        "Sharh Nahj al-Balagha by Ibn Abi al-Hadid"
+      ],
+      "evaluation_summary": "Evaluated negatively. Exposed as a liar and a traitor who gave false testimony against the pious companion Hujr b. Adi to please Ziyad and Mu'awiya."
+    },
+    {
+      "scholar_name": "Samura b. Jundub",
+      "rijal_sources_cited": [
+        "Musnad Ahmad",
+        "Sahih Muslim",
+        "Sharh Nahj al-Balagha by Ibn Abi al-Hadid"
+      ],
+      "evaluation_summary": "Evaluated negatively. Highlighted for selling wine (which Umar cursed him for), taking massive bribes from Mu'awiya to fabricate hadiths against Imam Ali, and inciting people to fight Imam Husayn."
+    },
+    {
+      "scholar_name": "Abu Hurayrah",
+      "rijal_sources_cited": [
+        "Ta'wil Mukhtalif al-Hadith by Ibn Qutaybah",
+        "Tadhkirat al-Huffaz by Al-Dhahabi",
+        "Al-Tafdil by Abu Ja'far al-Iskafi"
+      ],
+      "evaluation_summary": "Evaluated negatively. The author compiles evidence showing Abu Hurayrah was beaten by Umar for narrating too many hadiths, accused of lying by Aisha and Imam Ali, and explicitly rejected by Abu Hanifa and Ibrahim al-Nakha'i."
+    },
+    {
+      "scholar_name": "Anas b. Malik",
+      "rijal_sources_cited": [
+        "Sharh Nahj al-Balagha by Ibn Abi al-Hadid",
+        "Ansab al-Ashraf by Al-Baladhuri"
+      ],
+      "evaluation_summary": "Evaluated negatively. Documented as having concealed his testimony regarding the Hadith of Ghadir when asked by Imam Ali, resulting in Ali cursing him with leprosy, which he subsequently contracted."
+    }
+  ],
+  "argument_lineage_traced": [
+    {
+      "claim": "The absolute Adalah (justice/reliability) of all Sahaba and the validity of the Hadith of the Stars.",
+      "chain": [
+        "Al-Muzani (d. 264) -> Al-Sarkhasi (d. 483) -> Al-Ghazali (d. 505) -> Ibn Abd al-Barr (d. 463)"
+      ]
+    }
+  ],
+  "rebuttal_lineage_cited": [
+    {
+      "prior_scholar": "Abu Ja'far al-Iskafi",
+      "work": "Al-Tafdil",
+      "what_they_refuted": "Refuted the reliability of Abu Hurayrah, Amr b. al-Aas, and Mu'awiya, exposing their fabrication of hadiths against Imam Ali for political gain."
+    },
+    {
+      "prior_scholar": "Ibrahim al-Nakha'i",
+      "work": "Cited via Al-Iskafi and Ibn Kathir",
+      "what_they_refuted": "Refuted the reliability of Abu Hurayrah, stating that the scholars of Kufa would reject his hadiths unless they were corroborated by the Quran or established Sunnah."
+    }
+  ],
+  "scholars_mentioned": [
+    "Al-Ghazali",
+    "Al-Sarkhasi",
+    "Ibn Hazm",
+    "Ibn al-Qayyim",
+    "Al-Tabari",
+    "Ibn al-Athir",
+    "Jalal al-Din al-Suyuti",
+    "Al-Amidi",
+    "Fakhr al-Din al-Razi",
+    "Ibn Hajar al-Asqalani",
+    "Al-Dhahabi",
+    "Abu Ja'far al-Iskafi",
+    "Al-Muzani",
+    "Al-Shafi'i",
+    "Abu Hanifa",
+    "Ibn Abd al-Barr",
+    "Shah Waliullah Dehlavi",
+    "Ibn Abi al-Hadid",
+    "Al-Muttaqi al-Hindi"
+  ],
+  "books_cited": [
+    "Al-Mustasfa",
+    "Al-Mabsut",
+    "Al-Ihkam fi Usul al-Ahkam",
+    "I'lam al-Muwaqqi'in",
+    "Tarikh al-Tabari",
+    "Al-Kamil fi al-Tarikh",
+    "Fath al-Bari",
+    "Kanz al-Ummal",
+    "Sharh Nahj al-Balagha",
+    "Al-Tafdil",
+    "Al-Mahsul",
+    "Jami' Bayan al-Ilm",
+    "Al-Tabaqat al-Kubra",
+    "Al-Iqd al-Farid",
+    "Izalat al-Khafa",
+    "Tadhkirat al-Huffaz",
+    "Al-Isabah",
+    "Musnad Ahmad",
+    "Sahih al-Bukhari",
+    "Sahih Muslim"
+  ]
+}

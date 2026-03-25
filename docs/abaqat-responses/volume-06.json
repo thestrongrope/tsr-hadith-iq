@@ -1,0 +1,203 @@
+{
+  "volume_number": 6,
+  "hadith_defended": "Hadith of Ghadir Khumm",
+  "volume_section": "Sanad and Tawatur",
+  "overview": "This volume is dedicated to defending the Tawatur (mass-transmission) and Sihhah (authenticity) of the Hadith of Ghadir Khumm. The author systematically dismantles the claims of Sunni polemicists (from Fakhr al-Razi to Abdul Haq al-Dehlavi and Husam al-Din al-Saharanpuri) who argued that the hadith is an isolated report (Ahad) or was weakened by major Hadith scholars like Abu Dawood and Abu Hatim. The author proves its Tawatur by cataloging its transmission by dozens of prominent Sunni scholars across centuries (from the 2nd to the 13th century AH) and provides extensive biographical dossiers (Tarajim) from Sunni Rijal books to prove the absolute reliability of its narrators.",
+  "responses_to_dehlavi": [
+    {
+      "dehlavi_claim_addressed": "The Hadith of Ghadir is not Mutawatir (mass-transmitted) and is an isolated report (Ahad) that was weakened by major scholars like Abu Dawood and Abu Hatim, and was ignored by Bukhari and Muslim.",
+      "author_response_summary": "The author exposes this as a fabricated claim blindly copied by later Sunni scholars from Fakhr al-Razi. He proves that Abu Dawood actually narrated the hadith, making the claim of his weakening it a lie. He cites major Sunni Hadith masters like Al-Dhahabi, Ibn Hajar, and Al-Suyuti who explicitly declared the hadith Mutawatir and authentic. He argues that the omission of a hadith by Bukhari and Muslim does not negate its Tawatur, just as their omission of the Mutawatir miracle of the Splitting of the Moon does not negate its occurrence.",
+      "response_type": "CONTRADICTION_EXPOSURE",
+      "key_evidence_cited": [
+        "Al-Sawa'iq al-Muhriqah by Ibn Hajar al-Haytami",
+        "Siyar A'lam al-Nubala by Al-Dhahabi",
+        "Fath al-Bari by Ibn Hajar al-Asqalani",
+        "Al-Itqan fi Ulum al-Quran by Al-Suyuti"
+      ]
+    },
+    {
+      "dehlavi_claim_addressed": "The Hadith of Ghadir cannot be used as a definitive proof for Imamate because there is disagreement among Sunni scholars regarding its authenticity.",
+      "author_response_summary": "The author argues that disagreement by a few biased scholars (Nawasib) does not harm a Mutawatir text. He draws a parallel to the companion Ibn Mas'ud, who denied that the Mu'awwidhatayn (Surahs Al-Falaq and Al-Nas) were part of the Quran. Just as Ibn Mas'ud's denial does not harm the Tawatur of the Quran, the denial of Ghadir by a few prejudiced scholars does not harm its Tawatur. He also quotes Shah Abdul Aziz himself acknowledging that those who reject the hadith entirely are Nawasib.",
+      "response_type": "REBUTTAL_LINEAGE",
+      "key_evidence_cited": [
+        "Al-Itqan fi Ulum al-Quran by Al-Suyuti",
+        "Tafsir al-Razi",
+        "Al-Muhalla by Ibn Hazm",
+        "Tuhfat al-Ithna Ashariyya by Shah Abdul Aziz"
+      ]
+    },
+    {
+      "dehlavi_claim_addressed": "The narrators of the Shia versions of the hadith are weak or unreliable.",
+      "author_response_summary": "The author completely bypasses Shia chains and instead builds massive biographical dossiers for dozens of Sunni narrators of the Hadith of Ghadir, proving from Sunni Rijal books (like Tahdhib al-Tahdhib, Tabaqat al-Huffaz, Al-Kashif, etc.) that the narrators are the highest authorities in Sunni Islam, including the teachers of Bukhari, Muslim, Abu Dawood, Al-Tirmidhi, and Al-Nasa'i.",
+      "response_type": "BIOGRAPHICAL_DOSSIER",
+      "key_evidence_cited": [
+        "Tahdhib al-Tahdhib by Ibn Hajar",
+        "Tabaqat al-Huffaz by Al-Suyuti",
+        "Al-Ibar by Al-Dhahabi",
+        "Mir'at al-Janan by Al-Yafi'i"
+      ]
+    }
+  ],
+  "biographical_dossiers": [
+    {
+      "scholar_name": "Ibn Hazm al-Andalusi",
+      "rijal_sources_cited": [
+        "Lisan al-Mizan",
+        "Siyar A'lam al-Nubala",
+        "Al-Muhalla"
+      ],
+      "evaluation_summary": "Negative. The author quotes Ibn Hajar and Al-Dhahabi to show Ibn Hazm's extreme errors, his harsh tongue against major Imams, and his Nasibi tendencies, including his shocking defense of Ibn Muljam (the assassin of Imam Ali) as a 'Mujtahid'. This destroys Ibn Hazm's credibility in weakening the Hadith of Ghadir."
+    },
+    {
+      "scholar_name": "Muhammad bin Ishaq",
+      "rijal_sources_cited": [
+        "Uyun al-Athar",
+        "Duwal al-Islam",
+        "Mir'at al-Janan"
+      ],
+      "evaluation_summary": "Positive. Defended as the 'Amir al-Mu'minin in Hadith' according to Shu'bah, and the primary authority in Maghazi (Prophetic biographies), proving his narration of Ghadir is highly authoritative."
+    },
+    {
+      "scholar_name": "Ahmad bin Hanbal",
+      "rijal_sources_cited": [
+        "Rijal Mishkat",
+        "Mir'at al-Janan"
+      ],
+      "evaluation_summary": "Positive. Highlighted as the Imam of the Hanbalis who narrated the Hadith of Ghadir through numerous chains in his Musnad and Fada'il al-Sahabah, and who explicitly stated that no companion had as many authentic virtues narrated about them as Ali."
+    },
+    {
+      "scholar_name": "Al-Nasa'i (Ahmad bin Shu'ayb)",
+      "rijal_sources_cited": [
+        "Al-Ibar",
+        "Taqrib al-Tahdhib",
+        "Tabaqat al-Huffaz"
+      ],
+      "evaluation_summary": "Positive. Praised as the author of the Sunan and Al-Khasa'is, who compiled numerous authentic chains for the Hadith of Ghadir and was martyred in Damascus for refusing to narrate virtues of Mu'awiyah."
+    },
+    {
+      "scholar_name": "Al-Tabari (Muhammad bin Jarir)",
+      "rijal_sources_cited": [
+        "Al-Ibar",
+        "Mir'at al-Janan"
+      ],
+      "evaluation_summary": "Positive. Praised as the Imam of Tafsir and History who wrote an entire multi-volume work dedicated solely to compiling the chains of transmission for the Hadith of Ghadir."
+    },
+    {
+      "scholar_name": "Al-Daraqutni (Ali bin Umar)",
+      "rijal_sources_cited": [
+        "Al-Ibar"
+      ],
+      "evaluation_summary": "Positive. Acknowledged as the 'Amir al-Mu'minin in Hadith' of his time, who narrated the Hadith of Ghadir and confirmed its authenticity."
+    },
+    {
+      "scholar_name": "Al-Hakim al-Naysaburi",
+      "rijal_sources_cited": [
+        "Mir'at al-Janan"
+      ],
+      "evaluation_summary": "Positive. Praised as the Imam of Hadith who authenticated multiple chains of the Hadith of Ghadir in his Al-Mustadrak according to the strict conditions of Bukhari and Muslim."
+    },
+    {
+      "scholar_name": "Al-Khatib al-Baghdadi",
+      "rijal_sources_cited": [
+        "Mir'at al-Janan",
+        "Tabaqat al-Shafi'iyyah"
+      ],
+      "evaluation_summary": "Positive. Recognized as the seal of the Huffaz and author of Tarikh Baghdad, who narrated the Hadith of Ghadir and whose authority in Hadith sciences is undisputed among Sunnis."
+    }
+  ],
+  "argument_lineage_traced": [
+    {
+      "claim": "The Hadith of Ghadir is an isolated report (Ahad) and was weakened by Abu Dawood and Abu Hatim.",
+      "chain": [
+        "Fakhr al-Razi",
+        "Al-Iji (Al-Mawaqif)",
+        "Al-Taftazani (Sharh al-Maqasid)",
+        "Al-Jurjani (Sharh al-Mawaqif)",
+        "Al-Qushji (Sharh al-Tajrid)",
+        "Ibn Hajar al-Haytami (Al-Sawa'iq al-Muhriqah)",
+        "Al-Halabi (Insan al-Uyun)",
+        "Ali al-Qari (Mirqat)",
+        "Abdul Haq al-Dehlavi",
+        "Husam al-Din al-Saharanpuri"
+      ]
+    }
+  ],
+  "rebuttal_lineage_cited": [
+    {
+      "prior_scholar": "Al-Dhahabi",
+      "work": "Siyar A'lam al-Nubala / Tadhkirat al-Huffaz",
+      "what_they_refuted": "Refuted the claim that the Hadith of Ghadir is weak by explicitly declaring it Mutawatir and authenticating numerous chains."
+    },
+    {
+      "prior_scholar": "Ibn Hajar al-Asqalani",
+      "work": "Fath al-Bari / Lisan al-Mizan",
+      "what_they_refuted": "Refuted Ibn Hazm's methodology of weakening authentic narrators and defended the Tawatur of mass-transmitted events."
+    },
+    {
+      "prior_scholar": "Al-Suyuti",
+      "work": "Al-Itqan fi Ulum al-Quran",
+      "what_they_refuted": "Refuted the idea that the denial of a single companion (like Ibn Mas'ud regarding the Mu'awwidhatayn) or a later scholar harms the Tawatur of an established text."
+    }
+  ],
+  "scholars_mentioned": [
+    "Fakhr al-Razi",
+    "Al-Iji",
+    "Al-Taftazani",
+    "Al-Jurjani",
+    "Al-Qushji",
+    "Ibn Hajar al-Haytami",
+    "Ali al-Qari",
+    "Abdul Haq al-Dehlavi",
+    "Shah Abdul Aziz Dehlavi",
+    "Ibn Taymiyyah",
+    "Ibn Hazm",
+    "Al-Dhahabi",
+    "Al-Suyuti",
+    "Ibn Hajar al-Asqalani",
+    "Abu Dawood",
+    "Abu Hatim al-Razi",
+    "Al-Bukhari",
+    "Muslim",
+    "Al-Waqidi",
+    "Ibrahim al-Harbi",
+    "Ali bin al-Madini",
+    "Muhammad bin Ishaq",
+    "Ahmad bin Hanbal",
+    "Al-Nasa'i",
+    "Al-Tabari",
+    "Al-Hakim al-Naysaburi",
+    "Al-Khatib al-Baghdadi",
+    "Al-Daraqutni",
+    "Al-Bayhaqi"
+  ],
+  "books_cited": [
+    "Tashyid al-Qawa'id",
+    "Matali' al-Anzar",
+    "Al-Mawaqif",
+    "Sharh al-Maqasid",
+    "Sharh al-Mawaqif",
+    "Sharh al-Tajrid",
+    "Al-Sawa'iq al-Muhriqah",
+    "Insan al-Uyun (Al-Sirah al-Halabiyyah)",
+    "Mirqat Sharh al-Mishkat",
+    "Nawaqid al-Rawafid",
+    "Al-Siham al-Thaqibah",
+    "Al-Itqan fi Ulum al-Quran",
+    "Al-Muhalla",
+    "Minhaj al-Sunnah",
+    "Lisan al-Mizan",
+    "Siyar A'lam al-Nubala",
+    "Tahdhib al-Tahdhib",
+    "Tabaqat al-Huffaz",
+    "Al-Ibar fi Khabar man Ghabar",
+    "Mir'at al-Janan",
+    "Al-Ansab",
+    "Kanz al-Ummal",
+    "Al-Bidayah wa al-Nihayah",
+    "Musnad Ahmad",
+    "Al-Mustadrak",
+    "Al-Khasa'is",
+    "Al-Riyad al-Nadirah",
+    "Fada'il al-Sahabah"
+  ]
+}

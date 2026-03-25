@@ -1,0 +1,210 @@
+{
+  "volume_number": 4,
+  "hadith_defended": "Hadith of the Twelve Caliphs (حديث الاثني عشر خليفة)",
+  "volume_section": "Dalalah",
+  "overview": "This volume defends the scholarly authority of Sharif al-Murtada against Dehlavi's attempts to belittle his mastery of Arabic literature and theology. The author compiles massive biographical dossiers from Sunni sources to prove al-Murtada's undisputed greatness, while exposing Dehlavi's own ignorance and misreading of classical Arabic texts. The volume then transitions to refuting the Sunni interpretation of the 'Hadith of the Twelve Caliphs', which attempts to include the oppressive Umayyad and Abbasid rulers among the prophesied twelve. The author uses Sunni historical texts to expose the atrocities, sins, and lack of qualifications of caliphs like Mansur, Harun, and Ma'mun, arguing it is absurd to consider them righteous successors. It also refutes the reliance on Al-Jahiz as an objective source, proving his deep-seated anti-Shia bias (Nasb).",
+  "responses_to_dehlavi": [
+    {
+      "dehlavi_claim_addressed": "Dehlavi mocked Sharif al-Murtada's understanding of Arabic poetry (specifically a poem by Dhu al-Rummah), claiming he misunderstood basic Arabic grammar, and thus questioned his title 'Alam al-Huda' and his scholarly authority.",
+      "author_response_summary": "The author compiles a massive biographical dossier of Sharif al-Murtada from top Sunni scholars proving his undisputed mastery in Arabic language, literature, and theology. He then shows that Dehlavi himself misread and distorted the text of al-Murtada's 'Al-Ghurar wa al-Durar' (misreading 'ضرائك' as 'جيرانك' and 'سبّحت' as 'شخت'), exposing Dehlavi's own ignorance of Arabic.",
+      "response_type": "BIOGRAPHICAL_DOSSIER",
+      "key_evidence_cited": [
+        "Wafayat al-A'yan by Ibn Khallikan",
+        "Mir'at al-Jinan by Al-Yafi'i",
+        "Bughyat al-Wu'at by Al-Suyuti",
+        "Al-Ghurar wa al-Durar by Sharif al-Murtada"
+      ]
+    },
+    {
+      "dehlavi_claim_addressed": "Dehlavi claimed that Shia rely on the poetry of ignorant poets (like Dhu al-Rummah) for their theological beliefs (like Divine Justice / 'Adl), violating the Quranic condemnation of poets.",
+      "author_response_summary": "Al-Murtada did not cite Dhu al-Rummah to prove the theological doctrine of 'Adl, but merely to show historically that Dhu al-Rummah held the belief of 'Adl. Dehlavi completely misunderstood the context of the citation.",
+      "response_type": "LINGUISTIC_ANALYSIS",
+      "key_evidence_cited": [
+        "Al-Ghurar wa al-Durar by Sharif al-Murtada",
+        "Al-Nihayah fi Gharib al-Hadith by Ibn al-Athir"
+      ]
+    },
+    {
+      "dehlavi_claim_addressed": "Sunni scholars interpret the 'Hadith of the Twelve Caliphs' to include the Abbasid caliphs (like Mansur, Harun, Ma'mun) as the righteous successors.",
+      "author_response_summary": "The author details the atrocities, sins, and lack of religious qualifications of the Abbasid caliphs (Mansur, Harun, Ma'mun) using Sunni historical texts. He argues it is absurd to consider these oppressive rulers as the prophesied Twelve Caliphs of Islam. He also points out that Sunni scholars themselves acknowledge the Abbasids' crimes, yet contradictorily praise them as 'Amir al-Mu'minin'.",
+      "response_type": "CONTRADICTION_EXPOSURE",
+      "key_evidence_cited": [
+        "Tarikh al-Khulafa by Al-Suyuti",
+        "Tarikh Ibn Khaldun",
+        "Hayat al-Hayawan by Al-Damiri",
+        "Tarikh al-Khamis by Al-Diyarbakri"
+      ]
+    },
+    {
+      "dehlavi_claim_addressed": "Dehlavi and his proxies use Al-Jahiz's praise of Ali to argue that Sunnis/Mu'tazilis are fair and love the Ahl al-Bayt, using Al-Jahiz as an authoritative source for evaluating Ali's merits.",
+      "author_response_summary": "Al-Jahiz was a known Nasibi (anti-Shia) who wrote books against the Ahl al-Bayt (e.g., claiming the Imamate belonged to Abbas, not Ali). Any praise from him is either forced, contradictory, or used by Shia scholars strictly as a binding argument (Ilzam) against opponents, not because Al-Jahiz is a reliable or objective source.",
+      "response_type": "REBUTTAL_LINEAGE",
+      "key_evidence_cited": [
+        "Ihqaq al-Haqq by Qazi Nurullah Shushtari",
+        "Al-Shafi fi al-Imamah by Sharif al-Murtada"
+      ]
+    }
+  ],
+  "biographical_dossiers": [
+    {
+      "scholar_name": "Sharif al-Murtada (سيد مرتضى)",
+      "rijal_sources_cited": [
+        "Wafayat al-A'yan",
+        "Mir'at al-Jinan",
+        "Dumyat al-Qasr",
+        "Bughyat al-Wu'at",
+        "Al-'Ibar fi Khabar man Ghabar",
+        "Lisan al-Mizan"
+      ],
+      "evaluation_summary": "Extremely positive. Acknowledged as a master of theology, literature, poetry, and language. His book 'Al-Ghurar wa al-Durar' is highly praised by Sunni scholars."
+    },
+    {
+      "scholar_name": "Ibn Khallikan (ابن خلكان)",
+      "rijal_sources_cited": [
+        "Tatimmat al-Mukhtasar",
+        "Al-Wafi bi al-Wafayat",
+        "Mir'at al-Jinan",
+        "Tabaqat al-Shafi'iyya (Al-Subki)",
+        "Tabaqat al-Shafi'iyya (Al-Isnawi)",
+        "Tabaqat al-Shafi'iyya (Al-Asadi)",
+        "Al-Nujum al-Zahira",
+        "Husn al-Muhadara"
+      ],
+      "evaluation_summary": "Highly positive. A great judge, historian, and scholar of literature. Used to validate his praise of Sharif al-Murtada."
+    },
+    {
+      "scholar_name": "Al-Yafi'i (يافعي)",
+      "rijal_sources_cited": [
+        "Tabaqat al-Shafi'iyya (Al-Isnawi)",
+        "Al-Durar al-Kamina",
+        "Tabaqat al-Shafi'iyya (Al-Asadi)",
+        "Tabaqat al-Khawas",
+        "Nafahat al-Uns"
+      ],
+      "evaluation_summary": "Highly positive. A great Sufi, scholar, and historian. Used to validate his praise of Sharif al-Murtada."
+    },
+    {
+      "scholar_name": "Ibn Hajar al-'Asqalani (ابن حجر عسقلاني)",
+      "rijal_sources_cited": [
+        "Al-Daw' al-Lami'",
+        "Tabaqat al-Huffaz",
+        "Nazm al-'Iqyan",
+        "Husn al-Muhadara"
+      ],
+      "evaluation_summary": "Highly positive. The 'Shaykh al-Islam' and greatest Hadith master of his time. Used to validate his praise of Sharif al-Murtada."
+    },
+    {
+      "scholar_name": "Abu Ishaq al-Shirazi (ابو اسحاق شيرازي)",
+      "rijal_sources_cited": [
+        "Wafayat al-A'yan",
+        "Siyar A'lam al-Nubala'",
+        "Mir'at al-Jinan",
+        "Tabaqat al-Shafi'iyya (Al-Isnawi)",
+        "Tabaqat al-Shafi'iyya (Al-Asadi)",
+        "Tatimmat al-Mukhtasar"
+      ],
+      "evaluation_summary": "Highly positive. A leading Shafi'i jurist and scholar. Used to validate his praise of Sharif al-Murtada."
+    },
+    {
+      "scholar_name": "Shams al-A'imma al-Kardari (شمس الائمة الكردري)",
+      "rijal_sources_cited": [
+        "Al-Jawahir al-Mudiyya",
+        "Kata'ib A'lam al-Akhyar"
+      ],
+      "evaluation_summary": "Highly positive. A leading Hanafi jurist. Used to show his severe refutation of Al-Ghazali and the Shafi'is, demonstrating internal Sunni contradictions."
+    }
+  ],
+  "argument_lineage_traced": [
+    {
+      "claim": "The Hadith of the Twelve Caliphs applies to the first four caliphs, Ibn al-Zubayr, Umar b. Abd al-Aziz, and several Abbasid caliphs.",
+      "chain": [
+        "Sunni Hadith commentators",
+        "Fadl ibn Ruzbahan al-Shirazi",
+        "Shah Abdul Aziz Dehlavi / Fadl Rashid"
+      ]
+    }
+  ],
+  "rebuttal_lineage_cited": [
+    {
+      "prior_scholar": "Qazi Nurullah Shushtari",
+      "work": "Ihqaq al-Haqq",
+      "what_they_refuted": "Refuted Fadl ibn Ruzbahan's reliance on Al-Jahiz, proving Al-Jahiz was a Nasibi."
+    },
+    {
+      "prior_scholar": "Qazi Nurullah Shushtari",
+      "work": "Majalis al-Mu'minin",
+      "what_they_refuted": "Refuted the legitimacy of the Abbasid caliphs, showing their crimes against the Ahl al-Bayt, and explaining that calling them 'Shia' only meant they believed in the political right of the Hashimites over the Umayyads, not true Imamate."
+    },
+    {
+      "prior_scholar": "Sharif al-Murtada",
+      "work": "Al-Shafi fi al-Imamah",
+      "what_they_refuted": "Refuted Al-Jahiz's claim that the Imamate belonged to Al-Abbas by inheritance."
+    }
+  ],
+  "scholars_mentioned": [
+    "Sharif al-Murtada",
+    "Sharif al-Radi",
+    "Shah Abdul Aziz Dehlavi",
+    "Fadl Rashid",
+    "Ibn Khallikan",
+    "Al-Yafi'i",
+    "Al-Suyuti",
+    "Al-Dhahabi",
+    "Ibn Hajar al-'Asqalani",
+    "Abu Ishaq al-Shirazi",
+    "Al-Jahiz",
+    "Fadl ibn Ruzbahan al-Shirazi",
+    "Qazi Nurullah Shushtari",
+    "Ibn Khaldun",
+    "Al-Damiri",
+    "Al-Taftazani",
+    "Al-Kardari (Shams al-A'imma)",
+    "Al-Ghazali",
+    "Abu Shakur al-Kashshi",
+    "Fakhr al-Din al-Razi",
+    "Al-Qurtubi",
+    "Al-Shami"
+  ],
+  "books_cited": [
+    "Tuhfat al-Ithna Ashariyya",
+    "Al-Ghurar wa al-Durar",
+    "Wafayat al-A'yan",
+    "Mir'at al-Jinan",
+    "Tabaqat al-Shafi'iyya",
+    "Al-Nujum al-Zahira",
+    "Husn al-Muhadara",
+    "Al-Durar al-Kamina",
+    "Nafahat al-Uns",
+    "Dumyat al-Qasr",
+    "Bughyat al-Wu'at",
+    "Al-'Ibar fi Khabar man Ghabar",
+    "Al-Daw' al-Lami'",
+    "Tabaqat al-Huffaz",
+    "Lisan al-Mizan",
+    "Siyar A'lam al-Nubala'",
+    "Tatimmat al-Mukhtasar",
+    "Ihqaq al-Haqq",
+    "Majalis al-Mu'minin",
+    "Masa'ib al-Nawasib",
+    "Al-Shafi fi al-Imamah",
+    "Tarikh al-Khulafa",
+    "Tarikh Ibn Khaldun",
+    "Hayat al-Hayawan",
+    "Tarikh al-Khamis",
+    "Kanz al-'Ummal",
+    "Al-Lali' al-Masnu'a",
+    "Al-Asas fi Manaqib Bani al-Abbas",
+    "Al-Inafa fi Rutbat al-Khilafa",
+    "Al-Jawahir al-Mudiyya",
+    "Al-Sayf al-Maslul fi al-Radd ala al-Mankhul",
+    "Al-Mankhul",
+    "Manaqib al-Imam al-Shafi'i",
+    "Nihayat al-'Uqul",
+    "Al-Tamhid fi Bayan al-Tawhid",
+    "Sahih al-Bukhari",
+    "Sahih Muslim",
+    "Fath al-Bari",
+    "Al-Mufhim",
+    "Subul al-Huda wa al-Rashad"
+  ]
+}

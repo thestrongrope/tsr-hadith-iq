@@ -1,0 +1,88 @@
+{
+  "volume_number": 11,
+  "hadith_defended": "Hadith of Manzilah",
+  "volume_section": "Sanad and Dalalah",
+  "overview": "This volume defends the Hadith of Manzilah ('You are to me as Harun was to Musa') against Shah Abdul Aziz Dehlavi's claim that it only indicates a temporary deputyship during the expedition of Tabuk. The author establishes the mass-transmission (Tawatur) of the hadith from Sunni sources, proves it was uttered on multiple occasions (not just Tabuk), and uses linguistic analysis of the exception ('except there is no prophet after me') to demonstrate that it confers all ranks of Harun, including permanent succession, upon Ali.",
+  "responses_to_dehlavi": [
+    {
+      "dehlavi_claim_addressed": "The hadith was only said at Tabuk to comfort Ali, implying a temporary deputyship.",
+      "author_response_summary": "The Prophet uttered this hadith on numerous occasions (e.g., Day of Brotherhood, Khaybar, in the house of Umm Salama), proving it was a general declaration of Ali's permanent status, not a situational comfort.",
+      "response_type": "COUNTER_CITATION",
+      "key_evidence_cited": [
+        "Sunni Hadith collections showing multiple contexts for the hadith"
+      ]
+    },
+    {
+      "dehlavi_claim_addressed": "Harun died before Musa, so he was not his successor. Thus, comparing Ali to Harun does not prove Ali's succession after the Prophet.",
+      "author_response_summary": "The hadith establishes the rank (Manzilah) of Harun for Ali. Harun was the designated successor; his premature death doesn't negate his rank. Since Ali survived the Prophet, the succession is actualized.",
+      "response_type": "DALALAH_DEFENSE",
+      "key_evidence_cited": [
+        "Rational analysis of the concept of 'Manzilah'",
+        "Quranic verses regarding Musa and Harun"
+      ]
+    },
+    {
+      "dehlavi_claim_addressed": "The comparison to Harun only means temporary deputyship over Medina, just as Harun was deputy over the Israelites when Musa went to Mount Tur.",
+      "author_response_summary": "The linguistic structure of the exception ('except there is no prophet after me') proves that all ranks of Harun (Wazir, brother, successor) are affirmed for Ali, except prophethood. If it meant only temporary deputyship, excepting prophethood would be linguistically absurd.",
+      "response_type": "LINGUISTIC_ANALYSIS",
+      "key_evidence_cited": [
+        "Arabic grammar rules regarding Istithna' (exception) and 'Umum (generality)"
+      ]
+    }
+  ],
+  "biographical_dossiers": [
+    {
+      "scholar_name": "Qaza'ah bin Suwayd (قزعة بن سويد)",
+      "rijal_sources_cited": [
+        "Yahya bin Ma'in",
+        "Abu Hatim al-Razi",
+        "Ibn 'Adi",
+        "Al-Daraqutni",
+        "Mizan al-Iktidal by Al-Dhahabi"
+      ],
+      "evaluation_summary": "Evaluated negatively as weak (Da'if) and his hadiths as Mudtarib (confounded) to refute a specific counter-narration."
+    }
+  ],
+  "argument_lineage_traced": [
+    {
+      "claim": "The argument that Harun's death before Musa negates the implication of succession for Ali.",
+      "chain": [
+        "Al-Iji (Al-Mawaqif)",
+        "Al-Jurjani (Sharh al-Mawaqif) / Al-Taftazani (Sharh al-Maqasid)",
+        "Shah Abdul Aziz Dehlavi"
+      ]
+    }
+  ],
+  "rebuttal_lineage_cited": [],
+  "scholars_mentioned": [
+    "Shah Abdul Aziz Dehlavi",
+    "Al-Iji",
+    "Al-Jurjani",
+    "Al-Taftazani",
+    "Al-Suyuti",
+    "Ibn Hajar al-Asqalani",
+    "Al-Dhahabi",
+    "Al-Hakim al-Nishapuri",
+    "Al-Tirmidhi",
+    "Muslim",
+    "Al-Bukhari",
+    "Ibn Abd al-Barr",
+    "Ibn Asakir",
+    "Qaza'ah bin Suwayd"
+  ],
+  "books_cited": [
+    "Tuhfat al-Ithna Ashariyya",
+    "Al-Mawaqif",
+    "Sharh al-Mawaqif",
+    "Sharh al-Maqasid",
+    "Sahih al-Bukhari",
+    "Sahih Muslim",
+    "Sunan al-Tirmidhi",
+    "Khasa'is Amir al-Mu'minin",
+    "Al-Isti'ab",
+    "Usd al-Ghabah",
+    "Tarikh Baghdad",
+    "Mizan al-Iktidal",
+    "Al-Sawa'iq al-Muhriqah"
+  ]
+}
