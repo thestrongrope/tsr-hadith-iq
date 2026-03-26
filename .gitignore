@@ -17,3 +17,6 @@ sources/
 __pycache__/
 *.pyc
 .venv/
+docs/volume-parsed/vol23-cache/
+docs/volume-structure/vol23-sections/
+docs/citation-extraction/vol23-grok-chunks/
