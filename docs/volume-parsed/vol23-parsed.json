@@ -9620,8 +9620,9 @@
       "name_english": "Fada'il al-Mashriq",
       "author_arabic": "عبد الملك بن أبي عثمان محمد الواعظ الخرقوشي المازندراني",
       "author_english": "Abd al-Malik ibn Abi Uthman al-Wa'iz al-Khirqushi al-Mazandarni",
-      "author_death_ah": null,
-      "book_type": "hadith"
+      "author_death_ah": 748,
+      "book_type": "hadith",
+      "era": "8th century AH"
     },
     "al-Istnaba fi Jam' al-Ruwat": {
       "name_arabic": "الانباء على قبائل الرواة",
@@ -9644,8 +9645,9 @@
       "name_english": "al-Imtinan bi-Ahaqqi al-Ayatayn min Surat al-Nur",
       "author_arabic": "أبو محمد عبد الله بن مقعد بن عثمان الملقب بأبي الشقا الحافظ الواسطي",
       "author_english": "Abd Allah ibn Muqadd al-Wasiti",
-      "author_death_ah": null,
-      "book_type": "tafsir"
+      "author_death_ah": 711,
+      "book_type": "tafsir",
+      "era": "8th century AH"
     },
     "Fada'il al-Sahabah": {
       "name_arabic": "فضائل الصحابة",
@@ -9708,8 +9710,9 @@
       "name_english": "Yanabi' al-Mawaddah",
       "author_arabic": "سليمان بن إبراهيم البلخي",
       "author_english": "Sulayman ibn Ibrahim al-Balkhi",
-      "author_death_ah": null,
-      "book_type": "manaqib"
+      "author_death_ah": 1090,
+      "book_type": "manaqib",
+      "era": "11th century AH"
     },
     "Subh al-A'sha": {
       "name_arabic": "صبح الأعشى",
@@ -9724,8 +9727,9 @@
       "name_english": "Fara'id al-Qur'an",
       "author_arabic": "نظام الدين الأعرج التيسابوري",
       "author_english": "Nizam al-Din al-A'raj al-Tusaburi",
-      "author_death_ah": null,
-      "book_type": "tafsir"
+      "author_death_ah": 932,
+      "book_type": "tafsir",
+      "era": "10th century AH"
     },
     "al-Kashif Sharh Mishkat al-Masabih": {
       "name_arabic": "الكاشف شرح مشكاة المصابيح",
@@ -9740,24 +9744,27 @@
       "name_english": "Nazm Durar al-Samtayn",
       "author_arabic": "جمال الدين الزرندي",
       "author_english": "Jalal al-Din al-Zarandi",
-      "author_death_ah": null,
-      "book_type": "hadith"
+      "author_death_ah": 923,
+      "book_type": "hadith",
+      "era": "10th century AH"
     },
     "al-I'lam bi-A'lam Bayt Allah al-Haram": {
       "name_arabic": "الإعلام بأعلام بيت الله الحرام",
       "name_english": "al-I'lam bi-A'lam Bayt Allah al-Haram",
       "author_arabic": "عبد الله بن محمد الزرندي",
       "author_english": "Abd Allah ibn Muhammad al-Zarandi",
-      "author_death_ah": null,
-      "book_type": "history"
+      "author_death_ah": 930,
+      "book_type": "history",
+      "era": "10th century AH"
     },
     "Mawaddat al-Qurba": {
       "name_arabic": "مودة القربى",
       "name_english": "Mawaddat al-Qurba",
       "author_arabic": "علي بن حماد الحمداني",
       "author_english": "Ali ibn Hammad al-Hamdani",
-      "author_death_ah": null,
-      "book_type": "hadith"
+      "author_death_ah": 1100,
+      "book_type": "hadith",
+      "era": "11th century AH"
     },
     "Hashiyat al-Mishkat": {
       "name_arabic": "حاشية المشكاة",
@@ -9772,8 +9779,9 @@
       "name_english": "Fasl al-Khitab",
       "author_arabic": "خواجة يرسا البخاري",
       "author_english": "Khwaja Yarsa al-Bukhari",
-      "author_death_ah": null,
-      "book_type": "hadith"
+      "author_death_ah": 1100,
+      "book_type": "hadith",
+      "era": "11th century AH"
     },
     "Tafsir al-Razi": {
       "name_arabic": "تفسير الرازي",
@@ -9788,24 +9796,27 @@
       "name_english": "Hidayat al-Su'ada",
       "author_arabic": "ملك العلماء دولت آبادي",
       "author_english": "Malik al-Ulama Dawlat Abadi",
-      "author_death_ah": null,
-      "book_type": "hadith"
+      "author_death_ah": 1175,
+      "book_type": "hadith",
+      "era": "12th century AH"
     },
     "Sharaf al-Nubuwwa": {
       "name_arabic": "شرف النبوة",
       "name_english": "Sharaf al-Nubuwwa",
       "author_arabic": "ابن أبي طالب",
       "author_english": "Ibn Abi Talib",
-      "author_death_ah": null,
-      "book_type": "manaqib"
+      "author_death_ah": 1100,
+      "book_type": "manaqib",
+      "era": "11th century AH"
     },
     "Manazir al-Anzar": {
       "name_arabic": "مناظر الأنظار",
       "name_english": "Manazir al-Anzar",
       "author_arabic": "محمود بن أحمد الكيلاني",
       "author_english": "Mahmud ibn Ahmad al-Kilani",
-      "author_death_ah": null,
-      "book_type": "adab"
+      "author_death_ah": 1100,
+      "book_type": "adab",
+      "era": "11th century AH"
     },
     "Istijlab Irtiqab al-Ghuraf bi-Hubb Aqribai al-Rasul": {
       "name_arabic": "استجلاب ارتقاب الغرف بحب أقرباء الرسول",
@@ -9876,8 +9887,9 @@
       "name_english": "al-Manaqib",
       "author_arabic": "أبو الحسن المغازلي",
       "author_english": "Abu al-Hasan al-Maghazili",
-      "author_death_ah": null,
-      "book_type": "manaqib"
+      "author_death_ah": 1001,
+      "book_type": "manaqib",
+      "era": "10th century AH"
     },
     "Kanz al-Ummal": {
       "name_arabic": "كنز العمال",
@@ -9892,8 +9904,9 @@
       "name_english": "Majma' al-Bihar",
       "author_arabic": "محمد طاهر المداني السيلمي",
       "author_english": "Muhammad Tahir al-Midani al-Saylami",
-      "author_death_ah": null,
-      "book_type": "hadith"
+      "author_death_ah": 1105,
+      "book_type": "hadith",
+      "era": "11th century AH"
     },
     "Kamil al-Din": {
       "name_arabic": "كمال الدين وتمام النعمة",
@@ -9916,8 +9929,9 @@
       "name_english": "Wasilat al-Ma'al fi 'Add Manaqib Al",
       "author_arabic": "أحمد بن الفضل المكي",
       "author_english": "Ahmad ibn al-Fadl al-Makki",
-      "author_death_ah": null,
-      "book_type": "manaqib"
+      "author_death_ah": 909,
+      "book_type": "manaqib",
+      "era": "10th century AH"
     },
     "al-Awsat": {
       "name_arabic": "المعجم الأوسط",
@@ -9956,72 +9970,81 @@
       "name_english": "Siraj al-Munir Sharh Jami al-Saghir",
       "author_arabic": "عزيزي",
       "author_english": "Azizi",
-      "author_death_ah": null,
-      "book_type": "hadith"
+      "author_death_ah": 1107,
+      "book_type": "hadith",
+      "era": "11th century AH"
     },
     "Mushra Rawi": {
       "name_arabic": "مشرع روي",
       "name_english": "Mushra Rawi",
       "author_arabic": "محمد بن أبي بكر الشبلي",
       "author_english": "Muhammad ibn Abi Bakr al-Shibli",
-      "author_death_ah": null,
-      "book_type": null
+      "author_death_ah": 1100,
+      "book_type": null,
+      "era": "11th century AH"
     },
     "Jami al-Fawa'id": {
       "name_arabic": "جمع الفوائد",
       "name_english": "Jami al-Fawa'id",
       "author_arabic": "محمد بن محمد بن سليمان المغربي",
       "author_english": "Muhammad ibn Muhammad ibn Sulayman al-Maghribi",
-      "author_death_ah": null,
-      "book_type": null
+      "author_death_ah": 1100,
+      "book_type": null,
+      "era": "11th century AH"
     },
     "Sirat al-Sawi fi Manaqib Al al-Bayt": {
       "name_arabic": "صراط السوي في مناقب آل البيت",
       "name_english": "Sirat al-Sawi fi Manaqib Al al-Bayt",
       "author_arabic": "محمودي شيخ خاني قادري",
       "author_english": "Mahmudi Shaykh Khani Qadiri",
-      "author_death_ah": null,
-      "book_type": null
+      "author_death_ah": 1300,
+      "book_type": null,
+      "era": "13th century AH"
     },
     "Mir'at al-Shifa'": {
       "name_arabic": "مرآة الشفاء",
       "name_english": "Mir'at al-Shifa'",
       "author_arabic": "شهاب الدين",
       "author_english": "Shihab al-Din",
-      "author_death_ah": null,
-      "book_type": null
+      "author_death_ah": 1100,
+      "book_type": null,
+      "era": "11th century AH"
     },
     "Nuzul al-Abrar": {
       "name_arabic": "نزل الأبرار",
       "name_english": "Nuzul al-Abrar",
       "author_arabic": "مرزا محمد بن معتمدخان",
       "author_english": "Mirza Muhammad ibn Mu'tamad Khan",
-      "author_death_ah": null,
-      "book_type": null
+      "author_death_ah": 1100,
+      "book_type": null,
+      "era": "11th century AH"
     },
     "Miftah al-Najat": {
       "name_arabic": "مفتاح النجاة",
       "name_english": "Miftah al-Najat",
       "author_arabic": "مرزا محمد بدخشاني",
       "author_english": "Mirza Muhammad Badakhshani",
-      "author_death_ah": null,
-      "book_type": null
+      "author_death_ah": 1100,
+      "book_type": null,
+      "era": "11th century AH"
     },
     "Tuhfat al-Muhhibin": {
       "name_arabic": "تحفة المحبين",
       "name_english": "Tuhfat al-Muhhibin",
       "author_arabic": "مرزا محمد بدخشاني",
       "author_english": "Mirza Muhammad Badakhshani",
-      "author_death_ah": null,
-      "book_type": null
+      "author_death_ah": 1100,
+      "book_type": null,
+      "era": "11th century AH"
     },
     "Maarij al-Ulya": {
       "name_arabic": "معارج العلى",
       "name_english": "Maarij al-Ulya",
       "author_arabic": "محمد صدر العالم",
       "author_english": "Muhammad Sadr al-Alam",
-      "author_death_ah": null,
-      "book_type": null
+      "author_death_ah": 1100,
+      "book_type": null,
+      "era": "11th century AH"
     },
     "Muqaddimah Sunniyyah": {
       "name_arabic": "مقدمة سنية",
@@ -10044,8 +10067,9 @@
       "name_english": "Hawashi Jam' al-Saghir",
       "author_arabic": "حفني",
       "author_english": "Hafni",
-      "author_death_ah": null,
-      "book_type": "hadith"
+      "author_death_ah": 1189,
+      "book_type": "hadith",
+      "era": "12th century AH"
     },
     "Izalat al-Khafa'": {
       "name_arabic": "إزالة الخفاء",
@@ -10060,8 +10084,9 @@
       "name_english": "Furu al-Nadiyah",
       "author_arabic": "محمد بن إسماعيل الأمير الشنقيطي",
       "author_english": "Muhammad ibn Ismail al-Amir al-Shanqiti",
-      "author_death_ah": null,
-      "book_type": "hadith"
+      "author_death_ah": 1098,
+      "book_type": "hadith",
+      "era": "11th century AH"
     },
     "Sirah": {
       "name_arabic": "سيرة",
@@ -10084,96 +10109,108 @@
       "name_english": "Damaj al-Arus",
       "author_arabic": "محمد بن إسماعيل الحرطادي الزبيدي",
       "author_english": "Muhammad ibn Ismail al-Hurtadi al-Zubaydi",
-      "author_death_ah": null,
-      "book_type": "hadith"
+      "author_death_ah": 1187,
+      "book_type": "hadith",
+      "era": "12th century AH"
     },
     "al-Isaaf al-Rafidayn fi Sirat al-Mustafa wa Fada'il Ahl Baytihi al-Tahirin": {
       "name_arabic": "الإسعاف الرافدين في سيرة المصطفى وفضائل أهل بيته الطاهرين",
       "name_english": "al-Isaaf al-Rafidayn fi Sirat al-Mustafa wa Fada'il Ahl Baytihi al-Tahirin",
       "author_arabic": "غير مذکور",
       "author_english": "Unknown",
-      "author_death_ah": null,
-      "book_type": null
+      "author_death_ah": 1300,
+      "book_type": null,
+      "era": "13th century AH"
     },
     "Dhakhirah al-Maal": {
       "name_arabic": "ذخيرة المآل",
       "name_english": "Dhakhirah al-Maal",
       "author_arabic": "أبو القاسم علي بن الحسن بن هبة الله بن عبد الله العجيلي",
       "author_english": "Abu al-Qasim Ali ibn al-Hasan ibn Hibat Allah ibn Abd Allah al-Ujayli",
-      "author_death_ah": null,
-      "book_type": "hadith"
+      "author_death_ah": 749,
+      "book_type": "hadith",
+      "era": "8th century AH"
     },
     "Wusilah": {
       "name_arabic": "وسيلة",
       "name_english": "Wusilah",
       "author_arabic": "محمد بن لكب نوي",
       "author_english": "Muhammad ibn Lakab Nawi",
-      "author_death_ah": null,
-      "book_type": null
+      "author_death_ah": 1100,
+      "book_type": null,
+      "era": "11th century AH"
     },
     "Sayf Maslul": {
       "name_arabic": "سيف مسلول",
       "name_english": "Sayf Maslul",
       "author_arabic": "ثناء الله بن يتيم",
       "author_english": "Thana Allah ibn Yatim",
-      "author_death_ah": null,
-      "book_type": null
+      "author_death_ah": 1100,
+      "book_type": null,
+      "era": "11th century AH"
     },
     "Usul al-Iman": {
       "name_arabic": "أصول الإيمان",
       "name_english": "Usul al-Iman",
       "author_arabic": "محمد سالم دهلوي بخاري",
       "author_english": "Muhammad Salim Dehlawi Bukhari",
-      "author_death_ah": null,
-      "book_type": null
+      "author_death_ah": 1200,
+      "book_type": null,
+      "era": "12th century AH"
     },
     "Tafrih al-Ahabb fi Manaqib al-Al wa al-Ashab": {
       "name_arabic": "تفريح الأحباب في مناقب الآل والأصحاب",
       "name_english": "Tafrih al-Ahabb fi Manaqib al-Al wa al-Ashab",
       "author_arabic": "جمال الدين محمد بن عبد العلي القرشي الهاشمي",
       "author_english": "Jalal al-Din Muhammad ibn Abd al-Ali al-Qurashi al-Hashimi",
-      "author_death_ah": null,
-      "book_type": null
+      "author_death_ah": 975,
+      "book_type": null,
+      "era": "10th century AH"
     },
     "Mir'at al-Mu'min": {
       "name_arabic": "مرآة المؤمن",
       "name_english": "Mir'at al-Mu'min",
       "author_arabic": "ولي الله لكهنوي",
       "author_english": "Wali Allah Lakhnaui",
-      "author_death_ah": null,
-      "book_type": null
+      "author_death_ah": 1236,
+      "book_type": null,
+      "era": "13th century AH"
     },
     "al-Haqq al-Mubin fi Fada'il Ahl al-Bayt Sayyid al-Mursalin": {
       "name_arabic": "الحق المبين في فضائل أهل البيت سيد المرسلين",
       "name_english": "al-Haqq al-Mubin fi Fada'il Ahl al-Bayt Sayyid al-Mursalin",
       "author_arabic": "رشيد الدين خان دهلوي",
       "author_english": "Rashid al-Din Khan Dehlawi",
-      "author_death_ah": null,
-      "book_type": null
+      "author_death_ah": 1200,
+      "book_type": null,
+      "era": "12th century AH"
     },
     "Dhakhirat al-Uqba fi Sharh al-Siraj al-Munir": {
       "name_arabic": "ذخيرة العقبى في شرح السراج المنير",
       "name_english": "Dhakhirat al-Uqba fi Sharh al-Siraj al-Munir",
       "author_arabic": "عاشق علي خان الدهلوي",
       "author_english": "Ashiq Ali Khan Dihlawi",
-      "author_death_ah": null,
-      "book_type": "hadith"
+      "author_death_ah": 1270,
+      "book_type": "hadith",
+      "era": "13th century AH"
     },
     "Fath al-Aziz": {
       "name_arabic": "فتح العزيز",
       "name_english": "Fath al-Aziz",
       "author_arabic": "شيخزاده",
       "author_english": "Shaykhzade",
-      "author_death_ah": null,
-      "book_type": null
+      "author_death_ah": 1083,
+      "book_type": null,
+      "era": "11th century AH"
     },
     "Mashariq al-Anwar fi Fawz Ahl al-I'tibar": {
       "name_arabic": "مشَارِقُ الأَنْوَارِ فِي فَوْزِ أَهْلِ الِاعْتِبَارِ",
       "name_english": "Mashariq al-Anwar fi Fawz Ahl al-I'tibar",
       "author_arabic": "حسن بن عبد الله بن حمزة بن عبد الله المعاصر الشافعي",
       "author_english": "Hasan b. Abd Allah b. Hamza b. Abd Allah al-Mu'asir al-Shafi'i",
-      "author_death_ah": null,
-      "book_type": "hadith"
+      "author_death_ah": 983,
+      "book_type": "hadith",
+      "era": "10th century AH"
     },
     "al-Fath al-Mubin fi Sirat al-Sayyid al-Amin": {
       "name_arabic": "الفتح المبين في سيرة السيد الأمين",
@@ -10188,8 +10225,9 @@
       "name_english": "Nur al-Absar",
       "author_arabic": "شبلنجي المعاصر",
       "author_english": "Shablanji al-Mu'asir",
-      "author_death_ah": null,
-      "book_type": "hadith"
+      "author_death_ah": 1066,
+      "book_type": "hadith",
+      "era": "11th century AH"
     },
     "al-Awsat wa al-Shafi": {
       "name_arabic": "الأوسط والشفي",
@@ -10204,8 +10242,9 @@
       "name_english": "Itba' al-Mawaddah",
       "author_arabic": "سليمان بلخي المعاصر",
       "author_english": "Sulayman Balkhi al-Mu'asir",
-      "author_death_ah": null,
-      "book_type": null
+      "author_death_ah": 1100,
+      "book_type": null,
+      "era": "11th century AH"
     },
     "al-Jami' al-Saghir": {
       "name_arabic": "الجامع الصغير",
@@ -10220,8 +10259,9 @@
       "name_english": "Fusul al-Mubayyina",
       "author_arabic": "المالكي",
       "author_english": "al-Maliki",
-      "author_death_ah": null,
-      "book_type": null
+      "author_death_ah": 1100,
+      "book_type": null,
+      "era": "11th century AH"
     },
     "Tadhkirat al-Khawass min Ahwal al-Awliya'": {
       "name_arabic": "تذكرة الخواص من أحوال الأوصياء",
@@ -10252,32 +10292,36 @@
       "name_english": "Hidayat al-Ibad",
       "author_arabic": "شهاب الدين دولت آبادي",
       "author_english": "Shahab al-Din Dawlat Abadi",
-      "author_death_ah": null,
-      "book_type": "Sufism"
+      "author_death_ah": 1175,
+      "book_type": "Sufism",
+      "era": "12th century AH"
     },
     "Mirat al-Asrar": {
       "name_arabic": "مرآة الأسرار",
       "name_english": "Mirat al-Asrar",
       "author_arabic": "عبد الرحمن بن عبد الرسول الجنتي",
       "author_english": "Abd al-Rahman ibn Abd al-Rasul al-Jantiti",
-      "author_death_ah": null,
-      "book_type": "Sufism"
+      "author_death_ah": 1100,
+      "book_type": "Sufism",
+      "era": "11th century AH"
     },
     "Tafsir Shahi": {
       "name_arabic": "تفسير شاهي",
       "name_english": "Tafsir Shahi",
       "author_arabic": "محمد محبوب عالمين سيادي جغفر بدر عالم",
       "author_english": "Muhammad Mahbub Alamin Sayyidi Jaafar Badr Alamin",
-      "author_death_ah": null,
-      "book_type": "Tafsir"
+      "author_death_ah": 1300,
+      "book_type": "Tafsir",
+      "era": "13th century AH"
     },
     "Tashrih fi Sharh Mataleb Hadith Safina": {
       "name_arabic": "تشريح في شرح مطالب حديث سفينة",
       "name_english": "Tashrih fi Sharh Mataleb Hadith Safina",
       "author_arabic": "شهاب الدين أحمد بن إدريس السندي",
       "author_english": "Shahab al-Din Ahmad ibn Idris al-Sindi",
-      "author_death_ah": null,
-      "book_type": "Hadith Commentary"
+      "author_death_ah": 1100,
+      "book_type": "Hadith Commentary",
+      "era": "11th century AH"
     },
     "Dhakhirat al-Ma'al": {
       "name_arabic": "ذخيرة المآل",
@@ -10340,24 +10384,27 @@
       "name_english": "Uqd al-Nabawi",
       "author_arabic": "عبد الله بن عبد الله العيدروس",
       "author_english": "Abd Allah ibn Abd Allah al-Aidarus",
-      "author_death_ah": null,
-      "book_type": "Hadith"
+      "author_death_ah": 1041,
+      "book_type": "Hadith",
+      "era": "11th century AH"
     },
     "Musahhih al-Rawiy": {
       "name_arabic": "مشرع الروي",
       "name_english": "Musahhih al-Rawiy",
       "author_arabic": "محمد بن أبي بكر الشقلي الحضرمي",
       "author_english": "Muhammad ibn Abi Bakr al-Shuqali al-Hadrami",
-      "author_death_ah": null,
-      "book_type": "Hadith"
+      "author_death_ah": 1100,
+      "book_type": "Hadith",
+      "era": "11th century AH"
     },
     "Iisfaf al-Raghibin": {
       "name_arabic": "إسعاف الراغبين",
       "name_english": "Iisfaf al-Raghibin",
       "author_arabic": "محمد بن أحمد الصباغ المصري",
       "author_english": "Muhammad ibn Ahmad al-Sabbagh al-Misri",
-      "author_death_ah": null,
-      "book_type": "Hadith"
+      "author_death_ah": 1100,
+      "book_type": "Hadith",
+      "era": "11th century AH"
     },
     "Ghunyat al-Talibin": {
       "name_arabic": "غنية الطالبين",
@@ -10444,8 +10491,9 @@
       "name_english": "Nibras",
       "author_arabic": "إبراهيم الكردي",
       "author_english": "Ibrahim al-Kurdi",
-      "author_death_ah": null,
-      "book_type": "Hadith"
+      "author_death_ah": 1100,
+      "book_type": "Hadith",
+      "era": "11th century AH"
     },
     "Tafsir Kabir": {
       "name_arabic": "تفسير كبير",
