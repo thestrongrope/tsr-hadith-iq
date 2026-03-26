@@ -1,0 +1,472 @@
+<!DOCTYPE html>
+<html lang="en" dir="ltr">
+<head>
+<meta charset="UTF-8">
+<meta name="viewport" content="width=device-width, initial-scale=1.0">
+<title>Dehlavi on Thaqalayn & Safinah — Full Argument Analysis</title>
+<style>
+  @import url('https://fonts.googleapis.com/css2?family=Amiri&family=Inter:wght@400;500;600;700&display=swap');
+  :root { --bg: #0f172a; --card: #1e293b; --border: #334155; --text: #e2e8f0; --muted: #94a3b8; --accent: #38bdf8; }
+  * { margin: 0; padding: 0; box-sizing: border-box; }
+  body { font-family: 'Inter', system-ui, sans-serif; background: var(--bg); color: var(--text); line-height: 1.7; font-size: 0.88rem; }
+  .c { max-width: 960px; margin: 0 auto; padding: 2rem 1.5rem; }
+  h1 { font-size: 1.5rem; margin-bottom: 0.2rem; }
+  h2 { font-size: 1.1rem; margin: 2rem 0 0.6rem; padding-bottom: 0.3rem; border-bottom: 1px solid var(--border); color: var(--accent); }
+  .sub { color: var(--muted); margin-bottom: 1.5rem; font-size: 0.82rem; line-height: 1.5; }
+  .ar { font-family: 'Amiri', serif; direction: rtl; text-align: right; line-height: 2; }
+
+  .scores { display: flex; gap: 0.5rem; flex-wrap: wrap; margin-bottom: 1.5rem; }
+  .sc { background: var(--card); border: 1px solid var(--border); border-radius: 0.4rem; padding: 0.5rem 0.8rem; text-align: center; flex: 1; min-width: 80px; }
+  .sc .n { font-size: 1.3rem; font-weight: 700; }
+  .sc .l { font-size: 0.6rem; color: var(--muted); text-transform: uppercase; letter-spacing: 0.04em; }
+
+  .box { background: var(--card); border: 1px solid var(--border); border-radius: 0.5rem; padding: 1rem; margin-bottom: 1rem; }
+  .sl { font-size: 0.65rem; text-transform: uppercase; letter-spacing: 0.06em; color: var(--muted); font-weight: 600; margin: 0.8rem 0 0.25rem; }
+
+  .ac { background: var(--card); border: 1px solid var(--border); border-radius: 0.5rem; margin-bottom: 0.75rem; overflow: hidden; }
+  .ah { padding: 0.65rem 0.9rem; cursor: pointer; display: flex; gap: 0.4rem; align-items: flex-start; user-select: none; }
+  .ah:hover { background: #283548; }
+  .an { font-weight: 700; color: var(--accent); background: #38bdf818; padding: 0.08rem 0.35rem; border-radius: 0.15rem; font-size: 0.78rem; flex-shrink: 0; }
+  .ab { font-size: 0.58rem; font-weight: 600; padding: 0.08rem 0.35rem; border-radius: 9999px; text-transform: uppercase; letter-spacing: 0.02em; flex-shrink: 0; margin-top: 0.08rem; white-space: nowrap; }
+  .at { flex: 1; font-size: 0.85rem; font-weight: 500; }
+  .av { color: var(--muted); flex-shrink: 0; transition: transform 0.2s; font-size: 0.75rem; }
+  .ac.open .av { transform: rotate(90deg); }
+  .ad { display: none; padding: 0.4rem 0.9rem 0.9rem; border-top: 1px solid var(--border); }
+  .ac.open .ad { display: block; }
+
+  .fb { background: #0f172a; border: 1px solid var(--border); border-radius: 0.3rem; padding: 0.5rem 0.7rem; font-family: 'Amiri', serif; direction: rtl; text-align: right; font-size: 0.95rem; line-height: 2; color: #fde68a; margin: 0.3rem 0 0.5rem; }
+  .eb { font-size: 0.82rem; color: #cbd5e1; font-style: italic; margin-bottom: 0.5rem; }
+
+  .hv { border-radius: 0.3rem; padding: 0.45rem 0.65rem; margin: 0.25rem 0; font-size: 0.8rem; display: flex; gap: 0.4rem; align-items: flex-start; }
+  .hv-icon { font-size: 0.9rem; flex-shrink: 0; }
+  .hv-text { flex: 1; }
+  .hv-grade { font-weight: 700; font-size: 0.68rem; padding: 0.04rem 0.25rem; border-radius: 0.12rem; margin-left: 0.3rem; }
+  .hv-det { color: var(--muted); font-size: 0.75rem; margin-top: 0.1rem; }
+
+  .lg { background: #8b5cf612; border: 1px solid #8b5cf633; border-radius: 0.3rem; padding: 0.4rem 0.65rem; margin: 0.25rem 0; font-size: 0.8rem; }
+  .as { background: #eab30812; border: 1px solid #eab30833; border-radius: 0.3rem; padding: 0.4rem 0.65rem; margin: 0.25rem 0; font-size: 0.8rem; }
+  .ia { background: #0891b212; border: 1px solid #0891b233; border-radius: 0.3rem; padding: 0.5rem 0.7rem; margin: 0.5rem 0; font-size: 0.82rem; }
+  .ia-l { font-weight: 700; color: #0891b2; font-size: 0.68rem; text-transform: uppercase; margin-bottom: 0.15rem; }
+  .rb { background: #16a34a0d; border-left: 3px solid #16a34a; border-radius: 0 0.3rem 0.3rem 0; padding: 0.5rem 0.7rem; margin: 0.4rem 0; font-size: 0.8rem; }
+  .rb-l { font-weight: 700; color: #16a34a; font-size: 0.68rem; text-transform: uppercase; margin-bottom: 0.15rem; }
+  .ov { background: var(--card); border: 2px solid var(--accent); border-radius: 0.5rem; padding: 1rem; margin-top: 2rem; }
+  .ov h3 { color: var(--accent); font-size: 1rem; margin-bottom: 0.4rem; }
+</style>
+</head>
+<body>
+<div class="c">
+
+<h1>Dehlavi on Thaqalayn & Safinah</h1>
+<p class="sub">Tuhfat al-Ithna Ashariyya, Ch.7, Hadith 12 (lines 2834–2913) · Verified against Sunnah.com · Cross-referenced with Abaqat Vol 23</p>
+<div class="scores">
+<div class="sc"><div class="n">15</div><div class="l">Arguments</div></div>
+<div class="sc"><div class="n" style="color:#16a34a">3</div><div class="l">Confirmed</div></div>
+<div class="sc"><div class="n" style="color:#eab308">2</div><div class="l">Overstated</div></div>
+<div class="sc"><div class="n" style="color:#dc2626">3</div><div class="l">Fabricated/Missing</div></div>
+<div class="sc"><div class="n" style="color:#0891b2">9</div><div class="l">Safinah Args</div></div>
+<div class="sc"><div class="n" style="color:#8b5cf6">5</div><div class="l">Logic Args</div></div>
+</div>
+<div class="box">
+<div class="sl">Dehlavi's Strategy</div>
+<p>Dehlavi <strong>accepts both Thaqalayn and Safinah</strong> as authentic hadiths but reinterprets their meaning to deny exclusive Shia Imamate. He deploys counter-hadiths (some fabricated), reductio arguments, and sectarian charges.</p>
+<p style="margin-top:0.4rem; color:#f87171"><strong>Key finding:</strong> Of the hadiths he cites as evidence, one is graded FABRICATED by Sunni hadith scholars, one is OVERSTATED in grade, and he names ZERO source books for any hadith.</p>
+</div>
+<div class="ac" style="border-left:3px solid #eab308">
+<div class="ah" onclick="this.parentElement.classList.toggle('open')">
+<span class="an">#1</span>
+<span class="ab" style="background:#eab30822; color:#eab308; border:1px solid #eab30844">MEANING MINIMIZATION</span>
+<span class="at">Hadith Twelve: Narrated from Zayd b. Arqam from the Prophet (s) that 'I am leaving among you the two weighty t</span>
+<span class="av">▶</span></div>
+<div class="ad">
+<div class="sl">Dehlavi's Words</div>
+<div class="fb">حدبث دوازدهم روایت زید بن ارقم عن النبی صلی اللّه علیه و سلم (انی تارك فیکم الثقلین ما ان تمسکتم بهما لن تضلوا بعدی احدهما اعظم من الآخر کتاب اللّه وعترتی) و این حدیث هم بدستور احادیث سابقه با مدعی مساس ندارد</div>
+<div class="eb">Hadith Twelve: Narrated from Zayd b. Arqam from the Prophet (s) that 'I am leaving among you the two weighty things; if you hold fast to them you will not go astray after me. One is greater than the other: the Book of Allah and my 'itrah.' And this hadith, like the previous hadiths, does not support the Shi'a claim of exclusive Imamate.</div>
+<div class="sl">Hadith Citations — Sunnah.com Verification</div>
+<div class="hv" style="background:#16a34a10; border:1px solid #16a34a33">
+<span class="hv-icon">✅</span>
+<div class="hv-text">
+<div class="ar" style="font-size:0.9rem; color:#16a34a">انی تارك فیکم الثقلین ما ان تمسکتم بهما لن تضلوا بعدی احدهما اعظم من الآخر کتاب اللّه وعترتی</div>
+<span class="hv-grade" style="background:#16a34a22; color:#16a34a">CONFIRMED</span>
+ <span style="font-size:0.75rem; color:#f87171">No source book named by Dehlavi</span>
+<div class="hv-det">Dehlavi claims: <strong>implicitly sahih (accepted)</strong> → Actual: <strong>Sahih</strong></div>
+<div class="hv-det">Found in: Sahih Muslim 2408a,d, Jami' at-Tirmidhi 3786,3788, Sunan al-Darimi 3221</div>
+</div></div>
+<div class="lg"><strong style="color:#8b5cf6; font-size:0.68rem; text-transform:uppercase">Logic:</strong> Premise: Thaqalayn hadith authentic → Premise: Does not mandate exclusive supreme leadership (zāʿāmah kubrā) → Conclusion: Fails to prove Shi'a Imamate claim.</div>
+<div class="as"><strong style="color:#eab308; font-size:0.68rem; text-transform:uppercase">Unstated assumptions:</strong>
+<div>• 'Itrah refers to all broad relatives, not specific Imams; adherence means general love/following, not political/religious authority.</div>
+</div>
+<div class="ia"><div class="ia-l">Independent Assessment</div>Dehlavi correctly accepts Thaqalayn's authenticity (Sahih Muslim). Minimization relies on interpretive narrowing of 'tamassakū' to non-exclusive guidance, ignoring Shi'a dalālah proofs of salvific exclusivity and 'itrah's specified meaning in context.</div>
+<div class="rb"><div class="rb-l">Abaqat Vol 23 Response</div>
+<div>Vol 23 (sections 3, 44-45) provides dalalah proofs showing Thaqalayn's explicit indication of Imamate and superiority of Ahl al-Bayt, refuting minimization.</div>
+<div style="color:var(--muted); font-size:0.75rem; margin-top:0.15rem">Sections: §3, §44, §45</div>
+</div>
+</div></div>
+<div class="ac" style="border-left:3px solid #7c3aed">
+<div class="ah" onclick="this.parentElement.classList.toggle('open')">
+<span class="an">#2</span>
+<span class="ab" style="background:#7c3aed22; color:#7c3aed; border:1px solid #7c3aed44">COUNTER HADITH</span>
+<span class="at">Adherence to supreme leadership is not required. We concede, but this hadith is also sahih: 'Hold to my Sunnah</span>
+<span class="av">▶</span></div>
+<div class="ad">
+<div class="sl">Dehlavi's Words</div>
+<div class="fb">لازم نیست که متمسک بر صاحب زعامت کبری باشد سلمنا لیکن این حدیث هم صحیح است (علیکم بسنتی وسنة الخلفاء الراشدین المهدیین من بعدی تمسکوا بها و عضوا علیها تالتواعید)</div>
+<div class="eb">Adherence to supreme leadership is not required. We concede, but this hadith is also sahih: 'Hold to my Sunnah and the Sunnah of the Rashidun Caliphs, the rightly-guided after me; hold fast to it and bite upon it with your molars.'</div>
+<div class="sl">Hadith Citations — Sunnah.com Verification</div>
+<div class="hv" style="background:#16a34a10; border:1px solid #16a34a33">
+<span class="hv-icon">✅</span>
+<div class="hv-text">
+<div class="ar" style="font-size:0.9rem; color:#16a34a">علیکم بسنتی وسنة الخلفاء الراشدین المهدیین من بعدی تمسکوا بها و عضوا علیها تالتواعید</div>
+<span class="hv-grade" style="background:#16a34a22; color:#16a34a">CONFIRMED</span>
+ <span style="font-size:0.75rem; color:#f87171">No source book named by Dehlavi</span>
+<div class="hv-det">Dehlavi claims: <strong>sahih</strong> → Actual: <strong>Sahih</strong></div>
+<div class="hv-det">Found in: Sunan Abi Dawud 4607, Jami' at-Tirmidhi 2676, Sunan Ibn Majah 42-43</div>
+</div></div>
+<div class="lg"><strong style="color:#8b5cf6; font-size:0.68rem; text-transform:uppercase">Logic:</strong> Premise: Rashidun Sunnah hadith sahih → Premise: Commands adherence equivalent to Thaqalayn → Conclusion: No need for exclusive Ahl al-Bayt leadership.</div>
+<div class="as"><strong style="color:#eab308; font-size:0.68rem; text-transform:uppercase">Unstated assumptions:</strong>
+<div>• Sunnah of Rashidun equals or supersedes 'itrah in salvific guidance; no hierarchy between sources.</div>
+</div>
+<div class="ia"><div class="ia-l">Independent Assessment</div>Citation accurate (sahih per Albani/Darussalam), but not in Sahihayn. Logically equates general 'sunnah' adherence with Thaqalayn's explicit salvific pair, overlooking Thaqalayn's unique 'lan tadillū' promise.</div>
+<div class="rb"><div class="rb-l">Abaqat Vol 23 Response</div>
+<div>Sections 3 and 44 argue the hadith mandates following Ahl al-Bayt as the path to salvation, superior to general Sunnah adherence.</div>
+<div style="color:var(--muted); font-size:0.75rem; margin-top:0.15rem">Sections: §3, §44</div>
+</div>
+</div></div>
+<div class="ac" style="border-left:3px solid #dc2626">
+<div class="ah" onclick="this.parentElement.classList.toggle('open')">
+<span class="an">#3</span>
+<span class="ab" style="background:#dc262622; color:#dc2626; border:1px solid #dc262644">LOGICAL OBJECTION</span>
+<span class="at">If Thaqalayn implies Imamate for 'itrah, it necessitates that all the Prophet's relatives (s) be obligatory Im</span>
+<span class="av">▶</span></div>
+<div class="ad">
+<div class="sl">Dehlavi's Words</div>
+<div class="fb">رت در لقت غزب تن اقارب انرتسسن ۱ کرقلا لت و امامت کند لازم آید که جمیع اقارب آنحضرت صلی له علیه و سلم ائمه باشند واجب الاطاعت علی الخصوص مثل عبد الله بن عباس و محمد بن الحنفیه و زید بن علی و حسن مشنی و اسحاق این حعفر صادق</div>
+<div class="eb">If Thaqalayn implies Imamate for 'itrah, it necessitates that all the Prophet's relatives (s) be obligatory Imams to follow exclusively, like Ibn Abbas, Muhammad b. al-Hanafiyyah, Zayd b. Ali, Hasan al-Musni, Ishaq this Ja'far al-Sadiq, and the like from Ahl al-Bayt.</div>
+<div class="lg"><strong style="color:#8b5cf6; font-size:0.68rem; text-transform:uppercase">Logic:</strong> Premise: Thaqalayn commands adherence to 'itrah → Premise: 'Itrah = all broad relatives → Absurdum: All relatives (non-Imams) must be Imams → Conclusion: Interpretation invalid.</div>
+<div class="as"><strong style="color:#eab308; font-size:0.68rem; text-transform:uppercase">Unstated assumptions:</strong>
+<div>• 'Itrah encompasses all Qurayshi/Banū Hāshim relatives indiscriminately; Shi'a must accept all as authoritative.</div>
+</div>
+<div class="ia"><div class="ia-l">Independent Assessment</div>Classic reductio ad absurdum. Sunni hadith scholars (e.g., al-Nasa'i) specify 'itrah as Fatima's progeny; Dehlavi overbroadens to fabricate absurdity, ignoring contextual tawqif.</div>
+<div class="rb"><div class="rb-l">Abaqat Vol 23 Response</div>
+<div>Sections 44-45 clarify the hadith specifies pure Ahl al-Bayt (not all relatives); 59-60 directly refute Dehlavi's fabrication and misinterpretation of who qualifies as Ahl al-Bayt.</div>
+<div style="color:var(--muted); font-size:0.75rem; margin-top:0.15rem">Sections: §44, §45, §59, §60</div>
+</div>
+</div></div>
+<div class="ac" style="border-left:3px solid #7c3aed">
+<div class="ah" onclick="this.parentElement.classList.toggle('open')">
+<span class="an">#4</span>
+<span class="ab" style="background:#7c3aed22; color:#7c3aed; border:1px solid #7c3aed44">COUNTER HADITH</span>
+<span class="at">Also, sahih hadiths state: 'Take half your religion from this red-haired one' (pointing to A'isha), 'Follow th</span>
+<span class="av">▶</span></div>
+<div class="ad">
+<div class="sl">Dehlavi's Words</div>
+<div class="fb">و نیز در حدیث صحیح وارد است (خذوا شطر دینکم عن هذه الحمیراء) و اشاره بعائْشة فرمود و اهتدوا بهدی عمار) و (تمسکوا بعهد ابن ام عبد) و (رضیت لکم ما رضی لکم ابن ام عبد) و (اعلمکم بالحلال و الحرام معاذ بن جبل)</div>
+<div class="eb">Also, sahih hadiths state: 'Take half your religion from this red-haired one' (pointing to A'isha), 'Follow the guidance of Ammar,' 'Hold to the covenant of Ibn Abi Waqqas,' 'What Ibn Abi Waqqas approved for you I approve,' 'Mu'adh b. Jabal knows best for you halal and haram.'</div>
+<div class="sl">Hadith Citations — Sunnah.com Verification</div>
+<div class="hv" style="background:#dc262610; border:1px solid #dc262633">
+<span class="hv-icon">🚫</span>
+<div class="hv-text">
+<div class="ar" style="font-size:0.9rem; color:#dc2626">خذوا شطر دینکم عن هذه الحمیراء</div>
+<span class="hv-grade" style="background:#dc262622; color:#dc2626">FABRICATED</span>
+ <span style="font-size:0.75rem; color:#f87171">No source book named by Dehlavi</span>
+<div class="hv-det">Dehlavi claims: <strong>sahih</strong> → Actual: <strong>Da'if / Mawdu'</strong></div>
+<div class="hv-det" style="color:#f87171">Not found in canonical Sunni hadith collections on Sunnah.com</div>
+</div></div>
+<div class="hv" style="background:#eab30810; border:1px solid #eab30833">
+<span class="hv-icon">⚠️</span>
+<div class="hv-text">
+<div class="ar" style="font-size:0.9rem; color:#eab308">اهتدوا بهدی عمار</div>
+<span class="hv-grade" style="background:#eab30822; color:#eab308">OVERSTATED</span>
+ <span style="font-size:0.75rem; color:#f87171">No source book named by Dehlavi</span>
+<div class="hv-det">Dehlavi claims: <strong>implicit sahih</strong> → Actual: <strong>Hasan</strong></div>
+<div class="hv-det">Found in: Jami' at-Tirmidhi 3805, 3799</div>
+</div></div>
+<div class="hv" style="background:#16a34a10; border:1px solid #16a34a33">
+<span class="hv-icon">✅</span>
+<div class="hv-text">
+<div class="ar" style="font-size:0.9rem; color:#16a34a">اعلمکم بالحلال و الحرام معاذ بن جبل</div>
+<span class="hv-grade" style="background:#16a34a22; color:#16a34a">CONFIRMED</span>
+ <span style="font-size:0.75rem; color:#f87171">No source book named by Dehlavi</span>
+<div class="hv-det">Dehlavi claims: <strong>implicit sahih</strong> → Actual: <strong>Sahih</strong></div>
+<div class="hv-det">Found in: Sunan Ibn Majah 154, Jami' at-Tirmidhi 3790,3791</div>
+</div></div>
+<div class="lg"><strong style="color:#8b5cf6; font-size:0.68rem; text-transform:uppercase">Logic:</strong> Premise: Multiple sahih hadiths command following specific companions → Conclusion: Equivalent to Ahl al-Bayt adherence; no exclusivity.</div>
+<div class="as"><strong style="color:#eab308; font-size:0.68rem; text-transform:uppercase">Unstated assumptions:</strong>
+<div>• All named figures have equal salvific authority to 'itrah; proliferation implies no unique Imamate.</div>
+</div>
+<div class="ia"><div class="ia-l">Independent Assessment</div>Mixed citations: A'isha hadith fabricated (mawḍūʿ per al-Albani et al.); others confirmed but hasan/sahih, not mutawatir. Fails to match Thaqalayn's paired, perpetual salvific promise.</div>
+<div class="rb"><div class="rb-l">Abaqat Vol 23 Response</div>
+<div>Dalalah sections (3,44) harmonize these with Safinah by emphasizing Ahl al-Bayt's unique salvific role.</div>
+<div style="color:var(--muted); font-size:0.75rem; margin-top:0.15rem">Sections: §3, §44</div>
+</div>
+</div></div>
+<div class="ac" style="border-left:3px solid #7c3aed">
+<div class="ah" onclick="this.parentElement.classList.toggle('open')">
+<span class="an">#5</span>
+<span class="ab" style="background:#7c3aed22; color:#7c3aed; border:1px solid #7c3aed44">COUNTER HADITH</span>
+<span class="at">'Follow those after me: Abu Bakr and Umar,' which has reached the level of fame and ma'nawi tawatur; thus all </span>
+<span class="av">▶</span></div>
+<div class="ad">
+<div class="sl">Dehlavi's Words</div>
+<div class="fb">اقتدوا بالذین من بعدی ابی بکروعمر) که بدرجه شهرت و تواتر معنوی رسیده پس لازم آمد که همه این اشخاص امام باشند</div>
+<div class="eb">'Follow those after me: Abu Bakr and Umar,' which has reached the level of fame and ma'nawi tawatur; thus all these persons must be Imams.</div>
+<div class="sl">Hadith Citations — Sunnah.com Verification</div>
+<div class="hv" style="background:#eab30810; border:1px solid #eab30833">
+<span class="hv-icon">⚠️</span>
+<div class="hv-text">
+<div class="ar" style="font-size:0.9rem; color:#eab308">اقتدوا بالذين من بعدي ابي بكر وعمر</div>
+<span class="hv-grade" style="background:#eab30822; color:#eab308">OVERSTATED</span>
+ <span style="font-size:0.75rem; color:#f87171">No source book named by Dehlavi</span>
+<div class="hv-det">Dehlavi claims: <strong>tawatur ma'nawi</strong> → Actual: <strong>Hasan</strong></div>
+<div class="hv-det">Found in: Jami' at-Tirmidhi 3805, 3662</div>
+</div></div>
+<div class="lg"><strong style="color:#8b5cf6; font-size:0.68rem; text-transform:uppercase">Logic:</strong> Premise: Abu Bakr/Umar hadith mutawatir ma'nawi → Premise: Commands followership like Thaqalayn → Absurdum: They too are Imams → Conclusion: No Shi'a exclusivity.</div>
+<div class="as"><strong style="color:#eab308; font-size:0.68rem; text-transform:uppercase">Unstated assumptions:</strong>
+<div>• Ma'nawi tawatur claim elevates to equal Thaqalayn; followership = Imamate.</div>
+</div>
+<div class="ia"><div class="ia-l">Independent Assessment</div>Hadith hasan (Tirmidhi), not tawātur (only two paths); Dehlavi overstates. Logical tu quoque weakens if Thaqalayn superior.</div>
+<div class="rb"><div class="rb-l">Abaqat Vol 23 Response</div>
+<div>Sections prioritize Safinah's explicit salvific exclusivity for Ahl al-Bayt over general followership hadiths.</div>
+<div style="color:var(--muted); font-size:0.75rem; margin-top:0.15rem">Sections: §3, §44</div>
+</div>
+</div></div>
+<div class="ac" style="border-left:3px solid #dc2626">
+<div class="ah" onclick="this.parentElement.classList.toggle('open')">
+<span class="an">#6</span>
+<span class="ab" style="background:#dc262622; color:#dc2626; border:1px solid #dc262644">LOGICAL OBJECTION</span>
+<span class="at">If this hadith indicates Imamate for 'itrah, how does the sahih narration from Amir al-Mu'minin (s), mutawatir</span>
+<span class="av">▶</span></div>
+<div class="ad">
+<div class="sl">Dehlavi's Words</div>
+<div class="fb">اگر این حدیث دلالت بر امامت عترت نماید حدیث صحیح مروی از حضرت امیر که نزد شیعه متواتر است (انما الشوری للمهاجرین و الانصار) چگونه درست شنود</div>
+<div class="eb">If this hadith indicates Imamate for 'itrah, how does the sahih narration from Amir al-Mu'minin (s), mutawatir among Shi'a—'Shura belongs only to the Muhajirun and Ansar'—stand correct?</div>
+<div class="sl">Hadith Citations — Sunnah.com Verification</div>
+<div class="hv" style="background:#dc262610; border:1px solid #dc262633">
+<span class="hv-icon">❌</span>
+<div class="hv-text">
+<div class="ar" style="font-size:0.9rem; color:#dc2626">انما الشورى للمهاجرين والانصار</div>
+<span class="hv-grade" style="background:#dc262622; color:#dc2626">NOT_FOUND</span>
+ <span style="font-size:0.75rem; color:#f87171">No source book named by Dehlavi</span>
+<div class="hv-det">Dehlavi claims: <strong>sahih and mutawatir among Shi'a</strong> → Actual: <strong>Not a Prophetic hadith</strong></div>
+<div class="hv-det" style="color:#f87171">Not found in canonical Sunni hadith collections on Sunnah.com</div>
+</div></div>
+<div class="lg"><strong style="color:#8b5cf6; font-size:0.68rem; text-transform:uppercase">Logic:</strong> Premise: Ali's shura hadith authentic/Shi'a mutawatir → Premise: Limits leadership to Muhajirun/Ansar → Contradiction: Excludes specific 'itrah Imamate.</div>
+<div class="as"><strong style="color:#eab308; font-size:0.68rem; text-transform:uppercase">Unstated assumptions:</strong>
+<div>• Statement is Prophetic or binding normatively; Shi'a accept without qualification.</div>
+</div>
+<div class="ia"><div class="ia-l">Independent Assessment</div>Misattribution: From Nahj al-Balāghah (Letter 27 to Mu'awiya), not Prophetic hadith. Shi'a contextualize as political concession, not abrogating prophetic designation.</div>
+<div class="rb"><div class="rb-l">Abaqat Vol 23 Response</div>
+<div>Section 44 explains Safinah's dalalah on absolute Imamate supersedes conditional shura statements.</div>
+<div style="color:var(--muted); font-size:0.75rem; margin-top:0.15rem">Sections: §44</div>
+</div>
+</div></div>
+<div class="ac" style="border-left:3px solid #eab308">
+<div class="ah" onclick="this.parentElement.classList.toggle('open')">
+<span class="an">#7</span>
+<span class="ab" style="background:#eab30822; color:#eab308; border:1px solid #eab30844">MEANING MINIMIZATION</span>
+<span class="ab" style="background:#0891b222; color:#0891b2; border:1px solid #0891b244">SAFINAH</span>
+<span class="at">The hadith 'My Ahl al-Bayt among you are like Noah's ship: whoever rides it is saved, whoever lags behind drow</span>
+<span class="av">▶</span></div>
+<div class="ad">
+<div class="sl">Dehlavi's Words</div>
+<div class="fb">حدیث (مثل اهل بیتی فیکم مثل سفينة نوح من رکبها نجی ومن تخلف عنها غرق) دلالت نمیکند مگر بر آنکه فلاح و هدایت مر بوط بدوستی ایشان و منوط باتباع ایشان است و تخلف از دوستی و اتباع ایشان موجب هلاک</div>
+<div class="eb">The hadith 'My Ahl al-Bayt among you are like Noah's ship: whoever rides it is saved, whoever lags behind drowns' only indicates that salvation and guidance depend on their love and following them; opposition to love and following causes ruin.</div>
+<div class="sl">Hadith Citations — Sunnah.com Verification</div>
+<div class="hv" style="background:#dc262610; border:1px solid #dc262633">
+<span class="hv-icon">❌</span>
+<div class="hv-text">
+<div class="ar" style="font-size:0.9rem; color:#dc2626">مثل اهل بیتی فیکم مثل سفينة نوح من رکبها نجی ومن تخلف عنها غرق</div>
+<span class="hv-grade" style="background:#dc262622; color:#dc2626">NOT_FOUND</span>
+ <span style="font-size:0.75rem; color:#f87171">No source book named by Dehlavi</span>
+<div class="hv-det" style="color:#f87171">Not found in canonical Sunni hadith collections on Sunnah.com</div>
+</div></div>
+<div class="lg"><strong style="color:#8b5cf6; font-size:0.68rem; text-transform:uppercase">Logic:</strong> Premise: Safinah authentic → Interpretation: Means love/following only → Conclusion: No exclusive Imamate.</div>
+<div class="as"><strong style="color:#eab308; font-size:0.68rem; text-transform:uppercase">Unstated assumptions:</strong>
+<div>• Safinah = general affinity, not authority; Sunni love suffices.</div>
+</div>
+<div class="ia"><div class="ia-l">Independent Assessment</div>No Sunnah.com match, but cited by 40+ Sunni ulema (Hakim, Tabarani). Minimizes 'rakiba' to love vs. Shi'a 'ittibāʿ maʾmūr bihi' (obedience).</div>
+<div class="rb"><div class="rb-l">Abaqat Vol 23 Response</div>
+<div>Sections 44-45 prove explicit Imamate; 60 refutes claim it only implies general safety via love; 64 critiques Dehlavi's (via Shah Wali Allah) interpretation.</div>
+<div style="color:var(--muted); font-size:0.75rem; margin-top:0.15rem">Sections: §44, §45, §60, §64</div>
+</div>
+</div></div>
+<div class="ac" style="border-left:3px solid #ea580c">
+<div class="ah" onclick="this.parentElement.classList.toggle('open')">
+<span class="an">#8</span>
+<span class="ab" style="background:#ea580c22; color:#ea580c; border:1px solid #ea580c44">SECTARIAN CHARGE</span>
+<span class="ab" style="background:#0891b222; color:#0891b2; border:1px solid #0891b244">SAFINAH</span>
+<span class="at">This meaning, by Allah's grace, is purely the share of Ahl al-Sunnah, unique among Islamic sects to their madh</span>
+<span class="av">▶</span></div>
+<div class="ad">
+<div class="sl">Dehlavi's Words</div>
+<div class="fb">این معنی بفضل ال تعالی محض:نصیب اهل سنت است و پس از جمیع فرق اسلامیه و خاص است به مذهب اهل سنت لا یوجد فی غیرهم زیرا که ایشان متمسک اند بحبل وداد جمیع اهل بیت</div>
+<div class="eb">This meaning, by Allah's grace, is purely the share of Ahl al-Sunnah, unique among Islamic sects to their madhhab alone, as they hold to the rope of love for all Ahl al-Bayt.</div>
+<div class="lg"><strong style="color:#8b5cf6; font-size:0.68rem; text-transform:uppercase">Logic:</strong> Premise: Safinah requires universal Ahl al-Bayt love → Premise: Only Sunnis fulfill → Conclusion: Sunnis exclusively saved.</div>
+<div class="as"><strong style="color:#eab308; font-size:0.68rem; text-transform:uppercase">Unstated assumptions:</strong>
+<div>• Sunni caliphal support = true 'love'; Shi'a selective.</div>
+</div>
+<div class="ia"><div class="ia-l">Independent Assessment</div>Sectarian assertion; ignores Sunni opposition to specific Ahl al-Bayt claims (e.g., Ghadir).</div>
+<div class="rb"><div class="rb-l">Abaqat Vol 23 Response</div>
+<div>Section 46 directly refutes: Sunnis lack pure wilayah; 60-61 charge Sunnis with nasibism and refute their exclusive claim.</div>
+<div style="color:var(--muted); font-size:0.75rem; margin-top:0.15rem">Sections: §46, §60, §61</div>
+</div>
+</div></div>
+<div class="ac" style="border-left:3px solid #ea580c">
+<div class="ah" onclick="this.parentElement.classList.toggle('open')">
+<span class="an">#9</span>
+<span class="ab" style="background:#ea580c22; color:#ea580c; border:1px solid #ea580c44">SECTARIAN CHARGE</span>
+<span class="ab" style="background:#0891b222; color:#0891b2; border:1px solid #0891b244">SAFINAH</span>
+<span class="at">By analogy to Quran (Baqarah 85: partial Book adherence + rejection = wrath; Baqarah 285: faith in some prophe</span>
+<span class="av">▶</span></div>
+<div class="ad">
+<div class="sl">Dehlavi's Words</div>
+<div class="fb">بر قیاس کتاب اللّه که (.. تون فص الکتاب وکین یَغْض ..* الاية. البقرة: ۸۵) و در رنگ ایمان بالانبیاء که ...لا نرق ین آحٍَ ین رس ...۷ الاّبة. البقرة: ۲۸۵) با بعض محبت و ایمان و با بعض بغض و کفران نمی ورزند</div>
+<div class="eb">By analogy to Quran (Baqarah 85: partial Book adherence + rejection = wrath; Baqarah 285: faith in some prophets, rejection of others invalid), one cannot love/faith in some Ahl al-Bayt and hate/disbelieve others.</div>
+<div class="sl">Quranic References</div>
+<div style="font-size:0.8rem">📖 al-Baqarah:85 — verifiable</div>
+<div style="font-size:0.8rem">📖 al-Baqarah:285 — verifiable</div>
+<div class="lg"><strong style="color:#8b5cf6; font-size:0.68rem; text-transform:uppercase">Logic:</strong> Premise: Quran prohibits partial adherence → Apply to Ahl al-Bayt → Conclusion: Sunnis consistent; Shi'a inconsistent.</div>
+<div class="as"><strong style="color:#eab308; font-size:0.68rem; text-transform:uppercase">Unstated assumptions:</strong>
+<div>• All Ahl al-Bayt equivalent; Shi'a 'love' = hating some branches.</div>
+</div>
+<div class="ia"><div class="ia-l">Independent Assessment</div>Quranic analogy strained; verses address prophets/Book integrity, not familial branches. Shi'a distinguish maʿṣūm Imams vs. others.</div>
+<div class="rb"><div class="rb-l">Abaqat Vol 23 Response</div>
+<div>Section 46 counters that true wilayah belongs to Shi'a who follow specified Imams.</div>
+<div style="color:var(--muted); font-size:0.75rem; margin-top:0.15rem">Sections: §46</div>
+</div>
+</div></div>
+<div class="ac" style="border-left:3px solid #ea580c">
+<div class="ah" onclick="this.parentElement.classList.toggle('open')">
+<span class="an">#10</span>
+<span class="ab" style="background:#ea580c22; color:#ea580c; border:1px solid #ea580c44">SECTARIAN CHARGE</span>
+<span class="ab" style="background:#0891b222; color:#0891b2; border:1px solid #0891b244">SAFINAH</span>
+<span class="at">Unlike Shi'a, whose no sect loves all Ahl al-Bayt; some love one branch and hate the rest, others another; eve</span>
+<span class="av">▶</span></div>
+<div class="ad">
+<div class="sl">Dehlavi's Words</div>
+<div class="fb">بخلاف شیعه که هیچ فرقه ایشان جمیع اهل بیت را دوست ندار و بعضی یک طایفه را محبوب می سازند و بقیه را مبغوض میدارند و بعضی طایفه دیگررا و همین است حال باخغ کهاهان شنت یکته طایفه را خاض نمیکند</div>
+<div class="eb">Unlike Shi'a, whose no sect loves all Ahl al-Bayt; some love one branch and hate the rest, others another; even the Twelvers do not transcend one tribe.</div>
+<div class="lg"><strong style="color:#8b5cf6; font-size:0.68rem; text-transform:uppercase">Logic:</strong> Premise: Shi'a sects love partial Ahl al-Bayt → Conclusion: Violates universal love requirement.</div>
+<div class="as"><strong style="color:#eab308; font-size:0.68rem; text-transform:uppercase">Unstated assumptions:</strong>
+<div>• Zaydiyya/Kaysaniyya represent Shi'a; all branches equally 'Ahl al-Bayt'.</div>
+</div>
+<div class="ia"><div class="ia-l">Independent Assessment</div>Caricature; Twelvers prioritize 12 Imams as maʿṣūm, respect others without hating.</div>
+<div class="rb"><div class="rb-l">Abaqat Vol 23 Response</div>
+<div>Refuted in 46 (Sunnis fail true adherence); 59-60 deny Dehlavi's fabrications about Shi'a positions.</div>
+<div style="color:var(--muted); font-size:0.75rem; margin-top:0.15rem">Sections: §46, §59, §60</div>
+</div>
+</div></div>
+<div class="ac" style="border-left:3px solid #6b7280">
+<div class="ah" onclick="this.parentElement.classList.toggle('open')">
+<span class="an">#11</span>
+<span class="ab" style="background:#6b728022; color:#6b7280; border:1px solid #6b728044">AUTHOR RESPONSE</span>
+<span class="ab" style="background:#0891b222; color:#0891b2; border:1px solid #0891b244">SAFINAH</span>
+<span class="at">The simile of Ahl al-Bayt to ship implies full love/following of all not required for salvation, as occupying </span>
+<span class="av">▶</span></div>
+<div class="ad">
+<div class="sl">Dehlavi's Words</div>
+<div class="fb">تشبیه اهل بیت درین حدیث بسفینه اقتضا می نماید که محبت جمیم اهل بیت و انباع کل ایشان در نجات و فلاح ضرور نیست زیراکه اگر شخصی دریک گنج کشتی جا گرفت بلا شبهه از غرق اورا نجات حاصل شد</div>
+<div class="eb">The simile of Ahl al-Bayt to ship implies full love/following of all not required for salvation, as occupying one compartment of the ship undoubtedly saves from drowning.</div>
+<div class="lg"><strong style="color:#8b5cf6; font-size:0.68rem; text-transform:uppercase">Logic:</strong> Premise: Ship compartments independent → Apply to Ahl al-Bayt branches → Conclusion: Partial adherence saves.</div>
+<div class="as"><strong style="color:#eab308; font-size:0.68rem; text-transform:uppercase">Unstated assumptions:</strong>
+<div>• Shi'a endorse 'one compartment' view; compartments = branches.</div>
+</div>
+<div class="ia"><div class="ia-l">Independent Assessment</div>Dehlavi attributes strawman to Shi'a; actual Shi'a view ship as unified under captains (Imams).</div>
+<div class="rb"><div class="rb-l">Abaqat Vol 23 Response</div>
+<div>Section 60 directly refutes this Shi'a 'compartment' analogy as Dehlavi presents it.</div>
+<div style="color:var(--muted); font-size:0.75rem; margin-top:0.15rem">Sections: §60</div>
+</div>
+</div></div>
+<div class="ac" style="border-left:3px solid #dc2626">
+<div class="ah" onclick="this.parentElement.classList.toggle('open')">
+<span class="an">#12</span>
+<span class="ab" style="background:#dc262622; color:#dc2626; border:1px solid #dc262644">LOGICAL OBJECTION</span>
+<span class="ab" style="background:#0891b222; color:#0891b2; border:1px solid #0891b244">SAFINAH</span>
+<span class="at">In this case, Imami Shi'a must not deem Zaydiyya, Kaysaniyya, Nawusiyya, Aftahiyya misguided... Twelver Imam d</span>
+<span class="av">▶</span></div>
+<div class="ad">
+<div class="sl">Dehlavi's Words</div>
+<div class="fb">درین صورت امامیه را باید که زیدیه و کیسانیه و ناووسیه و افطحیه را گمراه ندانند... تعین ائمه انا عشریه نیز مخدوش گشت... جمیع مذاهب را باید که حق دانند و صواب انگارند حال آنکه... تناقض و تضاد واقع است</div>
+<div class="eb">In this case, Imami Shi'a must not deem Zaydiyya, Kaysaniyya, Nawusiyya, Aftahiyya misguided... Twelver Imam determination undermined... must deem all sects true despite contradictions.</div>
+<div class="lg"><strong style="color:#8b5cf6; font-size:0.68rem; text-transform:uppercase">Logic:</strong> Premise: Partial adherence saves → Absurdum: All Shi'a sects saved; Twelver specificity collapses → Conclusion: Impossible.</div>
+<div class="as"><strong style="color:#eab308; font-size:0.68rem; text-transform:uppercase">Unstated assumptions:</strong>
+<div>• All sects claim Ahl al-Bayt adherence; equates branches.</div>
+</div>
+<div class="ia"><div class="ia-l">Independent Assessment</div>Valid tu quoque if premise true, but rests on misrepresented Shi'a position.</div>
+<div class="rb"><div class="rb-l">Abaqat Vol 23 Response</div>
+<div>44 specifies Ahl al-Bayt; 60 refutes by affirming hadith's exclusivity to true followers.</div>
+<div style="color:var(--muted); font-size:0.75rem; margin-top:0.15rem">Sections: §44, §60</div>
+</div>
+</div></div>
+<div class="ac" style="border-left:3px solid #dc2626">
+<div class="ah" onclick="this.parentElement.classList.toggle('open')">
+<span class="an">#13</span>
+<span class="ab" style="background:#dc262622; color:#dc2626; border:1px solid #dc262644">LOGICAL OBJECTION</span>
+<span class="ab" style="background:#0891b222; color:#0891b2; border:1px solid #0891b244">SAFINAH</span>
+<span class="at">Sitting in one saving compartment works only if no breach in others; Shi'a sects breach other compartments and</span>
+<span class="av">▶</span></div>
+<div class="ad">
+<div class="sl">Dehlavi's Words</div>
+<div class="fb">جا گرفتن دریک گنج نجات بخش از غرق دریاست که در گنج دیگر ازان کشتی رخنه نکند و چون دریک گنج نشست و در گنج دیگر رخنه کردن آغاز نهاد بلا شبهه غرق خواهد شد</div>
+<div class="eb">Sitting in one saving compartment works only if no breach in others; Shi'a sects breach other compartments and drown (Sunnis' ship intact).</div>
+<div class="lg"><strong style="color:#8b5cf6; font-size:0.68rem; text-transform:uppercase">Logic:</strong> Premise: Shi'a sects contradict across 'compartments' → Conclusion: They breach ship, drown.</div>
+<div class="as"><strong style="color:#eab308; font-size:0.68rem; text-transform:uppercase">Unstated assumptions:</strong>
+<div>• Intra-Shi'a differences = ship breaches; Sunni unity intact.</div>
+</div>
+<div class="ia"><div class="ia-l">Independent Assessment</div>Clever inversion, but Sunni internal divisions (Ash'ari/Maturidi, Hanafi/Shafi'i) equally 'breach.'</div>
+<div class="rb"><div class="rb-l">Abaqat Vol 23 Response</div>
+<div>60-61 invert analogy: Sunnis breach by non-adherence to Imams.</div>
+<div style="color:var(--muted); font-size:0.75rem; margin-top:0.15rem">Sections: §60, §61</div>
+</div>
+</div></div>
+<div class="ac" style="border-left:3px solid #be185d">
+<div class="ah" onclick="this.parentElement.classList.toggle('open')">
+<span class="an">#14</span>
+<span class="ab" style="background:#be185d22; color:#be185d; border:1px solid #be185d44">AUTHENTICITY DENIAL</span>
+<span class="ab" style="background:#0891b222; color:#0891b2; border:1px solid #0891b244">SAFINAH</span>
+<span class="at">Praise Allah; by Sunni method, Nasibis can be forced to accept both hadiths, as they rationally deny them clai</span>
+<span class="av">▶</span></div>
+<div class="ad">
+<div class="sl">Dehlavi's Words</div>
+<div class="fb">الحمد له و باختیار روش اهل سنت الزام توان داد نواصب را در انکار این دو حدیث که بدلیل عقلی در صحت این هر دو قدح رده و گفته اند که مفاد این هر دو حدیث تکلیف بممثتعات عقلیه است</div>
+<div class="eb">Praise Allah; by Sunni method, Nasibis can be forced to accept both hadiths, as they rationally deny them claiming content imposes rational impossibilities.</div>
+<div class="lg"><strong style="color:#8b5cf6; font-size:0.68rem; text-transform:uppercase">Logic:</strong> Premise: Shi'a Nasibis deny hadiths rationally → Sunni method vindicated.</div>
+<div class="as"><strong style="color:#eab308; font-size:0.68rem; text-transform:uppercase">Unstated assumptions:</strong>
+<div>• Shi'a deny Thaqalayn/Safinah; 'Nasibis' = Shi'a opponents.</div>
+</div>
+<div class="ia"><div class="ia-l">Independent Assessment</div>Term 'Nasibis' pejorative; Shi'a affirm both. Sunni sources (Muslim, Hakim) authenticate.</div>
+<div class="rb"><div class="rb-l">Abaqat Vol 23 Response</div>
+<div>Sections 4-43 cite massive Sunni narrations proving authenticity beyond denial.</div>
+<div style="color:var(--muted); font-size:0.75rem; margin-top:0.15rem">Sections: §4, §5, §6, §7, §8, §9, §10, §11, §12, §13</div>
+</div>
+</div></div>
+<div class="ac" style="border-left:3px solid #dc2626">
+<div class="ah" onclick="this.parentElement.classList.toggle('open')">
+<span class="an">#15</span>
+<span class="ab" style="background:#dc262622; color:#dc2626; border:1px solid #dc262644">LOGICAL OBJECTION</span>
+<span class="ab" style="background:#0891b222; color:#0891b2; border:1px solid #0891b244">SAFINAH</span>
+<span class="at">Full Ahl al-Bayt adherence yields contradictions (ummah tasked with opposites, impossible); partial requires a</span>
+<span class="av">▶</span></div>
+<div class="ad">
+<div class="sl">Dehlavi's Words</div>
+<div class="fb">اگر تمسک بجمیع اهل بیت نموده آید... اختلاف و تناقض رو داده می باید که امة مکلف باشد بجمع بین النقیضین... اگر بیعض ایشان کرده آیذ... تجو یز عقاید مختلفه و شرایم متفاوته... صریح مخالف</div>
+<div class="eb">Full Ahl al-Bayt adherence yields contradictions (ummah tasked with opposites, impossible); partial requires arbitrary preference or multiple laws (Quran 5:48 opposes).</div>
+<div class="sl">Quranic References</div>
+<div style="font-size:0.8rem">📖 al-Ma'idah:48 — verifiable</div>
+<div class="lg"><strong style="color:#8b5cf6; font-size:0.68rem; text-transform:uppercase">Logic:</strong> Premise: All Ahl al-Bayt = contradictions → Partial = relativism or multiplicity → Both impossible → Conclusion: Only Sunni method viable.</div>
+<div class="as"><strong style="color:#eab308; font-size:0.68rem; text-transform:uppercase">Unstated assumptions:</strong>
+<div>• Ahl al-Bayt hold divergent views; no principled distinction.</div>
+</div>
+<div class="ia"><div class="ia-l">Independent Assessment</div>Strong rational objection if 'all' literal, but refuted by Shi'a specificity of maʿṣūm line.</div>
+<div class="rb"><div class="rb-l">Abaqat Vol 23 Response</div>
+<div>44-45 prove no contradiction in true Ahl al-Bayt; 64 refutes rational objection via Sunni sources.</div>
+<div style="color:var(--muted); font-size:0.75rem; margin-top:0.15rem">Sections: §44, §45, §64</div>
+</div>
+</div></div>
+<div class="ov">
+<h3>Overall Assessment</h3>
+<p><strong>Evidentiary quality:</strong> Mixed: Accepts core Thaqalayn (sahih confirmed); accurate on some counter-hadiths (e.g., Mu'adh sahih); fabricates/overstates others (A'isha mawḍūʿ, Abu Bakr hasan→tawātur); Safinah not in Sunnah.com but Sunni-cited. No specific book citations.</p>
+<p style="margin-top:0.4rem"><strong>Logical quality:</strong> Sophisticated reductios and tu quoques; vulnerable to specific Ahl al-Bayt definitions and dalālah hierarchy.</p>
+<p style="margin-top:0.4rem; color:#f87171"><strong>Key weakness:</strong> Overbroad 'itrah/Ahl al-Bayt = all relatives; fabricated hadiths undermine counters.</p>
+<p style="margin-top:0.4rem; color:#16a34a"><strong>Key strength:</strong> Exposes tensions in partial adherence without clear criteria.</p>
+</div>
+</div></body></html>

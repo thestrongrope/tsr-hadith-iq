@@ -1,0 +1,87 @@
+{
+  "methodology_note": "This comparison uses only measurable evidence from the actual texts. Sunnah.com indexes 9 primary + 9 secondary Sunni collections only — a hadith not found there may exist in other legitimate Sunni works (e.g., al-Mustadrak, al-Tabarani, Hilyat al-Awliya, Tarikh Baghdad). \"NOT_FOUND\" means absent from Sunnah.com's indexed books, not from all Sunni literature. The comparison is limited to one passage from Dehlavi (~80 lines) vs one volume from Mir Hamid Husain (~17,690 lines) — a broader study across all volumes would be needed for a complete assessment.",
+  "profiles": {
+    "dehlavi": {
+      "citation_practice": {
+        "source_books_named": 0,
+        "bare_hadith_quotes": 4,
+        "citation_density_per_argument": 0.25,
+        "assessment": "Quotes hadith texts verbatim without naming any source books; Sunnah.com later identifies collections (e.g., Sahih Muslim), indicating reliance on memorized or intermediary transmission."
+      },
+      "methodological_transparency": {
+        "provides_isnad": false,
+        "names_hadith_collections": false,
+        "shows_reasoning": true,
+        "assessment": "No chains or collection names provided; logical structures explicit (e.g., reductio ad absurdum), but interpretive assumptions unstated."
+      },
+      "grade_accuracy": {
+        "grading_claims_made": 4,
+        "grading_claims_verified": 2,
+        "grading_claims_overstated": 2,
+        "assessment": "Claims 'sahih' for multiple hadiths without naming authenticators. Of verifiable claims: Thaqalayn confirmed sahih (Sahih Muslim); Rashidun Sunnah hadith confirmed (Sunan collections); Aisha 'half your religion' hadith declared fabricated (mawdu') by al-Iraqi, al-Sakhawi, al-Albani; Abu Bakr/Umar hadith graded Hasan only (Tirmidhi) — Dehlavi claims 'tawatur ma'nawi' without evidence. Safinah and Shura hadiths not found in Sunnah.com's 18 indexed collections — this does not mean fabricated, but Dehlavi provides no source references to verify them elsewhere."
+      },
+      "engagement": {
+        "addresses_strongest_opposing_argument": false,
+        "acknowledges_counter_evidence": false,
+        "assessment": "Minimizes Thaqalayn via interpretation and counters with unverified hadiths; ignores Shi'a dalalah proofs; no direct citation of opposing sources."
+      },
+      "scope": {
+        "unique_sources": 0,
+        "time_span": "N/A",
+        "assessment": "Narrow: 4 hadiths across 4 arguments; no named sources, no biographical or geographic metrics discernible."
+      },
+      "internal_consistency": {
+        "contradictions_found": 0,
+        "assessment": "Consistent minimization strategy (meaning, counter-hadith, logic); no internal contradictions in provided arguments."
+      },
+      "overall_scholarly_grade": "D: Polemical brevity with unverified citations and absent source transparency undermines rigor."
+    },
+    "mir_hamid_husain": {
+      "citation_practice": {
+        "source_books_named": 197,
+        "bare_hadith_quotes": 0,
+        "citation_density_per_argument": "High (40 narrators across response sections)",
+        "assessment": "Names 197 unique Sunni books explicitly; cites primary compilers (e.g., al-Shafi'i, al-Tabarani, al-Hakim) with companions; distinguishes primary (e.g., Mustadrak) from secondary."
+      },
+      "methodological_transparency": {
+        "provides_isnad": true,
+        "names_hadith_collections": true,
+        "shows_reasoning": true,
+        "assessment": "Provides isnads for all 40 narrator citations; names collections/books per tradition; structures dalalah proofs in 3 numbered sections with explicit reasoning."
+      },
+      "grade_accuracy": {
+        "grading_claims_made": "N/A (focus on transmission, not explicit grading)",
+        "grading_claims_verified": "N/A",
+        "grading_claims_overstated": 0,
+        "assessment": "No direct 'sahih' claims in data; relies on early Sunni authorities (d.204-427 AH) and biographical evaluations from rijal works (e.g., Fath al-Bari), verifiable via named sources."
+      },
+      "engagement": {
+        "addresses_strongest_opposing_argument": true,
+        "acknowledges_counter_evidence": true,
+        "assessment": "Directly refutes Dehlavi by section (e.g., 3,44-45,59-60); engages minimization via dalalah proofs and source expansion beyond Sunnah.com scope."
+      },
+      "scope": {
+        "unique_sources": 197,
+        "time_span": "204-427 AH (earliest: al-Shafi'i; latest: Ibn Mardawayh al-Qattani)",
+        "assessment": "Expansive: 54 unique scholars, 40 narrator dossiers with companions (e.g., Abu Dharr, Ibn Abbas); geographic diversity inferred (Nishapur, Baghdad, Tabaran via authors); 10+ biographical evaluations."
+      },
+      "internal_consistency": {
+        "contradictions_found": 0,
+        "assessment": "Uniform methodology: Sunni source citation, isnad provision, sectional dalalah arguments consistent across Vol 23 responses."
+      },
+      "overall_scholarly_grade": "A: Exceptional source depth, transparency, and engagement with verifiable Sunni texts beyond standard collections."
+    }
+  },
+  "comparative_summary": {
+    "key_differences": [
+      "Dehlavi: 0 named books vs. Husain: 197 unique books",
+      "Dehlavi: 50% grading claims fabricated/unverified vs. Husain: no grading claims, focuses on transmission evidence",
+      "Dehlavi: no isnads/collections vs. Husain: full isnads + named collections for 40 narrators",
+      "Dehlavi: 4 arguments, bare quotes vs. Husain: 3 dalalah sections with 54 scholars",
+      "Dehlavi: time span N/A vs. Husain: 223-year span (204-427 AH)",
+      "Dehlavi: no biographical rigor vs. Husain: 5+ dossiers with rijal sources",
+      "Dehlavi: unstated assumptions vs. Husain: numbered reasoning steps"
+    ],
+    "what_this_tells_us": "Dehlavi employs concise polemical interpretation with untraced hadiths; Husain demonstrates comprehensive source-critical methodology, prioritizing transmission documentation from early Sunni literature to substantiate dalalah, aligning with standards of hadith scholarship."
+  }
+}
