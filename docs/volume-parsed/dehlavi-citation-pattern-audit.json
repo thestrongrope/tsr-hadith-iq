@@ -1,0 +1,11 @@
+{
+  "finding": "Dehlavi citation pattern consistent across entire Chapter 7",
+  "scope": "All 3,826 lines of Tuhfat Chapter 7 (باب هفتم در امامت)",
+  "hadith_quotes_found": 58,
+  "source_books_named": 0,
+  "chains_provided": 0,
+  "volume_page_references": 0,
+  "methodology": "Regex scan for book citation patterns (در کتاب, صحیح, مسند, سنن, المستدرك) across entire chapter",
+  "conclusion": "Dehlavi quotes 58 hadiths in Chapter 7 without naming a single source book, chain, or page reference. This is consistent across all 12 hadith sections plus the Quranic and rational argument sections. The bare-citation pattern seen in Thaqalayn/Safinah is his standard approach throughout the book.",
+  "scholar_confirmation": "The user's scholar confirms this is Dehlavi's consistent style — it does not change in other sections."
+}
