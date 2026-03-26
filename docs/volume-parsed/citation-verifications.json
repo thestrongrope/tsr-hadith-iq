@@ -46,12 +46,32 @@
       },
       "match": "EXACT — full genealogy of 15+ names matches verbatim",
       "note": "Verified from Abaqat Vol 3 (not Vol 23) since Wafayat is not cited in Vol 23 body text"
+    },
+    {
+      "verification_status": "VERIFIED",
+      "source_book": "Mizan al-I'tidal — al-Bajawi edition (Dar al-Ma'rifa, Beirut)",
+      "volume": 4,
+      "page": 201,
+      "entry_number": 8855,
+      "entry_subject": "Musa ibn Ja'far ibn Muhammad ibn Ali al-Alawi, al-Kazim",
+      "entry_subject_arabic": "موسى بن جعفر بن محمد بن علي العلوي الملقب بالكاظم",
+      "abaqat_citation": {
+        "volume": 23,
+        "line": 7244
+      },
+      "quotes_verified": {
+        "students_list": "علي الرضا وإبراهيم وإسماعيل وحسين وأخواه — EXACT MATCH",
+        "uqayli_criticism": "العقيلي ذكره في كتابه وقال حديثه غير محفوظ — EXACT MATCH",
+        "dhahabi_defence": "فإذا كان الحمل فيه على أبي الصلت فما ذنب موسى تذكره — EXACT MATCH"
+      },
+      "match": "VERBATIM — every word matches including al-Dhahabi's famous defence of Imam Musa al-Kazim"
     }
   ],
-  "total_verified": 2,
-  "total_books_verified": 2,
+  "total_verified": 3,
+  "total_books_verified": 3,
   "books_verified": [
     "Tahdhib al-Tahdhib",
-    "Wafayat al-Ayan"
+    "Wafayat al-Ayan",
+    "Mizan al-I'tidal"
   ]
 }
