@@ -25,7 +25,7 @@
     ],
     "dehlavi_grade": "Accepts authenticity (uses it in argument)",
     "actual_grade": "Multiple chains, authenticated by al-Hakim. Some individual chains have weak narrators but collectively the hadith has multiple routes",
-    "verdict": "CONFIRMED_EXTENSIVELY — found in 56 Sunni sources (kingoflinks), 40 narrators cited in Abaqat Vol 23. Ibn Taymiyyah's denial that it has 'no isnad at all' is demonstrably false.",
+    "verdict": "CONFIRMED in al-Mustadrak (verified via islamweb.net). Mir Hamid Husain in Abaqat Vol 23 cites 40 Sunni scholars with named books and chains. Not in the 6 canonical collections (Sunnah.com scope). Kingoflinks claims 56 Sunni sources — these are leads requiring independent verification from the actual Sunni books.",
     "notes": "Ibn Taymiyyah in Minhaj al-Sunnah denies any isnad exists. Mir Hamid Husain cites 40 Sunni scholars who narrated it. Kingoflinks documents 9 specific sources with full chains.",
     "kingoflinks_total_sources": 56,
     "kingoflinks_by_scholar": {
@@ -98,7 +98,41 @@
         "vol_page": "p.235",
         "chain": "via Abu al-Tufayl from Abu Dharr"
       }
-    ]
+    ],
+    "independently_verified": {
+      "al_mustadrak": {
+        "verified_via": "islamweb.net",
+        "author": "al-Hakim al-Naysaburi",
+        "grading": "Sahih on Muslim's conditions (al-Hakim)",
+        "chain": "Maymun → Ahmad → Yunus → al-Mufaddal → Abu Ishaq → Hanash → Abu Dharr",
+        "status": "VERIFIED"
+      },
+      "abaqat_vol23": {
+        "verified_via": "our own parsing of Vol 23",
+        "narrators_cited": 40,
+        "status": "VERIFIED (primary source under study)"
+      }
+    },
+    "unverified_leads": {
+      "source": "kingoflinks.net (Shia polemical website — NOT authoritative for Sunni hadith)",
+      "claimed_sources": 56,
+      "note": "Book names listed are real Sunni books, but specific references need independent verification from the actual books or from authoritative Sunni databases like islamweb.net",
+      "scholars_claimed": [
+        "Ahmad ibn Hanbal",
+        "Ibn Hajar al-Asqalani",
+        "al-Hakim",
+        "al-Haythami",
+        "al-Suyuti",
+        "al-Tabarani",
+        "al-Ajurri",
+        "Ibn Adi",
+        "al-Muttaqi al-Hindi",
+        "Ibn Jabr",
+        "al-Quda'i",
+        "al-Isfahani",
+        "al-Qunduzi al-Hanafi"
+      ]
+    }
   },
   "hadith_iqtidau": {
     "text": "اقتدوا بالذین من بعدی ابی بکر و عمر",
@@ -156,9 +190,10 @@
     "ibn_taymiyyah_claim": "This hadith has no isnad at all, neither sahih nor da'if (Minhaj al-Sunnah)",
     "dehlavi_position": "Accepts the hadith but minimizes it to general love/following",
     "mir_hamid_husain_response": "Vol 23 cites 40 named Sunni scholars with specific books and chains",
-    "kingoflinks_documentation": "56 Sunni sources with full references",
+    "kingoflinks_documentation": "Claims 56 Sunni sources — Shia polemical website, used for enrichment/leads only. Individual references need independent verification from Sunni authoritative sources.",
     "islamweb_confirmation": "Found in al-Mustadrak — al-Hakim grades it sahih on Muslim's conditions",
     "sunnah_com_status": "Not in the 18 indexed collections (limited scope — misses al-Mustadrak, al-Tabarani, etc.)",
     "conclusion": "Ibn Taymiyyah's claim of 'no isnad' is objectively false. The hadith exists in dozens of Sunni sources with multiple independent chains through companions Abu Dharr, Ibn Abbas, Ali, and Abu Sa'id al-Khudri."
-  }
+  },
+  "methodology_note": "VERIFICATION HIERARCHY: (1) Sunnah.com — Sunni canonical, 18 indexed collections (authoritative). (2) Islamweb.net — Sunni scholarly with fatwas from muhaddithin (authoritative). (3) Kingoflinks.net — Shia polemical website (enrichment/leads ONLY, not authoritative for Sunni hadith grading). Claims from kingoflinks require independent verification from sources (1) or (2) or the actual Sunni books cited."
 }
