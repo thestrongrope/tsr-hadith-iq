@@ -1,0 +1,9 @@
+{
+  "verification_target": "Ja'far ibn Muhammad al-Sadiq entry in Tahdhib al-Tahdhib",
+  "abaqat_citation": "Vol 23, line 7181: ابن حجر عسقلانی در تهذيب بترجمة آنجناب كفته",
+  "archive_org_copy": "3_20200224_202002 (4 volumes)",
+  "issue": "Entry for Ja'far al-Sadiq NOT FOUND in any of the 4 volumes. The OCR quality is poor and the volume arrangement may not match the standard 12-volume edition. Front matter confirmed but main biographical entries could not be located.",
+  "recommendation": "Use waqfeya.net editions instead — they have 4 curated editions including the Indian edition (ط. الهند) which matches the Nasiriya Library copy Mir Hamid Husain used.",
+  "cost_of_attempt": "$0.36 (two Grok 2M calls on vols 1 and 2)",
+  "lesson": "Archive.org copies may be incorrectly labeled, poorly OCR'd, or have non-standard volume arrangements. Waqfeya.net has better curated editions."
+}
