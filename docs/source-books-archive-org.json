@@ -1,9 +1,9 @@
 {
   "Tahdhib al-Tahdhib": {
     "found": true,
-    "identifier": "20230819_20230819_0628",
-    "archive_title": "تنوير التهذيب شرح شرح تهذيب",
-    "url": "https://archive.org/details/20230819_20230819_0628",
+    "identifier": "3_20200224_202002",
+    "archive_title": "تهذيب التهذيب ابن حجر العسقلاني",
+    "url": "https://archive.org/details/3_20200224_202002",
     "download_pdf": "https://archive.org/download/20230819_20230819_0628/20230819_20230819_0628.pdf",
     "download_txt": "https://archive.org/download/20230819_20230819_0628/20230819_20230819_0628_djvu.txt",
     "num_results": 3,
@@ -11,7 +11,13 @@
       "20230819_20230819_0628",
       "3_20200224_202002",
       "alfirdwsiy2018_gmail_1996"
-    ]
+    ],
+    "multi_volume": true,
+    "alt_identifiers": [
+      "2000._201808",
+      "5_20191217"
+    ],
+    "note": "Multiple editions available. 12 volumes in original."
   },
   "Mizan al-I'tidal": {
     "found": true,
@@ -43,9 +49,9 @@
   },
   "Tahdhib al-Kamal": {
     "found": true,
-    "identifier": "6_20250622",
-    "archive_title": "تذهيب تهذيب الكمال في أسماء الرجال كاملا",
-    "url": "https://archive.org/details/6_20250622",
+    "identifier": "Tahthib_Al_Kamal_Mazi",
+    "archive_title": "تهذيب الكمال - الحافظ المزي",
+    "url": "https://archive.org/details/Tahthib_Al_Kamal_Mazi",
     "download_pdf": "https://archive.org/download/6_20250622/6_20250622.pdf",
     "download_txt": "https://archive.org/download/6_20250622/6_20250622_djvu.txt",
     "num_results": 3,
@@ -53,7 +59,12 @@
       "6_20250622",
       "BBib-Alex-08192",
       "BBib-Alex-08189"
-    ]
+    ],
+    "multi_volume": true,
+    "alt_identifiers": [
+      "1350889"
+    ],
+    "note": "35 volumes. Ma'ruf edition from al-Risalah."
   },
   "Lisan al-Mizan": {
     "found": true,
@@ -399,9 +410,9 @@
   },
   "Wafayat al-A'yan": {
     "found": true,
-    "identifier": "alfirdwsiy2018_gmail_7160",
-    "archive_title": "وفيات الأعيان كتاب بصيغة بوك يفتح ب برنامج المكتبة الشاملة ا",
-    "url": "https://archive.org/details/alfirdwsiy2018_gmail_7160",
+    "identifier": "01081741",
+    "archive_title": "وفيات الأعيان وأنباء أبناء الزمان ابن خلكان",
+    "url": "https://archive.org/details/01081741",
     "download_pdf": "https://archive.org/download/alfirdwsiy2018_gmail_7160/alfirdwsiy2018_gmail_7160.pdf",
     "download_txt": "https://archive.org/download/alfirdwsiy2018_gmail_7160/alfirdwsiy2018_gmail_7160_djvu.txt",
     "num_results": 3,
@@ -409,13 +420,19 @@
       "alfirdwsiy2018_gmail_7160",
       "01081741",
       "WafiyatAyanIbnKhalkan"
-    ]
+    ],
+    "multi_volume": true,
+    "alt_identifiers": [
+      "3-4-1936",
+      "ar106biog07"
+    ],
+    "note": "8 volumes. Abbas edition from Dar Sadir."
   },
   "Mir'at al-Janan": {
     "found": true,
-    "identifier": "5754Word",
-    "archive_title": "5754 كتاب صيغة وورد ورد Word مرآة الجنان وعبرة اليقظان",
-    "url": "https://archive.org/details/5754Word",
+    "identifier": "140954",
+    "archive_title": "مرآة الجنان وعبرة اليقظان اليافعي",
+    "url": "https://archive.org/details/140954",
     "download_pdf": "https://archive.org/download/5754Word/5754Word.pdf",
     "download_txt": "https://archive.org/download/5754Word/5754Word_djvu.txt",
     "num_results": 3,
@@ -423,7 +440,9 @@
       "5754Word",
       "2_20220825_20220825_1938",
       "AAlexandrina-001098"
-    ]
+    ],
+    "multi_volume": true,
+    "note": "4 volumes."
   },
   "Al-'Ibar": {
     "found": true,
@@ -441,9 +460,9 @@
   },
   "Siyar A'lam al-Nubala": {
     "found": true,
-    "identifier": "maktbah.-net_20201012_1656",
-    "archive_title": "نزهة الفضلاء تهذيب سير أعلام النبلاء محمد عقيل حسن موسى موقع",
-    "url": "https://archive.org/details/maktbah.-net_20201012_1656",
+    "identifier": "1251127",
+    "archive_title": "سير أعلام النبلاء الذهبي ت الأرناؤوط وآخرون ط الرسالة",
+    "url": "https://archive.org/details/1251127",
     "download_pdf": "https://archive.org/download/maktbah.-net_20201012_1656/maktbah.-net_20201012_1656.pdf",
     "download_txt": "https://archive.org/download/maktbah.-net_20201012_1656/maktbah.-net_20201012_1656_djvu.txt",
     "num_results": 3,
@@ -451,13 +470,19 @@
       "maktbah.-net_20201012_1656",
       "Seyar_Alam_Nubala_Thahabi",
       "238Pdf_201812"
-    ]
+    ],
+    "multi_volume": true,
+    "alt_identifiers": [
+      "siar_noblaa",
+      "20250923_20250923_0238"
+    ],
+    "note": "25 volumes. Arnaut edition (best critical edition)."
   },
   "Tarikh Baghdad": {
     "found": true,
-    "identifier": "3_20230425_20230425",
-    "archive_title": "زوائد تاريخ بغداد على الكتب الستة ـ الجز 3",
-    "url": "https://archive.org/details/3_20230425_20230425",
+    "identifier": "AAskZad-1154872",
+    "archive_title": "تاريخ بغداد - الخطيب البغدادي",
+    "url": "https://archive.org/details/AAskZad-1154872",
     "download_pdf": "https://archive.org/download/3_20230425_20230425/3_20230425_20230425.pdf",
     "download_txt": "https://archive.org/download/3_20230425_20230425/3_20230425_20230425_djvu.txt",
     "num_results": 3,
@@ -465,7 +490,12 @@
       "3_20230425_20230425",
       "AAlexandrina-148388",
       "elshandawily15160"
-    ]
+    ],
+    "multi_volume": true,
+    "alt_identifiers": [
+      "8_20210415"
+    ],
+    "note": "16+ volumes in the original."
   },
   "Al-Wafi bi al-Wafayat": {
     "found": true,
