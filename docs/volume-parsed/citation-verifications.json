@@ -96,15 +96,28 @@
         "line": 4147
       },
       "match": "VERBATIM — entire biography paragraph matches word for word including \"وأراح الله منه\""
+    },
+    {
+      "verification_status": "VERIFIED",
+      "source_book": "Al-Ibar fi Khabar man Ghabar — Dar al-Kutub al-Ilmiyyah, Beirut",
+      "volume": 2,
+      "page": 225,
+      "entry_subject": "Shaykh al-Mufid (d. 413 AH)",
+      "abaqat_citation": {
+        "volume": 3,
+        "line": 4105
+      },
+      "match": "VERBATIM — same Shaykh al-Mufid entry verified in Mir'at al-Janan. Al-Dhahabi's al-Ibar text matches Abaqat word for word."
     }
   ],
-  "total_verified": 5,
-  "total_books_verified": 5,
+  "total_verified": 6,
+  "total_books_verified": 6,
   "books_verified": [
     "Tahdhib al-Tahdhib",
     "Wafayat al-Ayan",
     "Mizan al-I'tidal",
     "Tadhkirat al-Huffaz",
-    "Mir'at al-Janan"
+    "Mir'at al-Janan",
+    "Al-Ibar"
   ]
 }
