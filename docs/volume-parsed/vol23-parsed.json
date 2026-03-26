@@ -9432,1186 +9432,1044 @@
   },
   "books": {
     "Fara'id al-Simtayn": {
-      "name_transliterated": "Fara'id al-Simtayn",
       "name_arabic": "فرائد السمطين",
-      "author": "Muhammad ibn Idris al-Shafi'i",
-      "type": "hadith"
+      "name_english": "Fara'id al-Simtayn",
+      "author_arabic": "محمد بن إدريس الشافعي",
+      "author_english": "Muhammad ibn Idris al-Shafi'i",
+      "author_death_ah": 204,
+      "book_type": "hadith"
     },
-    "Dhakhirat al-Ma'al": {
-      "name_transliterated": "Dhakhirat al-Ma'al",
+    "Dhakhirat al-Maal": {
       "name_arabic": "ذخيرة المآل",
-      "author": "صدر الدين أبو المجامع الحموي",
-      "type": null
+      "name_english": "Dhakhirat al-Maal",
+      "author_arabic": "صدر الدين أبو المجامع الحموي",
+      "author_english": "Sadr al-Din Abu al-Majami' al-Hamawi",
+      "author_death_ah": 695,
+      "book_type": "fiqh"
     },
     "Mishkat al-Masabih": {
-      "name_transliterated": "Mishkat al-Masabih",
       "name_arabic": "مشكاة المصابيح",
-      "author": "خطيب تبریزي",
-      "type": null
+      "name_english": "Mishkat al-Masabih",
+      "author_arabic": "والتد بن عبد الرحمن الكتاني",
+      "author_english": "Waliallah ibn Abd al-Rahman al-Kattani",
+      "author_death_ah": 643,
+      "book_type": "hadith"
     },
     "al-Sawa'iq al-Muhriqah": {
-      "name_transliterated": "al-Sawa'iq al-Muhriqah",
       "name_arabic": "الصواعق المحرقة",
-      "author": "ابن حجر المكّي",
-      "type": null
+      "name_english": "al-Sawa'iq al-Muhriqah",
+      "author_arabic": "ابن حجر الهيتمي",
+      "author_english": "Ibn Hajar al-Haytami",
+      "author_death_ah": 974,
+      "book_type": "aqida"
     },
     "Sahih Muslim": {
-      "name_transliterated": "Sahih Muslim",
       "name_arabic": "صحيح مسلم",
-      "author": "مسلم بن الحجّاج القشيري",
-      "type": null
+      "name_english": "Sahih Muslim",
+      "author_arabic": "مسلم بن الحجاج القشيري النيسابوري",
+      "author_english": "Muslim ibn al-Hajjaj al-Qushayri al-Nisaburi",
+      "author_death_ah": 261,
+      "book_type": "hadith"
     },
     "al-Ma'arif": {
-      "name_transliterated": "al-Ma'arif",
       "name_arabic": "المعارف",
-      "author": "ابن قتيبة",
-      "type": null
+      "name_english": "al-Ma'arif",
+      "author_arabic": "عبد الله بن مسلم بن قتيبة الدينوري",
+      "author_english": "Ibn Qutaybah",
+      "author_death_ah": 276,
+      "book_type": "tarikh"
     },
     "Uyoun al-Akhbar": {
-      "name_transliterated": "Uyoun al-Akhbar",
       "name_arabic": "عيون الأخبار",
-      "author": "ابن قتيبة",
-      "type": null
-    },
-    "Ṣaḥīḥuhu": {
-      "name_transliterated": "Ṣaḥīḥuhu",
-      "name_arabic": "صحيحه",
-      "author": "Abū Bakr al-Barrār",
-      "type": "hadith"
+      "name_english": "Uyoun al-Akhbar",
+      "author_arabic": "عبد الله بن مسلم بن قتيبة الدينوري",
+      "author_english": "Ibn Qutaybah",
+      "author_death_ah": 276,
+      "book_type": "adab"
     },
     "al-Musnad": {
-      "name_transliterated": "al-Musnad",
       "name_arabic": "المسند",
-      "author": "أبو يعلى الموصلي",
-      "type": null
+      "name_english": "al-Musnad",
+      "author_arabic": "أبو يعلى الموصلي",
+      "author_english": "Abu Ya'la al-Mawsili",
+      "author_death_ah": 307,
+      "book_type": "hadith"
     },
-    "Tahḏīb al-Āṯār": {
-      "name_transliterated": "Tahḏīb al-Āṯār",
+    "Tahdhīb al-Athar": {
       "name_arabic": "تهذيب الأثار",
-      "author": "Muḥammad ibn Jarīr al-Ṭabarī",
-      "type": "hadith"
+      "name_english": "Tahdhīb al-Athar",
+      "author_arabic": "محمد بن جرير الطبري",
+      "author_english": "Muhammad ibn Jarir al-Tabari",
+      "author_death_ah": 310,
+      "book_type": "hadith"
     },
-    "al-Awrāq": {
-      "name_transliterated": "al-Awrāq",
+    "al-Awraq": {
       "name_arabic": "الأوراق",
-      "author": "Abū Bakr al-Ṣūlī",
-      "type": "hadith"
+      "name_english": "al-Awraq",
+      "author_arabic": "أبو بكر محمد بن يحيى الصولي",
+      "author_english": "Abu Bakr al-Suli",
+      "author_death_ah": 335,
+      "book_type": "adab"
     },
-    "Marj al-Baḥrayn": {
-      "name_transliterated": "Marj al-Baḥrayn",
+    "Marj al-Bahrayn": {
       "name_arabic": "مرج البحرين",
-      "author": "أبو الفرج الأصفهاني",
-      "type": null
-    },
-    "Khuṣāṣ al-Āyah": {
-      "name_transliterated": "Khuṣāṣ al-Āyah",
-      "name_arabic": "خواص الأيّة",
-      "author": "سبط ابن الجوزي",
-      "type": null
-    },
-    "al-Muʿjam al-Ṣaghīr": {
-      "name_transliterated": "al-Muʿjam al-Ṣaghīr",
-      "name_arabic": "المعجم الصغير",
-      "author": "Abū al-Qāsim Sulaymān ibn Aḥmad al-Ṭabarānī",
-      "type": "hadith"
-    },
-    "al-Majālis": {
-      "name_transliterated": "al-Majālis",
-      "name_arabic": "المجالس",
-      "author": "Abū al-Layth al-Samarqandī",
-      "type": "hadith"
-    },
-    "al-Mustadrak 'ala al-Sahihayn": {
-      "name_transliterated": "al-Mustadrak 'ala al-Sahihayn",
-      "name_arabic": "المستدرك على الصحيحين",
-      "author": "al-Hakim al-Nisaburi",
-      "type": "hadith"
-    },
-    "Tafsir al-Tabarsi": {
-      "name_transliterated": "Tafsir al-Tabarsi",
-      "name_arabic": "تفسير الطبرسي",
-      "author": "الفضل بن الحسن الطبرسي (د. 548 هـ)",
-      "type": null
-    },
-    "Sharaf al-Nubuwwah": {
-      "name_transliterated": "Sharaf al-Nubuwwah",
-      "name_arabic": "شرف النبوة",
-      "author": "Abu al-Qasim Ali ibn Ahmad al-Khirqushi",
-      "type": "hadith"
-    },
-    "Riyad al-Nudrah": {
-      "name_transliterated": "Riyad al-Nudrah",
-      "name_arabic": "رياض النضرة",
-      "author": "محب الطبري",
-      "type": null
-    },
-    "Tafsir Ibn Mardawayh": {
-      "name_transliterated": "Tafsir Ibn Mardawayh",
-      "name_arabic": "تفسير ابن مردويه",
-      "author": "Abu Bakr Ahmad b. Musa b. Mardawayh al-Qattani",
-      "type": "tafsir"
-    },
-    "al-Durr al-Manthur": {
-      "name_transliterated": "al-Durr al-Manthur",
-      "name_arabic": "الدر المنثور",
-      "author": "جلال الدين السيوطي (د. 911 هـ)",
-      "type": null
-    },
-    "Kunuz al-Haqa'iq": {
-      "name_transliterated": "Kunuz al-Haqa'iq",
-      "name_arabic": "كنوز الحقائق",
-      "author": "Abd Allah b. Muhammad b. Ibrahim b. Muhammad al-Tabari al-Tealabi",
-      "type": "hadith"
-    },
-    "Manabi' al-Mawadda": {
-      "name_transliterated": "Manabi' al-Mawadda",
-      "name_arabic": "منابع المودّة",
-      "author": null,
-      "type": null
-    },
-    "Kunuz al-Qulūb fī Maʿārif al-Mahdī wa al-Yatīm": {
-      "name_transliterated": "Kunuz al-Qulūb fī Maʿārif al-Mahdī wa al-Yatīm",
-      "name_arabic": "كنوز القلوب في معارف المهدي واليتيم",
-      "author": "Abū Manṣūr ʿAbd al-Malik ibn ʿAlī al-Taʾālibī al-Taysīrī",
-      "type": "hadith"
-    },
-    "qaṣīda": {
-      "name_transliterated": "qaṣīda",
-      "name_arabic": "قصيدة",
-      "author": "عثمان الخالدي",
-      "type": null
-    },
-    "Hilyat al-Awliya' wa Tabaqat al-Asfiya'": {
-      "name_transliterated": "Hilyat al-Awliya' wa Tabaqat al-Asfiya'",
-      "name_arabic": "حلية الأولياء وطبقات الأصفياء",
-      "author": "Abu Nu'aym al-Isfahani",
-      "type": "hadith"
-    },
-    "Maqtabat al-Muttaqin": {
-      "name_transliterated": "Maqtabat al-Muttaqin",
-      "name_arabic": "متقبة المتقين",
-      "author": "غير محدد",
-      "type": null
-    },
-    "Kashf al-Zunun": {
-      "name_transliterated": "Kashf al-Zunun",
-      "name_arabic": "كشف الظنون",
-      "author": "حاجي خليفة القسطنطيني",
-      "type": null
-    },
-    "Fada'il al-Mashriq": {
-      "name_transliterated": "Fada'il al-Mashriq",
-      "name_arabic": "فضائل المشرق",
-      "author": "عبد الملك بن أبي عثمان محمد الواعظ الخركوشي المازندراني",
-      "type": null
-    },
-    "al-Istnab fi Jamʿ al-Ruwat": {
-      "name_transliterated": "al-Istnab fi Jamʿ al-Ruwat",
-      "name_arabic": "الإنباء على قبائل الرواة",
-      "author": "Yusuf ibn Abd al-Barr al-Qurtubi",
-      "type": "rijal"
-    },
-    "Tarikh Baghdād": {
-      "name_transliterated": "Tarikh Baghdād",
-      "name_arabic": "تاريخ بغداد",
-      "author": "Abu Bakr Ahmad b. Ali b. Thabit al-Khatib al-Baghdadi",
-      "type": "tarikh"
-    },
-    "al-Ṣaḥīḥ": {
-      "name_transliterated": "al-Ṣaḥīḥ",
-      "name_arabic": "الصحيح",
-      "author": "Aḥmad ibn Jaʿfar ibn Ḥamdān",
-      "type": "hadith"
-    },
-    "Ṣaḥīḥ al-Ḥākim": {
-      "name_transliterated": "Ṣaḥīḥ al-Ḥākim",
-      "name_arabic": "صحيح الحاكم",
-      "author": "الحاكم النيسابوري (د. 405 هـ)",
-      "type": null
-    },
-    "Farāʾid al-Maṭālib": {
-      "name_transliterated": "Farāʾid al-Maṭālib",
-      "name_arabic": "فرائد المطالب",
-      "author": null,
-      "type": null
-    },
-    "al-Imtinan bi-Ahaqqi al-Ayatayn min Surat al-Nur": {
-      "name_transliterated": "al-Imtinan bi-Ahaqqi al-Ayatayn min Surat al-Nur",
-      "name_arabic": "الإمتنان بأحق الآيَتَيْنِ مِنْ سُوَرَةِ النُّورِ",
-      "author": "Abu Muhammad Abd Allah ibn Muqadd ibn Uthman al-Mulaqqab bi-Abi al-Shaqa al-Hafiz al-Wasiti",
-      "type": "tafsir"
-    },
-    "Faḍāʾil al-Ṣaḥābah": {
-      "name_transliterated": "Faḍāʾil al-Ṣaḥābah",
-      "name_arabic": "فضائل الصحابة",
-      "author": "Abū al-Muẓaffar al-Samʿānī",
-      "type": "hadith"
-    },
-    "Bayʿ al-Mawaddah": {
-      "name_transliterated": "Bayʿ al-Mawaddah",
-      "name_arabic": "بيع المودة",
-      "author": "سليمان بن إبراهيم البلخي",
-      "type": null
-    },
-    "Kitab al-Sunnah": {
-      "name_transliterated": "Kitab al-Sunnah",
-      "name_arabic": "كتاب السنّة",
-      "author": "Ibn al-Sariy",
-      "type": "hadith"
-    },
-    "Khaza'in al-Uqbā": {
-      "name_transliterated": "Khaza'in al-Uqbā",
-      "name_arabic": "خزائن العقبى",
-      "author": "المحبّ الطبري",
-      "type": null
-    },
-    "Zayn al-Fatā": {
-      "name_transliterated": "Zayn al-Fatā",
-      "name_arabic": "زين الفتى",
-      "author": "عاصمي",
-      "type": null
-    },
-    "Arba'in": {
-      "name_transliterated": "Arba'in",
-      "name_arabic": "أربعين",
-      "author": "ابن أبي الفوارس الرازي",
-      "type": null
-    },
-    "Nihāyat al-Lafẓah": {
-      "name_transliterated": "Nihāyat al-Lafẓah",
-      "name_arabic": "نهاية اللّفة",
-      "author": "ابن الأثير الجزري",
-      "type": null
-    },
-    "Mafātīḥ al-Ghayb": {
-      "name_transliterated": "Mafātīḥ al-Ghayb",
-      "name_arabic": "مفاتيح الغيب",
-      "author": "فخر الدّين الرازي",
-      "type": null
-    },
-    "Maṭālib al-Su'ūl fī Manāqib Āl al-Rasūl": {
-      "name_transliterated": "Maṭālib al-Su'ūl fī Manāqib Āl al-Rasūl",
-      "name_arabic": "مطالب السّؤول في مناقب آل الرّسول",
-      "author": "محمّد بن طلحة الشّافعي",
-      "type": null
-    },
-    "Mirj al-Bahrayn": {
-      "name_transliterated": "Mirj al-Bahrayn",
-      "name_arabic": "مرج البحرين",
-      "author": "Sibt Ibn al-Jawzi",
-      "type": "hadith"
-    },
-    "Kifāyat al-Ṭālib": {
-      "name_transliterated": "Kifāyat al-Ṭālib",
-      "name_arabic": "كفاية الطالب",
-      "author": "Ḥāfiẓ Kanjī al-Shāfiʿī",
-      "type": "hadith"
-    },
-    "Muʿjam Shaykhihi": {
-      "name_transliterated": "Muʿjam Shaykhihi",
-      "name_arabic": "معجم شيوخه",
-      "author": "الطبراني (ت 360 هـ)",
-      "type": null
-    },
-    "Khaṣāʾiṣ al-ʿUqbā fī Manāqib Dhawī al-ʿUqbā": {
-      "name_transliterated": "Khaṣāʾiṣ al-ʿUqbā fī Manāqib Dhawī al-ʿUqbā",
-      "name_arabic": "خصائص العقبى في مناقب ذوي العقبى",
-      "author": "Muḥibb al-Ṭabarī",
-      "type": "manaqib"
-    },
-    "al-Sīra": {
-      "name_transliterated": "al-Sīra",
-      "name_arabic": "سيرة",
-      "author": "الملا (القاضي عياض)",
-      "type": null
-    },
-    "al-Āthār": {
-      "name_transliterated": "al-Āthār",
-      "name_arabic": "الآثار",
-      "author": "ابن الشري",
-      "type": null
-    },
-    "Lisān al-ʿArab": {
-      "name_transliterated": "Lisān al-ʿArab",
-      "name_arabic": "لسان العرب",
-      "author": "ابن منظور الأفريقي",
-      "type": null
-    },
-    "Fara'id al-Samtayn": {
-      "name_transliterated": "Fara'id al-Samtayn",
-      "name_arabic": "فرائد السمطين",
-      "author": "Sadr al-Din al-Humawi",
-      "type": "hadith"
-    },
-    "Yanabi' al-Mawaddah": {
-      "name_transliterated": "Yanabi' al-Mawaddah",
-      "name_arabic": "ينابيع المودة",
-      "author": "سليمان بن إبراهيم البلخي",
-      "type": null
-    },
-    "Subh al-A'sha": {
-      "name_transliterated": "Subh al-A'sha",
-      "name_arabic": "صبح الأعشى",
-      "author": "قلقشندي",
-      "type": null
-    },
-    "Fara'id al-Qur'an": {
-      "name_transliterated": "Fara'id al-Qur'an",
-      "name_arabic": "فرائد القرآن",
-      "author": "نظام الدين الأعرج التيسابوري",
-      "type": null
-    },
-    "al-Kashif Sharh Mishkat": {
-      "name_transliterated": "al-Kashif Sharh Mishkat",
-      "name_arabic": "الكاشف شرح مشكوة",
-      "author": "حسن بن محمد الطيبي",
-      "type": null
-    },
-    "Nazm Durar al-Samtayn": {
-      "name_transliterated": "Nazm Durar al-Samtayn",
-      "name_arabic": "نظم درر السمطين",
-      "author": "جمال الدين الزرندي",
-      "type": null
-    },
-    "al-I'lam": {
-      "name_transliterated": "al-I'lam",
-      "name_arabic": "الإعلام",
-      "author": "زرندي",
-      "type": null
-    },
-    "Mawaddat al-Qurba": {
-      "name_transliterated": "Mawaddat al-Qurba",
-      "name_arabic": "مودّة القربى",
-      "author": "Ali ibn Hammad al-Hamdani",
-      "type": "hadith"
-    },
-    "Hashiyat al-Mishkat": {
-      "name_transliterated": "Hashiyat al-Mishkat",
-      "name_arabic": "حاشية المشكاة",
-      "author": "سيد شريف الجرجاني",
-      "type": null
-    },
-    "Fasl al-Khitab": {
-      "name_transliterated": "Fasl al-Khitab",
-      "name_arabic": "فصل الخطاب",
-      "author": "Khawaja Yarsa al-Bukhari",
-      "type": "hadith"
-    },
-    "Tafsir al-Razi": {
-      "name_transliterated": "Tafsir al-Razi",
-      "name_arabic": "تفسير الرازي",
-      "author": "فخر الدين الرازي (د. 606 هـ)",
-      "type": null
-    },
-    "'Abd al-Khayr": {
-      "name_transliterated": "'Abd al-Khayr",
-      "name_arabic": "عبد الخير",
-      "author": "Ibn Hajar al-Haytami",
-      "type": "hadith"
-    },
-    "Hidayat al-Su'ada": {
-      "name_transliterated": "Hidayat al-Su'ada",
-      "name_arabic": "هداية السعداء",
-      "author": "Malik al-Ulama Dawlat Abadi",
-      "type": "hadith"
-    },
-    "Sharaf al-Nubuwwa": {
-      "name_transliterated": "Sharaf al-Nubuwwa",
-      "name_arabic": "شرف النبوة",
-      "author": null,
-      "type": null
-    },
-    "al-Mishkat": {
-      "name_transliterated": "al-Mishkat",
-      "name_arabic": "المشكاة",
-      "author": null,
-      "type": null
-    },
-    "al-I'asim": {
-      "name_transliterated": "al-I'asim",
-      "name_arabic": "الإعاصم",
-      "author": null,
-      "type": null
-    },
-    "Manazir al-Anzar": {
-      "name_transliterated": "Manazir al-Anzar",
-      "name_arabic": "مناظر الأنظار",
-      "author": "Mahmud b. Ahmad al-Kilani",
-      "type": "adab"
-    },
-    "Istijlab Irtiqab al-Ghuraf bi-Hubb Aqribai al-Rasul": {
-      "name_transliterated": "Istijlab Irtiqab al-Ghuraf bi-Hubb Aqribai al-Rasul",
-      "name_arabic": "استجلاب ارتقاب الغرف بحب أقرباء الرسول",
-      "author": "السخاوي (d. 902 AH)",
-      "type": null
-    },
-    "Risala fi al-Hadith al-Tabawiyya": {
-      "name_transliterated": "Risala fi al-Hadith al-Tabawiyya",
-      "name_arabic": "رسالة في الحديث التبويّة",
-      "author": "زكاشفي",
-      "type": null
-    },
-    "Jami al-Saghir": {
-      "name_transliterated": "Jami al-Saghir",
-      "name_arabic": "جامع الصغير",
-      "author": "جلال الدين السيوطي (d. 911 AH)",
-      "type": null
-    },
-    "al-Khasa'is al-Kubra": {
-      "name_transliterated": "al-Khasa'is al-Kubra",
-      "name_arabic": "الخصائص الكبرى",
-      "author": "جلال الدين السيوطي (d. 911 AH)",
-      "type": null
-    },
-    "Ihya al-Mayyit bi-Fadl Ahl al-Bayt": {
-      "name_transliterated": "Ihya al-Mayyit bi-Fadl Ahl al-Bayt",
-      "name_arabic": "إحياء الميت بفضل أهل البيت",
-      "author": "جلال الدين السيوطي (d. 911 AH)",
-      "type": null
-    },
-    "Nihayat al-Afdal fi Tashrif al-Al": {
-      "name_transliterated": "Nihayat al-Afdal fi Tashrif al-Al",
-      "name_arabic": "نهاية الإفضال في تشريف الآل",
-      "author": "جلال الدين السيوطي (d. 911 AH)",
-      "type": null
-    },
-    "Jawahir al-Uqdayn": {
-      "name_transliterated": "Jawahir al-Uqdayn",
-      "name_arabic": "جواهر العقدين",
-      "author": "شمس الدين السمهودي",
-      "type": null
-    },
-    "Musnad Abi Ya'la": {
-      "name_transliterated": "Musnad Abi Ya'la",
-      "name_arabic": "مسند أبي يعلى",
-      "author": "أبو يعلى الموصلي",
-      "type": null
+      "name_english": "Marj al-Bahrayn",
+      "author_arabic": "أبو الفرج الأصفهاني",
+      "author_english": "Abu al-Faraj al-Asbahani",
+      "author_death_ah": 356,
+      "book_type": "adab"
+    },
+    "Khusas al-Ayah": {
+      "name_arabic": "خواص الآية",
+      "name_english": "Khusas al-Ayah",
+      "author_arabic": "سبط ابن الجوزي",
+      "author_english": "Sibt Ibn al-Jawzi",
+      "author_death_ah": 654,
+      "book_type": "tafsir"
     },
     "al-Mu'jam al-Saghir": {
-      "name_transliterated": "al-Mu'jam al-Saghir",
       "name_arabic": "المعجم الصغير",
-      "author": "الطبراني",
-      "type": null
+      "name_english": "al-Mu'jam al-Saghir",
+      "author_arabic": "الطبراني",
+      "author_english": "al-Tabarani",
+      "author_death_ah": 360,
+      "book_type": "hadith"
     },
-    "al-Hilya": {
-      "name_transliterated": "al-Hilya",
-      "name_arabic": "الحلية",
-      "author": "أبو نعيم الأصبهاني",
-      "type": null
-    },
-    "al-Man aquib": {
-      "name_transliterated": "al-Man aquib",
-      "name_arabic": "المناقب",
-      "author": "أبو الحسن بن المغازلي",
-      "type": null
-    },
-    "Kanz al-Ummal": {
-      "name_transliterated": "Kanz al-Ummal",
-      "name_arabic": "كنز العمال",
-      "author": "علي بن عبد الملك الهندي المطقي",
-      "type": null
-    },
-    "Majmaʿ al-Biḥār": {
-      "name_transliterated": "Majmaʿ al-Biḥār",
-      "name_arabic": "مجمع البحار",
-      "author": "Muḥammad Ṭāhir ibn ʿAbd al-Rashīd ibn ʿAbd Allāh ibn Shaykh ibn ʿAbd Allāh al-Mīdānī al-Saylamī",
-      "type": "hadith"
-    },
-    "ʿUmda al-Nabawiyya wa al-Sirr al-Mustafawī": {
-      "name_transliterated": "ʿUmda al-Nabawiyya wa al-Sirr al-Mustafawī",
-      "name_arabic": "عمدة النبوي والسر المستفوي",
-      "author": "شيخ بن عبد الله بن شيخ بن عبد الله الميدانی السيلمي",
-      "type": null
-    },
-    "Kāmil al-Dīn": {
-      "name_transliterated": "Kāmil al-Dīn",
-      "name_arabic": "كمال الدين",
-      "author": "الشيخ الصدوق (د. 381 هـ)",
-      "type": null
-    },
-    "Barāhīn Qāṭiʿa": {
-      "name_transliterated": "Barāhīn Qāṭiʿa",
-      "name_arabic": "براهين قاطعة",
-      "author": "جهرئي",
-      "type": null
-    },
-    "al-Arba'in": {
-      "name_transliterated": "al-Arba'in",
-      "name_arabic": "الأربعين",
-      "author": "Jamal al-Din al-Muhaddith",
-      "type": "hadith"
-    },
-    "Sharh Mishkat": {
-      "name_transliterated": "Sharh Mishkat",
-      "name_arabic": "شرح مشكوة",
-      "author": "الطيبي (d. 743 AH)",
-      "type": null
-    },
-    "Kashf al-Hijab": {
-      "name_transliterated": "Kashf al-Hijab",
-      "name_arabic": "كشف الحجاب",
-      "author": "الحافظ التيجاني",
-      "type": null
-    },
-    "Kitab al-Haqa'iq": {
-      "name_transliterated": "Kitab al-Haqa'iq",
-      "name_arabic": "كتاب الحقائق",
-      "author": null,
-      "type": null
-    },
-    "Risala Kalamiyya": {
-      "name_transliterated": "Risala Kalamiyya",
-      "name_arabic": "رسالة كلامية",
-      "author": "مجد الدين سهرندي",
-      "type": null
-    },
-    "Musnad Ahmad": {
-      "name_transliterated": "Musnad Ahmad",
-      "name_arabic": "مسند أحمد",
-      "author": "أحمد بن حنبل (d. 241 AH)",
-      "type": null
-    },
-    "Wasīlat al-Māʾāl fī ʿAdd Manāqib ʾĀl": {
-      "name_transliterated": "Wasīlat al-Māʾāl fī ʿAdd Manāqib ʾĀl",
-      "name_arabic": "وسيلة المآل في عدّ مناقب آل",
-      "author": "Aḥmad ibn al-Faḍl al-Makkī",
-      "type": "manaqib"
-    },
-    "Sīratih": {
-      "name_transliterated": "Sīratih",
-      "name_arabic": "سيرته",
-      "author": "الملا",
-      "type": null
-    },
-    "al-Manaqib": {
-      "name_transliterated": "al-Manaqib",
-      "name_arabic": "المناقب",
-      "author": "أبو الحسن المغازلي",
-      "type": null
-    },
-    "al-Awsaṭ": {
-      "name_transliterated": "al-Awsaṭ",
-      "name_arabic": "الأوسط",
-      "author": "الطبراني",
-      "type": null
-    },
-    "al-Mustadrak": {
-      "name_transliterated": "al-Mustadrak",
-      "name_arabic": "المستدرك",
-      "author": "الحاكم",
-      "type": null
-    },
-    "Taḥqīq al-Ishārah ilā Taʿmīm al-Bashārah": {
-      "name_transliterated": "Taḥqīq al-Ishārah ilā Taʿmīm al-Bashārah",
-      "name_arabic": "تحقيق الإشارة إلى تعميم البشارة",
-      "author": "عبد الحق الدهلوي (د. 1052 هـ)",
-      "type": null
-    },
-    "Sharḥ Mishkāh": {
-      "name_transliterated": "Sharḥ Mishkāh",
-      "name_arabic": "شرح مشكاة",
-      "author": "عبد الحق الدهلوي",
-      "type": null
-    },
-    "Ashʿat al-Lamʿāt": {
-      "name_transliterated": "Ashʿat al-Lamʿāt",
-      "name_arabic": "أشعة اللمعات",
-      "author": "عبد الحق الدهلوي",
-      "type": null
-    },
-    "Rijāl Mishkāh": {
-      "name_transliterated": "Rijāl Mishkāh",
-      "name_arabic": "رجال مشكاة",
-      "author": "عبد الحق الدهلوي",
-      "type": null
-    },
-    "Risālah fī Manāqib Ahl al-Bayt": {
-      "name_transliterated": "Risālah fī Manāqib Ahl al-Bayt",
-      "name_arabic": "رسالة في مناقب أهل البيت",
-      "author": "عبد الحق الدهلوي",
-      "type": null
-    },
-    "Sirāj al-Munīr Sharḥ Jamīʿ al-Ṣaghīr": {
-      "name_transliterated": "Sirāj al-Munīr Sharḥ Jamīʿ al-Ṣaghīr",
-      "name_arabic": "سراج المنير شرح جامع الصغير",
-      "author": "عزيزي",
-      "type": null
-    },
-    "Mushraʿ Rawī": {
-      "name_transliterated": "Mushraʿ Rawī",
-      "name_arabic": "مشرع روي",
-      "author": "محمد بن أبي بكر الشبلي",
-      "type": null
-    },
-    "Jāmiʿ al-Fawāʾid": {
-      "name_transliterated": "Jāmiʿ al-Fawāʾid",
-      "name_arabic": "جمع الفوائد",
-      "author": "محمد بن محمد بن سليمان المغربي",
-      "type": null
-    },
-    "Ṣirāṭ al-Sawī fī Manāqib ʾĀl al-Bayt": {
-      "name_transliterated": "Ṣirāṭ al-Sawī fī Manāqib ʾĀl al-Bayt",
-      "name_arabic": "صراط السوي في مناقب آل البيت",
-      "author": "محمودي شيخ خاني قادري",
-      "type": null
-    },
-    "Mirʾāt al-Shifāʾ": {
-      "name_transliterated": "Mirʾāt al-Shifāʾ",
-      "name_arabic": "مرآة الشفاء",
-      "author": "شهاب الدين",
-      "type": null
-    },
-    "Nuzul al-Abrār": {
-      "name_transliterated": "Nuzul al-Abrār",
-      "name_arabic": "نزل الأبرار",
-      "author": "مرزا محمد بن معتمدخان",
-      "type": null
-    },
-    "Miftāḥ al-Najāh": {
-      "name_transliterated": "Miftāḥ al-Najāh",
-      "name_arabic": "مفتاح النجاة",
-      "author": "مرزا محمد بدخشاني",
-      "type": null
-    },
-    "Tuḥfat al-Muḥibbīn": {
-      "name_transliterated": "Tuḥfat al-Muḥibbīn",
-      "name_arabic": "تحفة المحبين",
-      "author": "مرزا محمد بدخشاني",
-      "type": null
-    },
-    "Maʿārij al-ʿUlyā": {
-      "name_transliterated": "Maʿārij al-ʿUlyā",
-      "name_arabic": "معارج العلى",
-      "author": "محمد صدر العالم",
-      "type": null
-    },
-    "Muqaddimah Sunniyyah": {
-      "name_transliterated": "Muqaddimah Sunniyyah",
-      "name_arabic": "مقدمة سنية",
-      "author": "Wali Allah al-Dehlawi",
-      "type": "risalah"
+    "al-Majalis": {
+      "name_arabic": "المجالس",
+      "name_english": "al-Majalis",
+      "author_arabic": "أبو الليث السمرقندي",
+      "author_english": "Abu al-Layth al-Samarqandi",
+      "author_death_ah": 373,
+      "book_type": "adab"
     },
     "al-Mustadrak ala al-Sahihayn": {
-      "name_transliterated": "al-Mustadrak ala al-Sahihayn",
       "name_arabic": "المستدرك على الصحيحين",
-      "author": "الحاكم النيسابوري (د. 405 هـ)",
-      "type": null
+      "name_english": "al-Mustadrak ala al-Sahihayn",
+      "author_arabic": "الحاكم النيسابوري",
+      "author_english": "al-Hakim al-Nisaburi",
+      "author_death_ah": 405,
+      "book_type": "hadith"
     },
-    "Husn al-'Aqidah": {
-      "name_transliterated": "Husn al-'Aqidah",
+    "Tafsir al-Tabarsi": {
+      "name_arabic": "مجمع البيان في تفسير القرآن",
+      "name_english": "Tafsir al-Tabarsi",
+      "author_arabic": "الفضل بن الحسن الطبرسي",
+      "author_english": "al-Fadl ibn al-Hasan al-Tabarsi",
+      "author_death_ah": 548,
+      "book_type": "tafsir"
+    },
+    "Sharaf al-Nubuwwah": {
+      "name_arabic": "شرف النبوة",
+      "name_english": "Sharaf al-Nubuwwah",
+      "author_arabic": "أبو القاسم علي بن أحمد الخرقوشي",
+      "author_english": "Abu al-Qasim Ali ibn Ahmad al-Khirqushi",
+      "author_death_ah": 334,
+      "book_type": "hadith"
+    },
+    "Riyad al-Nudrah": {
+      "name_arabic": "رياض النضرة",
+      "name_english": "Riyad al-Nudrah",
+      "author_arabic": "محب الدين أبو الفضل أحمد بن محمد محب الطبري",
+      "author_english": "Muhibb al-Din al-Tabari",
+      "author_death_ah": 694,
+      "book_type": "manaqib"
+    },
+    "Tafsir Ibn Mardawayh": {
+      "name_arabic": "تفسير ابن مردويه",
+      "name_english": "Tafsir Ibn Mardawayh",
+      "author_arabic": "أبو بكر أحمد بن موسى بن مردويه القطاني",
+      "author_english": "Abu Bakr Ahmad ibn Musa ibn Mardawayh al-Qattani",
+      "author_death_ah": 410,
+      "book_type": "tafsir"
+    },
+    "al-Durr al-Manthur": {
+      "name_arabic": "در المنثور",
+      "name_english": "al-Durr al-Manthur",
+      "author_arabic": "جلال الدين السيوطي",
+      "author_english": "Jalal al-Din al-Suyuti",
+      "author_death_ah": 911,
+      "book_type": "tafsir"
+    },
+    "Kunuz al-Haqa'iq": {
+      "name_arabic": "كنوز الحقائق",
+      "name_english": "Kunuz al-Haqa'iq",
+      "author_arabic": "عبد الله بن محمد بن إبراهيم بن محمد الطبري الثعلبي",
+      "author_english": "Abd Allah ibn Muhammad al-Tabari al-Tha'labi",
+      "author_death_ah": 427,
+      "book_type": "hadith"
+    },
+    "Hilyat al-Awliya' wa Tabaqat al-Asfiya'": {
+      "name_arabic": "حلية الأولياء وطبقات الأصفياء",
+      "name_english": "Hilyat al-Awliya' wa Tabaqat al-Asfiya'",
+      "author_arabic": "أبو نعيم أحمد بن عبد الله الأصفهاني",
+      "author_english": "Abu Nu'aym al-Isfahani",
+      "author_death_ah": 430,
+      "book_type": "tabaqat"
+    },
+    "Kashf al-Zunun": {
+      "name_arabic": "كاشف الظنون",
+      "name_english": "Kashf al-Zunun",
+      "author_arabic": "كاتب چلبي",
+      "author_english": "Katip Celebi",
+      "author_death_ah": 1067,
+      "book_type": "Bibliography"
+    },
+    "Fada'il al-Mashriq": {
+      "name_arabic": "فضائل المشرق",
+      "name_english": "Fada'il al-Mashriq",
+      "author_arabic": "عبد الملك بن أبي عثمان محمد الواعظ الخرقوشي المازندراني",
+      "author_english": "Abd al-Malik ibn Abi Uthman al-Wa'iz al-Khirqushi al-Mazandarni",
+      "author_death_ah": null,
+      "book_type": "hadith"
+    },
+    "al-Istnaba fi Jam' al-Ruwat": {
+      "name_arabic": "الانباء على قبائل الرواة",
+      "name_english": "al-Istnaba fi Jam' al-Ruwat",
+      "author_arabic": "يوسف بن عبد الله بن عبد البر القرطبي",
+      "author_english": "Ibn Abd al-Barr",
+      "author_death_ah": 463,
+      "book_type": "rijal"
+    },
+    "Tarikh Baghdad": {
+      "name_arabic": "تاريخ بغداد",
+      "name_english": "Tarikh Baghdad",
+      "author_arabic": "أبو بكر أحمد بن علي بن ثابت الخطيب البغدادي",
+      "author_english": "al-Khatib al-Baghdadi",
+      "author_death_ah": 463,
+      "book_type": "tarikh"
+    },
+    "al-Imtinan bi-Ahaqqi al-Ayatayn min Surat al-Nur": {
+      "name_arabic": "الإمتنان بأحق الآيتين من سورة النور",
+      "name_english": "al-Imtinan bi-Ahaqqi al-Ayatayn min Surat al-Nur",
+      "author_arabic": "أبو محمد عبد الله بن مقعد بن عثمان الملقب بأبي الشقا الحافظ الواسطي",
+      "author_english": "Abd Allah ibn Muqadd al-Wasiti",
+      "author_death_ah": null,
+      "book_type": "tafsir"
+    },
+    "Fada'il al-Sahabah": {
+      "name_arabic": "فضائل الصحابة",
+      "name_english": "Fada'il al-Sahabah",
+      "author_arabic": "أبو المظفر منصور بن محمد السمعاني",
+      "author_english": "Abu al-Muzaffar al-Sam'ani",
+      "author_death_ah": 489,
+      "book_type": "hadith"
+    },
+    "Khaza'in al-Uqba": {
+      "name_arabic": "خزائن العقبى",
+      "name_english": "Khaza'in al-Uqba",
+      "author_arabic": "محب الدين أبو الفضل أحمد بن محمد محب الطبري",
+      "author_english": "Muhibb al-Din al-Tabari",
+      "author_death_ah": 694,
+      "book_type": "manaqib"
+    },
+    "Mafatih al-Ghayb": {
+      "name_arabic": "مفاتيح الغيب",
+      "name_english": "Mafatih al-Ghayb",
+      "author_arabic": "فخر الدين محمد بن عمر الرازي",
+      "author_english": "Fakhr al-Din al-Razi",
+      "author_death_ah": 606,
+      "book_type": "tafsir"
+    },
+    "Matalib al-Su'ul fi Manaqib Al al-Rasul": {
+      "name_arabic": "مطالب السؤول في مناقب آل الرسول",
+      "name_english": "Matalib al-Su'ul fi Manaqib Al al-Rasul",
+      "author_arabic": "محمد بن طلحة الشافعي",
+      "author_english": "Muhammad ibn Talhah al-Shafi'i",
+      "author_death_ah": 652,
+      "book_type": "manaqib"
+    },
+    "Khasa'is al-Uqba fi Manaqib Dhawi al-Uqba": {
+      "name_arabic": "خصائص العقبى في مناقب ذوي العقبى",
+      "name_english": "Khasa'is al-Uqba fi Manaqib Dhawi al-Uqba",
+      "author_arabic": "محب الدين أبو الفضل أحمد بن محمد محب الطبري",
+      "author_english": "Muhibb al-Din al-Tabari",
+      "author_death_ah": 694,
+      "book_type": "manaqib"
+    },
+    "Lisan al-Arab": {
+      "name_arabic": "لسان العرب",
+      "name_english": "Lisan al-Arab",
+      "author_arabic": "ابن منظور الأفريقي",
+      "author_english": "Ibn Manzur al-Afriqi",
+      "author_death_ah": 711,
+      "book_type": "lexicon"
+    },
+    "Fara'id al-Samtayn": {
+      "name_arabic": "فرائد السمطين",
+      "name_english": "Fara'id al-Samtayn",
+      "author_arabic": "إبراهيم بن محمد المؤيد الحموي",
+      "author_english": "Ibrahim ibn Muhammad al-Muayyad al-Hamawi",
+      "author_death_ah": 558,
+      "book_type": "Hadith"
+    },
+    "Yanabi' al-Mawaddah": {
+      "name_arabic": "ينابيع المودة",
+      "name_english": "Yanabi' al-Mawaddah",
+      "author_arabic": "سليمان بن إبراهيم البلخي",
+      "author_english": "Sulayman ibn Ibrahim al-Balkhi",
+      "author_death_ah": null,
+      "book_type": "manaqib"
+    },
+    "Subh al-A'sha": {
+      "name_arabic": "صبح الأعشى",
+      "name_english": "Subh al-A'sha",
+      "author_arabic": "قلقشندي",
+      "author_english": "al-Qalqashandi",
+      "author_death_ah": 821,
+      "book_type": "adab"
+    },
+    "Fara'id al-Qur'an": {
+      "name_arabic": "فرائد القرآن",
+      "name_english": "Fara'id al-Qur'an",
+      "author_arabic": "نظام الدين الأعرج التيسابوري",
+      "author_english": "Nizam al-Din al-A'raj al-Tusaburi",
+      "author_death_ah": null,
+      "book_type": "tafsir"
+    },
+    "al-Kashif Sharh Mishkat al-Masabih": {
+      "name_arabic": "الكاشف شرح مشكاة المصابيح",
+      "name_english": "al-Kashif Sharh Mishkat al-Masabih",
+      "author_arabic": "حسن بن محمد الطيبي",
+      "author_english": "Hasan ibn Muhammad al-Tayyibi",
+      "author_death_ah": 743,
+      "book_type": "hadith"
+    },
+    "Nazm Durar al-Samtayn": {
+      "name_arabic": "نظم درر السمطين",
+      "name_english": "Nazm Durar al-Samtayn",
+      "author_arabic": "جمال الدين الزرندي",
+      "author_english": "Jalal al-Din al-Zarandi",
+      "author_death_ah": null,
+      "book_type": "hadith"
+    },
+    "al-I'lam bi-A'lam Bayt Allah al-Haram": {
+      "name_arabic": "الإعلام بأعلام بيت الله الحرام",
+      "name_english": "al-I'lam bi-A'lam Bayt Allah al-Haram",
+      "author_arabic": "عبد الله بن محمد الزرندي",
+      "author_english": "Abd Allah ibn Muhammad al-Zarandi",
+      "author_death_ah": null,
+      "book_type": "history"
+    },
+    "Mawaddat al-Qurba": {
+      "name_arabic": "مودة القربى",
+      "name_english": "Mawaddat al-Qurba",
+      "author_arabic": "علي بن حماد الحمداني",
+      "author_english": "Ali ibn Hammad al-Hamdani",
+      "author_death_ah": null,
+      "book_type": "hadith"
+    },
+    "Hashiyat al-Mishkat": {
+      "name_arabic": "حاشية المشكاة",
+      "name_english": "Hashiyat al-Mishkat",
+      "author_arabic": "سيد شريف الجرجاني",
+      "author_english": "Siraj al-Din al-Jurjani",
+      "author_death_ah": 816,
+      "book_type": "hadith"
+    },
+    "Fasl al-Khitab": {
+      "name_arabic": "فصل الخطاب في نصرة النسب الازهر الغراب",
+      "name_english": "Fasl al-Khitab",
+      "author_arabic": "خواجة يرسا البخاري",
+      "author_english": "Khwaja Yarsa al-Bukhari",
+      "author_death_ah": null,
+      "book_type": "hadith"
+    },
+    "Tafsir al-Razi": {
+      "name_arabic": "تفسير الرازي",
+      "name_english": "Tafsir al-Razi",
+      "author_arabic": "فخر الدين الرازي",
+      "author_english": "Fakhr al-Din al-Razi",
+      "author_death_ah": 606,
+      "book_type": "tafsir"
+    },
+    "Hidayat al-Su'ada": {
+      "name_arabic": "هداية السعداء",
+      "name_english": "Hidayat al-Su'ada",
+      "author_arabic": "ملك العلماء دولت آبادي",
+      "author_english": "Malik al-Ulama Dawlat Abadi",
+      "author_death_ah": null,
+      "book_type": "hadith"
+    },
+    "Sharaf al-Nubuwwa": {
+      "name_arabic": "شرف النبوة",
+      "name_english": "Sharaf al-Nubuwwa",
+      "author_arabic": "ابن أبي طالب",
+      "author_english": "Ibn Abi Talib",
+      "author_death_ah": null,
+      "book_type": "manaqib"
+    },
+    "Manazir al-Anzar": {
+      "name_arabic": "مناظر الأنظار",
+      "name_english": "Manazir al-Anzar",
+      "author_arabic": "محمود بن أحمد الكيلاني",
+      "author_english": "Mahmud ibn Ahmad al-Kilani",
+      "author_death_ah": null,
+      "book_type": "adab"
+    },
+    "Istijlab Irtiqab al-Ghuraf bi-Hubb Aqribai al-Rasul": {
+      "name_arabic": "استجلاب ارتقاب الغرف بحب أقرباء الرسول",
+      "name_english": "Istijlab Irtiqab al-Ghuraf bi-Hubb Aqribai al-Rasul",
+      "author_arabic": "السخاوي",
+      "author_english": "al-Sakhawi",
+      "author_death_ah": 902,
+      "book_type": "manaqib"
+    },
+    "Jami al-Saghir": {
+      "name_arabic": "جامع الصغير",
+      "name_english": "Jami al-Saghir",
+      "author_arabic": "جلال الدين السيوطي",
+      "author_english": "Jalal al-Din al-Suyuti",
+      "author_death_ah": 911,
+      "book_type": "hadith"
+    },
+    "al-Khasa'is al-Kubra": {
+      "name_arabic": "الخصائص الكبرى",
+      "name_english": "al-Khasa'is al-Kubra",
+      "author_arabic": "جلال الدين السيوطي",
+      "author_english": "Jalal al-Din al-Suyuti",
+      "author_death_ah": 911,
+      "book_type": "manaqib"
+    },
+    "Ihya al-Mayyit bi-Fadl Ahl al-Bayt": {
+      "name_arabic": "إحياء الميت بفضل أهل البيت",
+      "name_english": "Ihya al-Mayyit bi-Fadl Ahl al-Bayt",
+      "author_arabic": "جلال الدين السيوطي",
+      "author_english": "Jalal al-Din al-Suyuti",
+      "author_death_ah": 911,
+      "book_type": "manaqib"
+    },
+    "Nihayat al-Afdal fi Tashrif al-Al": {
+      "name_arabic": "نهاية الأفضال في تشريف آل الرسول",
+      "name_english": "Nihayat al-Afdal fi Tashrif al-Al",
+      "author_arabic": "جلال الدين السيوطي",
+      "author_english": "Jalal al-Din al-Suyuti",
+      "author_death_ah": 911,
+      "book_type": "manaqib"
+    },
+    "Jawahir al-Uqdayn": {
+      "name_arabic": "جواهر العقودين",
+      "name_english": "Jawahir al-Uqdayn",
+      "author_arabic": "حامد بن علي المظفري",
+      "author_english": "Hamid ibn Ali al-Muzaffari",
+      "author_death_ah": 1306,
+      "book_type": "Shia Polemic"
+    },
+    "Musnad Abi Ya'la": {
+      "name_arabic": "مسند أبي يعلى",
+      "name_english": "Musnad Abi Ya'la",
+      "author_arabic": "أحمد بن موسى الموصلي",
+      "author_english": "Ahmad ibn Musa al-Mawsili",
+      "author_death_ah": 307,
+      "book_type": "Hadith"
+    },
+    "al-Hilya": {
+      "name_arabic": "الحلية",
+      "name_english": "al-Hilya",
+      "author_arabic": "أبو نعيم الأصبهاني",
+      "author_english": "Abu Nu'aym al-Isbahani",
+      "author_death_ah": 430,
+      "book_type": "biography"
+    },
+    "al-Manaqib": {
+      "name_arabic": "المناقب",
+      "name_english": "al-Manaqib",
+      "author_arabic": "أبو الحسن المغازلي",
+      "author_english": "Abu al-Hasan al-Maghazili",
+      "author_death_ah": null,
+      "book_type": "manaqib"
+    },
+    "Kanz al-Ummal": {
+      "name_arabic": "كنز العمال",
+      "name_english": "Kanz al-Ummal",
+      "author_arabic": "المتقي الهندي",
+      "author_english": "al-Muttaqi al-Hindi",
+      "author_death_ah": 975,
+      "book_type": "hadith"
+    },
+    "Majma' al-Bihar": {
+      "name_arabic": "مجمع البحار",
+      "name_english": "Majma' al-Bihar",
+      "author_arabic": "محمد طاهر المداني السيلمي",
+      "author_english": "Muhammad Tahir al-Midani al-Saylami",
+      "author_death_ah": null,
+      "book_type": "hadith"
+    },
+    "Kamil al-Din": {
+      "name_arabic": "كمال الدين وتمام النعمة",
+      "name_english": "Kamil al-Din",
+      "author_arabic": "الشيخ الصدوق",
+      "author_english": "al-Shaykh al-Saduq",
+      "author_death_ah": 381,
+      "book_type": "theology"
+    },
+    "Musnad Ahmad": {
+      "name_arabic": "مسند أحمد",
+      "name_english": "Musnad Ahmad",
+      "author_arabic": "أحمد بن حنبل",
+      "author_english": "Ahmad ibn Hanbal",
+      "author_death_ah": 241,
+      "book_type": "hadith"
+    },
+    "Wasilat al-Ma'al fi 'Add Manaqib Al": {
+      "name_arabic": "وسيلة المآل في عد مناقب آل",
+      "name_english": "Wasilat al-Ma'al fi 'Add Manaqib Al",
+      "author_arabic": "أحمد بن الفضل المكي",
+      "author_english": "Ahmad ibn al-Fadl al-Makki",
+      "author_death_ah": null,
+      "book_type": "manaqib"
+    },
+    "al-Awsat": {
+      "name_arabic": "المعجم الأوسط",
+      "name_english": "al-Awsat",
+      "author_arabic": "الطبراني",
+      "author_english": "al-Tabarani",
+      "author_death_ah": 360,
+      "book_type": "hadith"
+    },
+    "al-Mustadrak": {
+      "name_arabic": "المستدرك على الصحيحين",
+      "name_english": "al-Mustadrak",
+      "author_arabic": "الحاكم النيسابوري",
+      "author_english": "al-Hakim al-Naysaburi",
+      "author_death_ah": 405,
+      "book_type": "hadith"
+    },
+    "Tahqiq al-Ishara ila Ta'mim al-Bashara": {
+      "name_arabic": "تحقيق الإشارة إلى تعميم البشارة",
+      "name_english": "Tahqiq al-Ishara ila Ta'mim al-Bashara",
+      "author_arabic": "عبد الحق الدهلوي",
+      "author_english": "Abd al-Haqq al-Dehlawi",
+      "author_death_ah": 1052,
+      "book_type": "hadith"
+    },
+    "Ash'at al-Lama'at": {
+      "name_arabic": "أشعة اللمعات",
+      "name_english": "Ash'at al-Lama'at",
+      "author_arabic": "عبد الحق الدهلوي",
+      "author_english": "Abd al-Haqq al-Dehlawi",
+      "author_death_ah": 1052,
+      "book_type": "hadith"
+    },
+    "Siraj al-Munir Sharh Jami al-Saghir": {
+      "name_arabic": "سراج المنير شرح جامع الصغير",
+      "name_english": "Siraj al-Munir Sharh Jami al-Saghir",
+      "author_arabic": "عزيزي",
+      "author_english": "Azizi",
+      "author_death_ah": null,
+      "book_type": "hadith"
+    },
+    "Mushra Rawi": {
+      "name_arabic": "مشرع روي",
+      "name_english": "Mushra Rawi",
+      "author_arabic": "محمد بن أبي بكر الشبلي",
+      "author_english": "Muhammad ibn Abi Bakr al-Shibli",
+      "author_death_ah": null,
+      "book_type": null
+    },
+    "Jami al-Fawa'id": {
+      "name_arabic": "جمع الفوائد",
+      "name_english": "Jami al-Fawa'id",
+      "author_arabic": "محمد بن محمد بن سليمان المغربي",
+      "author_english": "Muhammad ibn Muhammad ibn Sulayman al-Maghribi",
+      "author_death_ah": null,
+      "book_type": null
+    },
+    "Sirat al-Sawi fi Manaqib Al al-Bayt": {
+      "name_arabic": "صراط السوي في مناقب آل البيت",
+      "name_english": "Sirat al-Sawi fi Manaqib Al al-Bayt",
+      "author_arabic": "محمودي شيخ خاني قادري",
+      "author_english": "Mahmudi Shaykh Khani Qadiri",
+      "author_death_ah": null,
+      "book_type": null
+    },
+    "Mir'at al-Shifa'": {
+      "name_arabic": "مرآة الشفاء",
+      "name_english": "Mir'at al-Shifa'",
+      "author_arabic": "شهاب الدين",
+      "author_english": "Shihab al-Din",
+      "author_death_ah": null,
+      "book_type": null
+    },
+    "Nuzul al-Abrar": {
+      "name_arabic": "نزل الأبرار",
+      "name_english": "Nuzul al-Abrar",
+      "author_arabic": "مرزا محمد بن معتمدخان",
+      "author_english": "Mirza Muhammad ibn Mu'tamad Khan",
+      "author_death_ah": null,
+      "book_type": null
+    },
+    "Miftah al-Najat": {
+      "name_arabic": "مفتاح النجاة",
+      "name_english": "Miftah al-Najat",
+      "author_arabic": "مرزا محمد بدخشاني",
+      "author_english": "Mirza Muhammad Badakhshani",
+      "author_death_ah": null,
+      "book_type": null
+    },
+    "Tuhfat al-Muhhibin": {
+      "name_arabic": "تحفة المحبين",
+      "name_english": "Tuhfat al-Muhhibin",
+      "author_arabic": "مرزا محمد بدخشاني",
+      "author_english": "Mirza Muhammad Badakhshani",
+      "author_death_ah": null,
+      "book_type": null
+    },
+    "Maarij al-Ulya": {
+      "name_arabic": "معارج العلى",
+      "name_english": "Maarij al-Ulya",
+      "author_arabic": "محمد صدر العالم",
+      "author_english": "Muhammad Sadr al-Alam",
+      "author_death_ah": null,
+      "book_type": null
+    },
+    "Muqaddimah Sunniyyah": {
+      "name_arabic": "مقدمة سنية",
+      "name_english": "Muqaddimah Sunniyyah",
+      "author_arabic": "ولي الله الدهلوي",
+      "author_english": "Wali Allah al-Dehlawi",
+      "author_death_ah": 1176,
+      "book_type": "risalah"
+    },
+    "Husn al-Aqidah": {
       "name_arabic": "حسن العقيدة",
-      "author": "ولي الله الدهلوي (د. 1176 هـ)",
-      "type": null
+      "name_english": "Husn al-Aqidah",
+      "author_arabic": "ولي الله الدهلوي",
+      "author_english": "Wali Allah al-Dehlawi",
+      "author_death_ah": 1176,
+      "book_type": null
     },
     "Hawashi Jam' al-Saghir": {
-      "name_transliterated": "Hawashi Jam' al-Saghir",
       "name_arabic": "حاشیه جامع الصغير",
-      "author": "حفني (حديث حفني)",
-      "type": null
+      "name_english": "Hawashi Jam' al-Saghir",
+      "author_arabic": "حفني",
+      "author_english": "Hafni",
+      "author_death_ah": null,
+      "book_type": "hadith"
     },
     "Izalat al-Khafa'": {
-      "name_transliterated": "Izalat al-Khafa'",
       "name_arabic": "إزالة الخفاء",
-      "author": "ولي الله الدهلوي (د. 1176 هـ)",
-      "type": null
+      "name_english": "Izalat al-Khafa'",
+      "author_arabic": "ولي الله الدهلوي",
+      "author_english": "Wali Allah al-Dehlawi",
+      "author_death_ah": 1176,
+      "book_type": null
     },
-    "Furūʿ al-Nadīyah": {
-      "name_transliterated": "Furūʿ al-Nadīyah",
+    "Furu al-Nadiyah": {
       "name_arabic": "فروع الندية",
-      "author": "Muḥammad ibn Ismāʿīl al-Amīr al-Shanʿānī",
-      "type": "hadith"
+      "name_english": "Furu al-Nadiyah",
+      "author_arabic": "محمد بن إسماعيل الأمير الشنقيطي",
+      "author_english": "Muhammad ibn Ismail al-Amir al-Shanqiti",
+      "author_death_ah": null,
+      "book_type": "hadith"
     },
-    "al-Mustadrak ʿalā al-Ṣaḥīḥayn": {
-      "name_transliterated": "al-Mustadrak ʿalā al-Ṣaḥīḥayn",
-      "name_arabic": "المستدرك على الصحيحين",
-      "author": "الحاكم النيسابوري (د. 405 هـ)",
-      "type": null
-    },
-    "Sīrah": {
-      "name_transliterated": "Sīrah",
+    "Sirah": {
       "name_arabic": "سيرة",
-      "author": "الملا (القاضي عياض أو غيره)",
-      "type": null
+      "name_english": "Sirah",
+      "author_arabic": "القاضي عياض",
+      "author_english": "al-Qadi Iyad",
+      "author_death_ah": 544,
+      "book_type": "sira"
     },
-    "Tafsīr al-Thaʿlabī": {
-      "name_transliterated": "Tafsīr al-Thaʿlabī",
+    "Tafsir al-Thalabi": {
       "name_arabic": "تفسير الثعلبي",
-      "author": "أحمد بن محمد الثعلبي (د. 427 هـ)",
-      "type": null
+      "name_english": "Tafsir al-Thalabi",
+      "author_arabic": "أحمد بن محمد الثعلبي",
+      "author_english": "Ahmad ibn Muhammad al-Thalabi",
+      "author_death_ah": 427,
+      "book_type": "tafsir"
     },
-    "Dāmāj al-ʿArūs": {
-      "name_transliterated": "Dāmāj al-ʿArūs",
+    "Damaj al-Arus": {
       "name_arabic": "دماج العروس",
-      "author": "Muḥammad ibn Ismāʿīl al-Ḥurṭadī al-Zubaydī",
-      "type": "hadith"
+      "name_english": "Damaj al-Arus",
+      "author_arabic": "محمد بن إسماعيل الحرطادي الزبيدي",
+      "author_english": "Muhammad ibn Ismail al-Hurtadi al-Zubaydi",
+      "author_death_ah": null,
+      "book_type": "hadith"
     },
-    "al-Isʿāf al-Rāfidīn fī Sīrat al-Muṣṭafā wa Faḍāʾil Ahl Baytihi al-Ṭāhirīn": {
-      "name_transliterated": "al-Isʿāf al-Rāfidīn fī Sīrat al-Muṣṭafā wa Faḍāʾil Ahl Baytihi al-Ṭāhirīn",
+    "al-Isaaf al-Rafidayn fi Sirat al-Mustafa wa Fada'il Ahl Baytihi al-Tahirin": {
       "name_arabic": "الإسعاف الرافدين في سيرة المصطفى وفضائل أهل بيته الطاهرين",
-      "author": "غير مذکور",
-      "type": null
+      "name_english": "al-Isaaf al-Rafidayn fi Sirat al-Mustafa wa Fada'il Ahl Baytihi al-Tahirin",
+      "author_arabic": "غير مذکور",
+      "author_english": "Unknown",
+      "author_death_ah": null,
+      "book_type": null
     },
-    "Dhakhirah al-Ma'al": {
-      "name_transliterated": "Dhakhirah al-Ma'al",
+    "Dhakhirah al-Maal": {
       "name_arabic": "ذخيرة المآل",
-      "author": "Abu al-Qasim Ali ibn al-Hasan ibn Hibat Allah ibn Abd Allah al-Ujaili",
-      "type": "hadith"
+      "name_english": "Dhakhirah al-Maal",
+      "author_arabic": "أبو القاسم علي بن الحسن بن هبة الله بن عبد الله العجيلي",
+      "author_english": "Abu al-Qasim Ali ibn al-Hasan ibn Hibat Allah ibn Abd Allah al-Ujayli",
+      "author_death_ah": null,
+      "book_type": "hadith"
     },
     "Wusilah": {
-      "name_transliterated": "Wusilah",
       "name_arabic": "وسيلة",
-      "author": "محمد بن لكب نوي",
-      "type": null
+      "name_english": "Wusilah",
+      "author_arabic": "محمد بن لكب نوي",
+      "author_english": "Muhammad ibn Lakab Nawi",
+      "author_death_ah": null,
+      "book_type": null
     },
     "Sayf Maslul": {
-      "name_transliterated": "Sayf Maslul",
       "name_arabic": "سيف مسلول",
-      "author": "ثناء الله بن يتيم",
-      "type": null
+      "name_english": "Sayf Maslul",
+      "author_arabic": "ثناء الله بن يتيم",
+      "author_english": "Thana Allah ibn Yatim",
+      "author_death_ah": null,
+      "book_type": null
     },
     "Usul al-Iman": {
-      "name_transliterated": "Usul al-Iman",
       "name_arabic": "أصول الإيمان",
-      "author": "محمد سالم دهلوي بخاري",
-      "type": null
+      "name_english": "Usul al-Iman",
+      "author_arabic": "محمد سالم دهلوي بخاري",
+      "author_english": "Muhammad Salim Dehlawi Bukhari",
+      "author_death_ah": null,
+      "book_type": null
     },
     "Tafrih al-Ahabb fi Manaqib al-Al wa al-Ashab": {
-      "name_transliterated": "Tafrih al-Ahabb fi Manaqib al-Al wa al-Ashab",
       "name_arabic": "تفريح الأحباب في مناقب الآل والأصحاب",
-      "author": "جمال الدين محمد بن عبد العلي القرشي الهاشمي",
-      "type": null
+      "name_english": "Tafrih al-Ahabb fi Manaqib al-Al wa al-Ashab",
+      "author_arabic": "جمال الدين محمد بن عبد العلي القرشي الهاشمي",
+      "author_english": "Jalal al-Din Muhammad ibn Abd al-Ali al-Qurashi al-Hashimi",
+      "author_death_ah": null,
+      "book_type": null
     },
     "Mir'at al-Mu'min": {
-      "name_transliterated": "Mir'at al-Mu'min",
       "name_arabic": "مرآة المؤمن",
-      "author": "ولي الله لكهنوي",
-      "type": null
+      "name_english": "Mir'at al-Mu'min",
+      "author_arabic": "ولي الله لكهنوي",
+      "author_english": "Wali Allah Lakhnaui",
+      "author_death_ah": null,
+      "book_type": null
     },
     "al-Haqq al-Mubin fi Fada'il Ahl al-Bayt Sayyid al-Mursalin": {
-      "name_transliterated": "al-Haqq al-Mubin fi Fada'il Ahl al-Bayt Sayyid al-Mursalin",
       "name_arabic": "الحق المبين في فضائل أهل البيت سيد المرسلين",
-      "author": "رشيد الدين خان دهلوي",
-      "type": null
+      "name_english": "al-Haqq al-Mubin fi Fada'il Ahl al-Bayt Sayyid al-Mursalin",
+      "author_arabic": "رشيد الدين خان دهلوي",
+      "author_english": "Rashid al-Din Khan Dehlawi",
+      "author_death_ah": null,
+      "book_type": null
     },
-    "Dhakhīrat al-ʿUqbā fī Sharḥ al-Sirāj al-Munīr": {
-      "name_transliterated": "Dhakhīrat al-ʿUqbā fī Sharḥ al-Sirāj al-Munīr",
+    "Dhakhirat al-Uqba fi Sharh al-Siraj al-Munir": {
       "name_arabic": "ذخيرة العقبى في شرح السراج المنير",
-      "author": "ʿĀshiq ʿAlī Khān Dihlawī",
-      "type": "hadith"
+      "name_english": "Dhakhirat al-Uqba fi Sharh al-Siraj al-Munir",
+      "author_arabic": "عاشق علي خان الدهلوي",
+      "author_english": "Ashiq Ali Khan Dihlawi",
+      "author_death_ah": null,
+      "book_type": "hadith"
     },
-    "Fatḥ al-ʿAzīz": {
-      "name_transliterated": "Fatḥ al-ʿAzīz",
+    "Fath al-Aziz": {
       "name_arabic": "فتح العزيز",
-      "author": "شيخزاده",
-      "type": null
+      "name_english": "Fath al-Aziz",
+      "author_arabic": "شيخزاده",
+      "author_english": "Shaykhzade",
+      "author_death_ah": null,
+      "book_type": null
     },
-    "Bayān ʿAqīdat Shāh Walī Allāh": {
-      "name_transliterated": "Bayān ʿAqīdat Shāh Walī Allāh",
-      "name_arabic": "بيان عقيدة شاه ولي الله",
-      "author": "تلميذ شاه ولي الله",
-      "type": null
-    },
-    "Tuḥfah": {
-      "name_transliterated": "Tuḥfah",
-      "name_arabic": "تحفة",
-      "author": "صاحب التحفة",
-      "type": null
-    },
-    "Mashāriq al-Anwār fī Fawz Ahl al-Iʿtibār": {
-      "name_transliterated": "Mashāriq al-Anwār fī Fawz Ahl al-Iʿtibār",
+    "Mashariq al-Anwar fi Fawz Ahl al-I'tibar": {
       "name_arabic": "مشَارِقُ الأَنْوَارِ فِي فَوْزِ أَهْلِ الِاعْتِبَارِ",
-      "author": "Ḥasan b. ʿAbd Allāh b. Ḥamza b. ʿAbd Allāh al-Muʿāṣir al-Shāfiʿī",
-      "type": "hadith"
+      "name_english": "Mashariq al-Anwar fi Fawz Ahl al-I'tibar",
+      "author_arabic": "حسن بن عبد الله بن حمزة بن عبد الله المعاصر الشافعي",
+      "author_english": "Hasan b. Abd Allah b. Hamza b. Abd Allah al-Mu'asir al-Shafi'i",
+      "author_death_ah": null,
+      "book_type": "hadith"
     },
-    "Musnad Aḥmad": {
-      "name_transliterated": "Musnad Aḥmad",
-      "name_arabic": "مُسْنَدُ أَحْمَدَ",
-      "author": "أحمد بن حنبل (د. 241 هـ)",
-      "type": null
-    },
-    "Mustadrak ʿalā al-Ṣaḥīḥayn": {
-      "name_transliterated": "Mustadrak ʿalā al-Ṣaḥīḥayn",
-      "name_arabic": "مُسْتَدْرَكُ عَلَى الصَّحِيحَيْنِ",
-      "author": "الحاكم النيسابوري (د. 405 هـ)",
-      "type": null
-    },
-    "al-Fatḥ al-Mubīn fī Sīrat al-Sayyid al-Amīn": {
-      "name_transliterated": "al-Fatḥ al-Mubīn fī Sīrat al-Sayyid al-Amīn",
+    "al-Fath al-Mubin fi Sirat al-Sayyid al-Amin": {
       "name_arabic": "الفتح المبين في سيرة السيد الأمين",
-      "author": "Aḥmad ibn Zainī Dahlan",
-      "type": "sira"
-    },
-    "Kanz al-ʿUmmāl": {
-      "name_transliterated": "Kanz al-ʿUmmāl",
-      "name_arabic": "كنز العمال",
-      "author": "المتقي الهندي (d. 975 AH)",
-      "type": null
+      "name_english": "al-Fath al-Mubin fi Sirat al-Sayyid al-Amin",
+      "author_arabic": "أحمد بن زيني دحلان",
+      "author_english": "Ahmad ibn Zayni Dahlan",
+      "author_death_ah": 1304,
+      "book_type": "sira"
     },
     "Nur al-Absar": {
-      "name_transliterated": "Nur al-Absar",
       "name_arabic": "نور الأبصار",
-      "author": "Shablanji al-Mu'asir",
-      "type": "hadith"
-    },
-    "Jami' al-Fawa'id": {
-      "name_transliterated": "Jami' al-Fawa'id",
-      "name_arabic": "جمع الفوائد",
-      "author": null,
-      "type": null
+      "name_english": "Nur al-Absar",
+      "author_arabic": "شبلنجي المعاصر",
+      "author_english": "Shablanji al-Mu'asir",
+      "author_death_ah": null,
+      "book_type": "hadith"
     },
     "al-Awsat wa al-Shafi": {
-      "name_transliterated": "al-Awsat wa al-Shafi",
       "name_arabic": "الأوسط والشفي",
-      "author": "الطبراني",
-      "type": null
-    },
-    "أحمد بن حنبل (d. 241 AH)": {
-      "name_transliterated": "أحمد بن حنبل (d. 241 AH)",
-      "name_arabic": null,
-      "author": "أحمد بن حنبل",
-      "type": null
-    },
-    "ابن المغازلي": {
-      "name_transliterated": "ابن المغازلي",
-      "name_arabic": null,
-      "author": "ابن المغازلي",
-      "type": null
-    },
-    "الحمويني": {
-      "name_transliterated": "الحمويني",
-      "name_arabic": null,
-      "author": "الحمويني",
-      "type": null
+      "name_english": "al-Awsat wa al-Shafi",
+      "author_arabic": "الطبراني",
+      "author_english": "al-Tabarani",
+      "author_death_ah": 360,
+      "book_type": "hadith"
     },
     "Itba' al-Mawaddah": {
-      "name_transliterated": "Itba' al-Mawaddah",
-      "name_arabic": "يتابيع المودة",
-      "author": "سليمان بلخي المعاصر",
-      "type": null
+      "name_arabic": "يتابع المودة",
+      "name_english": "Itba' al-Mawaddah",
+      "author_arabic": "سليمان بلخي المعاصر",
+      "author_english": "Sulayman Balkhi al-Mu'asir",
+      "author_death_ah": null,
+      "book_type": null
     },
     "al-Jami' al-Saghir": {
-      "name_transliterated": "al-Jami' al-Saghir",
       "name_arabic": "الجامع الصغير",
-      "author": "السیوطي",
-      "type": null
-    },
-    "Akhar al-Uqba": {
-      "name_transliterated": "Akhar al-Uqba",
-      "name_arabic": "آخـار العقبى",
-      "author": null,
-      "type": null
-    },
-    "al-Shawq al-Murdiyyah": {
-      "name_transliterated": "al-Shawq al-Murdiyyah",
-      "name_arabic": "الشوق المرضية",
-      "author": null,
-      "type": null
+      "name_english": "al-Jami' al-Saghir",
+      "author_arabic": "السيوطي",
+      "author_english": "al-Suyuti",
+      "author_death_ah": 911,
+      "book_type": "hadith"
     },
     "Fusul al-Mubayyina": {
-      "name_transliterated": "Fusul al-Mubayyina",
       "name_arabic": "فصول المبينة",
-      "author": "المالكي",
-      "type": null
+      "name_english": "Fusul al-Mubayyina",
+      "author_arabic": "المالكي",
+      "author_english": "al-Maliki",
+      "author_death_ah": null,
+      "book_type": null
     },
-    "Tadhkirat al-Khawāṣṣ min Aḥwāl al-Awṣiyāʾ": {
-      "name_transliterated": "Tadhkirat al-Khawāṣṣ min Aḥwāl al-Awṣiyāʾ",
+    "Tadhkirat al-Khawass min Ahwal al-Awliya'": {
       "name_arabic": "تذكرة الخواص من أحوال الأوصياء",
-      "author": "ʿAllāmah Shams al-Dīn Abū al-Muẓaffar Yūsuf b. Qazghalī al-Baghdādī al-Ḥanafī, known as Sibt Ibn al-Jawzī (d. 654 AH)",
-      "type": "tarikh"
+      "name_english": "Tadhkirat al-Khawass min Ahwal al-Awliya'",
+      "author_arabic": "سيبط ابن الجوزي",
+      "author_english": "Sibt ibn al-Jawzi",
+      "author_death_ah": 654,
+      "book_type": "tarikh"
     },
-    "al-Durr al-Manṣūr": {
-      "name_transliterated": "al-Durr al-Manṣūr",
-      "name_arabic": "در المنثور",
-      "author": "جلال الدين السيوطي (d. 911 AH)",
-      "type": null
-    },
-    "Kanz al-ʿUqāl": {
-      "name_transliterated": "Kanz al-ʿUqāl",
-      "name_arabic": "كنز العقال",
-      "author": "unknown",
-      "type": null
-    },
-    "Yanābīʿ al-Mawadda": {
-      "name_transliterated": "Yanābīʿ al-Mawadda",
+    "Yanabi al-Mawaddah": {
       "name_arabic": "ينابيع المودة",
-      "author": "سليمان بن إبراهيم البلخي",
-      "type": null
+      "name_english": "Yanabi al-Mawaddah",
+      "author_arabic": "سليمان بن إبراهيم القندوزي",
+      "author_english": "Sulayman ibn Ibrahim al-Qunduzi",
+      "author_death_ah": 1304,
+      "book_type": "Hadith"
     },
-    "Kashf al-Maḥjūb": {
-      "name_transliterated": "Kashf al-Maḥjūb",
+    "Kashf al-Mahjub": {
       "name_arabic": "كشف المحجوب",
-      "author": "أبو الحسن علي بن عثمان النزنوي",
-      "type": null
+      "name_english": "Kashf al-Mahjub",
+      "author_arabic": "علي بن عثمان الجullabi الهجweri",
+      "author_english": "Ali ibn Uthman al-Jullabi al-Hujwiri",
+      "author_death_ah": 465,
+      "book_type": "Sufism"
     },
-    "Hidāyat al-ʿIbād": {
-      "name_transliterated": "Hidāyat al-ʿIbād",
+    "Hidayat al-Ibad": {
       "name_arabic": "هداية العباد",
-      "author": "شهاب الدين دولت آبادي",
-      "type": null
+      "name_english": "Hidayat al-Ibad",
+      "author_arabic": "شهاب الدين دولت آبادي",
+      "author_english": "Shahab al-Din Dawlat Abadi",
+      "author_death_ah": null,
+      "book_type": "Sufism"
     },
-    "Mirʾāt al-Asrār": {
-      "name_transliterated": "Mirʾāt al-Asrār",
+    "Mirat al-Asrar": {
       "name_arabic": "مرآة الأسرار",
-      "author": "عبد الرحمن بن عبد الرسول الجنتي",
-      "type": null
+      "name_english": "Mirat al-Asrar",
+      "author_arabic": "عبد الرحمن بن عبد الرسول الجنتي",
+      "author_english": "Abd al-Rahman ibn Abd al-Rasul al-Jantiti",
+      "author_death_ah": null,
+      "book_type": "Sufism"
     },
-    "Tafsīr Shāhī": {
-      "name_transliterated": "Tafsīr Shāhī",
+    "Tafsir Shahi": {
       "name_arabic": "تفسير شاهي",
-      "author": "محمد محبوب عالمين سيادي جغفر بدر عالم",
-      "type": null
+      "name_english": "Tafsir Shahi",
+      "author_arabic": "محمد محبوب عالمين سيادي جغفر بدر عالم",
+      "author_english": "Muhammad Mahbub Alamin Sayyidi Jaafar Badr Alamin",
+      "author_death_ah": null,
+      "book_type": "Tafsir"
     },
-    "تشريح في شرح مطالب حديث سفينة": {
-      "name_transliterated": "تشريح في شرح مطالب حديث سفينة",
-      "name_arabic": null,
-      "author": "شهاب الدين",
-      "type": null
+    "Tashrih fi Sharh Mataleb Hadith Safina": {
+      "name_arabic": "تشريح في شرح مطالب حديث سفينة",
+      "name_english": "Tashrih fi Sharh Mataleb Hadith Safina",
+      "author_arabic": "شهاب الدين أحمد بن إدريس السندي",
+      "author_english": "Shahab al-Din Ahmad ibn Idris al-Sindi",
+      "author_death_ah": null,
+      "book_type": "Hadith Commentary"
     },
-    "ذخيرة المآل": {
-      "name_transliterated": "ذخيرة المآل",
-      "name_arabic": null,
-      "author": "عجيلي",
-      "type": null
+    "Dhakhirat al-Ma'al": {
+      "name_arabic": "ذخيرة المآل",
+      "name_english": "Dhakhirat al-Ma'al",
+      "author_arabic": "جمال الدين يوسف بن عبد الرحمن العجيلي",
+      "author_english": "Jamal al-Din Yusuf ibn Abd al-Rahman al-Ujaili",
+      "author_death_ah": 619,
+      "book_type": "Hadith"
     },
-    "تفسير": {
-      "name_transliterated": "تفسير",
-      "name_arabic": null,
-      "author": "احدى",
-      "type": null
+    "Zayn al-Fatta": {
+      "name_arabic": "زين الفتى",
+      "name_english": "Zayn al-Fatta",
+      "author_arabic": "عبد الله بن أحمد بن محمود العاصمي",
+      "author_english": "Abd Allah ibn Ahmad ibn Mahmud al-Asimi",
+      "author_death_ah": 829,
+      "book_type": "Hadith"
     },
-    "زين الفتى": {
-      "name_transliterated": "زين الفتى",
-      "name_arabic": null,
-      "author": "عاصمي",
-      "type": null
+    "al-Dur al-Manthur": {
+      "name_arabic": "الدر المنثور",
+      "name_english": "al-Dur al-Manthur",
+      "author_arabic": "عبد الرزاق بن همام السنعي",
+      "author_english": "Abd al-Razzaq ibn Hammam al-Sanani",
+      "author_death_ah": 211,
+      "book_type": "Tafsir"
     },
-    "كتب الكلام": {
-      "name_transliterated": "كتب الكلام",
-      "name_arabic": null,
-      "author": "علماء الأعلام",
-      "type": null
+    "Tarikh al-Yaqubi": {
+      "name_arabic": "تاريخ اليعقوبي",
+      "name_english": "Tarikh al-Yaqubi",
+      "author_arabic": "أحمد بن أبي يعقوب اليعقوبي",
+      "author_english": "Ahmad ibn Abi Yaqub al-Yaqubi",
+      "author_death_ah": 284,
+      "book_type": "History"
     },
-    "أربعين": {
-      "name_transliterated": "أربعين",
-      "name_arabic": null,
-      "author": "مسلم بن أبي الفوارس الرازي (ت. قبل ۳۰۰ هـ)",
-      "type": null
+    "Sharh Mishkat al-Masabih": {
+      "name_arabic": "شرح مشكاة المصابيح",
+      "name_english": "Sharh Mishkat al-Masabih",
+      "author_arabic": "علي بن سلطان محمد القاري",
+      "author_english": "Ali ibn Sultan Muhammad al-Qari",
+      "author_death_ah": 1014,
+      "book_type": "Hadith Commentary"
     },
-    "مسند الغردوس (فردوس كبير)": {
-      "name_transliterated": "مسند الغردوس (فردوس كبير)",
-      "name_arabic": null,
-      "author": "أبو منصور شهردارين شيرويه الديلمي",
-      "type": null
+    "Tabaqat al-Shafi iyya": {
+      "name_arabic": "طبقات الشافعية",
+      "name_english": "Tabaqat al-Shafi iyya",
+      "author_arabic": "أبو إسحاق إبراهيم بن علي الشيرازي",
+      "author_english": "Abu Ishaq Ibrahim ibn Ali al-Shirazi",
+      "author_death_ah": 476,
+      "book_type": "Biography"
     },
-    "ينابيع المودة": {
-      "name_transliterated": "ينابيع المودة",
-      "name_arabic": null,
-      "author": "علامه سليمان بن إبراهيم القندوزي الحنفي (ت. ۱۳۰۴ هـ)",
-      "type": null
+    "Qurrat al-Uyun": {
+      "name_arabic": "قرة العينين",
+      "name_english": "Qurrat al-Uyun",
+      "author_arabic": "شهاب الدين أحمد بن عبد العلي الدهلوي",
+      "author_english": "Shahab al-Din Ahmad ibn Abd al-Ali al-Dihlawi",
+      "author_death_ah": 1176,
+      "book_type": "Hadith"
     },
-    "فرائد السمطين": {
-      "name_transliterated": "فرائد السمطين",
-      "name_arabic": null,
-      "author": "صدر الدين أبو المجاهدات إبراهيم بن عبد الله المؤيد الحموي (ت. ۵۵۸ هـ)",
-      "type": null
+    "Uqd al-Nabawi": {
+      "name_arabic": "عقد النبوي",
+      "name_english": "Uqd al-Nabawi",
+      "author_arabic": "عبد الله بن عبد الله العيدروس",
+      "author_english": "Abd Allah ibn Abd Allah al-Aidarus",
+      "author_death_ah": null,
+      "book_type": "Hadith"
     },
-    "الدر المنثور": {
-      "name_transliterated": "الدر المنثور",
-      "name_arabic": null,
-      "author": "عبد الرزاق بن همام السنعي (ت. ۲۱۱ هـ)",
-      "type": null
+    "Musahhih al-Rawiy": {
+      "name_arabic": "مشرع الروي",
+      "name_english": "Musahhih al-Rawiy",
+      "author_arabic": "محمد بن أبي بكر الشقلي الحضرمي",
+      "author_english": "Muhammad ibn Abi Bakr al-Shuqali al-Hadrami",
+      "author_death_ah": null,
+      "book_type": "Hadith"
     },
-    "تاريخ يعقوبي": {
-      "name_transliterated": "تاريخ يعقوبي",
-      "name_arabic": null,
-      "author": "أحمد بن أبي يعقوب اليعقوبي (ت. ۲۸۴ هـ)",
-      "type": null
+    "Iisfaf al-Raghibin": {
+      "name_arabic": "إسعاف الراغبين",
+      "name_english": "Iisfaf al-Raghibin",
+      "author_arabic": "محمد بن أحمد الصباغ المصري",
+      "author_english": "Muhammad ibn Ahmad al-Sabbagh al-Misri",
+      "author_death_ah": null,
+      "book_type": "Hadith"
     },
-    "مسند أبي يعلى": {
-      "name_transliterated": "مسند أبي يعلى",
-      "name_arabic": null,
-      "author": "أبو يعلى أحمد بن موسى الموصلي (ت. ۳۰۷ هـ)",
-      "type": null
+    "Ghunyat al-Talibin": {
+      "name_arabic": "غنية الطالبين",
+      "name_english": "Ghunyat al-Talibin",
+      "author_arabic": "ابن طاووس",
+      "author_english": "Ibn Tawus",
+      "author_death_ah": 664,
+      "book_type": "Shia Rituals"
     },
-    "شرح مشكاة": {
-      "name_transliterated": "شرح مشكاة",
-      "name_arabic": null,
-      "author": "ملا علي قاري (ت. ۱۰۱۴ هـ)",
-      "type": null
+    "Tahdhib al-Tahdhib": {
+      "name_arabic": "تهذيب التهذيب",
+      "name_english": "Tahdhib al-Tahdhib",
+      "author_arabic": "ابن حجر العسقلاني",
+      "author_english": "Ibn Hajar al-Asqalani",
+      "author_death_ah": 852,
+      "book_type": "Biography"
     },
-    "رواية الطبراني": {
-      "name_transliterated": "رواية الطبراني",
-      "name_arabic": null,
-      "author": "الطبراني أبو القاسم بن عبد الله (ت. ۳۶۰ هـ)",
-      "type": null
+    "Minhaj al-Sunna": {
+      "name_arabic": "منهاج السنة النبوية",
+      "name_english": "Minhaj al-Sunna",
+      "author_arabic": "تقي الدين أحمد بن تيمية",
+      "author_english": "Taqi al-Din Ahmad ibn Taymiyya",
+      "author_death_ah": 728,
+      "book_type": "Aqida"
     },
-    "القرآن الكريم": {
-      "name_transliterated": "القرآن الكريم",
-      "name_arabic": null,
-      "author": "الله تعالى",
-      "type": null
+    "Fath al-Bari": {
+      "name_arabic": "فتح الباري شرح صحيح البخاري",
+      "name_english": "Fath al-Bari",
+      "author_arabic": "ابن حجر العسقلاني",
+      "author_english": "Ibn Hajar al-Asqalani",
+      "author_death_ah": 852,
+      "book_type": "Hadith Commentary"
     },
-    "بعض علمائنا الأعلام": {
-      "name_transliterated": "بعض علمائنا الأعلام",
-      "name_arabic": null,
-      "author": "علماء شيعة (غير محدد)",
-      "type": null
+    "Umdat al-Qari": {
+      "name_arabic": "عمدة القاري",
+      "name_english": "Umdat al-Qari",
+      "author_arabic": "بدر الدين العيني",
+      "author_english": "Badr al-Din al-Ayni",
+      "author_death_ah": 855,
+      "book_type": "Hadith Commentary"
     },
-    "طبقات الشافعية": {
-      "name_transliterated": "طبقات الشافعية",
-      "name_arabic": null,
-      "author": "أبو إسحاق القيراواني",
-      "type": null
+    "Irshad al-Sari": {
+      "name_arabic": "إرشاد الساري",
+      "name_english": "Irshad al-Sari",
+      "author_arabic": "أحمد بن محمد القسطلاني",
+      "author_english": "Ahmad ibn Muhammad al-Qastallani",
+      "author_death_ah": 923,
+      "book_type": "Hadith Commentary"
     },
-    "قرة العينين": {
-      "name_transliterated": "قرة العينين",
-      "name_arabic": null,
-      "author": "ولي الله الدهلوي",
-      "type": null
+    "Mizan al-I tidal": {
+      "name_arabic": "ميزان الاعتدال",
+      "name_english": "Mizan al-I tidal",
+      "author_arabic": "شمس الدين الذهبي",
+      "author_english": "Shams al-Din al-Dhahabi",
+      "author_death_ah": 748,
+      "book_type": "Hadith Criticism"
     },
-    "جواهر العقودين": {
-      "name_transliterated": "جواهر العقودين",
-      "name_arabic": null,
-      "author": "Mir Ḥāmid Ḥusayn al-Muẓaffarī (d. 1306 AH)",
-      "type": null
+    "al-Tabaqat al-Kubra": {
+      "name_arabic": "الطبقات الكبرى",
+      "name_english": "al-Tabaqat al-Kubra",
+      "author_arabic": "محمد بن سعد",
+      "author_english": "Muhammad ibn Sa d",
+      "author_death_ah": 230,
+      "book_type": "Biography"
     },
-    "عقد النبوي": {
-      "name_transliterated": "عقد النبوي",
-      "name_arabic": null,
-      "author": "الشيخ بن عبد الله بن الشيخ بن عبد الله العيدروس اليمني (d. unknown, Yemeni scholar)",
-      "type": null
+    "Fayd al-Qadir": {
+      "name_arabic": "فيض القدير",
+      "name_english": "Fayd al-Qadir",
+      "author_arabic": "عبد الرؤوف المناوي",
+      "author_english": "Abd al-Rauf al-Manawi",
+      "author_death_ah": 1031,
+      "book_type": "Hadith Commentary"
     },
-    "مشرع الروي": {
-      "name_transliterated": "مشرع الروي",
-      "name_arabic": null,
-      "author": "محمد بن أبي بكر الشقلي الحضرمي (d. unknown, Hadrami scholar)",
-      "type": null
+    "Tuhfat al-Ahwazi": {
+      "name_arabic": "تحفة الأحوذي",
+      "name_english": "Tuhfat al-Ahwazi",
+      "author_arabic": "شهاب الدين أحمد بن عبد العلي الدهلوي",
+      "author_english": "Shahab al-Din Ahmad ibn Abd al-Ali al-Dihlawi",
+      "author_death_ah": 1176,
+      "book_type": "Hadith Commentary"
     },
-    "إسعاف الراغبين": {
-      "name_transliterated": "إسعاف الراغبين",
-      "name_arabic": null,
-      "author": "محمد صباغ المصري (d. unknown, Egyptian scholar)",
-      "type": null
+    "Nibras": {
+      "name_arabic": "نبراس",
+      "name_english": "Nibras",
+      "author_arabic": "إبراهيم الكردي",
+      "author_english": "Ibrahim al-Kurdi",
+      "author_death_ah": null,
+      "book_type": "Hadith"
     },
-    "غنية الطالبين": {
-      "name_transliterated": "غنية الطالبين",
-      "name_arabic": null,
-      "author": "Unknown (Shi'a source on Ashura)",
-      "type": null
+    "Tafsir Kabir": {
+      "name_arabic": "تفسير كبير",
+      "name_english": "Tafsir Kabir",
+      "author_arabic": "فخر الدين الرازي",
+      "author_english": "Fakhr al-Din al-Razi",
+      "author_death_ah": 606,
+      "book_type": "Tafsir"
     },
-    "تهذيب التهذيب": {
-      "name_transliterated": "تهذيب التهذيب",
-      "name_arabic": null,
-      "author": "ابن حجر العسقلاني (d. 852 AH)",
-      "type": null
+    "Marqat al-Mafatih": {
+      "name_arabic": "مرقاة المفاتيح",
+      "name_english": "Marqat al-Mafatih",
+      "author_arabic": "علي بن سلطان محمد القاري",
+      "author_english": "Ali ibn Sultan Muhammad al-Qari",
+      "author_death_ah": 1014,
+      "book_type": "Hadith Commentary"
     },
-    "تهذيب الأسماء واللغات": {
-      "name_transliterated": "تهذيب الأسماء واللغات",
-      "name_arabic": null,
-      "author": "محب الدين نووي (d. unknown)",
-      "type": null
-    },
-    "منهاج السنة": {
-      "name_transliterated": "منهاج السنة",
-      "name_arabic": null,
-      "author": "ابن تيمية (d. 728 AH)",
-      "type": null
-    },
-    "كاشف الظنون": {
-      "name_transliterated": "كاشف الظنون",
-      "name_arabic": null,
-      "author": "الذهبي (d. 748 AH)",
-      "type": null
-    },
-    "مشكاة الإمام": {
-      "name_transliterated": "مشكاة الإمام",
-      "name_arabic": null,
-      "author": "قاضي الدين الخطيب التبريزي",
-      "type": null
-    },
-    "فتح الباري": {
-      "name_transliterated": "فتح الباري",
-      "name_arabic": null,
-      "author": "ابن حجر العسقلاني",
-      "type": null
-    },
-    "عمدة القاري": {
-      "name_transliterated": "عمدة القاري",
-      "name_arabic": null,
-      "author": "عيني",
-      "type": null
-    },
-    "إرشاد الساري": {
-      "name_transliterated": "إرشاد الساري",
-      "name_arabic": null,
-      "author": "قسطلاني",
-      "type": null
-    },
-    "ميزان الاعتدال": {
-      "name_transliterated": "ميزان الاعتدال",
-      "name_arabic": null,
-      "author": "الذهبي",
-      "type": null
-    },
-    "الطبقات الكبرى": {
-      "name_transliterated": "الطبقات الكبرى",
-      "name_arabic": null,
-      "author": "ابن سعد",
-      "type": null
-    },
-    "فيض القدير": {
-      "name_transliterated": "فيض القدير",
-      "name_arabic": null,
-      "author": "المناوي",
-      "type": null
-    },
-    "ميزان الاختلاف المذاهب (attributed)": {
-      "name_transliterated": "ميزان الاختلاف المذاهب (attributed)",
-      "name_arabic": null,
-      "author": "عبد الوهاب الشعراني (d. 973 AH)",
-      "type": null
-    },
-    "تحفة الاحوذي (Tahfat al-Ahwazi)": {
-      "name_transliterated": "تحفة الاحوذي (Tahfat al-Ahwazi)",
-      "name_arabic": null,
-      "author": "شاه ولي الله دحلوي (Shah Wali Allah al-Dihlawi, d. 1176 AH)",
-      "type": null
-    },
-    "نبراس (Nibras)": {
-      "name_transliterated": "نبراس (Nibras)",
-      "name_arabic": null,
-      "author": "ابراهيم كردي (Ibrahim Kurdi)",
-      "type": null
-    },
-    "تفسير كبير (Tafsir Kabir)": {
-      "name_transliterated": "تفسير كبير (Tafsir Kabir)",
-      "name_arabic": null,
-      "author": "فخر الدين الرازي (Fakhr al-Din al-Razi, d. 606 AH)",
-      "type": null
-    },
-    "كاشف شرح مشكاة (Kashif Sharh Mishkat)": {
-      "name_transliterated": "كاشف شرح مشكاة (Kashif Sharh Mishkat)",
-      "name_arabic": null,
-      "author": "علامه طيبي ('Allamah al-Taybi)",
-      "type": null
-    },
-    "مرقاة شرح مشكاة (Marqat al-Mafatih Sharh Mishkat)": {
-      "name_transliterated": "مرقاة شرح مشكاة (Marqat al-Mafatih Sharh Mishkat)",
-      "name_arabic": null,
-      "author": "علي القاري (Mulla 'Ali al-Qari, d. 1014 AH)",
-      "type": null
-    },
-    "أساطير اللّبيب (Asatir al-Labib)": {
-      "name_transliterated": "أساطير اللّبيب (Asatir al-Labib)",
-      "name_arabic": null,
-      "author": "علامه سندي ('Allamah al-Sindi)",
-      "type": null
-    },
-    "استفصاء الأفحام (Istifsa' al-Afham)": {
-      "name_transliterated": "استفصاء الأفحام (Istifsa' al-Afham)",
-      "name_arabic": null,
-      "author": "مير حامد حسين (Mir Hamid Husain, author)",
-      "type": null
+    "Istifsa' al-Afham": {
+      "name_arabic": "استفصاء الأفكام",
+      "name_english": "Istifsa' al-Afham",
+      "author_arabic": "مير حامد حسين",
+      "author_english": "Mir Hamid Husain",
+      "author_death_ah": 1306,
+      "book_type": "Shia Polemic"
     }
   },
   "stats": {
