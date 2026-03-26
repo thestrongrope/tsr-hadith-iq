@@ -83,14 +83,28 @@
       },
       "match": "CONFIRMED — core statement identical (فاندهشت لكثرة الطرق). Minor wording variation (وقفت عليه vs رأيت مجلداً) — same meaning, possibly different edition or slight paraphrase.",
       "significance": "This is one of the most important citations in all of Abaqat — al-Dhahabi himself acknowledges that Hadith al-Ghadir has overwhelming chains of transmission."
+    },
+    {
+      "verification_status": "VERIFIED",
+      "source_book": "Mir'at al-Janan wa Ibrat al-Yaqzan — Dar al-Kutub al-Ilmiyyah, Beirut",
+      "volume": 3,
+      "page": 22,
+      "entry_subject": "Shaykh al-Mufid (d. 413 AH)",
+      "entry_subject_arabic": "الشيخ المفيد أبو عبدالله محمد بن محمد بن النعمان",
+      "abaqat_citation": {
+        "volume": 3,
+        "line": 4147
+      },
+      "match": "VERBATIM — entire biography paragraph matches word for word including \"وأراح الله منه\""
     }
   ],
-  "total_verified": 4,
-  "total_books_verified": 4,
+  "total_verified": 5,
+  "total_books_verified": 5,
   "books_verified": [
     "Tahdhib al-Tahdhib",
     "Wafayat al-Ayan",
     "Mizan al-I'tidal",
-    "Tadhkirat al-Huffaz"
+    "Tadhkirat al-Huffaz",
+    "Mir'at al-Janan"
   ]
 }
