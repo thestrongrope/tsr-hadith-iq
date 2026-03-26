@@ -1,0 +1,164 @@
+{
+  "hadith_thaqalayn": {
+    "text": "انی تارک فیکم الثقلین... کتاب الله و عترتی",
+    "sunnah_com": "Sahih Muslim 2408a,d; Tirmidhi 3786,3788 (Sahih); Darimi 3221",
+    "islamweb": "Confirmed in al-Mustadrak and major collections",
+    "dehlavi_grade": "Accepts as authentic",
+    "actual_grade": "Sahih — in Sahih Muslim (highest canonical status)",
+    "verdict": "CONFIRMED",
+    "notes": "No dispute on authenticity. The debate is purely on meaning."
+  },
+  "hadith_safinah": {
+    "text": "مثل أهل بیتی فیکم مثل سفینة نوح من رکبها نجی ومن تخلف عنها غرق",
+    "sunnah_com": "Not in Sunnah.com's 18 indexed collections",
+    "islamweb": "Found in al-Mustadrak (al-Hakim: sahih on Muslim's conditions). Chain: Maymun → Ahmad → Yunus → al-Mufaddal → Abu Ishaq → Hanash → Abu Dharr",
+    "kingoflinks_sources": [
+      "al-Fakihi, Akhbar Makkah vol.3 p.112 — chain: Isma'il → al-Mufaddal → Abu Ishaq → Hanash → Abu Dharr",
+      "al-Dulabi, al-Kuna wa al-Asma vol.1 p.232 — chain: Rawh → Yahya → Abd al-Karim → Aslam al-Makki → Abu al-Tufayl",
+      "al-Bazzar, Musnad vol.9 p.343 (#3900) — chain: Amr → Muslim ibn Ibrahim → al-Hasan ibn Abi Ja'far → Ali ibn Zayd → Sa'id ibn al-Musayyab → Abu Dharr",
+      "al-Manawi, Fayd al-Qadir vol.2 p.519 (#2442)",
+      "al-Tabari (Muhibb), Dhakha'ir al-Uqba p.20 — from Ibn Abbas and Ali",
+      "al-Mizzi, Tahdhib al-Kamal vol.28 p.411 — via Abu Ya'la → Suwayd → al-Mufaddal → Abu Ishaq → Hanash → Abu Dharr",
+      "al-Dhahabi, Mizan al-I'tidal vol.1 p.482 — via al-Hasan ibn Abi Ja'far chain",
+      "al-Salihi al-Shami, Subul al-Huda wa al-Rashad vol.10 p.490 — via al-Hakim from Abu Dharr",
+      "al-Zarandi al-Hanafi, Nazm Durar al-Simtayn p.235 — via Abu al-Tufayl from Abu Dharr"
+    ],
+    "dehlavi_grade": "Accepts authenticity (uses it in argument)",
+    "actual_grade": "Multiple chains, authenticated by al-Hakim. Some individual chains have weak narrators but collectively the hadith has multiple routes",
+    "verdict": "CONFIRMED_EXTENSIVELY — found in 56 Sunni sources (kingoflinks), 40 narrators cited in Abaqat Vol 23. Ibn Taymiyyah's denial that it has 'no isnad at all' is demonstrably false.",
+    "notes": "Ibn Taymiyyah in Minhaj al-Sunnah denies any isnad exists. Mir Hamid Husain cites 40 Sunni scholars who narrated it. Kingoflinks documents 9 specific sources with full chains.",
+    "kingoflinks_total_sources": 56,
+    "kingoflinks_by_scholar": {
+      "Ahmad ibn Hanbal & Ibn Hajar al-Asqalani": 3,
+      "al-Hakim al-Naysaburi": 2,
+      "al-Haythami": 2,
+      "al-Suyuti": 2,
+      "al-Tabarani": 9,
+      "al-Ajurri": 3,
+      "Ibn Adi": 2,
+      "al-Muttaqi al-Hindi": 4,
+      "Ibn Jabr": 4,
+      "al-Quda'i": 3,
+      "al-Isfahani (Abu Nu'aym)": 2,
+      "al-Qunduzi al-Hanafi": 11,
+      "Other sources": 9
+    },
+    "kingoflinks_url": "http://kingoflinks.net/AhlAlBait/7SafinatNooh/Main61.htm",
+    "kingoflinks_detailed_sources": [
+      {
+        "book": "Akhbar Makkah",
+        "author": "al-Fakihi",
+        "vol_page": "vol.3 p.112",
+        "chain": "Isma'il → al-Mufaddal → Abu Ishaq → Hanash → Abu Dharr"
+      },
+      {
+        "book": "al-Kuna wa al-Asma",
+        "author": "al-Dulabi",
+        "vol_page": "vol.1 p.232",
+        "chain": "Rawh → Yahya → Abd al-Karim → Aslam al-Makki → Abu al-Tufayl"
+      },
+      {
+        "book": "Musnad al-Bazzar (al-Bahr al-Zakhkhar)",
+        "author": "al-Bazzar",
+        "vol_page": "vol.9 p.343 #3900",
+        "chain": "Amr → Muslim ibn Ibrahim → al-Hasan ibn Abi Ja'far → Ali ibn Zayd → Sa'id ibn al-Musayyab → Abu Dharr"
+      },
+      {
+        "book": "Fayd al-Qadir",
+        "author": "al-Manawi",
+        "vol_page": "vol.2 p.519 #2442"
+      },
+      {
+        "book": "Dhakha'ir al-Uqba",
+        "author": "Muhibb al-Din al-Tabari",
+        "vol_page": "p.20",
+        "chains": "from Ibn Abbas and Ali"
+      },
+      {
+        "book": "Tahdhib al-Kamal",
+        "author": "al-Mizzi",
+        "vol_page": "vol.28 p.411",
+        "chain": "Abu Ya'la → Suwayd → al-Mufaddal → Abu Ishaq → Hanash → Abu Dharr"
+      },
+      {
+        "book": "Mizan al-I'tidal",
+        "author": "al-Dhahabi",
+        "vol_page": "vol.1 p.482",
+        "chain": "via al-Hasan ibn Abi Ja'far"
+      },
+      {
+        "book": "Subul al-Huda wa al-Rashad",
+        "author": "al-Salihi al-Shami",
+        "vol_page": "vol.10 p.490",
+        "chain": "via al-Hakim from Abu Dharr"
+      },
+      {
+        "book": "Nazm Durar al-Simtayn",
+        "author": "al-Zarandi al-Hanafi",
+        "vol_page": "p.235",
+        "chain": "via Abu al-Tufayl from Abu Dharr"
+      }
+    ]
+  },
+  "hadith_iqtidau": {
+    "text": "اقتدوا بالذین من بعدی ابی بکر و عمر",
+    "sunnah_com": "Tirmidhi 3805 (Hasan), Tirmidhi 3662 (Hasan)",
+    "islamweb": "Tirmidhi: 'هذا حديث حسن'. Commentary notes tadlis by Sufyan ibn Uyayna in the chain. NO tawatur claimed by the commentators.",
+    "dehlavi_grade": "Claims 'بدرجه شهرت و تواتر معنوی رسیده' (reached the level of fame and tawatur in meaning)",
+    "actual_grade": "Hasan only (Tirmidhi). NOT in Sahihayn. Chain has known issues (tadlis). No hadith scholar classifies it as mutawatir.",
+    "verdict": "OVERSTATED — exists but Dehlavi inflates Hasan to tawatur without evidence",
+    "notes": "This is Dehlavi's most overstated claim. He says it reached tawatur ma'nawi but no muhaddith supports this. Al-Tirmidhi only says 'hasan' and notes chain issues."
+  },
+  "hadith_humayra": {
+    "text": "خذوا شطر دینکم عن هذه الحمیراء",
+    "sunnah_com": "Not found in this wording",
+    "islamweb": "Islamweb fatwa #12234: FABRICATED (موضوع). Ibn Hajar: 'لا أعرف له إسناداً ولا رأیته في شیء من کتب الحدیث' (I know no chain for it and have not seen it in any hadith book). Al-Mizzi and al-Dhahabi: 'did not recognize it'. Al-Shawkani lists it in al-Fawa'id al-Majmu'ah fi al-Ahadith al-Mawdu'ah.",
+    "dehlavi_grade": "Claims 'حدیث صحیح' (authentic hadith)",
+    "actual_grade": "FABRICATED (mawdu') — declared so by Ibn Hajar, al-Dhahabi, al-Mizzi, al-Sakhawi, al-Shawkani",
+    "verdict": "FABRICATED — Dehlavi calls sahih what the greatest Sunni hadith scholars call fabricated",
+    "notes": "This is Dehlavi's most serious evidentiary failure. He presents a hadith declared fabricated by his own tradition's greatest scholars as 'sahih' without any source reference."
+  },
+  "hadith_sunnah_khulafa": {
+    "text": "علیکم بسنتی و سنة الخلفاء الراشدین المهدیین من بعدی",
+    "sunnah_com": "Abu Dawud 4607 (Sahih — al-Albani), Tirmidhi 2676 (Sahih), Ibn Majah 42-43 (Hasan)",
+    "islamweb": "Confirmed in Sunan collections",
+    "dehlavi_grade": "Claims sahih",
+    "actual_grade": "Sahih — confirmed in multiple Sunan",
+    "verdict": "CONFIRMED",
+    "notes": "Legitimate citation but Dehlavi names no source book."
+  },
+  "hadith_shura": {
+    "text": "انما الشوری للمهاجرین والانصار",
+    "sunnah_com": "Not found as a Prophetic hadith",
+    "islamweb": "Not found as Prophetic hadith",
+    "dehlavi_grade": "Claims 'حدیث صحیح مروی از حضرت امیر که نزد شیعه متواتر است' (sahih narrated from Ali, mutawatir among Shia)",
+    "actual_grade": "This is from Ali's letter to Mu'awiya (Nahj al-Balagha), NOT a Prophetic hadith. Dehlavi himself attributes it to Ali, not the Prophet.",
+    "verdict": "MISCHARACTERIZED — not a Prophetic hadith; it's Ali's own statement",
+    "notes": "Dehlavi uses this cleverly — citing Ali's own words against the Shia position. But calling it 'hadith sahih' is misleading since it's not from the Prophet."
+  },
+  "hadith_muadh": {
+    "text": "اعلمکم بالحلال و الحرام معاذ بن جبل",
+    "sunnah_com": "Ibn Majah 154 (Sahih), Tirmidhi 3790-3791 (Sahih)",
+    "dehlavi_grade": "Not explicitly graded",
+    "actual_grade": "Sahih — confirmed",
+    "verdict": "CONFIRMED",
+    "notes": "Part of a longer hadith listing companions' specialties. Legitimate citation."
+  },
+  "hadith_ammar": {
+    "text": "اهتدوا بهدی عمار",
+    "sunnah_com": "Tirmidhi 3805 (Hasan), Tirmidhi 3799 (Hasan)",
+    "dehlavi_grade": "Not explicitly graded",
+    "actual_grade": "Hasan — part of the same hadith as the Abu Bakr/Umar one",
+    "verdict": "CONFIRMED",
+    "notes": "Legitimate citation."
+  },
+  "cross_reference_summary": {
+    "ibn_taymiyyah_claim": "This hadith has no isnad at all, neither sahih nor da'if (Minhaj al-Sunnah)",
+    "dehlavi_position": "Accepts the hadith but minimizes it to general love/following",
+    "mir_hamid_husain_response": "Vol 23 cites 40 named Sunni scholars with specific books and chains",
+    "kingoflinks_documentation": "56 Sunni sources with full references",
+    "islamweb_confirmation": "Found in al-Mustadrak — al-Hakim grades it sahih on Muslim's conditions",
+    "sunnah_com_status": "Not in the 18 indexed collections (limited scope — misses al-Mustadrak, al-Tabarani, etc.)",
+    "conclusion": "Ibn Taymiyyah's claim of 'no isnad' is objectively false. The hadith exists in dozens of Sunni sources with multiple independent chains through companions Abu Dharr, Ibn Abbas, Ali, and Abu Sa'id al-Khudri."
+  }
+}
