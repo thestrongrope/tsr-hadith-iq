@@ -316,7 +316,8 @@
       "4_20221014_20221014_1355",
       "AAlexandrina-154312",
       "20200314_20200314_1244"
-    ]
+    ],
+    "note": "This is Ibn Qadi Shuhba edition. For al-Isnawi see separate entry."
   },
   "Al-Tabaqat al-Kubra": {
     "found": true,
@@ -377,16 +378,10 @@
   "Tabaqat al-Hanafiyyah": {
     "found": true,
     "identifier": "000101_201802",
-    "archive_title": "000101 كتاب الجواهر المضية في طبقات الحنفية",
+    "archive_title": "الجواهر المضية في طبقات الحنفية",
     "url": "https://archive.org/details/000101_201802",
-    "download_pdf": "https://archive.org/download/000101_201802/000101_201802.pdf",
-    "download_txt": "https://archive.org/download/000101_201802/000101_201802_djvu.txt",
-    "num_results": 3,
-    "all_identifiers": [
-      "000101_201802",
-      "20200907_20200907_2030",
-      "1661Bok"
-    ]
+    "note": "SAME BOOK as Al-Jawahir al-Mudiyyah — full title: الجواهر المضية في طبقات الحنفية",
+    "duplicate_of": "Al-Jawahir al-Mudiyyah"
   },
   "Tabaqat al-Mufassirin": {
     "found": true,
@@ -792,5 +787,26 @@
       "AAskZad-0191268",
       "alfirdwsiy2018_gmail_3059"
     ]
+  },
+  "Tabaqat al-Shafi'iyya (al-Isnawi)": {
+    "found": true,
+    "identifier": "1390-1",
+    "archive_title": "طبقات الشافعية - الإسنوي",
+    "url": "https://archive.org/details/1390-1",
+    "download_pdf": "https://archive.org/download/1390-1/1390-1.pdf"
+  },
+  "Tabaqat al-Shafi'iyya (Ibn Qadi Shuhba)": {
+    "found": true,
+    "identifier": "4_20221014_20221014_1355",
+    "archive_title": "طبقات الشافعية - ابن قاضي شهبة",
+    "url": "https://archive.org/details/4_20221014_20221014_1355",
+    "download_pdf": "https://archive.org/download/4_20221014_20221014_1355/4_20221014_20221014_1355.pdf"
+  },
+  "Al-Fawa'id al-Bahiyyah (al-Laknawi)": {
+    "found": true,
+    "identifier": "20250403_20250403_1325",
+    "archive_title": "الفوائد البهية في تراجم الحنفية",
+    "url": "https://archive.org/details/20250403_20250403_1325",
+    "note": "Alternative Hanafi tabaqat by al-Laknawi (d.1304 AH)"
   }
 }
