@@ -9760,13 +9760,13 @@
     "Mawaddat al-Qurba": {
       "name_arabic": "مودة القربى",
       "name_english": "Mawaddat al-Qurba",
-      "author_arabic": "علي بن حماد الحمداني",
-      "author_english": "Ali ibn Hammad al-Hamdani",
-      "author_death_ah": null,
+      "author_arabic": "مير سيد علي الهمداني",
+      "author_english": "Mir Sayyid Ali al-Hamadani",
+      "author_death_ah": 786,
       "book_type": "hadith",
       "era": "11th century AH",
-      "death_unknown": true,
-      "era_estimate": "10th-12th century AH (estimated from context)"
+      "death_unknown": false,
+      "source": "Wikipedia: Mir Sayyid Ali Hamadani (d. 786 AH / 1384 CE)"
     },
     "Hashiyat al-Mishkat": {
       "name_arabic": "حاشية المشكاة",
@@ -9807,13 +9807,13 @@
     "Sharaf al-Nubuwwa": {
       "name_arabic": "شرف النبوة",
       "name_english": "Sharaf al-Nubuwwa",
-      "author_arabic": "ابن أبي طالب",
-      "author_english": "Ibn Abi Talib",
-      "author_death_ah": null,
+      "author_arabic": "أبو سعد عبد الملك بن محمد الخركوشي",
+      "author_english": "Abu Sa'd Abd al-Malik al-Kharkushi",
+      "author_death_ah": 407,
       "book_type": "manaqib",
       "era": "11th century AH",
-      "death_unknown": true,
-      "era_estimate": "10th-12th century AH (estimated from context)"
+      "death_unknown": false,
+      "source": "Wikipedia Arabic: عبد الملك الخركوشي (d. 407 AH)"
     },
     "Manazir al-Anzar": {
       "name_arabic": "مناظر الأنظار",
@@ -10436,13 +10436,13 @@
     "Iisfaf al-Raghibin": {
       "name_arabic": "إسعاف الراغبين",
       "name_english": "Iisfaf al-Raghibin",
-      "author_arabic": "محمد بن أحمد الصباغ المصري",
-      "author_english": "Muhammad ibn Ahmad al-Sabbagh al-Misri",
-      "author_death_ah": null,
+      "author_arabic": "محمد بن علي الصباغ المصري",
+      "author_english": "Muhammad ibn Ali al-Sabbagh al-Misri",
+      "author_death_ah": 1206,
       "book_type": "Hadith",
       "era": "11th century AH",
-      "death_unknown": true,
-      "era_estimate": "10th-12th century AH (estimated from context)"
+      "death_unknown": false,
+      "source": "muslim-library.com: d. 1206 AH"
     },
     "Ghunyat al-Talibin": {
       "name_arabic": "غنية الطالبين",
@@ -10527,13 +10527,13 @@
     "Nibras": {
       "name_arabic": "نبراس",
       "name_english": "Nibras",
-      "author_arabic": "إبراهيم الكردي",
-      "author_english": "Ibrahim al-Kurdi",
-      "author_death_ah": null,
+      "author_arabic": "عبد العزيز الفرهاري",
+      "author_english": "Abd al-Aziz al-Farhari",
+      "author_death_ah": 1239,
       "book_type": "Hadith",
       "era": "11th century AH",
-      "death_unknown": true,
-      "era_estimate": "10th-12th century AH (estimated from context)"
+      "death_unknown": false,
+      "source": "Noor-book.com / archive.org: النبراس شرح شرح العقائد"
     },
     "Tafsir Kabir": {
       "name_arabic": "تفسير كبير",
