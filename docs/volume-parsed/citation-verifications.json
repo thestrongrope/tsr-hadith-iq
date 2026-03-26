@@ -1,0 +1,57 @@
+{
+  "verifications": [
+    {
+      "verification_status": "VERIFIED ✅",
+      "source_book": "Tahdhib al-Tahdhib — Indian Edition (ط. الهند)",
+      "volume": 2,
+      "page": 103,
+      "entry_number": 156,
+      "entry_subject": "Ja'far ibn Muhammad ibn Ali ibn al-Husayn ibn Ali ibn Abi Talib al-Hashimi al-Madani Abu Abdullah al-Sadiq",
+      "entry_subject_arabic": "جعفر بن محمد بن علي بن الحسين بن علي بن أبي طالب الهاشمي المدني أبو عبدالله الصادق",
+      "abaqat_citation": {
+        "volume": 23,
+        "line": 7181,
+        "text": "ابن حجر عسقلانى در تهذيب بترجمة آنجناب كفته"
+      },
+      "quotes_verified": {
+        "darawardi": {
+          "abaqat_text": "قال الدراوردي لم يرو مالك عن جعفر حتى ظهر أمر بني العباسي",
+          "tahdhib_text": "قال الدراوردي لم يرو مالك عن جعفر حتى ظهر أمر بني العباس",
+          "match": "EXACT MATCH (minor OCR variant: العباسی vs العباس)"
+        },
+        "musab": {
+          "abaqat_text": "وقال مصعب الربيري كان مالك لا يروي عنه حتى يضمه إلى آخر",
+          "tahdhib_text": "وقال مصعب الزبيري كان مالك لا يروي عنه حتى يضمه إلى آخر",
+          "match": "EXACT MATCH (الربيري is OCR of الزبيري)"
+        },
+        "yahya_ibn_said": {
+          "abaqat_text": "وقال ابن المديني سئل يحيى بن سعيد عنه فقال في نفسي منه شيء ومجالد أحب إلي منه",
+          "tahdhib_text": "وقال ابن المديني سئل يحيى بن سعيد عنه فقال في نفسي منه شيء ومجالد أحب إلي منه",
+          "match": "EXACT MATCH"
+        }
+      },
+      "conclusion": "Mir Hamid Husain's citation of Tahdhib al-Tahdhib (Vol 2, p.103, entry #156) is VERIFIED ACCURATE. All three evaluations he quotes (al-Darawardi, Mus'ab al-Zubayri, Yahya ibn Sa'id via Ibn al-Madini) are found verbatim in the source.",
+      "methodology_note": "Verified against Indian edition (ط. الهند) from waqfeya.net — the same edition likely used by Mir Hamid Husain at Nasiriya Library, Lucknow."
+    },
+    {
+      "verification_status": "VERIFIED",
+      "source_book": "Wafayat al-Ayan — Ihsan Abbas edition (Dar Sadir)",
+      "volume": 4,
+      "page": 313,
+      "entry_number": 636,
+      "entry_subject": "al-Mubarrad (Abu al-Abbas Muhammad ibn Yazid ibn Abd al-Akbar)",
+      "abaqat_citation": {
+        "volume": 3,
+        "line": 10102
+      },
+      "match": "EXACT — full genealogy of 15+ names matches verbatim",
+      "note": "Verified from Abaqat Vol 3 (not Vol 23) since Wafayat is not cited in Vol 23 body text"
+    }
+  ],
+  "total_verified": 2,
+  "total_books_verified": 2,
+  "books_verified": [
+    "Tahdhib al-Tahdhib",
+    "Wafayat al-Ayan"
+  ]
+}
