@@ -1,9 +1,33 @@
 {
-  "verification_target": "Ja'far ibn Muhammad al-Sadiq entry in Tahdhib al-Tahdhib",
-  "abaqat_citation": "Vol 23, line 7181: ابن حجر عسقلانی در تهذيب بترجمة آنجناب كفته",
-  "archive_org_copy": "3_20200224_202002 (4 volumes)",
-  "issue": "Entry for Ja'far al-Sadiq NOT FOUND in any of the 4 volumes. The OCR quality is poor and the volume arrangement may not match the standard 12-volume edition. Front matter confirmed but main biographical entries could not be located.",
-  "recommendation": "Use waqfeya.net editions instead — they have 4 curated editions including the Indian edition (ط. الهند) which matches the Nasiriya Library copy Mir Hamid Husain used.",
-  "cost_of_attempt": "$0.36 (two Grok 2M calls on vols 1 and 2)",
-  "lesson": "Archive.org copies may be incorrectly labeled, poorly OCR'd, or have non-standard volume arrangements. Waqfeya.net has better curated editions."
+  "verification_status": "VERIFIED ✅",
+  "source_book": "Tahdhib al-Tahdhib — Indian Edition (ط. الهند)",
+  "volume": 2,
+  "page": 103,
+  "entry_number": 156,
+  "entry_subject": "Ja'far ibn Muhammad ibn Ali ibn al-Husayn ibn Ali ibn Abi Talib al-Hashimi al-Madani Abu Abdullah al-Sadiq",
+  "entry_subject_arabic": "جعفر بن محمد بن علي بن الحسين بن علي بن أبي طالب الهاشمي المدني أبو عبدالله الصادق",
+  "abaqat_citation": {
+    "volume": 23,
+    "line": 7181,
+    "text": "ابن حجر عسقلانى در تهذيب بترجمة آنجناب كفته"
+  },
+  "quotes_verified": {
+    "darawardi": {
+      "abaqat_text": "قال الدراوردي لم يرو مالك عن جعفر حتى ظهر أمر بني العباسي",
+      "tahdhib_text": "قال الدراوردي لم يرو مالك عن جعفر حتى ظهر أمر بني العباس",
+      "match": "EXACT MATCH (minor OCR variant: العباسی vs العباس)"
+    },
+    "musab": {
+      "abaqat_text": "وقال مصعب الربيري كان مالك لا يروي عنه حتى يضمه إلى آخر",
+      "tahdhib_text": "وقال مصعب الزبيري كان مالك لا يروي عنه حتى يضمه إلى آخر",
+      "match": "EXACT MATCH (الربيري is OCR of الزبيري)"
+    },
+    "yahya_ibn_said": {
+      "abaqat_text": "وقال ابن المديني سئل يحيى بن سعيد عنه فقال في نفسي منه شيء ومجالد أحب إلي منه",
+      "tahdhib_text": "وقال ابن المديني سئل يحيى بن سعيد عنه فقال في نفسي منه شيء ومجالد أحب إلي منه",
+      "match": "EXACT MATCH"
+    }
+  },
+  "conclusion": "Mir Hamid Husain's citation of Tahdhib al-Tahdhib (Vol 2, p.103, entry #156) is VERIFIED ACCURATE. All three evaluations he quotes (al-Darawardi, Mus'ab al-Zubayri, Yahya ibn Sa'id via Ibn al-Madini) are found verbatim in the source.",
+  "methodology_note": "Verified against Indian edition (ط. الهند) from waqfeya.net — the same edition likely used by Mir Hamid Husain at Nasiriya Library, Lucknow."
 }
