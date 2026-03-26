@@ -10436,13 +10436,13 @@
     "Iisfaf al-Raghibin": {
       "name_arabic": "إسعاف الراغبين",
       "name_english": "Iisfaf al-Raghibin",
-      "author_arabic": "محمد بن علي الصباغ المصري",
-      "author_english": "Muhammad ibn Ali al-Sabbagh al-Misri",
+      "author_arabic": "محمد بن علي الصبان المصري",
+      "author_english": "Muhammad ibn Ali al-Sabban al-Misri",
       "author_death_ah": 1206,
       "book_type": "Hadith",
       "era": "11th century AH",
       "death_unknown": false,
-      "source": "muslim-library.com: d. 1206 AH"
+      "source": "Abaqat Vol 23 line 13271 (محمد سبان); Wikipedia Arabic confirms d.1206 AH"
     },
     "Ghunyat al-Talibin": {
       "name_arabic": "غنية الطالبين",
@@ -10527,13 +10527,15 @@
     "Nibras": {
       "name_arabic": "نبراس",
       "name_english": "Nibras",
-      "author_arabic": "عبد العزيز الفرهاري",
-      "author_english": "Abd al-Aziz al-Farhari",
-      "author_death_ah": 1239,
+      "author_arabic": "إبراهيم الكردي",
+      "author_english": "Ibrahim al-Kurdi",
+      "author_death_ah": null,
       "book_type": "Hadith",
       "era": "11th century AH",
-      "death_unknown": false,
-      "source": "Noor-book.com / archive.org: النبراس شرح شرح العقائد"
+      "death_unknown": true,
+      "source": "Abaqat Vol 23 line 8446: ابراهيم كردى كه از مشائخ اجازه شاه ولى الله",
+      "era_estimate": "Before Shah Wali Allah (d.1176 AH) — his teacher per Abaqat",
+      "note": "Google/archive.org attributes al-Nibras to al-Farhari — but Abaqat names Ibrahim al-Kurdi. Abaqat is primary source."
     },
     "Tafsir Kabir": {
       "name_arabic": "تفسير كبير",
