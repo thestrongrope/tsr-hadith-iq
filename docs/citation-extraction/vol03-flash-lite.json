@@ -1,0 +1,177 @@
+{
+  "model": "Gemini 3.1 Flash Lite",
+  "model_id": "gemini-3.1-flash-lite-preview",
+  "volume": 3,
+  "hadith_defended": "Hadith al-Ghadir (Sanad)",
+  "chunk_lines": 2000,
+  "num_chunks": 1,
+  "stats": {
+    "input_tokens": 30914,
+    "output_tokens": 1827,
+    "elapsed_seconds": 9.6
+  },
+  "cost": {
+    "input": 0.0077,
+    "output": 0.0027,
+    "total": 0.0105
+  },
+  "total_citations": 12,
+  "unique_books": 12,
+  "unique_authors": 4,
+  "citations_by_context": {
+    "PRIMARY_REBUTTAL": 5,
+    "AUTHOR_TAWTHIQ": 6,
+    "AUTHOR_TAJRIH": 1
+  },
+  "citations": [
+    {
+      "book_arabic": "الفصول",
+      "book_transliterated": "al-Fusul",
+      "author_arabic": "الشريف المرتضى",
+      "author_transliterated": "al-Sharif al-Murtada",
+      "author_death_ah": 436,
+      "citation_context": "PRIMARY_REBUTTAL",
+      "context_detail": "Cited to refute the claims of al-Nazzam and al-Jahiz regarding the behavior of Imam Ali (as) at the time of the Khawarij.",
+      "subject_scholar": null,
+      "vol_page_cited": "p. 50",
+      "_chunk": 3,
+      "_lines": "4001-6000"
+    },
+    {
+      "book_arabic": "العبر في خبر من غبر",
+      "book_transliterated": "al-'Ibar fi Khabar man Ghabar",
+      "author_arabic": "الذهبي",
+      "author_transliterated": "al-Dhahabi",
+      "author_death_ah": 748,
+      "citation_context": "AUTHOR_TAWTHIQ",
+      "context_detail": "Cited to establish the high status and scholarly standing of Shaykh al-Mufid.",
+      "subject_scholar": "Shaykh al-Mufid",
+      "vol_page_cited": "p. 417",
+      "_chunk": 3,
+      "_lines": "4001-6000"
+    },
+    {
+      "book_arabic": "تاريخ الإمامية",
+      "book_transliterated": "Tarikh al-Imamiyya",
+      "author_arabic": "ابن أبي طي",
+      "author_transliterated": "Ibn Abi Tayy",
+      "author_death_ah": 630,
+      "citation_context": "AUTHOR_TAWTHIQ",
+      "context_detail": "Cited within the biography of Shaykh al-Mufid to praise his asceticism and scholarly rank.",
+      "subject_scholar": "Shaykh al-Mufid",
+      "vol_page_cited": null,
+      "_chunk": 3,
+      "_lines": "4001-6000"
+    },
+    {
+      "book_arabic": "مرآة الجنان وعبرة اليقظان",
+      "book_transliterated": "Mir'at al-Janan wa 'Ibrat al-Yaqzan",
+      "author_arabic": "اليافعي",
+      "author_transliterated": "al-Yafi'i",
+      "author_death_ah": 768,
+      "citation_context": "AUTHOR_TAWTHIQ",
+      "context_detail": "Cited to provide a biographical account of Shaykh al-Mufid and his virtues.",
+      "subject_scholar": "Shaykh al-Mufid",
+      "vol_page_cited": "j.3 p.24",
+      "_chunk": 3,
+      "_lines": "4001-6000"
+    },
+    {
+      "book_arabic": "لسان الميزان",
+      "book_transliterated": "Lisan al-Mizan",
+      "author_arabic": "ابن حجر العسقلاني",
+      "author_death_ah": 852,
+      "citation_context": "AUTHOR_TAWTHIQ",
+      "context_detail": "Cited to provide a biographical entry on Shaykh al-Mufid, noting his scholarly influence.",
+      "subject_scholar": "Shaykh al-Mufid",
+      "vol_page_cited": null,
+      "_chunk": 3,
+      "_lines": "4001-6000"
+    },
+    {
+      "book_arabic": "تاريخ بغداد",
+      "book_transliterated": "Tarikh Baghdad",
+      "author_arabic": "الخطيب البغدادي",
+      "author_death_ah": 463,
+      "citation_context": "AUTHOR_TAJRIH",
+      "context_detail": "Cited by Ibn Hajar in Lisan al-Mizan to criticize Shaykh al-Mufid's theological positions.",
+      "subject_scholar": "Shaykh al-Mufid",
+      "vol_page_cited": null,
+      "_chunk": 3,
+      "_lines": "4001-6000"
+    },
+    {
+      "book_arabic": "الوافي بالوفيات",
+      "book_transliterated": "al-Wafi bi-l-Wafayat",
+      "author_arabic": "الصفدي",
+      "author_death_ah": 764,
+      "citation_context": "AUTHOR_TAWTHIQ",
+      "context_detail": "Cited for the biographical entry of Shaykh al-Mufid, acknowledging his unique status in his era.",
+      "subject_scholar": "Shaykh al-Mufid",
+      "vol_page_cited": null,
+      "_chunk": 3,
+      "_lines": "4001-6000"
+    },
+    {
+      "book_arabic": "تحفة اثنا عشرية",
+      "book_transliterated": "Tuhfat Ithna 'Ashariyya",
+      "author_arabic": "شاه عبد العزيز الدهلوي",
+      "author_death_ah": 1239,
+      "citation_context": "PRIMARY_REBUTTAL",
+      "context_detail": "Cited to expose the polemical arguments used by Dehlavi regarding Imam Ali's (as) asceticism.",
+      "subject_scholar": null,
+      "vol_page_cited": "p. 11",
+      "_chunk": 3,
+      "_lines": "4001-6000"
+    },
+    {
+      "book_arabic": "شرح نهج البلاغة",
+      "book_transliterated": "Sharh Nahj al-Balagha",
+      "author_arabic": "ابن أبي الحديد المعتزلي",
+      "author_death_ah": 656,
+      "citation_context": "PRIMARY_REBUTTAL",
+      "context_detail": "Cited to refute the claims of the 'Uthmaniyya regarding Imam Ali's (as) wealth and asceticism.",
+      "subject_scholar": null,
+      "vol_page_cited": "j.2 p.45",
+      "_chunk": 3,
+      "_lines": "4001-6000"
+    },
+    {
+      "book_arabic": "نقض العثمانية",
+      "book_transliterated": "Naqd al-'Uthmaniyya",
+      "author_arabic": "أبو جعفر الإسكافي",
+      "author_death_ah": 240,
+      "citation_context": "PRIMARY_REBUTTAL",
+      "context_detail": "Cited to refute the fallacious arguments of al-Jahiz regarding the age and faith of Imam Ali (as).",
+      "subject_scholar": null,
+      "vol_page_cited": null,
+      "_chunk": 3,
+      "_lines": "4001-6000"
+    },
+    {
+      "book_arabic": "الفصول المختارة",
+      "book_transliterated": "al-Fusul al-Mukhtara",
+      "author_arabic": "الشريف المرتضى",
+      "author_death_ah": 436,
+      "citation_context": "PRIMARY_REBUTTAL",
+      "context_detail": "Cited to provide Shaykh al-Mufid's detailed rebuttal against the Nasibi claims regarding Imam Ali's (as) early Islam.",
+      "subject_scholar": null,
+      "vol_page_cited": "p. 60-70",
+      "_chunk": 3,
+      "_lines": "4001-6000"
+    },
+    {
+      "book_arabic": "وسيلة النجاة",
+      "book_transliterated": "Wasilat al-Najat",
+      "author_arabic": "مولوي مبين",
+      "author_death_ah": 1257,
+      "citation_context": "AUTHOR_TAWTHIQ",
+      "context_detail": "Cited to support the argument regarding the purity and excellence of Imam Ali (as) from birth.",
+      "subject_scholar": "Imam Ali (as)",
+      "vol_page_cited": null,
+      "_chunk": 3,
+      "_lines": "4001-6000"
+    }
+  ],
+  "errors": []
+}
