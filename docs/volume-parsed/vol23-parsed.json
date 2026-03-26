@@ -22,45 +22,52 @@
     {
       "id": 2,
       "type": "TAMHID",
-      "raw_heading": "از س كه «خاطب ما ميخواهد كه در قول آتى خود بر عضمون حديث سفينه",
+      "raw_heading": "تمهيد: مقدمه در باب حديث سفينه و رد ابن تيميه",
       "start_line": 259,
-      "end_line": 262,
-      "line_count": 4,
+      "end_line": 407,
+      "line_count": 149,
       "char_count": 294,
       "parsed": {
-        "summary": "In this preface (tamhid), Mir Hamid Husain addresses an opponent's demand to substantiate the Hadith al-Safinah in relation to an upcoming statement, amid clear hostility and aggression from the Ahl al-Sunnah scholars. He announces his plan for the volume: first, to prove and establish the authenticity of Hadith al-Safinah despite the denial and enmity of some Sahabah; second, to clarify and explain it under its own dedicated chapter. This sets the stage for a robust defense against Sunni objections.",
-        "hadith_text_quoted": "",
-        "opponent_quoted": "خاطب ما (our addressee/interlocutor, i.e., a Sunni scholar)",
-        "opponent_claim_verbatim": "خاطب ما ميخواهد كه در قول آتى خود بر عضمون حديث سفينه كلام خديعت انضمام :مايد » ودر صر فآن از مطلوب وعرام اهل ح قّكرام راه ذبغ وعدوان بهيمايد",
-        "authors_stated_plan": "اولاً درإثبات وإحقاق حديث سفينه رغمًا الأنف بعض صحاب البغضاء والتّفيئه حتت خود بر كماريم؛ و«ثانيًا» درتبيين وتوضيح",
+        "summary": "The introduction outlines the author's plan to authenticate Hadith al-Safinah despite attacks from its enemies, clarify its implication of the Imamate and caliphate of the Ahl al-Bayt, and refute the absurd claims of the addressee, particularly those of Dehlavi. It highlights Ibn Taymiyyah's denial of the hadith from Minhaj al-Sunnah and counters it by listing numerous prominent scholars from early and later periods who narrated it with multiple chains. The author emphasizes the hadith's widespread transmission to silence opponents and strengthen faith.",
+        "hadith_text_quoted": "مثل أهلبيتى مثل سفيئة نوح",
+        "ibn_taymiyyah_denial": {
+          "verbatim_arabic": "أما قوله : « مثل أهلبيتى مثل سفيئة نوح » قهذا لاعرف له إسناد أسلاً؛ سيم ولاشعيف” ولاهوني شير هن كتب الحديث الَتى يعتمد عليبا » وإنكان قدرواء هن يروى أمثاله من حطاب اليل الذين يروون الموضوعات ؛ فهذا ميا يزيده وهناً وضماً",
+          "source_book_arabic": "منهاج السنة",
+          "source_book_english": "Minhaj al-Sunnah",
+          "translation": "As for his saying: 'The likeness of my Ahl al-Bayt is like the ark of Noah'—this has no known chain of narration at all; neither Sahih nor Hasan nor even weak in the books of hadith upon which reliance is placed. Even if it were narrated, it would be by night talkers who narrate fabrications; this only adds weakness and repulsiveness to it."
+        },
+        "authors_stated_plan": "(1) Prove and authenticate Hadith al-Safinah despite attacks from its enemies like Nawasib and Khawarij; (2) Clarify and explain its indication for the Imamate and caliphate of Ahl al-Bayt with brief proofs; (3) Refute the remaining absurd words, deceptions, and fabrications of the addressee Dehlavi.",
+        "scholars_listed": [
+          "عيّن أدريس القفّالي صاحب المذهب المعروف (d. سنة 1؟)",
+          "أحمد بن حنبل الشيباني صاحب المسند المشهور (d. 241 AH)",
+          "مسلم بن الحجّاج القشيري صاحب الصحيح (d. 261 AH)",
+          "أبو عبدالله بن مسلم بن قتيبة الدّينوري (d. 276 AH)",
+          "أبو بكر أحمد بن عبد الخالق البصري المعروف بالبرّار صاحب المسند (d. 295 AH)",
+          "أبو يعلى أحمد بن علي التميمي الموصلي صاحب المسند (d. 307 AH)",
+          "أبو جعفر محمد بن جرير الطبري صاحب التفسير والتاريخ (d. 310 AH)",
+          "أبو بكر عبد الله بن يحيى القطّان صاحب كتاب الأوراق (d. 305 AH)",
+          "أبو الفرج علي بن الحسين الأصفهاني (d. 356 AH)",
+          "أبو القاسم سليمان بن أحمد الطبراني صاحب التعانيم المشهورة (d. 360 AH)"
+        ],
+        "total_scholars_listed": "100+",
         "_meta": {
           "model": "grok",
-          "tokens": {
-            "input_tokens": 572,
-            "output_tokens": 298
-          }
+          "note": "re-parsed with extended range L259-407"
         }
       },
       "citations": []
     },
     {
       "id": 3,
-      "type": "DALALAH",
+      "type": "MERGED_INTO_TAMHID",
       "raw_heading": "دلالت بن حديث شريف برامامت وخلافت اهلبيت عليهم الشلام بيانى موجز برروي",
       "start_line": 263,
       "end_line": 407,
       "line_count": 145,
       "char_count": 6891,
       "parsed": {
-        "proofs": [],
-        "total_proofs": 0,
-        "_meta": {
-          "model": "grok",
-          "tokens": {
-            "input_tokens": 4089,
-            "output_tokens": 17
-          }
-        }
+        "skipped": true,
+        "reason": "merged into section 2 (TAMHID)"
       },
       "citations": []
     },
@@ -74,58 +81,78 @@
       "char_count": 4002,
       "parsed": {
         "narrator": {
-          "name_arabic": "محمد بن إدريس الشافعي",
-          "name_transliterated": "Muhammad ibn Idris al-Shafi'i",
+          "name_arabic": "الإمام الشافعي",
+          "name_transliterated": "al-Imam al-Shafi'i",
           "death_ah": 204,
-          "school": "Shafi'i"
+          "role": "original narrator — reported the hadith through his own isnad"
         },
-        "source_book": {
-          "name_arabic": "فرائد السمطين",
-          "name_transliterated": "Fara'id al-Simtayn",
-          "book_type": "hadith"
+        "preserving_source": {
+          "book_arabic": "فرائد السمطين",
+          "book_transliterated": "Fara'id al-Simtayn",
+          "compiler_arabic": "صدر الدين أبو المجامع الحموي",
+          "compiler_transliterated": "Sadr al-Din Abu al-Majami' al-Hamawi",
+          "compiler_death_ah": null
         },
         "companion_narrator": "أبو ذر الغفاري",
-        "isnad_summary": "الشافعي ← المفضل بن سَعْد ← علي بن إدريس الشافعي ← أبو علي بن أبي بكر الفقيه ← أحمد بن إبراهيم ← أبو الحسن علي الواحدي ← عبد الجبار بن عد الجوازي ← المؤيد بن عد بن علي العطّافي، عن جماعة العلامة نجم الدين عثمان الموقّق الأذكيّ، إلى حَشَّاش بن المُعْتَمِر الكناني ← أبي إسحاق السبيعي ← أبي ذر",
-        "hadith_text": "سمعت أبا ذرَّ رضي الله عنه عند باب الكعبة وهو يقول: ها لاس! من عرفني فأنا الذي قد عرفتم، ومن لا يعرفني فأنا أبو ذرّ. ني سمعت رسول الله صلى الله عليه وآله يقول: إِنَّما مَثَلُ أَهْلِ بَيْتِي فِيكُمْ كَمَثَلِ سَفِينَةِ نُوحٍ مَنْ دَخَلَهَا نَجَا وَمَنْ تَخَلَّفَ عَنْهَا هَلَكَ.",
-        "author_commentary": "الشافعي لم يكتفِ برواية الحديث بل اعتبره من كمال الحسن والجمال، وصرّح بركوب سفينة أهل البيت وتمسُّك حبلهم كحبل الله، وأنهم الفرقة الناجية، ومن تخلَّف عنهم هلك، مع اقتباسات من ذخيرة المآل للعجلي وكلام الشافعي نفسه.",
-        "additional_books_cited": [
-          {
-            "name_arabic": "ذخيرة المآل",
-            "name_transliterated": "Dhakhirat al-Ma'al",
-            "author": "صدر الدين أبو المجامع الحموي"
-          },
-          {
-            "name_arabic": "مشكاة المصابيح",
-            "name_transliterated": "Mishkat al-Masabih",
-            "author": null
-          },
-          {
-            "name_arabic": "الصواعق المحرقة",
-            "name_transliterated": "al-Sawa'iq al-Muhriqah",
-            "author": "ابن حجر المكّي"
-          },
-          {
-            "name_arabic": "صحيح مسلم",
-            "name_transliterated": "Sahih Muslim",
-            "author": "مسلم بن الحجّاج القشيري"
-          },
-          {
-            "name_arabic": "المعارف",
-            "name_transliterated": "al-Ma'arif",
-            "author": "ابن قتيبة"
-          },
-          {
-            "name_arabic": "عيون الأخبار",
-            "name_transliterated": "Uyoun al-Akhbar",
-            "author": "ابن قتيبة"
-          }
+        "full_isnad": [
+          "صدر الدين أبو المجامع الحموي",
+          "المؤيد بن عد بن علي العطوسي عن عبد الجبار بن عد الجوازي إجازة",
+          "أبو الحسن علي الواحدي",
+          "القضل بن أحمد بن عيسى بن إبراهيم",
+          "أبو علي بن أبي بكر الفقيه",
+          "علي بن إدريس الشافعي",
+          "المفضل بن سعد",
+          "أبو إسحاق السبيعي",
+          "حشش بن المعتمر الكناني",
+          "أبو ذر الغفاري",
+          "رسول الله ﷺ"
         ],
+        "hadith_text_arabic": "إِنَّمَا مَثَلُ أَهْلِ بَيْتِي فِيكُمْ كَمَثَلِ سَفِينَةِ نُوحٍ مَنْ دَخَلَهَا نَجَا وَمَنْ تَخَلَّفَ عَنْهَا هَلَكَ",
+        "additional_content": {
+          "shafii_poetry": "أَقَامَتْ أَئِمَّةُ الْأَرْبَعَةِ فِي أَبْحُرِ الْغَيِّ وَالْجَبَلْ * رَكِبْتُ عَلَى أَسْمَاءِ اللَّهِ فِي سَفِينَتِهَا وَهُمْ أَهْلُ بَيْتِ الْمُصْطَفَى خَاتَمِ الرُّسُلْ * وَأَمْسَكْتُ حَبْلَ اللَّهِ وَهُوَ وَلَايَتُهُمْ كَمَا قَدْ أَمَرَنَا بِالْتَمَسُّكِ بِالْحَبْلْ * إِذَا افْتَرَقَتْ فِي الدِّينِ سَبْعُونَ فِرْقَةً وَنَيْفًا عَلَى مَا جَاءَ فِي وَاضِحِ النَّبِيِّ * وَلَمْ يَكُنْ نَاجٍ مِنْهُمْ غَيْرُ فِرْقَةٍ قَالَ لِي بِهَا يَا ذَا الرَّجَاحَةِ وَالْمَقْلْ * الْبَيْتَ آلُ مُحَمَّدٍ أَمَا الْفِرْقَةُ لِلَّذِي نَجْتَمَعْنَا بِهِمْ قُلْتُ * فَإِنْ قُلْتَ فِي التَّاجِينَ فَالْقُولْ وَاحِدٌ وَإِنْ قُلْتَ فِي الْبَيْتَ حَفِظْتَ عَنِ الْمَدْلْ * إِذَا كَانَ مَوْلَى الْقَوْمِ مِنْهُمْ فَاتَّبِعْهُمْ * رَضِيتُ بِهِمْ لَأَزَالَ فِي ظِلِّهِمْ ظِلِّي * رَشِيدْتُ عَلِيًّا لِي إِمَامًا وَتَسَلَّمْتُ مِنَ الْبَاقِينَ فِي أَوْسَعِ الْحِلْ",
+          "other_books_cited": [
+            {
+              "arabic": "ذخيرة المآل",
+              "english": "Dhakhirat al-Ma'al",
+              "author_arabic": "علاء الدين العجلي",
+              "author_english": "'Ala' al-Din al-'Ajili"
+            },
+            {
+              "arabic": "مشكاة المصابيح",
+              "english": "Mishkat al-Masabih",
+              "author_arabic": "أحمد بن محمد بن حنبل الشيباني",
+              "author_english": "Ahmad b. Muhammad b. Hanbal al-Shaybani"
+            },
+            {
+              "arabic": "الصواعق",
+              "english": "al-Sawa'iq",
+              "author_arabic": "ابن حجر المكي",
+              "author_english": "Ibn Hajar al-Makki"
+            },
+            {
+              "arabic": "الصحيح",
+              "english": "Sahih Muslim",
+              "author_arabic": "مسلم بن الحجاج القشيري",
+              "author_english": "Muslim b. al-Hajjaj al-Qushayri"
+            },
+            {
+              "arabic": "المعارف",
+              "english": "al-Ma'arif",
+              "author_arabic": "ابن قتيبة",
+              "author_english": "Ibn Qutaybah"
+            },
+            {
+              "arabic": "عيون الأخبار",
+              "english": "'Uyoun al-Akhbar",
+              "author_arabic": "ابن قتيبة",
+              "author_english": "Ibn Qutaybah"
+            }
+          ]
+        },
+        "author_commentary_summary": "Mir Hamid Husayn highlights al-Shafi'i's explicit narration of Hadith al-Safinah through Abu Dharr, preserved in Fara'id al-Simtayn, emphasizing al-Shafi'i's attachment to the Ahl al-Bayt as the saving ship and his poetry declaring adherence to them as the saved sect, riding Noah's ark metaphor, holding the rope of their wilayah, and preferring Ali as imam, contrasting with other sects destined for perdition.",
         "_meta": {
           "model": "grok",
-          "tokens": {
-            "input_tokens": 2711,
-            "output_tokens": 877
-          }
+          "note": "re-parsed with narrator/source distinction"
         }
       },
       "citations": []
@@ -2917,110 +2944,297 @@
       "line_count": 202,
       "char_count": 6279,
       "parsed": {
+        "section_title": "دلالة حديث السفينة على الإمامة والخلافة",
         "proofs": [
           {
             "number": 1,
             "number_farsi": "وجه اول",
-            "argument_summary": "The hadith proves the absolute obligation to follow Ahl al-Bayt after Allah and the Messenger, as following them is necessary for salvation, similar to Hadith al-Thaqalayn.",
-            "argument_text_excerpt": "نکه اين حديث شريف دلالت دارد بر وجوب إتباع أهلبيت عليهم السلام على الاطلاق » و وجوب إتباع غلى الا طلاق بعد خداورسول",
+            "argument_arabic_excerpt": "نکه اين حديث شريف دلالت دارد بر وجوب إتباع أهلبيت عليهم السلام على الاطلاق » و وجوب إتباع غلى الا طلاق بعد خداورسول َيل براىاحدى جزامام زما نه وخليفةٌ آنجنا ب ثابت يندت »كما دريت فيما سبق في أدلة دلالةحديث الثقلين على المطلوب ؛ وله البادى لعباده إلى .اللقم الملحوب . وآنجه شهاب الثيين دولت آبا دي دره هدايت السعدا » ازكتاب « تشريح » درشرح مطالب حديثسفيئه نقلكرده",
+            "argument_english": "The hadith proves the absolute obligation to follow Ahl al-Bayt after God and the Messenger, establishing their Imamate and caliphate without restriction. This mirrors the dalalah of Hadith al-Thaqalayn as previously explained. Scholars like Shabah al-Din and 'Ajiili affirm this in their works, emphasizing the eloquence in proving their leadership.",
             "evidence_type": "textual",
             "sources_cited": [
               {
-                "name": "تشريح في شرح مطالب حديث سفينة",
-                "author": "شهاب الدين"
+                "arabic": "تشريح المطالب في شرح حديث السفينة",
+                "english": "Tashrih al-Matalib fi Sharh Hadith al-Safina",
+                "author_arabic": "شهاب الدين",
+                "author_english": "Shabah al-Din"
               },
               {
-                "name": "ذخيرة المآل",
-                "author": "عجيلي"
+                "arabic": "ذخيرة المآل",
+                "english": "Dhakhirah al-Ma'al",
+                "author_arabic": "عجيلي",
+                "author_english": "'Ajiili"
               }
-            ]
+            ],
+            "key_reasoning": "Obligation to follow Ahl al-Bayt absolutely implies their Imamate, as no one else is established as such after Prophet."
           },
           {
             "number": 2,
             "number_farsi": "وجه دوم",
-            "argument_summary": "Following Ahl al-Bayt is the means of salvation; their infallibility is evident, and prioritizing non-infallibles over them is invalid.",
-            "argument_text_excerpt": "تكه ين حديث شريف دلالت دارد برآفكه اتباع اهل بيت كلل موجب نجات ست ء ويرظاهرستكه ابن معنى نزرد",
-            "evidence_type": "logical",
+            "argument_arabic_excerpt": "تكه ين حديث شريف دلالت دارد برآفكه اتباع اهل بيت كلل موجب نجات ست ء ويرظاهرستكه ابن معنى نزرد كسىكه أدنى بصيرتى داشت ياشد دليل عسمت ابن <ضرات ميباشد, و عسمت اين حضرات بلاشبهه موجب امامت و خلافتشان ست",
+            "argument_english": "Following Ahl al-Bayt ensures salvation, and this meaning clearly proves their infallibility ('ismah), as their likeness to Noah's ship implies Imamate and caliphate. Prioritizing non-infallible over infallible is rejected by rational scholars. Additional quotes from commentaries reinforce that adherence saves from Hell.",
+            "evidence_type": "linguistic",
             "sources_cited": [
               {
-                "name": "تفسير",
-                "author": "احدى"
+                "arabic": "تفسير",
+                "english": "Tafsir",
+                "author_arabic": "unknown",
+                "author_english": "unknown"
               },
               {
-                "name": "زين الفتى",
-                "author": "عاصمي"
+                "arabic": "زين الفتى",
+                "english": "Zayn al-Fatta",
+                "author_arabic": "عاصمي",
+                "author_english": "'Asimi"
               }
-            ]
+            ],
+            "key_reasoning": "Salvation through adherence implies 'ismah, essential for Imamate."
           },
           {
             "number": 3,
             "number_farsi": "وجه سوم",
-            "argument_summary": "The hadith indicates the superiority of Ahl al-Bayt over all creation, as the Prophet compared them exclusively to Noah's ship for following and obedience.",
-            "argument_text_excerpt": "تكه ابن حديث شريف دلالت دارد برأفضلتِتأهلبيت عليهم السلام برقاطبه خلائق » زيراكه اكرسواى ابن حضرات",
-            "evidence_type": "linguistic",
-            "sources_cited": []
+            "argument_arabic_excerpt": "تكه ابن حديث شريف دلالت دارد برأفضلتِتأهلبيت عليهم السلام برقاطبه خلائق » زيراكه اكرسواى ابن حضرات كسى ديكر معاذالل ‏ أفضلهميبود لابد جنا ب رسا لتمآب يري هما نكس را شبيه سفينه نوح قرار داده",
+            "argument_english": "The hadith proves the superiority of Ahl al-Bayt over all creation, as the Prophet likened no one else to Noah's saving ship, necessitating absolute obedience and following them.",
+            "evidence_type": "logical",
+            "sources_cited": [],
+            "key_reasoning": "Exclusive likeness to Noah's ship indicates unparalleled superiority."
           },
           {
             "number": 4,
-            "number_farsi": "وجه چهارم",
-            "argument_summary": "The hadith proves the absolute obligation to love Ahl al-Bayt, which implies their obedience, infallibility, and superiority, hence Imamate.",
-            "argument_text_excerpt": "نکه ابن حديث شريف دلالت دارد بر وحوبٌ محيّت أهل بيت عليهم السلام على الاطلاق » و وجوب محيت",
-            "evidence_type": "logical",
-            "sources_cited": []
+            "number_farsi": "وجه جهارم",
+            "argument_arabic_excerpt": "نکه ابن حديث شريف دلالت دارد بر وحوبٌ محيّت أهل بيت عليهم السلام على الاطلاق » و وجوب محيت على الإطلاق -كما دريت في مجلد آبسة الودّة - دليل وجوب اطاعت وعصمت و أفضليت اين حضرات",
+            "argument_english": "The hadith mandates absolute love for Ahl al-Bayt, which proves obedience, infallibility, and superiority, as detailed in prior volumes.",
+            "evidence_type": "textual",
+            "sources_cited": [],
+            "key_reasoning": "Absolute love entails obedience and 'ismah for Imams."
           },
           {
             "number": 5,
-            "number_farsi": "وجه پنجم",
-            "argument_summary": "Loving Ahl al-Bayt is the cause of salvation, which requires their infallibility, as divine pleasure cannot be attained through loving non-infallibles.",
-            "argument_text_excerpt": "تكه أن حديث شريف دلالت دارد بر آنكه محبث أهل بيت عليهم السلام سبب نجات ست» ود ركمال ظهورستكه",
+            "number_farsi": "وجه بنجم",
+            "argument_arabic_excerpt": "تكه أن حديث شريف دلالت دارد بر آنكه محبث أهل بيت عليهم السلام سبب نجات ست» ود ركمال ظهورستكه اين معنى مستلزم عسمت ابن حضرات مىباشد",
+            "argument_english": "Love for Ahl al-Bayt causes salvation, implying their 'ismah, as divine pleasure cannot be through loving those not divinely approved.",
             "evidence_type": "logical",
-            "sources_cited": []
+            "sources_cited": [],
+            "key_reasoning": "Love as salvation path requires infallibility."
           },
           {
             "number": 6,
-            "number_farsi": "وجه ششم",
-            "argument_summary": "The hadith proves the misguidance of those who abandoned Ahl al-Bayt, including the first three caliphs, as their caliphate was invalid due to deviation.",
-            "argument_text_excerpt": "آتكه اين حديث شريفدلالت دارد ب ركف روضلال متخلفينازأهلبيت عليهم الّلام » وتخآف حضرات خلفا ى ثلاثه",
-            "evidence_type": "historical",
-            "sources_cited": [
-              {
-                "name": "كتب الكلام",
-                "author": "علماء الأعلام"
-              }
-            ]
+            "number_farsi": "وجهشم",
+            "argument_arabic_excerpt": "آتكه اين حديث شريفدلالت دارد ب ركف روضلال متخلفينازأهلبيت عليهم الّلام » وتخآف حضرات خلفا ى ثلاثه وأحزابشان از أهل بيت",
+            "argument_english": "The hadith proves the misguidance of those abandoning Ahl al-Bayt, clearer than day, refuting the caliphate of the first three and their followers.",
+            "evidence_type": "textual",
+            "sources_cited": [],
+            "key_reasoning": "Abandonment leads to ruin, invalidating rival claims."
           },
           {
             "number": 7,
-            "number_farsi": "وجه هفتم",
-            "argument_summary": "Souls of Ahl al-Bayt are like Noah's ship distinguishing believers from disbelievers, requiring their general Imamate and infallibility.",
-            "argument_text_excerpt": "تكه ابن <ديث شريف لالت دارد برآنكه نفوس قدستِه أهلبيت عليهم الشّلام مثل سفينه نوح مز بينالمؤمن والكافر",
+            "number_farsi": "وجههفتم",
+            "argument_arabic_excerpt": "تكه ابن <ديث شريف لالت دارد برآنكه نفوس قدستِه أهلبيت عليهم الشّلام مثل سفينه نوح مز بينالمؤمن والكافرهستند . واين معنىهم بحمدال , تعا لى موجب ياست عامّه وامارت تاها يشائست",
+            "argument_english": "Souls of Ahl al-Bayt distinguish believer from disbeliever like Noah's ship, necessitating general Imamate.",
             "evidence_type": "logical",
-            "sources_cited": []
+            "sources_cited": [],
+            "key_reasoning": "Distinguishing faith requires infallible Imams."
           },
           {
             "number": 8,
             "number_farsi": "وجه هشتم",
-            "argument_summary": "The hadith requires the continuous presence of an infallible from Ahl al-Bayt until Qiyamah, like passengers boarding the saving ship successively.",
-            "argument_text_excerpt": "آنكه ابن حديث شريف دلالت دارد برآفكه بقاي إهام معصوم از حضرات أهلبيت عليهم السّلام إلى يومالقيامة",
+            "argument_arabic_excerpt": "آنكه ابن حديث شريف دلالت دارد برآفكه بقاي إهام معصوم از حضرات أهلبيت عليهم السّلام إلى يومالقيامة لازم است",
+            "argument_english": "The hadith requires continuous presence of infallible Imam from Ahl al-Bayt until Qiyamah for ongoing salvation.",
             "evidence_type": "logical",
-            "sources_cited": []
+            "sources_cited": [],
+            "key_reasoning": "Perpetual ship implies perpetual Imams."
           },
           {
             "number": 9,
             "number_farsi": "وجه نهم",
-            "argument_summary": "The Prophet placed Hadith al-Safina within the context of Hadith 'Itaruk' to illuminate faith, adorning the truth with beauty for believers.",
-            "argument_text_excerpt": "آتكه جناب رسالتمآ جَإِْيةْ حديث سفينه رادرضمن سياقطولائي حديث «إتى تارك فيكم »كه هره رجمله",
+            "argument_arabic_excerpt": "آتكه جناب رسالتمآ جَإِْيةْ حديث سفينه رادرضمن سياقطولائي حديث «إتى تارك فيكم »",
+            "argument_english": "Prophet embedded Hadith al-Safina in wilayah context of longer hadith, illuminating Imamate for believers.",
             "evidence_type": "textual",
-            "sources_cited": []
+            "sources_cited": [
+              {
+                "arabic": "أربعين",
+                "english": "Arba'in",
+                "author_arabic": "مسلم بن أبي الفوارس الرازي",
+                "author_english": "Muslim b. Abi al-Fawaris al-Razi"
+              }
+            ],
+            "key_reasoning": "Contextual embedding proves wilayah/Imamate."
+          },
+          {
+            "number": 10,
+            "number_farsi": "وجه دهم",
+            "argument_arabic_excerpt": "نکه جناب رسا لتمآب 884 الأطياب حديث سفيئة رأ در يعض مواقع بخطاي أصحاب خود يسياقى ارشا د تموده",
+            "argument_english": "Prophet repeatedly addressed companions with Safina hadith, clarifying obedience to Ahl al-Bayt.",
+            "evidence_type": "textual",
+            "sources_cited": [
+              {
+                "arabic": "مسند الغردوس (فردوس كبر)",
+                "english": "Musnad al-Ghurdus (Firdaws Kabir)",
+                "author_arabic": "أبو منصور شهردارين شيرويه ديلمي",
+                "author_english": "Abu Mansur Shahrdarin Shirwaih Daylami"
+              }
+            ],
+            "key_reasoning": "Repeated emphasis on 12 Imams from progeny."
+          },
+          {
+            "number": 11,
+            "number_farsi": "وجه يازدهم",
+            "argument_arabic_excerpt": "نکه جناب رسالتمآب_سَلَىَ عليه وآله ماعمرسحاب -<ديث سفينه را بمخاطبة جناب أمير المئؤم:ين",
+            "argument_english": "Prophet addressed Amir al-Mu'minin with Safina hadith as explicit proof of his Imamate and caliphate of pure Imams.",
+            "evidence_type": "textual",
+            "sources_cited": [
+              {
+                "arabic": "ينابيع المودة",
+                "english": "Yanabi' al-Mawaddah",
+                "author_arabic": "علامه سليمان بن ابراهيم القندوزي",
+                "author_english": "Allamah Sulayman b. Ibrahim al-Qunduzi"
+              }
+            ],
+            "key_reasoning": "Direct address to Ali proves his leadership."
+          },
+          {
+            "number": 12,
+            "number_farsi": "وجهدوازدهم",
+            "argument_arabic_excerpt": "تكه جاب رسا لتمآب يَليكيةٌ مضمون بلاغت مشحون حديث سفينه را درحديث ديكركه بوجوه عديده مصرّح بخلافت وإمامت",
+            "argument_english": "Safina hadith's eloquent content in other narrations explicitly affirms caliphate and Imamate of pure ones.",
+            "evidence_type": "textual",
+            "sources_cited": [],
+            "key_reasoning": "Cross-referencing hadiths confirms dalalah."
+          },
+          {
+            "number": 13,
+            "number_farsi": "وجهسيزدهم",
+            "argument_arabic_excerpt": "نكه جناب رسا لتمآب #8 الاطياب , سفينه نجات بودن أهل_ بيت ل را در حديث أشباح خمسه",
+            "argument_english": "Prophet declared Ahl al-Bayt as salvation ship in Hadith of Five Shadows, proving Imamate.",
+            "evidence_type": "textual",
+            "sources_cited": [
+              {
+                "arabic": "فرائد السمطين",
+                "english": "Fara'id al-Simtayn",
+                "author_arabic": "صدرالدين أبو المجاهدات إبراهيم بن نُعَيْم المؤيّد الحموي",
+                "author_english": "Sadr al-Din Abu al-Mujahadat Ibrahim b. Nu'aym al-Mu'ayyid al-Hamawi"
+              }
+            ],
+            "key_reasoning": "Link to Five Lights (Ahl al-Bayt) proves authority."
+          },
+          {
+            "number": 14,
+            "number_farsi": "وجه جهار دهم",
+            "argument_arabic_excerpt": "آتكه درماسيق از طرق عديده حديث سفينه دريا فتى كه جناب رسا لتمآب كك الأطياب حديث سفينه را يا حديث ياب حطه يكجا ذكس فرموده",
+            "argument_english": "Safina paired with Bab Hitta hadith proves obedience, purity, and Imamate.",
+            "evidence_type": "analogical",
+            "sources_cited": [],
+            "key_reasoning": "Analogy to secure door reinforces infallibility."
+          },
+          {
+            "number": 15,
+            "number_farsi": "وجه بانردهم",
+            "argument_arabic_excerpt": "تكه جناب أميرالموهنن ليتع كما سمعتسابقاً من«الثر المنثور» إرشاد فرمودهكه مثل ما دراين اعت مثل سفينة نوح ومئل باب حطه أست",
+            "argument_english": "Amir al-Mu'minin linked Safina to Noah's ship and Bab Hitta, proving obedience.",
+            "evidence_type": "textual",
+            "sources_cited": [
+              {
+                "arabic": "الثر المنثور",
+                "english": "al-Durr al-Manthur",
+                "author_arabic": "سيوطي",
+                "author_english": "Suyuti"
+              }
+            ],
+            "key_reasoning": "Ali's endorsement confirms dalalah."
+          },
+          {
+            "number": 16,
+            "number_farsi": "وجه شانزدهم",
+            "argument_arabic_excerpt": "تكه جناب أميرالمؤ.نين يقلا درخطبة بليغه خودكه سا بقاً از «تاريخ يعقوبى » نقل شده سَفْيئهَودنَ أجل بيت وَل را با واقعه روز غدير",
+            "argument_english": "Amir al-Mu'minin linked Ahl al-Bayt's ship to Ghadir event, strengthening Imamate proof.",
+            "evidence_type": "analogical",
+            "sources_cited": [
+              {
+                "arabic": "تاريخ يعقوبي",
+                "english": "Tarikh Ya'qubi",
+                "author_arabic": "أحمد بن أبي يعقوب",
+                "author_english": "Ahmad b. Abi Ya'qub"
+              }
+            ],
+            "key_reasoning": "Ghadir-Safina parallel proves leadership."
+          },
+          {
+            "number": 17,
+            "number_farsi": "وجه هفدهم",
+            "argument_arabic_excerpt": "نكه جناب أمير المؤمنين يْلا درخطبةٌ مذكوره « سفينه » بودن اهلبيت وَل را باحديث ثفلين انضمام داده",
+            "argument_english": "Ali connected Safina to Thaqalayn, opening knowledge doors for Imamate proof.",
+            "evidence_type": "textual",
+            "sources_cited": [],
+            "key_reasoning": "Thaqalayn linkage refutes doubts."
+          },
+          {
+            "number": 18,
+            "number_farsi": "وجه هجدهم",
+            "argument_arabic_excerpt": "آنكه خاصة ايزد باري حضرت أبي ذرٌ غفارى ‏ عليه آلاف التحتّات هنالله ٠اهطلت‏ الغوادي والسواري ‏ بعد أخذحلقةٌ با ب كعبه وتعريف نفس نفيس خود حديث سفينه را",
+            "argument_english": "Abu Dharr's special emphasis narrating Safina at Ka'ba proves Ahl al-Bayt's authority.",
+            "evidence_type": "textual",
+            "sources_cited": [
+              {
+                "arabic": "مسند أبي يعلى",
+                "english": "Musnad Abi Ya'la",
+                "author_arabic": "أبو يعلى",
+                "author_english": "Abu Ya'la"
+              },
+              {
+                "arabic": "شرح مشكاة",
+                "english": "Sharh Mishkat",
+                "author_arabic": "طيبي",
+                "author_english": "Tabi'i"
+              }
+            ],
+            "key_reasoning": "Abu Dharr's dedication elevates hadith's status."
+          },
+          {
+            "number": 19,
+            "number_farsi": "وجه نوزدهم",
+            "argument_arabic_excerpt": "كه حضرت أب ذرّغفارى حديث سفيئه را باحديث باب حطّه مقروناً روايت فرهوده",
+            "argument_english": "Abu Dharr paired Safina with Bab Hitta, proving purity and superiority.",
+            "evidence_type": "analogical",
+            "sources_cited": [
+              {
+                "arabic": "رواية الطبراني",
+                "english": "Riwayah al-Tabarani",
+                "author_arabic": "الطبراني",
+                "author_english": "al-Tabarani"
+              }
+            ],
+            "key_reasoning": "Pairing reinforces infallibility."
+          },
+          {
+            "number": 20,
+            "number_farsi": "وجه بستم",
+            "argument_arabic_excerpt": "تكه درماسبق ازه فصول مهمّةٌ » ابن الشباغ مالكى وغي د آندانستي كه حضرت اب ذرٌ غفارى برعتبة خانةكعبه رفته با هتمام تمام الا\" حديث سفيئه را روايت فرعوده",
+            "argument_english": "Ibn al-Shabbagh notes Abu Dharr's narration of Safina with 'Ahl al-Bayt as head/eyes' hadith, proving leadership.",
+            "evidence_type": "textual",
+            "sources_cited": [],
+            "key_reasoning": "Body analogy proves presidency/Imamate."
+          },
+          {
+            "number": 21,
+            "number_farsi": "وجه بست ويكم",
+            "argument_arabic_excerpt": "آتكه حشرت أبى ذرٌ غفارى در بعش احوال هدايت اشتمال لكلف خود بعد أخذ حلقةٌ با بكعبه يكمال اهتمام وتمام احتفال حديث سفينه وحديث باب حطه وحديث ثقلين",
+            "argument_english": "Abu Dharr combined Safina, Bab Hitta, Thaqalayn in Ka'ba circle, opening faith doors.",
+            "evidence_type": "textual",
+            "sources_cited": [
+              {
+                "arabic": "ينابيع المودة",
+                "english": "Yanabi' al-Mawaddah",
+                "author_arabic": "سليمان بلخي",
+                "author_english": "Sulayman Balkhi"
+              }
+            ],
+            "key_reasoning": "Triple combination irrefutably proves Imamate."
           }
         ],
-        "total_proofs": 9,
+        "total_proofs": 21,
         "_meta": {
           "model": "grok",
-          "tokens": {
-            "input_tokens": 3631,
-            "output_tokens": 1094
-          }
+          "note": "re-parsed with full dalalah extraction, 21 proofs"
         }
       },
       "citations": []
