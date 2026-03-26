@@ -17,7 +17,18 @@
       "2000._201808",
       "5_20191217"
     ],
-    "note": "Multiple editions available. 12 volumes in original."
+    "note": "Multiple editions available. 12 volumes in original.",
+    "waqfeya": {
+      "waqfeya_found": true,
+      "editions": [
+        "ط. المعارف",
+        "ط. الرسالة (الزبيق ومرشد)",
+        "ط. الهند",
+        "ط. الأوقاف السعودية"
+      ],
+      "recommended": "ط. الهند (Indian edition — likely the edition used by Mir Hamid Husain)",
+      "url": "https://waqfeya.net/books/تهذيب-التهذيب-ط-الهند"
+    }
   },
   "Mizan al-I'tidal": {
     "found": true,
@@ -121,7 +132,15 @@
     ]
   },
   "Rijal Mishkat al-Masabih": {
-    "found": false
+    "found": true,
+    "waqfeya": {
+      "waqfeya_found": true,
+      "note": "Not a standalone book — included as part of Vol 10 of Lam'at al-Tanqih fi Sharh Mishkat al-Masabih by Abd al-Haqq al-Dihlawi (10 volumes available on waqfeya.net)",
+      "parent_work": "لمعات التنقيح في شرح مشكاة المصابيح",
+      "volume": 10,
+      "url": "https://waqfeya.net/authors/عبد-الحق-سيف-الدين-بن-سعد-الله-الدهلوي"
+    },
+    "note": "Part of Lam'at al-Tanqih Vol 10 on waqfeya.net"
   },
   "Al-Mughni fi al-Du'afa": {
     "found": true,
