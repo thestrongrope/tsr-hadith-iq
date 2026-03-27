@@ -123,18 +123,25 @@
   "pending_verifications": [
     {
       "book": "Tabaqat al-Huffaz (al-Suyuti)",
-      "status": "DOWNLOADED — verification pending",
-      "note": "Need to find Ibn Uqdah entry referenced in Abaqat Vol 1 L5290"
+      "status": "DOWNLOADED — need to locate Abu Ishaq ibn Hamza entry",
+      "note": "Abaqat Vol 1 L5274 references this. Actually refers to Tadhkirat al-Huffaz not Tabaqat. Entry around #840-850 in Tadhkirat."
     },
     {
-      "book": "Siyar A'lam al-Nubala (al-Dhahabi)",
-      "status": "DOWNLOADED & SPLIT — verification pending",
-      "note": "Muslim ibn al-Hajjaj entry at Vol 12/p.319 in Arnaut edition. PDF split into 13 chunks. Need to locate exact page in split files."
+      "book": "Siyar Alam al-Nubala (al-Dhahabi)",
+      "status": "DOWNLOADED & SPLIT — need Vol 12 p.319 for Muslim ibn al-Hajjaj",
+      "note": "Death year index on p.4406 shows year 261 AH → p.458. Need volume-to-PDF-page mapping."
     },
     {
-      "book": "Tabaqat al-Shafi'iyya al-Kubra (al-Subki)",
-      "status": "DOWNLOADED — verification pending",
-      "note": "10 volumes available. Need to find cited entry from Abaqat Vol 3."
+      "book": "Tabaqat al-Shafiyya al-Kubra (al-Subki)",
+      "status": "DOWNLOADED — verification pending"
     }
-  ]
+  ],
+  "summary": {
+    "total_books_downloaded": 9,
+    "total_pages": 28690,
+    "verified": 6,
+    "pending": 3,
+    "success_rate": "6/6 = 100%",
+    "zero_discrepancies": true
+  }
 }
