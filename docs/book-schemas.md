@@ -89,7 +89,7 @@ Covers: Jarh/Ta'dil books, Biographical dictionaries, Tabaqat, Tarikh, and Chron
       "evaluator_english": "Yahya ibn Sa'id al-Qattan",
       "evaluator_id": "yahya-ibn-said-al-qattan",
       "term_arabic": "في نفسي منه شيء",
-      "grade": "layyinah",
+      "grade": "jarh_1",
       "verbatim_quote": "سئل يحيى بن سعيد عنه فقال في نفسي منه شيء ومجالد أحب إليّ منه",
       "nested_source": null
     },
@@ -97,8 +97,8 @@ Covers: Jarh/Ta'dil books, Biographical dictionaries, Tabaqat, Tarikh, and Chron
       "evaluator_arabic": "ابن حجر",
       "evaluator_english": "Ibn Hajar",
       "evaluator_id": "ibn-hajar-al-asqalani",
-      "term_arabic": "صادق",
-      "grade": "saduq",
+      "term_arabic": "صدوق",
+      "grade": "tadil_4",
       "verbatim_quote": null,
       "nested_source": null
     }
@@ -283,14 +283,14 @@ Covers all hadith collections. The core structure is universal; sub-type fields 
         "name_english": "Zuhayr ibn Harb",
         "scholar_id": "zuhayr-ibn-harb",
         "role": "حدثنا",
-        "jarh_grade": "thiqah"
+        "jarh_grade": "tadil_3"
       },
       {
         "name_arabic": "إسماعيل بن إبراهيم ابن علية",
         "name_english": "Ismail ibn Ibrahim Ibn Ulayyah",
         "scholar_id": "ismail-ibn-ibrahim-ibn-ulayyah",
         "role": "عن",
-        "jarh_grade": "thiqah"
+        "jarh_grade": "tadil_3"
       }
     ]
   },
@@ -493,36 +493,74 @@ No duplication here — `Scholar` entities in Abaqat's model use the same `schol
 
 ---
 
-## JarhGrade Enum
+## JarhGrade System
 
-The full tawthiq/tajrih scale used in `evaluations[].grade`. Listed from strongest to weakest:
+Based on the standard **6+6 system** (al-Suyuti in Tadrib al-Rawi, expanded from al-Iraqi and Ibn Abi Hatim). This is the most widely used classification in hadith sciences.
 
-### Tawthiq (positive)
+Each evaluation in the schema stores:
+- `term_arabic` — the exact verbatim term the evaluator used (never normalized)
+- `grade` — the mapped rank from the system below (`tadil_1` through `tadil_6`, `jarh_1` through `jarh_6`)
 
-| Grade value | Arabic term(s) | English |
-|-------------|---------------|---------|
-| `thiqah_thabt_hujjah` | ثقة ثبت حجة | Reliable, established, authoritative |
-| `thiqah_thabt` | ثقة ثبت | Reliable and established |
-| `thiqah` | ثقة | Reliable |
-| `saduq_thiqah` | صدوق ثقة | Truthful and reliable |
-| `saduq` | صدوق | Truthful |
-| `la_basa_bihi` | لا بأس به | No problem with him |
-| `salih_al_hadith` | صالح الحديث | Acceptable in hadith |
-| `maqbul` | مقبول | Accepted (only when corroborated) |
+**Important caveat:** The same term can mean different things depending on the evaluator. For example, when Yahya ibn Ma'in says "لا بأس به" he means "ثقة" (Grade tadil_3), but for most other scholars it means Grade tadil_4. The `grade` mapping must account for evaluator-specific conventions. When ambiguous, store the term verbatim and leave `grade` as `null` for the scholar to resolve.
 
-### Tajrih (negative)
+### Maratib al-Ta'dil (6 ranks, highest to lowest)
 
-| Grade value | Arabic term(s) | English |
-|-------------|---------------|---------|
-| `layyinah` | لين الحديث، في نفسي منه شيء | Soft, some reservation |
-| `daif` | ضعيف | Weak |
-| `daif_jiddan` | ضعيف جداً | Very weak |
-| `wahi` | واهٍ، واهي الحديث | Feeble |
-| `munkar_al_hadith` | منكر الحديث | His hadiths are rejected |
-| `matruk` | متروك | Abandoned |
-| `saqit` | ساقط | Dropped |
-| `kadhdhab` | كذاب | Liar |
-| `wadda` | وضّاع | Fabricator |
+| Grade value | Rank | Example terms (ألفاظ) | Ruling |
+|-------------|------|----------------------|--------|
+| `tadil_1` | Superlative praise | أوثق الناس، أثبت الناس، إليه المنتهى في التثبت | يحتج به |
+| `tadil_2` | Reinforced (repetition or two attributes) | ثقة ثقة، ثقة ثبت، ثقة متقن، ثقة حافظ، ثقة حجة، ثبت حجة | يحتج به |
+| `tadil_3` | Single attribute | ثقة، متقن، ثبت، حجة، حافظ ضابط | يحتج به |
+| `tadil_4` | Uprightness without full dabt | صدوق، لا بأس به، ليس به بأس، مأمون | يحتج به |
+| `tadil_5` | Below saduq, close to criticism | محلّه الصدق، شيخ وسط، صالح الحديث، حسن الحديث، صدوق يهم، صدوق سيء الحفظ، روى عنه الناس | حسن لغيره (مع متابعة) |
+| `tadil_6` | Borderline, needs corroboration | مقبول، يروى حديثه، يعتبر به، مقارب الحديث | مقبول عند المتابعة، وإلا فليّن |
+
+### Maratib al-Jarh (6 ranks, mildest to harshest)
+
+| Grade value | Rank | Example terms (ألفاظ) | Ruling |
+|-------------|------|----------------------|--------|
+| `jarh_1` | Mild softening (تليين) | ليّن الحديث، فيه مقال، فيه ضعف، ليس بذاك، ليس بالقوي، تعرف وتنكر | يكتب حديثه وينظر |
+| `jarh_2` | Explicit weakness | ضعيف، لا يحتج به، منكر الحديث، مضطرب الحديث، سيء الحفظ | لا يحتج به |
+| `jarh_3` | Very weak, not to be written | ضعيف جداً، واهٍ، واهي الحديث، ليس بشيء، مردود، ضعّفوه | لا يكتب حديثه |
+| `jarh_4` | Abandoned, accused | متروك، ساقط، هالك، ذاهب الحديث، متروك الحديث، ليس بثقة | يترك حديثه |
+| `jarh_5` | Explicit lying | كذّاب، وضّاع، يضع الحديث، يكذب، دجّال | موضوع |
+| `jarh_6` | Superlative in lying | أكذب الناس، ركن الكذب، إليه المنتهى في الكذب | موضوع |
+
+### Also track: Unknown status
+
+Not part of the jarh/ta'dil scale but critical for narrator evaluation:
+
+| Grade value | Term | Meaning |
+|-------------|------|---------|
+| `majhul_hal` | مستور، مجهول الحال | Narrated from by more than one, but not authenticated |
+| `majhul_ayn` | مجهول العين | Only one person narrated from him |
+
+### Mapping to Ibn Hajar's 12-Grade (Taqrib al-Tahdhib)
+
+Since Taqrib is one of our key source books, here is how his grades map:
+
+| Ibn Hajar Grade | Our grade | His description |
+|----------------|-----------|-----------------|
+| 1 | — | صحابي (Companion, not graded) |
+| 2 | `tadil_1` or `tadil_2` | أكد المدح — superlative or reinforced |
+| 3 | `tadil_3` | أفرد بصفة — single attribute (ثقة) |
+| 4 | `tadil_4` | قصر عن الثالثة قليلاً — (صدوق، لا بأس به) |
+| 5 | `tadil_5` | قصر عن الرابعة — (صدوق يهم، صدوق سيء الحفظ) |
+| 6 | `tadil_6` | مقبول — accepted only with corroboration |
+| 7 | `majhul_hal` | مستور — unknown condition |
+| 8 | `jarh_2` | ضعيف |
+| 9 | `majhul_ayn` | مجهول — unknown identity |
+| 10 | `jarh_4` | متروك / واهي الحديث / ساقط |
+| 11 | `jarh_5` | متّهم بالكذب أو الوضع |
+| 12 | `jarh_5` or `jarh_6` | كاذب / وضّاع |
+
+### Sources
+
+- Ibn Abi Hatim, Muqaddimat al-Jarh wa al-Ta'dil (original 4+4 system)
+- al-Suyuti, Tadrib al-Rawi (expanded 6+6 system)
+- al-Iraqi, al-Taqyid wa al-Idah (basis for al-Suyuti's expansion)
+- al-Sakhawi, Fath al-Mughith (detailed commentary)
+- Ibn Hajar, Muqaddimat Taqrib al-Tahdhib (12-grade system)
+- https://hadithtransmitters.hawramani.com (cross-reference for narrator data)
 
 ---
 
