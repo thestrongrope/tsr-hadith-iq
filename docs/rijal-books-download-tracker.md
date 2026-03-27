@@ -286,3 +286,65 @@ Al-Suyuti's supplement to al-Dhahabi's Tadhkirat al-Huffaz, extending coverage t
 | al-Suyuti | 911 AH | 1 book | 10 volume-citations |
 | Ibn Khallikan | 681 AH | 1 book | 11 volume-citations |
 | al-Yafi'i | 768 AH | 1 book | 11 volume-citations |
+
+---
+
+## TIER 1 STATUS: COMPLETE ✅
+
+All 11 Tier 1 books downloaded (1.16 GB, 111 PDFs). 7 citations verified with zero discrepancies.
+
+---
+
+## Tier 2 — Cited in 2-6 Abaqat volumes (16 books)
+
+### Jarh/Ta'dil (3 books)
+
+| # | Book | Arabic | Author | d. | Vols cited | Status |
+|---|------|--------|--------|----|-----------|--------|
+| 1 | Taqrib al-Tahdhib | تقريب التهذيب | Ibn Hajar al-Asqalani | 852 | 6 | ⬜ |
+| 2 | Lisan al-Mizan | لسان الميزان | Ibn Hajar al-Asqalani | 852 | 5 | ⬜ |
+| 3 | Al-Jarh wa al-Ta'dil | الجرح والتعديل | Ibn Abi Hatim al-Razi | 327 | 2 | ⬜ |
+
+**Taqrib al-Tahdhib** — Ibn Hajar's own condensation of his Tahdhib al-Tahdhib. One-line evaluations for every narrator — the "quick lookup" version. Cited in 6 Abaqat volumes.
+
+**Lisan al-Mizan** — Ibn Hajar's supplement to al-Dhahabi's Mizan, covering narrators al-Dhahabi omitted. Cited in 5 volumes.
+
+**Al-Jarh wa al-Ta'dil** — One of the earliest systematic works of narrator criticism (4th century AH). Contains evaluations directly from Abu Hatim al-Razi and Abu Zur'ah al-Razi — two of the most stringent hadith critics. Cited in 2 volumes.
+
+### Biographical Dictionaries (7 books)
+
+| # | Book | Arabic | Author | d. | Vols cited | Status |
+|---|------|--------|--------|----|-----------|--------|
+| 4 | Al-Ansab | الأنساب | al-Sam'ani | 562 | 5 | ⬜ |
+| 5 | Al-Wafi bi al-Wafayat | الوافي بالوفيات | al-Safadi | 764 | 5 | ⬜ |
+| 6 | Al-Durar al-Kaminah | الدرر الكامنة | Ibn Hajar al-Asqalani | 852 | 4 | ⬜ |
+| 7 | Husn al-Muhadara | حسن المحاضرة | al-Suyuti | 911 | 4 | ⬜ |
+| 8 | Bughyat al-Wu'at | بغية الوعاة | al-Suyuti | 911 | 4 | ⬜ |
+| 9 | Fawat al-Wafayat | فوات الوفيات | Ibn Shakir al-Kutubi | 764 | 3 | ⬜ |
+| 10 | Al-Daw' al-Lami' | الضوء اللامع | al-Sakhawi | 902 | 3 | ⬜ |
+
+**Al-Ansab** — Genealogical dictionary organized by nisbah (al-Bukhari, al-Naysaburi, etc.). Essential for identifying scholars by origin. Cited in 5 volumes.
+
+**Al-Wafi bi al-Wafayat** — al-Safadi's massive encyclopedia (29 volumes). The largest Arabic biographical dictionary ever written. Cited in 5 volumes.
+
+**Fawat al-Wafayat** — Supplement to Wafayat al-A'yan, covering scholars Ibn Khallikan missed. By the same author who wrote al-Wafi.
+
+### Tabaqat (4 books)
+
+| # | Book | Arabic | Author | d. | Vols cited | Status |
+|---|------|--------|--------|----|-----------|--------|
+| 11 | Tabaqat al-Shafi'iyya (al-Isnawi) | طبقات الشافعية | al-Isnawi | 772 | 4 | ⬜ |
+| 12 | Al-Tabaqat al-Kubra | الطبقات الكبرى | Ibn Sa'd | 230 | 2 | ⬜ |
+| 13 | Tabaqat al-Hanabilah | طبقات الحنابلة | Ibn Abi Ya'la | 526 | 2 | ⬜ |
+| 14 | Al-Jawahir al-Mudiyyah | الجواهر المضية في طبقات الحنفية | al-Qurashi | 775 | 2 | ⬜ |
+
+**Al-Tabaqat al-Kubra** (Ibn Sa'd) — The earliest major biographical dictionary in Islam (3rd century AH). Covers Companions and Successors. Foundation of all later tabaqat works.
+
+### Other (2 books)
+
+| # | Book | Arabic | Author | d. | Vols cited | Status |
+|---|------|--------|--------|----|-----------|--------|
+| 15 | Khulasat al-Athar | خلاصة الأثر | al-Muhibbi | 1111 | 3 | ⬜ |
+| 16 | Kashf al-Zunun | كشف الظنون | Hajji Khalifa | 1067 | 3 | ⬜ |
+
+**Kashf al-Zunun** — Not a biographical dictionary but an encyclopedia of **book titles**. Identifies who wrote what, when, and what it contains. Essential for verifying book attributions.
