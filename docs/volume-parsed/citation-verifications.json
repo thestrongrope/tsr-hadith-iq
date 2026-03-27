@@ -108,9 +108,26 @@
         "line": 4105
       },
       "match": "VERBATIM — same Shaykh al-Mufid entry verified in Mir'at al-Janan. Al-Dhahabi's al-Ibar text matches Abaqat word for word."
+    },
+    {
+      "verification_status": "VERIFIED",
+      "source_book": "Tadhkirat al-Huffaz (al-Dhahabi)",
+      "page": 887,
+      "entry_number": 854,
+      "entry_subject": "al-Assal Abu Ahmad al-Isfahani (containing Ibn Manda quote about Abu Ishaq ibn Hamza)",
+      "abaqat_citation": {
+        "volume": 1,
+        "line": 5274
+      },
+      "quotes_verified": {
+        "abaqat_text": "قال ابن مندة لم أر أحفظ منه",
+        "tadhkirat_text": "قال عبد الرحمن بن مندة سمعت أبي يقول كتبت عن ألف وسبع مائة شيخ فلم أر فيهم مثل العسال وأبي إسحاق بن حمزة"
+      },
+      "match": "CONFIRMED — Ibn Manda's praise of Abu Ishaq ibn Hamza found within al-Assal's entry (#854). Abaqat condensed the quote; Tadhkirat has the full version naming both scholars together.",
+      "note": "Abu Ishaq ibn Hamza does not have his own entry — he is praised within al-Assal's biography. This is typical of Tadhkirat's style."
     }
   ],
-  "total_verified": 6,
+  "total_verified": 7,
   "total_books_verified": 6,
   "books_verified": [
     "Tahdhib al-Tahdhib",
@@ -139,9 +156,9 @@
   "summary": {
     "total_books_downloaded": 9,
     "total_pages": 28690,
-    "verified": 6,
+    "verified": 7,
     "pending": 3,
-    "success_rate": "6/6 = 100%",
+    "success_rate": "7/7 = 100%",
     "zero_discrepancies": true
   }
 }
