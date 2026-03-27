@@ -9,9 +9,9 @@ Closes #4
 ## Principles
 
 1. **One Scholar, One ID** — a person is a person regardless of which book discusses them. `scholar_id` is the stable identifier across all books.
-2. **Sparse population** — not every field is filled for every source. `null` means the source book does not provide it, not that it is unknown.
+2. **Sparse population** — not every field is filled for every source. `null` means the source book does not provide that field. For array fields: `null` means the source book has no such section; `[]` means the section exists but contains zero items. Never use `[]` for a section the book type does not have.
 3. **PDF → JSON once** — every entry captures the verbatim Arabic so the PDF is never read again.
-4. **Abaqat-first** — every schema has an `abaqat_citations` cross-ref field. The whole point of indexing is to power Abaqat verification.
+4. **Abaqat-first** — every schema exposes Abaqat cross-references via an `abaqat_citations` field. Its exact path differs by schema: under `cross_refs.abaqat_citations` for ScholarEntry, top-level for HadithEntry and ReferenceEntry. See each schema for the precise path.
 
 ---
 
@@ -110,11 +110,11 @@ Covers: Jarh/Ta'dil books, Biographical dictionaries, Tabaqat, Tarikh, and Chron
 
   "key_quotes": [],
 
-  "anecdotes": [],
+  "anecdotes": null,
 
   "biography_text": null,
 
-  "hadiths_narrated": [],
+  "hadiths_narrated": null,
 
   "year_entry": null,
 
@@ -156,20 +156,24 @@ Covers: Jarh/Ta'dil books, Biographical dictionaries, Tabaqat, Tarikh, and Chron
 | `biography_text` | ❌ | ✅ | sometimes | sometimes | ❌ |
 | `generation` | ❌ | sometimes (Siyar) | ✅ | ❌ | ❌ |
 | `hadiths_narrated` | ❌ | ❌ | ❌ | ✅ primary | ❌ |
-| `year_entry` | ❌ | ❌ | ❌ | ❌ | ✅ primary |
+| `year_entry.year_ah` / `year_entry.year_ce` | ❌ | ❌ | ❌ | ❌ | ✅ primary |
 | `anecdotes` | ❌ | ✅ | sometimes | sometimes | ❌ |
 
 ### Chronological entry (al-'Ibar, Mir'at)
 
 For chronological annals, the top-level entry is the year, with `deaths` as an array of embedded ScholarEntries (condensed):
 
+A `DeathNotice` is a condensed ScholarEntry: it captures the fields the source book actually provides for a death notice (name, brief bio, death details) without the full teacher/student/evaluation apparatus. Full biographical data lives in the ScholarEntry records for that `scholar_id` in other books.
+
 ```json
 {
   "entry_id": "ibar-year-413",
   "source_book": "al-Ibar fi Khabar man Ghabar",
   "book_type": "chronological",
-  "year_ah": 413,
-  "year_ce": 1022,
+  "year_entry": {
+    "year_ah": 413,
+    "year_ce": 1022
+  },
 
   "events": [
     {"description_arabic": "..."}
@@ -181,12 +185,18 @@ For chronological annals, the top-level entry is the year, with `deaths` as an a
       "name_arabic": "الشيخ المفيد أبو عبدالله محمد بن محمد بن النعمان البغدادي الكرخي",
       "kunya": "أبو عبدالله",
       "laqab": "المفيد، ابن المعلم",
+      "nisba": "البغدادي الكرخي",
+      "death_ah": 413,
       "death_month_arabic": "رمضان",
       "age_at_death": 76,
+      "madhab": null,
+      "sect": "شيعي",
       "brief_bio_arabic": "عالم الشيعة وإمام الرافضة وصاحب التصانيف الكثيرة وكان رئيس الكلام والفقه والجدل",
       "works_count": 200,
+      "evaluations": null,
       "verbatim_full_arabic": "والشيخ المفيد أبو عبدالله محمد بن محمد بن النعمان البغدادي الكرخي...",
       "cross_refs": {
+        "scholar_id": "shaykh-al-mufid",
         "abaqat_citations": [{"volume": 3, "line": 4107, "context": "dossier_subject"}]
       }
     }
@@ -209,7 +219,9 @@ For city history books, `hadiths_narrated` carries the hadiths the subject trans
 
   "subject": { "...": "same as ScholarEntry.subject" },
 
-  "evaluations": [ "..." ],
+  "evaluations": [
+    { "...": "same structure as ScholarEntry.evaluations items — evaluator_arabic, grade, verbatim_quote, etc." }
+  ],
 
   "hadiths_narrated": [
     {
@@ -290,7 +302,7 @@ Covers all hadith collections. The core structure is universal; sub-type fields 
   },
 
   "grading": {
-    "compiler_grade": "صحيح",
+    "compiler_grade": null,
     "compiler_condition": null,
     "external_grades": []
   },
@@ -311,7 +323,7 @@ Covers all hadith collections. The core structure is universal; sub-type fields 
 
 | Value | Books | Notes |
 |-------|-------|-------|
-| `sahih` | Bukhari, Muslim | All entries considered sahih by definition — no per-hadith grade needed |
+| `sahih` | Bukhari, Muslim | `grading` is always present for schema consistency; `compiler_grade` is `null` (the collection's inclusion is itself the grade), `external_grades` carries any later scholar comments |
 | `sunan` | Tirmidhi, Abi Dawud, Nasa'i, Ibn Majah | Per-hadith grading required |
 | `musnad` | Musnad Ahmad | Organized by companion, not topic |
 | `mustadrak` | al-Mustadrak | al-Hakim's grade + al-Dhahabi's talkhis comment — critical for Abaqat |
@@ -521,7 +533,7 @@ The `scholar_id` field links the same person across all schemas. Given a scholar
 1. Find `scholar_id` from Abaqat's dossier
 2. Query all ScholarEntry records with that `scholar_id`
 3. Get evaluations from Tahdhib, Mizan, Siyar etc. in one call
-4. Get all HadithEntry records where any `chain_links[].scholar_id` matches
+4. Get all HadithEntry records where any `isnad.chain_links[].scholar_id` matches
 5. See exactly which hadiths pass through a contested narrator
 
 ```json
