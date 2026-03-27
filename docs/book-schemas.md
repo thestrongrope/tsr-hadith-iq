@@ -91,7 +91,8 @@ Covers: Jarh/Ta'dil books, Biographical dictionaries, Tabaqat, Tarikh, and Chron
       "term_arabic": "في نفسي منه شيء",
       "grade": "jarh_1",
       "verbatim_quote": "سئل يحيى بن سعيد عنه فقال في نفسي منه شيء ومجالد أحب إليّ منه",
-      "nested_source": null
+      "nested_source": null,
+      "domain": null
     },
     {
       "evaluator_arabic": "ابن حجر",
@@ -100,7 +101,8 @@ Covers: Jarh/Ta'dil books, Biographical dictionaries, Tabaqat, Tarikh, and Chron
       "term_arabic": "صدوق",
       "grade": "tadil_4",
       "verbatim_quote": null,
-      "nested_source": null
+      "nested_source": null,
+      "domain": null
     }
   ],
 
@@ -135,6 +137,26 @@ Covers: Jarh/Ta'dil books, Biographical dictionaries, Tabaqat, Tarikh, and Chron
   "notes": null
 }
 ```
+
+### Evaluation field notes
+
+**Multiple evaluations from the same evaluator:** One evaluator can appear multiple times in `evaluations[]`. For example, Abu Hatim says both `متروك` (jarh_4) and `يضع الحديث` (jarh_5) for al-Waqidi — these are stored as separate objects in the array.
+
+**The `domain` field:** Some evaluators qualify their tawthiq to a specific domain. For example, Ibrahim al-Harbi says al-Waqidi is `أمين على الإسلام` (trusted on Islamic history) but `فأما الجاهلية فلم يعلم فيها شيئاً` (knows nothing about pre-Islamic matters). When a tawthiq or tajrih is domain-limited, `domain` captures the scope:
+
+```json
+{
+  "evaluator_arabic": "إبراهيم الحربي",
+  "term_arabic": "أمين",
+  "grade": "tadil_4",
+  "verbatim_quote": "الواقدي أمين على الإسلام وكان أعلم الناس بأمر الإسلام فأما الجاهلية فلم يعلم فيها شيئاً",
+  "domain": "أمور الإسلام فقط — لا الجاهلية"
+}
+```
+
+When `domain` is `null`, the evaluation applies universally. This is the common case.
+
+**The `nested_source` field:** When an evaluator's statement is quoted not from their own book but through an intermediary (e.g., "al-Khatib said in Tarikh Baghdad that Ahmad said..."), `nested_source` captures the intermediary book. This is critical because Mir Hamid Husain often cites evaluations through secondary sources.
 
 ### book_type values
 
@@ -590,6 +612,62 @@ The `scholar_id` field links the same person across all schemas. Given a scholar
   }
 }
 ```
+
+---
+
+## Edition References
+
+Mir Hamid Husain provides precise edition information in footnotes. Different editions of the same book have different pagination, so edition data is critical for verification. Every citation in Abaqat's dossiers should track which edition was used.
+
+```json
+{
+  "edition": {
+    "editor": "علي محمد البجاوي",
+    "publisher": null,
+    "city": "مصر",
+    "edition_number": "الطبعة الأولى",
+    "manuscript_note": null
+  }
+}
+```
+
+For manuscripts (common in Mir Hamid Husain's time — many books were not yet printed):
+
+```json
+{
+  "edition": {
+    "editor": null,
+    "publisher": null,
+    "city": null,
+    "edition_number": null,
+    "manuscript_note": "مخطوط في مكتبة لكهنو"
+  }
+}
+```
+
+This field is optional on ScholarEntry (used when we know which edition was indexed) and required on Schema D citations (since Abaqat always specifies editions in footnotes).
+
+**Real examples from the al-Waqidi dossier (Vol 3):**
+- Mizan al-I'tidal: `ج٣ ص٥١٧ ط الأولى بتحقيق علي محمد البجاوي بمصر`
+- Tahdhib al-Tahdhib: `ج٣ ص٤٩ مخطوط في مكتبة لكهنو`
+- Wafayat al-A'yan: `ج٤ ط بيروت... الدكتور إحسان عباس`
+- Mir'at al-Janan: `ج١ ص٧٥ ط دار المعارف النظامية بحيدرآباد الدكن`
+
+---
+
+## Additional Source Books (discovered from al-Waqidi dossier)
+
+Testing schemas against actual Abaqat dossiers revealed books cited by Mir Hamid Husain that are NOT in our Tier 1 or Tier 2 lists:
+
+| Book | Arabic | Author | Type | Schema |
+|------|--------|--------|------|--------|
+| al-Mughni fi al-Du'afa' | المغني في الضعفاء | al-Dhahabi | Jarh/Ta'dil (weak narrators) | A |
+| al-Kashif | الكاشف | al-Dhahabi | Jarh/Ta'dil (condensed) | A |
+| al-Tarikh al-Saghir | التاريخ الصغير | al-Bukhari | Chronological | A |
+| 'Umdat al-Qari | عمدة القاري | al-'Ayni | Hadith commentary (not rijal) | — |
+| Taqrib al-Tahdhib | تقريب التهذيب | Ibn Hajar | Jarh/Ta'dil (condensed) | A |
+
+'Umdat al-Qari (Bukhari commentary) doesn't fit any of our 4 schemas cleanly — it's a **hadith commentary** (شرح حديث), not a rijal book or hadith collection. If more of these appear in other dossiers, we may need a Schema E for commentary works.
 
 ---
 
