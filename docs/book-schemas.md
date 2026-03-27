@@ -132,6 +132,19 @@ Covers: Jarh/Ta'dil books, Biographical dictionaries, Tabaqat, Tarikh, and Chron
     ]
   },
 
+  "edition": {
+    "editor": "عبد الوهاب عبد اللطيف",
+    "publisher": "دار المعارف النظامية",
+    "city": "حيدرآباد الدكن",
+    "edition_number": "الطبعة الأولى",
+    "manuscript_note": null
+  },
+
+  "external_refs": {
+    "hawramani_id": null,
+    "hawramani_url": null
+  },
+
   "verbatim_full_arabic": "جعفر بن محمد بن علي بن الحسين بن علي بن أبي طالب أبو عبد الله الهاشمي المدني الصادق...",
 
   "notes": null
@@ -515,6 +528,66 @@ No duplication here — `Scholar` entities in Abaqat's model use the same `schol
 
 ---
 
+## Schema E: Hadith Commentary (شرح حديث)
+
+Covers works that comment on hadith collections — not the hadith themselves, but scholarly analysis of their meaning, chain, and legal implications. These are heavily cited in Abaqat (al-Minhaj alone appears in 15/23 volumes).
+
+**Books using this schema:**
+- al-Minhaj Sharh Sahih Muslim (al-Nawawi) — 15 volumes cite it
+- Sharh al-Mawahib al-Laduniyya (al-Zarqani / al-Qastallani) — 11 volumes
+- Sharh al-Nawawi 'ala Muslim — 8 volumes
+- Fath al-Bari (Ibn Hajar) — 6 volumes
+- Irshad al-Sari (al-Qastallani) — 4 volumes
+- 'Umdat al-Qari (al-'Ayni) — 3 volumes
+
+**Why these need their own schema:** A commentary entry is NOT about a person (Schema A) or a hadith (Schema B). It's a *scholarly opinion* about a hadith — explaining its meaning, noting chain issues, deriving legal rulings, or critiquing other commentators. Mir Hamid Husain cites these to show that even Sunni commentators agree with the Shia reading of a hadith's meaning.
+
+```json
+{
+  "entry_id": "minhaj-fadail-2408-nawawi",
+  "source_book": "al-Minhaj Sharh Sahih Muslim",
+  "source_book_arabic": "المنهاج شرح صحيح مسلم",
+  "author_arabic": "النووي",
+  "author_id": "yahya-ibn-sharaf-al-nawawi",
+
+  "base_collection": "Sahih Muslim",
+  "base_hadith_ref": "muslim-44-2408a",
+
+  "location": {
+    "volume": 15,
+    "page": 180,
+    "book_name_arabic": "كتاب فضائل الصحابة",
+    "chapter_arabic": "باب فضائل علي بن أبي طالب"
+  },
+
+  "commentary_type": "sharh",
+  "commentary_content": {
+    "arabic_excerpt": "قوله صلى الله عليه وسلم: وأنا تارك فيكم ثقلين... فيه الحث على التمسك بكتاب الله تعالى والتمسك بأهل البيت",
+    "topic": "meaning_of_thaqalayn",
+    "position": "affirms obligation to follow Ahl al-Bayt",
+    "scholars_cited_in_commentary": [],
+    "legal_ruling_derived": null
+  },
+
+  "abaqat_citations": [
+    {"volume": 18, "line": 2340, "context": "dalalah_proof"}
+  ],
+
+  "notes": null
+}
+```
+
+### commentary_type values
+
+| Value | Description |
+|-------|-------------|
+| `sharh` | Standard commentary — explains hadith meaning and chain |
+| `hashiyah` | Marginal gloss on another commentary |
+| `takhrij` | Chain verification and grading |
+| `fiqhi` | Legal derivation from the hadith |
+
+---
+
 ## JarhGrade System
 
 Based on the standard **6+6 system** (al-Suyuti in Tadrib al-Rawi, expanded from al-Iraqi and Ibn Abi Hatim). This is the most widely used classification in hadith sciences.
@@ -586,6 +659,66 @@ Since Taqrib is one of our key source books, here is how his grades map:
 
 ---
 
+## Scholar ID Strategy
+
+The `scholar_id` is the single most important field in the data model — it links the same person across all schemas and all books. Getting it wrong means broken cross-references everywhere.
+
+### The problem
+
+The same person appears under different names across books:
+- **Tahdhib al-Tahdhib:** `جعفر بن محمد بن علي بن الحسين بن علي بن أبي طالب` (full nasab)
+- **Wafayat al-A'yan:** `جعفر الصادق` (laqab only)
+- **Siyar:** `أبو عبدالله الصادق` (kunya + laqab)
+- **Abaqat OCR:** `جعفر بن محمد` (shortened, plus OCR artifacts)
+
+### Strategy: Tahdhib entry number as primary key
+
+For any scholar who appears in Tahdhib al-Tahdhib or Tahdhib al-Kamal, use the **Tahdhib entry number** as the canonical identifier:
+
+```
+scholar_id = "tahdhib-{volume}-{entry_number}"
+```
+
+Example: Ja'far al-Sadiq → `tahdhib-2-156`
+
+**Why Tahdhib:** It covers ~8,000 narrators from the six canonical hadith collections — which is the exact population Abaqat deals with. It's alphabetically organized, entry numbers are stable across editions, and it's our highest-priority indexing target.
+
+For scholars NOT in Tahdhib (later scholars, non-hadith figures, commentators):
+
+```
+scholar_id = "{death_ah}-{simplified-name}"
+```
+
+Example: al-Nawawi (d. 676) → `676-yahya-al-nawawi`
+
+### External cross-reference: Hawramani
+
+https://hadithtransmitters.hawramani.com has **135,068 narrator entries** from 62 biographical dictionaries, with stable WordPress post IDs and a public REST API (`/wp-json/wp/v2/posts/{id}`).
+
+We store their ID as a **cross-reference field**, not a primary key:
+
+```json
+{
+  "external_refs": {
+    "hawramani_id": 63843,
+    "hawramani_url": "https://hadithtransmitters.hawramani.com/?p=63843"
+  }
+}
+```
+
+**Why not use as primary key:** WordPress IDs are internal and could change if the site is rebuilt. The API exposes names and source-book categories but not structured biographical data. Good for disambiguation and linking, not for primary identification.
+
+### Resolution workflow
+
+When indexing a new book:
+1. Extract name, kunya, laqab, death_ah from the entry
+2. Search existing scholar index by death_ah + name fragments
+3. If match found → use existing `scholar_id`
+4. If ambiguous → flag for manual review (the scholar can resolve)
+5. If new person → generate new `scholar_id` using the rules above
+
+---
+
 ## Cross-Referencing
 
 The `scholar_id` field links the same person across all schemas. Given a scholar cited in Abaqat, the lookup is:
@@ -609,6 +742,11 @@ The `scholar_id` field links the same person across all schemas. Given a scholar
     "abaqat_citations": [
       {"volume": 3, "line": 4107, "context": "dossier_subject"}
     ]
+  },
+
+  "external_refs": {
+    "hawramani_id": 63843,
+    "hawramani_url": "https://hadithtransmitters.hawramani.com/?p=63843"
   }
 }
 ```
