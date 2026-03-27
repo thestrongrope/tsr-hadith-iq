@@ -119,5 +119,22 @@
     "Tadhkirat al-Huffaz",
     "Mir'at al-Janan",
     "Al-Ibar"
+  ],
+  "pending_verifications": [
+    {
+      "book": "Tabaqat al-Huffaz (al-Suyuti)",
+      "status": "DOWNLOADED — verification pending",
+      "note": "Need to find Ibn Uqdah entry referenced in Abaqat Vol 1 L5290"
+    },
+    {
+      "book": "Siyar A'lam al-Nubala (al-Dhahabi)",
+      "status": "DOWNLOADED & SPLIT — verification pending",
+      "note": "Muslim ibn al-Hajjaj entry at Vol 12/p.319 in Arnaut edition. PDF split into 13 chunks. Need to locate exact page in split files."
+    },
+    {
+      "book": "Tabaqat al-Shafi'iyya al-Kubra (al-Subki)",
+      "status": "DOWNLOADED — verification pending",
+      "note": "10 volumes available. Need to find cited entry from Abaqat Vol 3."
+    }
   ]
 }
