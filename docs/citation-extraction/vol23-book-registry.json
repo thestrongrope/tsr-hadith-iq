@@ -3,8 +3,15 @@
     "source": "docs/citation-extraction/vol23-grok.json",
     "total_unique_books": 389,
     "classified_by": "gemini-3.1-pro-preview",
-    "classified_at": "2026-03-28T11:42:43.896992+00:00",
-    "partial": true
+    "classified_at": "2026-03-28T16:17:24.160409+00:00",
+    "schema_distribution": {
+      "D": 10,
+      "B": 43,
+      "F": 294,
+      "A": 25,
+      "E": 13,
+      "C": 4
+    }
   },
   "books": [
     {
@@ -24,7 +31,8 @@
       "reasoning": "This is Shah Waliullah al-Dihlawi's famous Sunni polemical work defending the superiority of Abu Bakr and Umar.",
       "known_book": true,
       "standard_title_arabic": "قرة العينين في تفضيل الشيخين",
-      "standard_title_english": "Qurrat al-'Aynayn fi Tafdil al-Shaykhayn"
+      "standard_title_english": "Qurrat al-'Aynayn fi Tafdil al-Shaykhayn",
+      "hawramani_match": null
     },
     {
       "book_arabic": "منهاج السنة",
@@ -43,7 +51,8 @@
       "reasoning": "Ibn Taymiyyah's famous polemical work defending Sunni theology against Shia claims.",
       "known_book": true,
       "standard_title_arabic": "منهاج السنة النبوية",
-      "standard_title_english": "Minhaj al-Sunnah al-Nabawiyyah"
+      "standard_title_english": "Minhaj al-Sunnah al-Nabawiyyah",
+      "hawramani_match": null
     },
     {
       "book_arabic": "المستدرك على الصحيحين",
@@ -62,7 +71,8 @@
       "reasoning": "Al-Hakim's famous supplement to the Sahihayn.",
       "known_book": true,
       "standard_title_arabic": "المستدرك على الصحيحين",
-      "standard_title_english": "Al-Mustadrak 'ala al-Sahihayn"
+      "standard_title_english": "Al-Mustadrak 'ala al-Sahihayn",
+      "hawramani_match": null
     },
     {
       "book_arabic": "ينابيع المودة",
@@ -80,7 +90,8 @@
       "reasoning": "Yanabi' al-Mawaddah is a famous thematic compilation of the virtues of the Ahl al-Bayt without systematic primary isnads.",
       "known_book": true,
       "standard_title_arabic": "ينابيع المودة لذوي القربى",
-      "standard_title_english": "Yanabi' al-Mawaddah li-Dhawi al-Qurba"
+      "standard_title_english": "Yanabi' al-Mawaddah li-Dhawi al-Qurba",
+      "hawramani_match": null
     },
     {
       "book_arabic": "الصواعق المحرقة",
@@ -100,7 +111,8 @@
       "reasoning": "Ibn Hajar al-Haytami's famous polemical work against Shia doctrines.",
       "known_book": true,
       "standard_title_arabic": "الصواعق المحرقة على أهل الرفض والضلال والزندقة",
-      "standard_title_english": "Al-Sawa'iq al-Muhriqah"
+      "standard_title_english": "Al-Sawa'iq al-Muhriqah",
+      "hawramani_match": null
     },
     {
       "book_arabic": "تهذيب التهذيب",
@@ -119,7 +131,8 @@
       "reasoning": "Ibn Hajar's comprehensive dictionary evaluating the reliability of hadith narrators.",
       "known_book": true,
       "standard_title_arabic": "تهذيب التهذيب",
-      "standard_title_english": "Tahdhib al-Tahdhib"
+      "standard_title_english": "Tahdhib al-Tahdhib",
+      "hawramani_match": null
     },
     {
       "book_arabic": "ذخيرة المآل",
@@ -137,7 +150,8 @@
       "reasoning": "This is a thematic compilation focused on the virtues (manaqib) of the Prophet's family and companions.",
       "known_book": true,
       "standard_title_arabic": "ذخيرة المآل في مناقب الآل",
-      "standard_title_english": "Dhakhirat al-Ma'al fi Manaqib al-Aal"
+      "standard_title_english": "Dhakhirat al-Ma'al fi Manaqib al-Aal",
+      "hawramani_match": null
     },
     {
       "book_arabic": "الأربعين",
@@ -156,7 +170,8 @@
       "reasoning": "A collection of forty hadiths, which functions as a single-topic hadith monograph (juz).",
       "known_book": true,
       "standard_title_arabic": "الأربعون حديثا",
-      "standard_title_english": "Al-Arba'un Hadithan"
+      "standard_title_english": "Al-Arba'un Hadithan",
+      "hawramani_match": null
     },
     {
       "book_arabic": "هداية السعداء",
@@ -174,7 +189,12 @@
       "reasoning": "A well-known Persian/Arabic work on the virtues and martyrdom of the Ahl al-Bayt by Shihab al-Din Dawlatabadi.",
       "known_book": true,
       "standard_title_arabic": "هداية السعداء",
-      "standard_title_english": "Hidayat al-Su'ada"
+      "standard_title_english": "Hidayat al-Su'ada",
+      "hawramani_match": {
+        "category_id": 5542,
+        "category_name": "Al-Kalābādhī (d. 990-5 CE) - al-Hidāya wa-l-irshād (rijāl Ṣaḥīḥ al-Bukhārī) - الكلاباذي - الهداية المعروف برجال صحيح البخاري",
+        "entry_count": 1522
+      }
     },
     {
       "book_arabic": "إزالة الخفاء",
@@ -193,7 +213,8 @@
       "reasoning": "Shah Waliullah's defense of the first three caliphs against Shia criticisms.",
       "known_book": true,
       "standard_title_arabic": "إزالة الخفاء عن خلافة الخلفاء",
-      "standard_title_english": "Izalat al-Khafa' 'an Khilafat al-Khulafa'"
+      "standard_title_english": "Izalat al-Khafa' 'an Khilafat al-Khulafa'",
+      "hawramani_match": null
     },
     {
       "book_arabic": "ميزان الاعتدال",
@@ -211,7 +232,12 @@
       "reasoning": "Al-Dhahabi's authoritative dictionary of weak and criticized hadith narrators.",
       "known_book": true,
       "standard_title_arabic": "ميزان الاعتدال في نقد الرجال",
-      "standard_title_english": "Mizan al-I'tidal fi Naqd al-Rijal"
+      "standard_title_english": "Mizan al-I'tidal fi Naqd al-Rijal",
+      "hawramani_match": {
+        "category_id": 5518,
+        "category_name": "Aḥmad b. Ḥanbal (d. 855 CE) - al-Jāmiʿ li-ʿulūm imām Aḥmad: al-Rijāl - أحمد بن حنبل - الجامع لعلوم إمام أحمد: الرجال",
+        "entry_count": 3094
+      }
     },
     {
       "book_arabic": "ذخيرة المآل",
@@ -229,7 +255,8 @@
       "reasoning": "This is a thematic compilation focused on the virtues (manaqib) of the Prophet's family and companions.",
       "known_book": true,
       "standard_title_arabic": "ذخيرة المآل في مناقب الآل",
-      "standard_title_english": "Dhakhirat al-Ma'al fi Manaqib al-Aal"
+      "standard_title_english": "Dhakhirat al-Ma'al fi Manaqib al-Aal",
+      "hawramani_match": null
     },
     {
       "book_arabic": "أعيان الشيعة",
@@ -247,7 +274,8 @@
       "reasoning": "Muhsin al-Amin's massive biographical dictionary of notable Shia figures.",
       "known_book": true,
       "standard_title_arabic": "أعيان الشيعة",
-      "standard_title_english": "A'yan al-Shi'ah"
+      "standard_title_english": "A'yan al-Shi'ah",
+      "hawramani_match": null
     },
     {
       "book_arabic": "فرائد السمطين",
@@ -265,7 +293,8 @@
       "reasoning": "Al-Juwayni's compilation of virtues which is primarily composed of hadiths with full isnads.",
       "known_book": true,
       "standard_title_arabic": "فرائد السمطين في فضائل المرتضى والبتول والسبطين",
-      "standard_title_english": "Fara'id al-Simtayn"
+      "standard_title_english": "Fara'id al-Simtayn",
+      "hawramani_match": null
     },
     {
       "book_arabic": "تفسير الطبري",
@@ -284,7 +313,12 @@
       "reasoning": "Al-Tabari's foundational Quranic exegesis.",
       "known_book": true,
       "standard_title_arabic": "جامع البيان عن تأويل آي القرآن",
-      "standard_title_english": "Jami' al-Bayan (Tafsir al-Tabari)"
+      "standard_title_english": "Jami' al-Bayan (Tafsir al-Tabari)",
+      "hawramani_match": {
+        "category_id": 5518,
+        "category_name": "Aḥmad b. Ḥanbal (d. 855 CE) - al-Jāmiʿ li-ʿulūm imām Aḥmad: al-Rijāl - أحمد بن حنبل - الجامع لعلوم إمام أحمد: الرجال",
+        "entry_count": 3094
+      }
     },
     {
       "book_arabic": "صبح الأعشى",
@@ -302,7 +336,8 @@
       "reasoning": "Al-Qalqashandi's encyclopedic manual for chancery clerks, covering literature, geography, and administration.",
       "known_book": true,
       "standard_title_arabic": "صبح الأعشى في صناعة الإنشاء",
-      "standard_title_english": "Subh al-A'sha fi Sina'at al-Insha"
+      "standard_title_english": "Subh al-A'sha fi Sina'at al-Insha",
+      "hawramani_match": null
     },
     {
       "book_arabic": "جواهر العقدين",
@@ -320,7 +355,8 @@
       "reasoning": "This is the same thematic work by al-Samhudi concerning the virtues of the Prophet's lineage.",
       "known_book": true,
       "standard_title_arabic": "جواهر العقدين في فضل الشرفين",
-      "standard_title_english": "Jawahir al-'Iqdayn fi Fadl al-Sharafayn"
+      "standard_title_english": "Jawahir al-'Iqdayn fi Fadl al-Sharafayn",
+      "hawramani_match": null
     },
     {
       "book_arabic": "كنز العمّال",
@@ -339,7 +375,8 @@
       "reasoning": "Al-Muttaqi al-Hindi's massive rearrangement of hadiths into fiqh chapters, functioning as a comprehensive classified collection.",
       "known_book": true,
       "standard_title_arabic": "كنز العمال في سنن الأقوال والأفعال",
-      "standard_title_english": "Kanz al-'Ummal"
+      "standard_title_english": "Kanz al-'Ummal",
+      "hawramani_match": null
     },
     {
       "book_arabic": "رجال مشكاة",
@@ -357,7 +394,12 @@
       "reasoning": "Refers to 'al-Ikmal fi Asma' al-Rijal', the biographical dictionary of hadith narrators appended to Mishkat al-Masabih.",
       "known_book": true,
       "standard_title_arabic": "الإكمال في أسماء الرجال",
-      "standard_title_english": "Rijal Mishkat al-Masabih"
+      "standard_title_english": "Rijal Mishkat al-Masabih",
+      "hawramani_match": {
+        "category_id": 5518,
+        "category_name": "Aḥmad b. Ḥanbal (d. 855 CE) - al-Jāmiʿ li-ʿulūm imām Aḥmad: al-Rijāl - أحمد بن حنبل - الجامع لعلوم إمام أحمد: الرجال",
+        "entry_count": 3094
+      }
     },
     {
       "book_arabic": "فتح القدير",
@@ -375,7 +417,8 @@
       "reasoning": "Fath al-Qadir is a famous Hanafi fiqh commentary by Ibn al-Humam (or a tafsir by al-Shawkani); the prompt lists al-Sarakhsi, who wrote al-Mabsut, but the title strongly points to the fiqh genre.",
       "known_book": true,
       "standard_title_arabic": "فتح القدير",
-      "standard_title_english": "Fath al-Qadir"
+      "standard_title_english": "Fath al-Qadir",
+      "hawramani_match": null
     },
     {
       "book_arabic": "عقد النبوي",
@@ -393,7 +436,8 @@
       "reasoning": "A work on the virtues and biography of the Prophet and his family by al-'Aydarus.",
       "known_book": true,
       "standard_title_arabic": "العقد النبوي والسر المصطفوي",
-      "standard_title_english": "Al-'Iqd al-Nabawi"
+      "standard_title_english": "Al-'Iqd al-Nabawi",
+      "hawramani_match": null
     },
     {
       "book_arabic": "فرائد السمطين",
@@ -411,7 +455,8 @@
       "reasoning": "Al-Juwayni's compilation of virtues which is primarily composed of hadiths with full isnads.",
       "known_book": true,
       "standard_title_arabic": "فرائد السمطين في فضائل المرتضى والبتول والسبطين",
-      "standard_title_english": "Fara'id al-Simtayn"
+      "standard_title_english": "Fara'id al-Simtayn",
+      "hawramani_match": null
     },
     {
       "book_arabic": "ريحانة الأدب",
@@ -429,7 +474,8 @@
       "reasoning": "A biographical dictionary of scholars known by their kunya or laqab.",
       "known_book": true,
       "standard_title_arabic": "ريحانة الأدب في تراجم المعروفين بالكنية أو اللقب",
-      "standard_title_english": "Rayhanat al-Adab"
+      "standard_title_english": "Rayhanat al-Adab",
+      "hawramani_match": null
     },
     {
       "book_arabic": "مشكاة المصابيح",
@@ -447,7 +493,8 @@
       "reasoning": "Mishkat al-Masabih is a comprehensive secondary hadith collection organized by fiqh chapters.",
       "known_book": true,
       "standard_title_arabic": "مشكاة المصابيح",
-      "standard_title_english": "Mishkat al-Masabih"
+      "standard_title_english": "Mishkat al-Masabih",
+      "hawramani_match": null
     },
     {
       "book_arabic": "مرآة المؤمنين",
@@ -465,7 +512,8 @@
       "reasoning": "A thematic compilation on the virtues of the Ahl al-Bayt.",
       "known_book": true,
       "standard_title_arabic": "مرآة المؤمنين في مناقب أهل البيت الطاهرين",
-      "standard_title_english": "Mir'at al-Mu'minin"
+      "standard_title_english": "Mir'at al-Mu'minin",
+      "hawramani_match": null
     },
     {
       "book_arabic": "المعجم الصغير",
@@ -483,7 +531,12 @@
       "reasoning": "Al-Tabarani's hadith collection organized by the names of his teachers.",
       "known_book": true,
       "standard_title_arabic": "المعجم الصغير",
-      "standard_title_english": "Al-Mu'jam al-Saghir"
+      "standard_title_english": "Al-Mu'jam al-Saghir",
+      "hawramani_match": {
+        "category_id": 5520,
+        "category_name": "Al-Bukhārī (d. 870 CE) - al-Ḍuʿafāʾ al-ṣaghīr - البخاري - الضعفاء الصغير",
+        "entry_count": 417
+      }
     },
     {
       "book_arabic": "حلية الأولياء",
@@ -501,7 +554,8 @@
       "reasoning": "Abu Nu'aym's massive biographical dictionary of ascetics and scholars, organized by generations.",
       "known_book": true,
       "standard_title_arabic": "حلية الأولياء وطبقات الأصفياء",
-      "standard_title_english": "Hilyat al-Awliya' wa Tabaqat al-Asfiya'"
+      "standard_title_english": "Hilyat al-Awliya' wa Tabaqat al-Asfiya'",
+      "hawramani_match": null
     },
     {
       "book_arabic": "زين الفتى",
@@ -520,7 +574,8 @@
       "reasoning": "Al-'Asimi's specialized exegesis of Surat Hal Ata focusing on the virtues of Ali.",
       "known_book": true,
       "standard_title_arabic": "زين الفتى في تفسير سورة هل أتى",
-      "standard_title_english": "Zayn al-Fata fi Tafsir Surat Hal Ata"
+      "standard_title_english": "Zayn al-Fata fi Tafsir Surat Hal Ata",
+      "hawramani_match": null
     },
     {
       "book_arabic": "لسان العرب",
@@ -538,7 +593,12 @@
       "reasoning": "Ibn Manzur's monumental Arabic lexicon.",
       "known_book": true,
       "standard_title_arabic": "لسان العرب",
-      "standard_title_english": "Lisan al-'Arab"
+      "standard_title_english": "Lisan al-'Arab",
+      "hawramani_match": {
+        "category_id": 5578,
+        "category_name": "Ḥātim b. ʿĀrif al-ʿAwnī (born 1966 CE) - Dhayl Lisān al-mīzān - حاتم بن عارف العوني - ذيل لسان الميزان: رواة ضعفاء أو تكلم فيهم",
+        "entry_count": 249
+      }
     },
     {
       "book_arabic": "نظم درر السمطين",
@@ -556,7 +616,8 @@
       "reasoning": "Al-Zarandi's thematic compilation on the virtues of the Prophet and his family.",
       "known_book": true,
       "standard_title_arabic": "نظم درر السمطين في فضائل المصطفى والمرتضى والبتول والسبطين",
-      "standard_title_english": "Nazm Durar al-Simtayn"
+      "standard_title_english": "Nazm Durar al-Simtayn",
+      "hawramani_match": null
     },
     {
       "book_arabic": "براهين قاطعة",
@@ -574,7 +635,8 @@
       "reasoning": "Based on the title and author, this appears to be a theological or polemical treatise rather than a primary hadith collection.",
       "known_book": false,
       "standard_title_arabic": "البراهين القاطعة",
-      "standard_title_english": "Al-Barahin al-Qati'ah"
+      "standard_title_english": "Al-Barahin al-Qati'ah",
+      "hawramani_match": null
     },
     {
       "book_arabic": "سراج منير شرح جامع الصغير",
@@ -592,7 +654,12 @@
       "reasoning": "This is a well-known commentary (sharh) by al-'Azizi on al-Suyuti's hadith collection 'al-Jami' al-Saghir'.",
       "known_book": true,
       "standard_title_arabic": "السراج المنير شرح الجامع الصغير",
-      "standard_title_english": "Al-Siraj al-Munir Sharh al-Jami' al-Saghir"
+      "standard_title_english": "Al-Siraj al-Munir Sharh al-Jami' al-Saghir",
+      "hawramani_match": {
+        "category_id": 5518,
+        "category_name": "Aḥmad b. Ḥanbal (d. 855 CE) - al-Jāmiʿ li-ʿulūm imām Aḥmad: al-Rijāl - أحمد بن حنبل - الجامع لعلوم إمام أحمد: الرجال",
+        "entry_count": 3094
+      }
     },
     {
       "book_arabic": "جمع الفوائد",
@@ -610,7 +677,12 @@
       "reasoning": "This is a comprehensive secondary hadith compilation (Jam' al-Fawa'id) that gathers narrations from major hadith books.",
       "known_book": true,
       "standard_title_arabic": "جمع الفوائد من جامع الأصول ومجمع الزوائد",
-      "standard_title_english": "Jam' al-Fawa'id min Jami' al-Usul wa Majma' al-Zawa'id"
+      "standard_title_english": "Jam' al-Fawa'id min Jami' al-Usul wa Majma' al-Zawa'id",
+      "hawramani_match": {
+        "category_id": 5518,
+        "category_name": "Aḥmad b. Ḥanbal (d. 855 CE) - al-Jāmiʿ li-ʿulūm imām Aḥmad: al-Rijāl - أحمد بن حنبل - الجامع لعلوم إمام أحمد: الرجال",
+        "entry_count": 3094
+      }
     },
     {
       "book_arabic": "نزل الأبرار بما صم ني مناقب أهل البيت الاطهار",
@@ -628,7 +700,8 @@
       "reasoning": "This is a thematic compilation focused on the virtues (manaqib) of the Ahl al-Bayt.",
       "known_book": true,
       "standard_title_arabic": "نزل الأبرار بما صح من مناقب أهل البيت الأطهار",
-      "standard_title_english": "Nuzul al-Abrar bima Sahha min Manaqib Ahl al-Bayt al-Athar"
+      "standard_title_english": "Nuzul al-Abrar bima Sahha min Manaqib Ahl al-Bayt al-Athar",
+      "hawramani_match": null
     },
     {
       "book_arabic": "قرة العينين",
@@ -647,7 +720,8 @@
       "reasoning": "This is Shah Waliullah al-Dihlawi's famous Sunni polemical work defending the superiority of Abu Bakr and Umar.",
       "known_book": true,
       "standard_title_arabic": "قرة العينين في تفضيل الشيخين",
-      "standard_title_english": "Qurrat al-'Aynayn fi Tafdil al-Shaykhayn"
+      "standard_title_english": "Qurrat al-'Aynayn fi Tafdil al-Shaykhayn",
+      "hawramani_match": null
     },
     {
       "book_arabic": "المسند",
@@ -665,7 +739,8 @@
       "reasoning": "It is a primary hadith collection organized by the names of the Companions.",
       "known_book": true,
       "standard_title_arabic": "مسند أبي يعلى",
-      "standard_title_english": "Musnad Abi Ya'la"
+      "standard_title_english": "Musnad Abi Ya'la",
+      "hawramani_match": null
     },
     {
       "book_arabic": "نور الأبصار",
@@ -684,7 +759,12 @@
       "reasoning": "This is a late thematic compilation by al-Shablanji detailing the virtues and biographies of the Prophet's family.",
       "known_book": true,
       "standard_title_arabic": "نور الأبصار في مناقب آل بيت النبي المختار",
-      "standard_title_english": "Nur al-Absar fi Manaqib Al Bayt al-Nabi al-Mukhtar"
+      "standard_title_english": "Nur al-Absar fi Manaqib Al Bayt al-Nabi al-Mukhtar",
+      "hawramani_match": {
+        "category_id": 5535,
+        "category_name": "Abū l-Fatḥ al-Azdī (d. 984 CE) - al-Kunā li-man la yuʿraf lahu ism min aṣḥāb al-nabī - أبو الفتح الأزدي - الكنى لمن لا يعرف له اسم من أصحاب النبي",
+        "entry_count": 168
+      }
     },
     {
       "book_arabic": "فرائد الشمطين",
@@ -702,7 +782,8 @@
       "reasoning": "This is a well-known compilation of virtues (manaqib) regarding Ali, Fatima, Hasan, and Husayn by al-Juwayni.",
       "known_book": true,
       "standard_title_arabic": "فرائد السمطين في فضائل المرتضى والبتول والسبطين",
-      "standard_title_english": "Fara'id al-Simtayn fi Fada'il al-Murtada wa al-Batul wa al-Sibtayn"
+      "standard_title_english": "Fara'id al-Simtayn fi Fada'il al-Murtada wa al-Batul wa al-Sibtayn",
+      "hawramani_match": null
     },
     {
       "book_arabic": "الدر المنثور",
@@ -721,7 +802,8 @@
       "reasoning": "This is al-Suyuti's famous exegesis of the Quran based entirely on transmitted hadith reports.",
       "known_book": true,
       "standard_title_arabic": "الدر المنثور في التفسير بالمأثور",
-      "standard_title_english": "Al-Durr al-Manthur fi al-Tafsir bi al-Ma'thur"
+      "standard_title_english": "Al-Durr al-Manthur fi al-Tafsir bi al-Ma'thur",
+      "hawramani_match": null
     },
     {
       "book_arabic": "جواهر العقدين",
@@ -739,7 +821,8 @@
       "reasoning": "This is the same thematic work by al-Samhudi concerning the virtues of the Prophet's lineage.",
       "known_book": true,
       "standard_title_arabic": "جواهر العقدين في فضل الشرفين",
-      "standard_title_english": "Jawahir al-'Iqdayn fi Fadl al-Sharafayn"
+      "standard_title_english": "Jawahir al-'Iqdayn fi Fadl al-Sharafayn",
+      "hawramani_match": null
     },
     {
       "book_arabic": "صحيح مسلم",
@@ -757,7 +840,12 @@
       "reasoning": "This is one of the two most authentic primary hadith collections in Sunni Islam.",
       "known_book": true,
       "standard_title_arabic": "صحيح مسلم",
-      "standard_title_english": "Sahih Muslim"
+      "standard_title_english": "Sahih Muslim",
+      "hawramani_match": {
+        "category_id": 5542,
+        "category_name": "Al-Kalābādhī (d. 990-5 CE) - al-Hidāya wa-l-irshād (rijāl Ṣaḥīḥ al-Bukhārī) - الكلاباذي - الهداية المعروف برجال صحيح البخاري",
+        "entry_count": 1522
+      }
     },
     {
       "book_arabic": "مسند أحمد",
@@ -775,7 +863,12 @@
       "reasoning": "This is the primary hadith collection organized by Companion narrators compiled by Ahmad b. Hanbal.",
       "known_book": true,
       "standard_title_arabic": "مسند الإمام أحمد بن حنبل",
-      "standard_title_english": "Musnad Ahmad bin Hanbal"
+      "standard_title_english": "Musnad Ahmad bin Hanbal",
+      "hawramani_match": {
+        "category_id": 5518,
+        "category_name": "Aḥmad b. Ḥanbal (d. 855 CE) - al-Jāmiʿ li-ʿulūm imām Aḥmad: al-Rijāl - أحمد بن حنبل - الجامع لعلوم إمام أحمد: الرجال",
+        "entry_count": 3094
+      }
     },
     {
       "book_arabic": "صحيح البخاري",
@@ -793,7 +886,12 @@
       "reasoning": "This is the most authentic primary hadith collection in Sunni Islam.",
       "known_book": true,
       "standard_title_arabic": "الجامع المسند الصحيح المختصر (صحيح البخاري)",
-      "standard_title_english": "Sahih al-Bukhari"
+      "standard_title_english": "Sahih al-Bukhari",
+      "hawramani_match": {
+        "category_id": 5518,
+        "category_name": "Aḥmad b. Ḥanbal (d. 855 CE) - al-Jāmiʿ li-ʿulūm imām Aḥmad: al-Rijāl - أحمد بن حنبل - الجامع لعلوم إمام أحمد: الرجال",
+        "entry_count": 3094
+      }
     },
     {
       "book_arabic": "طبقات الشافعية",
@@ -811,7 +909,12 @@
       "reasoning": "This is a biographical dictionary organized by generations (tabaqat) of scholars belonging to the Shafi'i school of jurisprudence.",
       "known_book": true,
       "standard_title_arabic": "طبقات الشافعية",
-      "standard_title_english": "Tabaqat al-Shafi'iyya"
+      "standard_title_english": "Tabaqat al-Shafi'iyya",
+      "hawramani_match": {
+        "category_id": 5555,
+        "category_name": "Abū Isḥāq al-Shīrāzī (d. 1083 CE) - Ṭabaqāt al-fuqahāʾ - أبو إسحاق الشيرازي - طبقات الفقهاء",
+        "entry_count": 392
+      }
     },
     {
       "book_arabic": "تاريخ الخلفاء",
@@ -829,7 +932,12 @@
       "reasoning": "This is a general historical and biographical work focusing on the Islamic caliphs, authored by al-Suyuti (despite the input's nisba error).",
       "known_book": true,
       "standard_title_arabic": "تاريخ الخلفاء",
-      "standard_title_english": "Tarikh al-Khulafa'"
+      "standard_title_english": "Tarikh al-Khulafa'",
+      "hawramani_match": {
+        "category_id": 5519,
+        "category_name": "Al-Bukhārī (d. 870 CE) - al-Tārikh al-kabīr - البخاري - التاريخ الكبير",
+        "entry_count": 13266
+      }
     },
     {
       "book_arabic": "جواهر العقدين",
@@ -847,7 +955,8 @@
       "reasoning": "This is the same thematic work by al-Samhudi concerning the virtues of the Prophet's lineage.",
       "known_book": true,
       "standard_title_arabic": "جواهر العقدين في فضل الشرفين",
-      "standard_title_english": "Jawahir al-'Iqdayn fi Fadl al-Sharafayn"
+      "standard_title_english": "Jawahir al-'Iqdayn fi Fadl al-Sharafayn",
+      "hawramani_match": null
     },
     {
       "book_arabic": "مشرع الروي",
@@ -865,7 +974,8 @@
       "reasoning": "A biographical dictionary of the Ba 'Alawi sayyids of Hadramawt.",
       "known_book": true,
       "standard_title_arabic": "المشرع الروي في مناقب السادة الكرام آل أبي علوي",
-      "standard_title_english": "Al-Mashra' al-Rawi"
+      "standard_title_english": "Al-Mashra' al-Rawi",
+      "hawramani_match": null
     },
     {
       "book_arabic": "الاستيعاب",
@@ -884,7 +994,12 @@
       "reasoning": "This is a foundational biographical dictionary of the Prophet's Companions by Ibn Abd al-Barr.",
       "known_book": true,
       "standard_title_arabic": "الاستيعاب في معرفة الأصحاب",
-      "standard_title_english": "Al-Isti'ab fi Ma'rifat al-Ashab"
+      "standard_title_english": "Al-Isti'ab fi Ma'rifat al-Ashab",
+      "hawramani_match": {
+        "category_id": 5547,
+        "category_name": "Abū Nuʿaym al-Aṣbahānī (d. 1038 CE) - Maʿrifat al-ṣaḥāba - أبو نعيم الأصبهاني - معرفة الصحابة",
+        "entry_count": 4112
+      }
     },
     {
       "book_arabic": "تهذيب الأسماء واللغات",
@@ -903,7 +1018,8 @@
       "reasoning": "This is a biographical dictionary and lexicon by al-Nawawi, heavily used to identify scholars and narrators.",
       "known_book": true,
       "standard_title_arabic": "تهذيب الأسماء واللغات",
-      "standard_title_english": "Tahdhib al-Asma' wa al-Lughat"
+      "standard_title_english": "Tahdhib al-Asma' wa al-Lughat",
+      "hawramani_match": null
     },
     {
       "book_arabic": "الأنساب",
@@ -922,7 +1038,8 @@
       "reasoning": "This is al-Sam'ani's famous dictionary of lineages and nisbas (affiliations) used to identify narrators.",
       "known_book": true,
       "standard_title_arabic": "الأنساب",
-      "standard_title_english": "Al-Ansab"
+      "standard_title_english": "Al-Ansab",
+      "hawramani_match": null
     },
     {
       "book_arabic": "تفسير الخازن",
@@ -940,7 +1057,12 @@
       "reasoning": "This is a well-known exegesis (tafsir) of the Quran by 'Ala' al-Din al-Khazin.",
       "known_book": true,
       "standard_title_arabic": "لباب التأويل في معاني التنزيل (تفسير الخازن)",
-      "standard_title_english": "Lubab al-Ta'wil fi Ma'ani al-Tanzil (Tafsir al-Khazin)"
+      "standard_title_english": "Lubab al-Ta'wil fi Ma'ani al-Tanzil (Tafsir al-Khazin)",
+      "hawramani_match": {
+        "category_id": 5560,
+        "category_name": "ʿAbd al-Karīm al-Samʿānī (d. 1167 CE) - al-Taḥbīr fī-l-Muʿjām al-kābīr - عبد الكريم السمعاني - التحبير في المعجم الكبير",
+        "entry_count": 1105
+      }
     },
     {
       "book_arabic": "طبقات الشافعية",
@@ -958,7 +1080,12 @@
       "reasoning": "This is a biographical dictionary organized by generations (tabaqat) of scholars belonging to the Shafi'i school of jurisprudence.",
       "known_book": true,
       "standard_title_arabic": "طبقات الشافعية",
-      "standard_title_english": "Tabaqat al-Shafi'iyya"
+      "standard_title_english": "Tabaqat al-Shafi'iyya",
+      "hawramani_match": {
+        "category_id": 5555,
+        "category_name": "Abū Isḥāq al-Shīrāzī (d. 1083 CE) - Ṭabaqāt al-fuqahāʾ - أبو إسحاق الشيرازي - طبقات الفقهاء",
+        "entry_count": 392
+      }
     },
     {
       "book_arabic": "التواقيع",
@@ -976,7 +1103,8 @@
       "reasoning": "The exact identity of this book by this specific author is obscure; it does not match standard major hadith or biographical collections.",
       "known_book": false,
       "standard_title_arabic": "التواقيع",
-      "standard_title_english": "Al-Tawaqi'"
+      "standard_title_english": "Al-Tawaqi'",
+      "hawramani_match": null
     },
     {
       "book_arabic": "هداية السعدا",
@@ -995,7 +1123,12 @@
       "reasoning": "This is a thematic work focusing on the virtues of Ahl al-Bayt and the tragedy of Karbala.",
       "known_book": true,
       "standard_title_arabic": "هداية السعداء",
-      "standard_title_english": "Hidayat al-Su'ada"
+      "standard_title_english": "Hidayat al-Su'ada",
+      "hawramani_match": {
+        "category_id": 5542,
+        "category_name": "Al-Kalābādhī (d. 990-5 CE) - al-Hidāya wa-l-irshād (rijāl Ṣaḥīḥ al-Bukhārī) - الكلاباذي - الهداية المعروف برجال صحيح البخاري",
+        "entry_count": 1522
+      }
     },
     {
       "book_arabic": "رسالة في أصول الإيمان",
@@ -1013,7 +1146,8 @@
       "reasoning": "The title explicitly indicates it is a theological treatise on the principles of faith.",
       "known_book": true,
       "standard_title_arabic": "رسالة في أصول الإيمان",
-      "standard_title_english": "Risala fi Usul al-Iman"
+      "standard_title_english": "Risala fi Usul al-Iman",
+      "hawramani_match": null
     },
     {
       "book_arabic": "كفاية الطالب",
@@ -1031,7 +1165,8 @@
       "reasoning": "It is a thematic compilation dedicated to the virtues of Ali ibn Abi Talib.",
       "known_book": true,
       "standard_title_arabic": "كفاية الطالب في مناقب علي بن أبي طالب",
-      "standard_title_english": "Kifayat al-Talib"
+      "standard_title_english": "Kifayat al-Talib",
+      "hawramani_match": null
     },
     {
       "book_arabic": "عبقات الأنوار",
@@ -1050,7 +1185,8 @@
       "reasoning": "This is a massive and famous Shia polemical encyclopedia defending the Imamate by Mir Hamid Husayn.",
       "known_book": true,
       "standard_title_arabic": "عبقات الأنوار في إمامة الأئمة الأطهار",
-      "standard_title_english": "'Abaqat al-Anwar fi Imamat al-A'immat al-Athar"
+      "standard_title_english": "'Abaqat al-Anwar fi Imamat al-A'immat al-Athar",
+      "hawramani_match": null
     },
     {
       "book_arabic": "فوائد الرضوية",
@@ -1068,7 +1204,12 @@
       "reasoning": "This is a biographical dictionary of Shia scholars compiled by Abbas al-Qummi.",
       "known_book": true,
       "standard_title_arabic": "الفوائد الرضوية في أحوال علماء المذهب الجعفرية",
-      "standard_title_english": "Al-Fawa'id al-Radawiyya"
+      "standard_title_english": "Al-Fawa'id al-Radawiyya",
+      "hawramani_match": {
+        "category_id": 5530,
+        "category_name": "Ibn Ḥibbān (d. 965 CE) – Mashāhīr ʿulamāʾ al-amṣār - ابن حبان - مشاهير علماء الأمصار",
+        "entry_count": 1589
+      }
     },
     {
       "book_arabic": "ذخيرة المآل",
@@ -1086,7 +1227,8 @@
       "reasoning": "This is a thematic compilation focused on the virtues (manaqib) of the Prophet's family and companions.",
       "known_book": true,
       "standard_title_arabic": "ذخيرة المآل في مناقب الآل",
-      "standard_title_english": "Dhakhirat al-Ma'al fi Manaqib al-Aal"
+      "standard_title_english": "Dhakhirat al-Ma'al fi Manaqib al-Aal",
+      "hawramani_match": null
     },
     {
       "book_arabic": "الصحيح",
@@ -1104,7 +1246,12 @@
       "reasoning": "Based on the author (Muslim b. al-Hajjaj), this refers to the primary hadith collection Sahih Muslim.",
       "known_book": true,
       "standard_title_arabic": "صحيح مسلم",
-      "standard_title_english": "Sahih Muslim"
+      "standard_title_english": "Sahih Muslim",
+      "hawramani_match": {
+        "category_id": 5542,
+        "category_name": "Al-Kalābādhī (d. 990-5 CE) - al-Hidāya wa-l-irshād (rijāl Ṣaḥīḥ al-Bukhārī) - الكلاباذي - الهداية المعروف برجال صحيح البخاري",
+        "entry_count": 1522
+      }
     },
     {
       "book_arabic": "المعارف",
@@ -1122,7 +1269,8 @@
       "reasoning": "It is an early encyclopedic historical and biographical work, not organized strictly as a hadith collection or a standard tabaqat.",
       "known_book": true,
       "standard_title_arabic": "المعارف",
-      "standard_title_english": "al-Ma'arif"
+      "standard_title_english": "al-Ma'arif",
+      "hawramani_match": null
     },
     {
       "book_arabic": "عيون الأخبار",
@@ -1140,7 +1288,12 @@
       "reasoning": "It is a classic work of Arabic literature (adab) containing anecdotes, poetry, and wisdom.",
       "known_book": true,
       "standard_title_arabic": "عيون الأخبار",
-      "standard_title_english": "Uyun al-Akhbar"
+      "standard_title_english": "Uyun al-Akhbar",
+      "hawramani_match": {
+        "category_id": 5524,
+        "category_name": "Al-Kaʿbī (d. 931 CE) - Qubūl al-akhbār wa-maʿrifat al-rijāl - الكعبي - قبول الأخبار ومعرفة الرجال",
+        "entry_count": 965
+      }
     },
     {
       "book_arabic": "المسند",
@@ -1158,7 +1311,8 @@
       "reasoning": "It is a primary hadith collection organized by the names of the Companions.",
       "known_book": true,
       "standard_title_arabic": "مسند أبي يعلى",
-      "standard_title_english": "Musnad Abi Ya'la"
+      "standard_title_english": "Musnad Abi Ya'la",
+      "hawramani_match": null
     },
     {
       "book_arabic": "المسند",
@@ -1176,7 +1330,8 @@
       "reasoning": "It is a primary hadith collection organized by the names of the Companions.",
       "known_book": true,
       "standard_title_arabic": "مسند أبي يعلى",
-      "standard_title_english": "Musnad Abi Ya'la"
+      "standard_title_english": "Musnad Abi Ya'la",
+      "hawramani_match": null
     },
     {
       "book_arabic": "تهذيب الآثار",
@@ -1194,7 +1349,12 @@
       "reasoning": "It is a massive hadith collection organized by Companion (Musnad format) that includes extensive commentary and legal derivation by al-Tabari.",
       "known_book": true,
       "standard_title_arabic": "تهذيب الآثار",
-      "standard_title_english": "Tahdhib al-Athar"
+      "standard_title_english": "Tahdhib al-Athar",
+      "hawramani_match": {
+        "category_id": 5565,
+        "category_name": "Ibn Ḥajar al-ʿAsqalāni (d. 1449 CE) - al-Īthār bi-maʿrifat ruwāt al-Āthar li-al-Shaybānī - ابن حجر العسقلاني - الإيثار بمعرفة رواة كتاب الآثار للشيباني",
+        "entry_count": 367
+      }
     },
     {
       "book_arabic": "الأوراق",
@@ -1212,7 +1372,12 @@
       "reasoning": "It is a literary and historical work focusing on the poetry and news of the Abbasid caliphs and poets.",
       "known_book": true,
       "standard_title_arabic": "كتاب الأوراق في أخبار آل عباس وأشعارهم",
-      "standard_title_english": "Kitab al-Awraq"
+      "standard_title_english": "Kitab al-Awraq",
+      "hawramani_match": {
+        "category_id": 5524,
+        "category_name": "Al-Kaʿbī (d. 931 CE) - Qubūl al-akhbār wa-maʿrifat al-rijāl - الكعبي - قبول الأخبار ومعرفة الرجال",
+        "entry_count": 965
+      }
     },
     {
       "book_arabic": "مرج البحرين",
@@ -1230,7 +1395,8 @@
       "reasoning": "There is no widely known book by Abu al-Faraj al-Isfahani with this exact title; it may be a misattribution or an obscure work.",
       "known_book": false,
       "standard_title_arabic": "مرج البحرين",
-      "standard_title_english": "Majma' al-Bahrayn"
+      "standard_title_english": "Majma' al-Bahrayn",
+      "hawramani_match": null
     },
     {
       "book_arabic": "المجالس",
@@ -1248,7 +1414,8 @@
       "reasoning": "Works titled 'al-Majalis' by scholars like al-Samarqandi are typically dictations (Amali) containing exhortations (wa'z) and literary anecdotes.",
       "known_book": true,
       "standard_title_arabic": "مجالس أبي الليث السمرقندي",
-      "standard_title_english": "Majalis al-Samarqandi"
+      "standard_title_english": "Majalis al-Samarqandi",
+      "hawramani_match": null
     },
     {
       "book_arabic": "شرف النبوة",
@@ -1266,7 +1433,8 @@
       "reasoning": "It is a biographical work focusing on the life, miracles (dala'il), and characteristics (shama'il) of the Prophet Muhammad.",
       "known_book": true,
       "standard_title_arabic": "شرف المصطفى",
-      "standard_title_english": "Sharaf al-Mustafa"
+      "standard_title_english": "Sharaf al-Mustafa",
+      "hawramani_match": null
     },
     {
       "book_arabic": "كنوز الحقائق",
@@ -1284,7 +1452,8 @@
       "reasoning": "The famous 'Kunuz al-Haqa'iq' is by al-Manawi, not al-Tha'labi, suggesting a misattribution in the input.",
       "known_book": false,
       "standard_title_arabic": "كنوز الحقائق",
-      "standard_title_english": "Kunuz al-Haqa'iq"
+      "standard_title_english": "Kunuz al-Haqa'iq",
+      "hawramani_match": null
     },
     {
       "book_arabic": "ثمار القلوب في العقائد والتوحيد",
@@ -1302,7 +1471,8 @@
       "reasoning": "Al-Tha'alibi's famous work is 'Thimar al-Qulub fi al-Mudaf wa al-Mansub' (an adab/linguistic work); the subtitle 'fi al-Aqa'id' appears to be an error in the input.",
       "known_book": true,
       "standard_title_arabic": "ثمار القلوب في المضاف والمنسوب",
-      "standard_title_english": "Thimar al-Qulub"
+      "standard_title_english": "Thimar al-Qulub",
+      "hawramani_match": null
     },
     {
       "book_arabic": "الإنباء على قبائل الرواة",
@@ -1320,7 +1490,12 @@
       "reasoning": "It is a genealogical dictionary focusing on the tribal lineages of hadith narrators.",
       "known_book": true,
       "standard_title_arabic": "الإنباه على قبائل الرواة",
-      "standard_title_english": "al-Inbah 'ala Qaba'il al-Ruwat"
+      "standard_title_english": "al-Inbah 'ala Qaba'il al-Ruwat",
+      "hawramani_match": {
+        "category_id": 5568,
+        "category_name": "Al-Dhahabī (d. 1348 CE) - al-Ruwāt al-thiqāt al-mutakallam fī-him bi-mā lā yūjib raddihim - الذهبي - الرواة الثقات المتكلم فيهم بما لا يوجب ردهم",
+        "entry_count": 92
+      }
     },
     {
       "book_arabic": "تاريخ بغداد",
@@ -1338,7 +1513,12 @@
       "reasoning": "It is a massive biographical dictionary of scholars who lived in or visited Baghdad, heavily featuring hadith narrations.",
       "known_book": true,
       "standard_title_arabic": "تاريخ بغداد",
-      "standard_title_english": "Tarikh Baghdad"
+      "standard_title_english": "Tarikh Baghdad",
+      "hawramani_match": {
+        "category_id": 5519,
+        "category_name": "Al-Bukhārī (d. 870 CE) - al-Tārikh al-kabīr - البخاري - التاريخ الكبير",
+        "entry_count": 13266
+      }
     },
     {
       "book_arabic": "تفسير الواحدي",
@@ -1356,7 +1536,8 @@
       "reasoning": "It is a commentary on the Quran.",
       "known_book": true,
       "standard_title_arabic": "تفسير الواحدي",
-      "standard_title_english": "Tafsir al-Wahidi"
+      "standard_title_english": "Tafsir al-Wahidi",
+      "hawramani_match": null
     },
     {
       "book_arabic": "الإمتاع بحل الحق والإيمان وإيقاظ الهمم",
@@ -1374,7 +1555,8 @@
       "reasoning": "This specific title is highly obscure or misattributed; Ibn al-Maghazili is primarily known for his 'Manaqib'.",
       "known_book": false,
       "standard_title_arabic": "الإمتاع بحل الحق والإيمان وإيقاظ الهمم",
-      "standard_title_english": "al-Imta' bi-Hill al-Haqq"
+      "standard_title_english": "al-Imta' bi-Hill al-Haqq",
+      "hawramani_match": null
     },
     {
       "book_arabic": "فضائل الصحابة",
@@ -1392,7 +1574,12 @@
       "reasoning": "Early works on the virtues of the Companions by hadith scholars are typically primary hadith compilations with isnads.",
       "known_book": true,
       "standard_title_arabic": "فضائل الصحابة للسمعاني",
-      "standard_title_english": "Fada'il al-Sahaba"
+      "standard_title_english": "Fada'il al-Sahaba",
+      "hawramani_match": {
+        "category_id": 5547,
+        "category_name": "Abū Nuʿaym al-Aṣbahānī (d. 1038 CE) - Maʿrifat al-ṣaḥāba - أبو نعيم الأصبهاني - معرفة الصحابة",
+        "entry_count": 4112
+      }
     },
     {
       "book_arabic": "مسند الفردوس",
@@ -1410,7 +1597,8 @@
       "reasoning": "It is a primary hadith collection compiling narrations with their chains of transmission.",
       "known_book": true,
       "standard_title_arabic": "مسند الفردوس",
-      "standard_title_english": "Musnad al-Firdaws"
+      "standard_title_english": "Musnad al-Firdaws",
+      "hawramani_match": null
     },
     {
       "book_arabic": "وسيلة المتعبدين",
@@ -1428,7 +1616,8 @@
       "reasoning": "It is a thematic work focusing on virtues, exhortation, and following the Prophet, rather than a strict hadith collection.",
       "known_book": true,
       "standard_title_arabic": "وسيلة المتعبدين إلى متابعة سيد المرسلين",
-      "standard_title_english": "Wasilat al-Muta'abbadin"
+      "standard_title_english": "Wasilat al-Muta'abbadin",
+      "hawramani_match": null
     },
     {
       "book_arabic": "السنة",
@@ -1446,7 +1635,12 @@
       "reasoning": "Early books titled 'al-Sunna' are typically theological/creedal works defending orthodox beliefs, though they rely heavily on hadith.",
       "known_book": false,
       "standard_title_arabic": "كتاب السنة",
-      "standard_title_english": "Kitab al-Sunna"
+      "standard_title_english": "Kitab al-Sunna",
+      "hawramani_match": {
+        "category_id": 5565,
+        "category_name": "Ibn Ḥajar al-ʿAsqalāni (d. 1449 CE) - al-Īthār bi-maʿrifat ruwāt al-Āthar li-al-Shaybānī - ابن حجر العسقلاني - الإيثار بمعرفة رواة كتاب الآثار للشيباني",
+        "entry_count": 367
+      }
     },
     {
       "book_arabic": "نهاية الأفضل في تفضيل الآل",
@@ -1464,7 +1658,8 @@
       "reasoning": "It is a thematic compilation dedicated to the virtues (manaqib) of the Ahl al-Bayt.",
       "known_book": true,
       "standard_title_arabic": "نهاية الأفضل في تفضيل الآل",
-      "standard_title_english": "Nihayat al-Afdal fi Tafdil al-Al"
+      "standard_title_english": "Nihayat al-Afdal fi Tafdil al-Al",
+      "hawramani_match": null
     },
     {
       "book_arabic": "مفاتيح الغيب",
@@ -1482,7 +1677,8 @@
       "reasoning": "It is the famous comprehensive Quranic exegesis (Tafsir al-Kabir) by Fakhr al-Din al-Razi.",
       "known_book": true,
       "standard_title_arabic": "مفاتيح الغيب",
-      "standard_title_english": "Mafatih al-Ghayb"
+      "standard_title_english": "Mafatih al-Ghayb",
+      "hawramani_match": null
     },
     {
       "book_arabic": "مطالب السؤول في مناقب آل الرسول",
@@ -1500,7 +1696,8 @@
       "reasoning": "It is a well-known thematic compilation on the virtues of the Ahl al-Bayt without systematic hadith chains.",
       "known_book": true,
       "standard_title_arabic": "مطالب السؤول في مناقب آل الرسول",
-      "standard_title_english": "Matalib al-Su'ul fi Manaqib Al al-Rasul"
+      "standard_title_english": "Matalib al-Su'ul fi Manaqib Al al-Rasul",
+      "hawramani_match": null
     },
     {
       "book_arabic": "خواص الأئمة",
@@ -1518,7 +1715,12 @@
       "reasoning": "It is a biographical and virtue-based work detailing the lives and merits of the Imams.",
       "known_book": true,
       "standard_title_arabic": "تذكرة خواص الأمة في خصائص الأئمة",
-      "standard_title_english": "Tadhkirat Khawass al-Ummah"
+      "standard_title_english": "Tadhkirat Khawass al-Ummah",
+      "hawramani_match": {
+        "category_id": 5576,
+        "category_name": "Yūsuf b. ʿAbd al-Hādī al-Ḥanbalī (d. 1503-1504 CE) - Tadhkirat al-ḥuffāẓ wa-tabṣirat al-ayqāẓ - يوسف بن عبد الهادي الحنبلي - تذكرة الحفاظ وتبصرة الأيقاظ",
+        "entry_count": 947
+      }
     },
     {
       "book_arabic": "كفاية الطالب",
@@ -1536,7 +1738,8 @@
       "reasoning": "It is a thematic compilation dedicated to the virtues of Ali ibn Abi Talib.",
       "known_book": true,
       "standard_title_arabic": "كفاية الطالب في مناقب علي بن أبي طالب",
-      "standard_title_english": "Kifayat al-Talib"
+      "standard_title_english": "Kifayat al-Talib",
+      "hawramani_match": null
     },
     {
       "book_arabic": "ذخائر العقبى في مناقب ذوي الأربة",
@@ -1554,7 +1757,8 @@
       "reasoning": "It is a famous thematic compilation on the virtues of the Prophet's family (Ahl al-Bayt).",
       "known_book": true,
       "standard_title_arabic": "ذخائر العقبى في مناقب ذوي القربى",
-      "standard_title_english": "Dhakha'ir al-Uqba"
+      "standard_title_english": "Dhakha'ir al-Uqba",
+      "hawramani_match": null
     },
     {
       "book_arabic": "نسخة تقليد",
@@ -1572,7 +1776,8 @@
       "reasoning": "The title and author do not correspond to a widely recognized classical Islamic text in standard bibliographies.",
       "known_book": false,
       "standard_title_arabic": "نسخة تقليد",
-      "standard_title_english": "Nuskha Taqlid"
+      "standard_title_english": "Nuskha Taqlid",
+      "hawramani_match": null
     },
     {
       "book_arabic": "تفسير فرائد الأنوار",
@@ -1590,7 +1795,8 @@
       "reasoning": "It is a Quranic exegesis, widely known by its alternative title 'Ghara'ib al-Qur'an'.",
       "known_book": true,
       "standard_title_arabic": "غرائب القرآن ورغائب الفرقان",
-      "standard_title_english": "Ghara'ib al-Qur'an"
+      "standard_title_english": "Ghara'ib al-Qur'an",
+      "hawramani_match": null
     },
     {
       "book_arabic": "كاشف الخفاء شرح مشكاة المصابيح",
@@ -1608,7 +1814,12 @@
       "reasoning": "It is a direct commentary (sharh) on the hadith collection 'Mishkat al-Masabih'.",
       "known_book": true,
       "standard_title_arabic": "الكاشف عن حقائق السنن",
-      "standard_title_english": "al-Kashif 'an Haqa'iq al-Sunan"
+      "standard_title_english": "al-Kashif 'an Haqa'iq al-Sunan",
+      "hawramani_match": {
+        "category_id": 5573,
+        "category_name": "Ibn Zurayq al-Maqdisī (d. 1400-1401 CE) - Man takallama fī-hi al-Dāraquṭnī fī Kitāb al-sunan - ابن زريق - من تكلم فيه الدارقطني في كتاب السنن",
+        "entry_count": 480
+      }
     },
     {
       "book_arabic": "الإعلام",
@@ -1626,7 +1837,8 @@
       "reasoning": "Jamal al-Din al-Zarandi is famous for 'Nazm Durar al-Simtayn'; 'al-I'lam' is either a misnomer or an obscure work.",
       "known_book": false,
       "standard_title_arabic": "الإعلام",
-      "standard_title_english": "al-I'lam"
+      "standard_title_english": "al-I'lam",
+      "hawramani_match": null
     },
     {
       "book_arabic": "مودة القربى",
@@ -1644,7 +1856,8 @@
       "reasoning": "It is a thematic compilation focusing on the virtues and love for the Ahl al-Bayt.",
       "known_book": true,
       "standard_title_arabic": "مودة القربى",
-      "standard_title_english": "Mawaddat al-Qurba"
+      "standard_title_english": "Mawaddat al-Qurba",
+      "hawramani_match": null
     },
     {
       "book_arabic": "حاشية على مشكوة المصابيح",
@@ -1662,7 +1875,12 @@
       "reasoning": "This is a marginal gloss (hashiyah) by al-Jurjani on the famous hadith collection Mishkat al-Masabih.",
       "known_book": true,
       "standard_title_arabic": "حاشية الجرجاني على مشكاة المصابيح",
-      "standard_title_english": "Hashiyat al-Jurjani 'ala Mishkat al-Masabih"
+      "standard_title_english": "Hashiyat al-Jurjani 'ala Mishkat al-Masabih",
+      "hawramani_match": {
+        "category_id": 5531,
+        "category_name": "Ibn ʿAdī al-Jurjānī (d. 976 CE) - al-Kāmil fī ḍuʿafāʾ al-rijāl - ابن عدي الجرجاني - الكامل في ضعفاء الرجال",
+        "entry_count": 2204
+      }
     },
     {
       "book_arabic": "فصل الخطاب",
@@ -1680,7 +1898,8 @@
       "reasoning": "Khwaja Parsa's 'Fasl al-Khitab' is a Sufi work that includes extensive sections on the virtues (fada'il) of the Twelve Imams without systematic hadith chains.",
       "known_book": true,
       "standard_title_arabic": "فصل الخطاب لوصل الأحباب في المحاضرات",
-      "standard_title_english": "Fasl al-Khitab li-Wasl al-Ahbab"
+      "standard_title_english": "Fasl al-Khitab li-Wasl al-Ahbab",
+      "hawramani_match": null
     },
     {
       "book_arabic": "عبدية",
@@ -1698,7 +1917,12 @@
       "reasoning": "The title appears to be a severe OCR error (possibly for a work by Ibn Hijjah al-Hamawi, whose death date is also misstated in the prompt), making it unidentifiable.",
       "known_book": false,
       "standard_title_arabic": "غير معروف",
-      "standard_title_english": "Unknown"
+      "standard_title_english": "Unknown",
+      "hawramani_match": {
+        "category_id": 5542,
+        "category_name": "Al-Kalābādhī (d. 990-5 CE) - al-Hidāya wa-l-irshād (rijāl Ṣaḥīḥ al-Bukhārī) - الكلاباذي - الهداية المعروف برجال صحيح البخاري",
+        "entry_count": 1522
+      }
     },
     {
       "book_arabic": "الفصول المهمة",
@@ -1716,7 +1940,12 @@
       "reasoning": "Ibn al-Sabbagh al-Maliki's work is a famous biographical and virtue compilation dedicated to the Twelve Imams.",
       "known_book": true,
       "standard_title_arabic": "الفصول المهمة في معرفة الأئمة",
-      "standard_title_english": "al-Fusul al-Muhimmah fi Ma'rifat al-A'immah"
+      "standard_title_english": "al-Fusul al-Muhimmah fi Ma'rifat al-A'immah",
+      "hawramani_match": {
+        "category_id": 5547,
+        "category_name": "Abū Nuʿaym al-Aṣbahānī (d. 1038 CE) - Maʿrifat al-ṣaḥāba - أبو نعيم الأصبهاني - معرفة الصحابة",
+        "entry_count": 4112
+      }
     },
     {
       "book_arabic": "فواتح شرح ديوان منسوب إلى أمي المؤمنين عائشة",
@@ -1734,7 +1963,12 @@
       "reasoning": "This is al-Maybudi's famous commentary on the poetry collection (Diwan) attributed to Ali ibn Abi Talib (the prompt contains an OCR error replacing 'Amir al-Mu'minin Ali' with 'Umm al-Mu'minin Aisha').",
       "known_book": true,
       "standard_title_arabic": "فواتح الميبذي شرح ديوان أمير المؤمنين علي",
-      "standard_title_english": "Fawatih al-Maybudi Sharh Diwan Amir al-Mu'minin"
+      "standard_title_english": "Fawatih al-Maybudi Sharh Diwan Amir al-Mu'minin",
+      "hawramani_match": {
+        "category_id": 5577,
+        "category_name": "Al-Dhahabī (d. 1348 CE) - Dhayl dīwān al-ḍuʿafāʾ wa-l-matrūkīn - الذهبي - ذيل ديوان الضعفاء والمتروكين",
+        "entry_count": 575
+      }
     },
     {
       "book_arabic": "أساس الاقتباس",
@@ -1752,7 +1986,8 @@
       "reasoning": "This is a literary work (adab/balaghah) detailing how to incorporate Quranic verses and hadiths into prose and poetry.",
       "known_book": true,
       "standard_title_arabic": "أساس الاقتباس",
-      "standard_title_english": "Asas al-Iqtibas"
+      "standard_title_english": "Asas al-Iqtibas",
+      "hawramani_match": null
     },
     {
       "book_arabic": "نزهة المجالس",
@@ -1770,7 +2005,8 @@
       "reasoning": "Al-Saffuri's work is a popular compilation of sermons, literature, and anecdotes (mawa'iz and adab).",
       "known_book": true,
       "standard_title_arabic": "نزهة المجالس ومنتخب النفائس",
-      "standard_title_english": "Nuzhat al-Majalis wa Muntakhab al-Nafa'is"
+      "standard_title_english": "Nuzhat al-Majalis wa Muntakhab al-Nafa'is",
+      "hawramani_match": null
     },
     {
       "book_arabic": "مناظر الأنشا",
@@ -1788,7 +2024,8 @@
       "reasoning": "Mahmud Gawan's work is a classic manual on epistolography and rhetoric (insha' and balaghah).",
       "known_book": true,
       "standard_title_arabic": "مناظر الإنشاء",
-      "standard_title_english": "Manazir al-Insha'"
+      "standard_title_english": "Manazir al-Insha'",
+      "hawramani_match": null
     },
     {
       "book_arabic": "استجلاب ارتقاب الغرف بحب أقرباء الرسول وذوي الشرف",
@@ -1806,7 +2043,8 @@
       "reasoning": "Al-Sakhawi's work is a hadith monograph (juz) compiling narrations with their chains regarding the virtues of the Prophet's family.",
       "known_book": true,
       "standard_title_arabic": "استجلاب ارتقاء الغرف بحب أقرباء الرسول وذوي الشرف",
-      "standard_title_english": "Istijlab Irtiqa' al-Ghuraf bi-Hubb Aqraba' al-Rasul"
+      "standard_title_english": "Istijlab Irtiqa' al-Ghuraf bi-Hubb Aqraba' al-Rasul",
+      "hawramani_match": null
     },
     {
       "book_arabic": "رسالة عليه في الأحاديث النبوية",
@@ -1824,7 +2062,8 @@
       "reasoning": "This is al-Kashifi's 'al-Risalah al-'Aliyyah', a collection of forty hadiths, which functions as a single-topic hadith monograph (juz).",
       "known_book": true,
       "standard_title_arabic": "الرسالة العلية في الأحاديث النبوية",
-      "standard_title_english": "al-Risalah al-'Aliyyah fi al-Ahadith al-Nabawiyyah"
+      "standard_title_english": "al-Risalah al-'Aliyyah fi al-Ahadith al-Nabawiyyah",
+      "hawramani_match": null
     },
     {
       "book_arabic": "در المنثور",
@@ -1842,7 +2081,8 @@
       "reasoning": "Al-Suyuti's 'al-Durr al-Manthur' is one of the most famous works of Quranic exegesis based on transmitted reports (tafsir bil-ma'thur).",
       "known_book": true,
       "standard_title_arabic": "الدر المنثور في التفسير بالمأثور",
-      "standard_title_english": "al-Durr al-Manthur fi al-Tafsir bi-al-Ma'thur"
+      "standard_title_english": "al-Durr al-Manthur fi al-Tafsir bi-al-Ma'thur",
+      "hawramani_match": null
     },
     {
       "book_arabic": "جامع الصغير",
@@ -1860,7 +2100,12 @@
       "reasoning": "Al-Suyuti's 'al-Jami' al-Saghir' is a massive alphabetical compilation of hadiths; while late, it serves as a primary reference collection similar to early musannafs.",
       "known_book": true,
       "standard_title_arabic": "الجامع الصغير من حديث البشير النذير",
-      "standard_title_english": "al-Jami' al-Saghir min Hadith al-Bashir al-Nadhir"
+      "standard_title_english": "al-Jami' al-Saghir min Hadith al-Bashir al-Nadhir",
+      "hawramani_match": {
+        "category_id": 5518,
+        "category_name": "Aḥmad b. Ḥanbal (d. 855 CE) - al-Jāmiʿ li-ʿulūm imām Aḥmad: al-Rijāl - أحمد بن حنبل - الجامع لعلوم إمام أحمد: الرجال",
+        "entry_count": 3094
+      }
     },
     {
       "book_arabic": "الخصائص الكبرى",
@@ -1878,7 +2123,12 @@
       "reasoning": "Al-Suyuti's work details the unique attributes and miracles of the Prophet Muhammad, falling under prophetic biography (sirah/shama'il).",
       "known_book": true,
       "standard_title_arabic": "الخصائص الكبرى",
-      "standard_title_english": "al-Khasa'is al-Kubra"
+      "standard_title_english": "al-Khasa'is al-Kubra",
+      "hawramani_match": {
+        "category_id": 5516,
+        "category_name": "Ibn Saʿd (d. 845 CE) - al-Ṭabaqāt al-kubrā - ابن سعد - الطبقات الكبرى",
+        "entry_count": 4279
+      }
     },
     {
       "book_arabic": "إحياء الميت بفضل أهل البيت",
@@ -1896,7 +2146,8 @@
       "reasoning": "This is a specific hadith monograph (juz) by al-Suyuti containing 60 hadiths regarding the virtues of the Ahl al-Bayt.",
       "known_book": true,
       "standard_title_arabic": "إحياء الميت بفضائل أهل البيت",
-      "standard_title_english": "Ihya' al-Mayyit bi-Fada'il Ahl al-Bayt"
+      "standard_title_english": "Ihya' al-Mayyit bi-Fada'il Ahl al-Bayt",
+      "hawramani_match": null
     },
     {
       "book_arabic": "نهاية الإفضال في تشريف الآل",
@@ -1914,7 +2165,8 @@
       "reasoning": "A thematic compilation by al-Suyuti on the virtues of the Prophet's family, functioning as a manaqib work.",
       "known_book": true,
       "standard_title_arabic": "نهاية الآمال في تشريف الآل",
-      "standard_title_english": "Nihayat al-Amal fi Tashrif al-Al"
+      "standard_title_english": "Nihayat al-Amal fi Tashrif al-Al",
+      "hawramani_match": null
     },
     {
       "book_arabic": "الأساس",
@@ -1932,7 +2184,8 @@
       "reasoning": "This refers to al-Suyuti's work 'al-Asas fi Manaqib Bani al-'Abbas', a compilation of virtues regarding the Abbasid lineage.",
       "known_book": true,
       "standard_title_arabic": "الأساس في مناقب بني العباس",
-      "standard_title_english": "al-Asas fi Manaqib Bani al-'Abbas"
+      "standard_title_english": "al-Asas fi Manaqib Bani al-'Abbas",
+      "hawramani_match": null
     },
     {
       "book_arabic": "منن المكي شرح قصيدة همزية",
@@ -1950,7 +2203,8 @@
       "reasoning": "This is Ibn Hajar al-Haytami's commentary on al-Busiri's famous poem 'al-Hamziyyah', classifying it as a literary/poetry commentary.",
       "known_book": true,
       "standard_title_arabic": "المنح المكية في شرح الهمزية",
-      "standard_title_english": "al-Minah al-Makkiyyah fi Sharh al-Hamziyyah"
+      "standard_title_english": "al-Minah al-Makkiyyah fi Sharh al-Hamziyyah",
+      "hawramani_match": null
     },
     {
       "book_arabic": "مجمع البحار",
@@ -1968,7 +2222,12 @@
       "reasoning": "Al-Fattani's 'Majma' Bihar al-Anwar' is a renowned dictionary of rare hadith vocabulary (Gharib al-Hadith), falling under linguistics/lexicons.",
       "known_book": true,
       "standard_title_arabic": "مجمع بحار الأنوار في غرائب التنزيل ولطائف الأخبار",
-      "standard_title_english": "Majma' Bihar al-Anwar"
+      "standard_title_english": "Majma' Bihar al-Anwar",
+      "hawramani_match": {
+        "category_id": 5524,
+        "category_name": "Al-Kaʿbī (d. 931 CE) - Qubūl al-akhbār wa-maʿrifat al-rijāl - الكعبي - قبول الأخبار ومعرفة الرجال",
+        "entry_count": 965
+      }
     },
     {
       "book_arabic": "عفد نبوي وسرّ مسطفوي",
@@ -1986,7 +2245,8 @@
       "reasoning": "An OCR error for 'al-Iqd al-Nabawi', a work focusing on the virtues and spiritual secrets of the Prophet and his family.",
       "known_book": true,
       "standard_title_arabic": "العقد النبوي والسر المصطفوي",
-      "standard_title_english": "al-'Iqd al-Nabawi wa al-Sirr al-Mustafawi"
+      "standard_title_english": "al-'Iqd al-Nabawi wa al-Sirr al-Mustafawi",
+      "hawramani_match": null
     },
     {
       "book_arabic": "ميراة شرح مشكاة",
@@ -2004,7 +2264,8 @@
       "reasoning": "An OCR error for 'Mirqat al-Mafatih', Mulla Ali al-Qari's famous and comprehensive commentary on the hadith collection Mishkat al-Masabih.",
       "known_book": true,
       "standard_title_arabic": "مرقاة المفاتيح شرح مشكاة المصابيح",
-      "standard_title_english": "Mirqat al-Mafatih Sharh Mishkat al-Masabih"
+      "standard_title_english": "Mirqat al-Mafatih Sharh Mishkat al-Masabih",
+      "hawramani_match": null
     },
     {
       "book_arabic": "ذوق الحقائق",
@@ -2022,7 +2283,12 @@
       "reasoning": "The title and author ('Munadi', likely a typo for al-Munawi) do not match a well-known standard work in this exact form.",
       "known_book": false,
       "standard_title_arabic": "غير معروف",
-      "standard_title_english": "Unknown"
+      "standard_title_english": "Unknown",
+      "hawramani_match": {
+        "category_id": 5542,
+        "category_name": "Al-Kalābādhī (d. 990-5 CE) - al-Hidāya wa-l-irshād (rijāl Ṣaḥīḥ al-Bukhārī) - الكلاباذي - الهداية المعروف برجال صحيح البخاري",
+        "entry_count": 1522
+      }
     },
     {
       "book_arabic": "رسالة كلامية",
@@ -2040,7 +2306,8 @@
       "reasoning": "As the title explicitly states, this is a theological treatise (kalam) by a Sirhindi scholar.",
       "known_book": true,
       "standard_title_arabic": "رسالة كلامية",
-      "standard_title_english": "Risalah Kalamiyyah"
+      "standard_title_english": "Risalah Kalamiyyah",
+      "hawramani_match": null
     },
     {
       "book_arabic": "مشرع روي",
@@ -2058,7 +2325,8 @@
       "reasoning": "Al-Shilli's 'al-Mashra' al-Rawi' is a biographical dictionary dedicated to the lives and virtues of the Ba 'Alawi sayyids of Hadramawt.",
       "known_book": true,
       "standard_title_arabic": "المشرع الروي في مناقب السادة الكرام آل أبي علوي",
-      "standard_title_english": "al-Mashra' al-Rawi fi Manaqib al-Sadah Al Abi 'Alawi"
+      "standard_title_english": "al-Mashra' al-Rawi fi Manaqib al-Sadah Al Abi 'Alawi",
+      "hawramani_match": null
     },
     {
       "book_arabic": "تحقيق الإشارة إلى تعميم البشارة",
@@ -2076,7 +2344,8 @@
       "reasoning": "A minor treatise by 'Abd al-Haqq al-Dihlawi whose exact genre (likely theology or manaqib) is difficult to ascertain without the text.",
       "known_book": false,
       "standard_title_arabic": "تحقيق الإشارة في تعميم البشارة",
-      "standard_title_english": "Tahqiq al-Isharah fi Ta'mim al-Basharah"
+      "standard_title_english": "Tahqiq al-Isharah fi Ta'mim al-Basharah",
+      "hawramani_match": null
     },
     {
       "book_arabic": "معاات شرح مشكوة",
@@ -2094,7 +2363,8 @@
       "reasoning": "An OCR error for 'Luma'at al-Tanqih', which is 'Abd al-Haqq al-Dihlawi's Arabic commentary on the hadith collection Mishkat al-Masabih.",
       "known_book": true,
       "standard_title_arabic": "لمعات التنقيح في شرح مشكاة المصابيح",
-      "standard_title_english": "Luma'at al-Tanqih fi Sharh Mishkat al-Masabih"
+      "standard_title_english": "Luma'at al-Tanqih fi Sharh Mishkat al-Masabih",
+      "hawramani_match": null
     },
     {
       "book_arabic": "أشعة اللمعات",
@@ -2112,7 +2382,8 @@
       "reasoning": "This is 'Abd al-Haqq al-Dihlawi's Persian commentary on the hadith collection Mishkat al-Masabih.",
       "known_book": true,
       "standard_title_arabic": "أشعة اللمعات في شرح المشكاة",
-      "standard_title_english": "Ashi'at al-Lama'at fi Sharh al-Mishkat"
+      "standard_title_english": "Ashi'at al-Lama'at fi Sharh al-Mishkat",
+      "hawramani_match": null
     },
     {
       "book_arabic": "مناقب أهل البيت",
@@ -2130,7 +2401,8 @@
       "reasoning": "A thematic compilation by 'Abd al-Haqq al-Dihlawi detailing the virtues of the Prophet's family.",
       "known_book": true,
       "standard_title_arabic": "مناقب أهل البيت",
-      "standard_title_english": "Manaqib Ahl al-Bayt"
+      "standard_title_english": "Manaqib Ahl al-Bayt",
+      "hawramani_match": null
     },
     {
       "book_arabic": "وسيلة المآل في عدّ مناقب الآل",
@@ -2148,7 +2420,8 @@
       "reasoning": "Ba Kathir al-Makki's work is a dedicated compilation of the virtues (manaqib) of the Prophet's family.",
       "known_book": true,
       "standard_title_arabic": "وسيلة المآل في عد مناقب الآل",
-      "standard_title_english": "Wasilat al-Ma'al fi 'Add Manaqib al-Al"
+      "standard_title_english": "Wasilat al-Ma'al fi 'Add Manaqib al-Al",
+      "hawramani_match": null
     },
     {
       "book_arabic": "صراط السوي",
@@ -2166,7 +2439,12 @@
       "reasoning": "This is a thematic compilation on the virtues of the Prophet's family (al-Sirat al-Sawi fi Manaqib Al al-Nabi).",
       "known_book": true,
       "standard_title_arabic": "الصراط السوي في مناقب آل النبي",
-      "standard_title_english": "al-Sirat al-Sawi fi Manaqib Al al-Nabi"
+      "standard_title_english": "al-Sirat al-Sawi fi Manaqib Al al-Nabi",
+      "hawramani_match": {
+        "category_id": 5535,
+        "category_name": "Abū l-Fatḥ al-Azdī (d. 984 CE) - al-Kunā li-man la yuʿraf lahu ism min aṣḥāb al-nabī - أبو الفتح الأزدي - الكنى لمن لا يعرف له اسم من أصحاب النبي",
+        "entry_count": 168
+      }
     },
     {
       "book_arabic": "مرافش",
@@ -2184,7 +2462,12 @@
       "reasoning": "The title appears to be a severe OCR error and cannot be reliably identified.",
       "known_book": false,
       "standard_title_arabic": "غير معروف",
-      "standard_title_english": "Unknown"
+      "standard_title_english": "Unknown",
+      "hawramani_match": {
+        "category_id": 5542,
+        "category_name": "Al-Kalābādhī (d. 990-5 CE) - al-Hidāya wa-l-irshād (rijāl Ṣaḥīḥ al-Bukhārī) - الكلاباذي - الهداية المعروف برجال صحيح البخاري",
+        "entry_count": 1522
+      }
     },
     {
       "book_arabic": "مفتاح النجا",
@@ -2202,7 +2485,12 @@
       "reasoning": "Miftah al-Naja fi Manaqib Al al-Aba is a thematic compilation of the virtues of the Ahl al-Bayt without primary systematic isnads.",
       "known_book": true,
       "standard_title_arabic": "مفتاح النجا في مناقب آل العبا",
-      "standard_title_english": "Miftah al-Naja fi Manaqib Al al-Aba"
+      "standard_title_english": "Miftah al-Naja fi Manaqib Al al-Aba",
+      "hawramani_match": {
+        "category_id": 5552,
+        "category_name": "Ibn al-Najjār (d. 1245 CE) - Dhayl Tārīkh Baghdād - ابن النجار - ذيل تاريخ بغداد",
+        "entry_count": 1354
+      }
     },
     {
       "book_arabic": "تهذيب الأثار",
@@ -2220,7 +2508,12 @@
       "reasoning": "Tahdhib al-Athar is a massive, albeit incomplete, primary hadith collection organized by the narrating Companions (Musnad format).",
       "known_book": true,
       "standard_title_arabic": "تهذيب الآثار",
-      "standard_title_english": "Tahdhib al-Athar"
+      "standard_title_english": "Tahdhib al-Athar",
+      "hawramani_match": {
+        "category_id": 5565,
+        "category_name": "Ibn Ḥajar al-ʿAsqalāni (d. 1449 CE) - al-Īthār bi-maʿrifat ruwāt al-Āthar li-al-Shaybānī - ابن حجر العسقلاني - الإيثار بمعرفة رواة كتاب الآثار للشيباني",
+        "entry_count": 367
+      }
     },
     {
       "book_arabic": "المعجم الكبير",
@@ -2238,7 +2531,12 @@
       "reasoning": "Al-Mu'jam al-Kabir is a primary hadith collection organized alphabetically by the names of the Companions.",
       "known_book": true,
       "standard_title_arabic": "المعجم الكبير",
-      "standard_title_english": "al-Mu'jam al-Kabir"
+      "standard_title_english": "al-Mu'jam al-Kabir",
+      "hawramani_match": {
+        "category_id": 5519,
+        "category_name": "Al-Bukhārī (d. 870 CE) - al-Tārikh al-kabīr - البخاري - التاريخ الكبير",
+        "entry_count": 13266
+      }
     },
     {
       "book_arabic": "الأوسط",
@@ -2256,7 +2554,12 @@
       "reasoning": "This refers to al-Mu'jam al-Awsat, a primary hadith collection organized by the names of al-Tabarani's teachers.",
       "known_book": true,
       "standard_title_arabic": "المعجم الأوسط",
-      "standard_title_english": "al-Mu'jam al-Awsat"
+      "standard_title_english": "al-Mu'jam al-Awsat",
+      "hawramani_match": {
+        "category_id": 5560,
+        "category_name": "ʿAbd al-Karīm al-Samʿānī (d. 1167 CE) - al-Taḥbīr fī-l-Muʿjām al-kābīr - عبد الكريم السمعاني - التحبير في المعجم الكبير",
+        "entry_count": 1105
+      }
     },
     {
       "book_arabic": "تحفة المحبين",
@@ -2274,7 +2577,8 @@
       "reasoning": "Tuhfat al-Muhibbin bi-Manaqib Khulafa' al-Rashidin is a thematic compilation of virtues (manaqib).",
       "known_book": true,
       "standard_title_arabic": "تحفة المحبين بمناقب الخلفاء الراشدين",
-      "standard_title_english": "Tuhfat al-Muhibbin bi-Manaqib Khulafa' al-Rashidin"
+      "standard_title_english": "Tuhfat al-Muhibbin bi-Manaqib Khulafa' al-Rashidin",
+      "hawramani_match": null
     },
     {
       "book_arabic": "معارج العلى",
@@ -2292,7 +2596,8 @@
       "reasoning": "Ma'arij al-'Ula fi Manaqib al-Murtada is a thematic compilation of the virtues of Ali ibn Abi Talib.",
       "known_book": true,
       "standard_title_arabic": "معارج العلى في مناقب المرتضى",
-      "standard_title_english": "Ma'arij al-'Ula fi Manaqib al-Murtada"
+      "standard_title_english": "Ma'arij al-'Ula fi Manaqib al-Murtada",
+      "hawramani_match": null
     },
     {
       "book_arabic": "مقدمة سنية",
@@ -2310,7 +2615,8 @@
       "reasoning": "Likely refers to al-Muqaddima al-Saniyya fi al-Intisar li-l-Firqa al-Sunniyya, a Sunni polemical/theological tract.",
       "known_book": true,
       "standard_title_arabic": "المقدمة السنية في الانتصار للفرقة السنية",
-      "standard_title_english": "al-Muqaddima al-Saniyya"
+      "standard_title_english": "al-Muqaddima al-Saniyya",
+      "hawramani_match": null
     },
     {
       "book_arabic": "حسن العقيدة",
@@ -2328,7 +2634,8 @@
       "reasoning": "Husn al-'Aqida is a theological/creedal text outlining Sunni beliefs.",
       "known_book": true,
       "standard_title_arabic": "حسن العقيدة",
-      "standard_title_english": "Husn al-'Aqida"
+      "standard_title_english": "Husn al-'Aqida",
+      "hawramani_match": null
     },
     {
       "book_arabic": "حاشية جامع الصغير",
@@ -2346,7 +2653,12 @@
       "reasoning": "This is a marginal gloss (hashiyah) by al-Hifni on al-Suyuti's hadith collection al-Jami' al-Saghir.",
       "known_book": true,
       "standard_title_arabic": "حاشية الحفني على الجامع الصغير",
-      "standard_title_english": "Hashiyat al-Hifni 'ala al-Jami' al-Saghir"
+      "standard_title_english": "Hashiyat al-Hifni 'ala al-Jami' al-Saghir",
+      "hawramani_match": {
+        "category_id": 5518,
+        "category_name": "Aḥmad b. Ḥanbal (d. 855 CE) - al-Jāmiʿ li-ʿulūm imām Aḥmad: al-Rijāl - أحمد بن حنبل - الجامع لعلوم إمام أحمد: الرجال",
+        "entry_count": 3094
+      }
     },
     {
       "book_arabic": "روضة الندية",
@@ -2364,7 +2676,8 @@
       "reasoning": "Al-Rawdah al-Nadiyyah is typically a fiqh commentary (either by Siddiq Hasan Khan or al-San'ani).",
       "known_book": true,
       "standard_title_arabic": "الروضة الندية",
-      "standard_title_english": "al-Rawdah al-Nadiyyah"
+      "standard_title_english": "al-Rawdah al-Nadiyyah",
+      "hawramani_match": null
     },
     {
       "book_arabic": "الإصافة في سيرة المصطفى وفضائل أهل بيته الطاهرين",
@@ -2382,7 +2695,12 @@
       "reasoning": "This is a typo for Is'af al-Raghibin, a well-known work combining Prophetic biography and the virtues (manaqib) of the Ahl al-Bayt.",
       "known_book": true,
       "standard_title_arabic": "إسعاف الراغبين في سيرة المصطفى وفضائل أهل بيته الطاهرين",
-      "standard_title_english": "Is'af al-Raghibin fi Sirat al-Mustafa wa Fada'il Ahl Baytihi al-Tahirin"
+      "standard_title_english": "Is'af al-Raghibin fi Sirat al-Mustafa wa Fada'il Ahl Baytihi al-Tahirin",
+      "hawramani_match": {
+        "category_id": 5564,
+        "category_name": "Al-Suyūṭī (d. 1505 CE) - Isʿāf al-mubaṭṭaʾ fī-rijāl al-Muwaṭṭaʾ - السيوطي - إسعاف المبطأ في رجال الموطأ",
+        "entry_count": 382
+      }
     },
     {
       "book_arabic": "دماج العروس",
@@ -2400,7 +2718,8 @@
       "reasoning": "This is an OCR typo for Taj al-'Urus, the massive Arabic lexicon by al-Zabidi.",
       "known_book": true,
       "standard_title_arabic": "تاج العروس من جواهر القاموس",
-      "standard_title_english": "Taj al-'Urus min Jawahir al-Qamus"
+      "standard_title_english": "Taj al-'Urus min Jawahir al-Qamus",
+      "hawramani_match": null
     },
     {
       "book_arabic": "وسيلة",
@@ -2418,7 +2737,8 @@
       "reasoning": "Likely refers to Wasilat al-Najat by Muhammad Mubin al-Lakhnawi, a work on the virtues of the Ahl al-Bayt and Sahaba.",
       "known_book": true,
       "standard_title_arabic": "وسيلة النجاة",
-      "standard_title_english": "Wasilat al-Najat"
+      "standard_title_english": "Wasilat al-Najat",
+      "hawramani_match": null
     },
     {
       "book_arabic": "المشكاة",
@@ -2436,7 +2756,8 @@
       "reasoning": "Mishkat al-Masabih is a comprehensive secondary hadith collection organized by fiqh chapters.",
       "known_book": true,
       "standard_title_arabic": "مشكاة المصابيح",
-      "standard_title_english": "Mishkat al-Masabih"
+      "standard_title_english": "Mishkat al-Masabih",
+      "hawramani_match": null
     },
     {
       "book_arabic": "سيف مسلول",
@@ -2454,7 +2775,8 @@
       "reasoning": "Al-Sayf al-Maslul by Thanaullah Panipati is a well-known Sunni polemical work against Shia doctrines.",
       "known_book": true,
       "standard_title_arabic": "السيف المسلول",
-      "standard_title_english": "al-Sayf al-Maslul"
+      "standard_title_english": "al-Sayf al-Maslul",
+      "hawramani_match": null
     },
     {
       "book_arabic": "أصول الإيمان",
@@ -2472,7 +2794,8 @@
       "reasoning": "Usul al-Iman is a theological tract dealing with the foundations of Islamic creed.",
       "known_book": true,
       "standard_title_arabic": "أصول الإيمان",
-      "standard_title_english": "Usul al-Iman"
+      "standard_title_english": "Usul al-Iman",
+      "hawramani_match": null
     },
     {
       "book_arabic": "تفريح الأحباب في مناقب الآل والأصحاب",
@@ -2490,7 +2813,8 @@
       "reasoning": "The title explicitly states it is a compilation of virtues (manaqib) of the Prophet's family and companions.",
       "known_book": true,
       "standard_title_arabic": "تفريح الأحباب في مناقب الآل والأصحاب",
-      "standard_title_english": "Tafrih al-Ahbab fi Manaqib al-Al wa al-Ashab"
+      "standard_title_english": "Tafrih al-Ahbab fi Manaqib al-Al wa al-Ashab",
+      "hawramani_match": null
     },
     {
       "book_arabic": "مرآة المؤمن آل سيد المرسلين",
@@ -2508,7 +2832,8 @@
       "reasoning": "Mir'at al-Mu'minin is a thematic compilation of the virtues of the Ahl al-Bayt.",
       "known_book": true,
       "standard_title_arabic": "مرآة المؤمنين في مناقب أهل بيت سيد المرسلين",
-      "standard_title_english": "Mir'at al-Mu'minin fi Manaqib Ahl Bayt Sayyid al-Mursalin"
+      "standard_title_english": "Mir'at al-Mu'minin fi Manaqib Ahl Bayt Sayyid al-Mursalin",
+      "hawramani_match": null
     },
     {
       "book_arabic": "الحق المبين في فضائل أهل بيت سيد المرسلين",
@@ -2526,7 +2851,8 @@
       "reasoning": "The title explicitly indicates it is a book on the virtues (fada'il/manaqib) of the Ahl al-Bayt.",
       "known_book": true,
       "standard_title_arabic": "الحق المبين في فضائل أهل بيت سيد المرسلين",
-      "standard_title_english": "al-Haqq al-Mubin fi Fada'il Ahl Bayt Sayyid al-Mursalin"
+      "standard_title_english": "al-Haqq al-Mubin fi Fada'il Ahl Bayt Sayyid al-Mursalin",
+      "hawramani_match": null
     },
     {
       "book_arabic": "فتح العزيز",
@@ -2544,7 +2870,8 @@
       "reasoning": "Fath al-Aziz is the famous Tafsir of Shah Abd al-Aziz Dihlawi; the attribution to his disciple Rashid al-Din Khan may be an error or refers to a specific edition/gloss.",
       "known_book": true,
       "standard_title_arabic": "تفسير فتح العزيز",
-      "standard_title_english": "Tafsir Fath al-Aziz"
+      "standard_title_english": "Tafsir Fath al-Aziz",
+      "hawramani_match": null
     },
     {
       "book_arabic": "إيضاح الطاقة المقال",
@@ -2562,7 +2889,8 @@
       "reasoning": "Likely an OCR error for Idah al-Maqal, a polemical tract by Rashid al-Din Khan Dihlawi.",
       "known_book": true,
       "standard_title_arabic": "إيضاح المقال",
-      "standard_title_english": "Idah al-Maqal"
+      "standard_title_english": "Idah al-Maqal",
+      "hawramani_match": null
     },
     {
       "book_arabic": "تحفة",
@@ -2580,7 +2908,8 @@
       "reasoning": "In the context of Rashid al-Din Khan and Indian polemics, 'Tuhfa' almost certainly refers to a defense or translation of Tuhfa Ithna Ashariyya.",
       "known_book": true,
       "standard_title_arabic": "التحفة الاثني عشرية",
-      "standard_title_english": "al-Tuhfa al-Ithna Ashariyya"
+      "standard_title_english": "al-Tuhfa al-Ithna Ashariyya",
+      "hawramani_match": null
     },
     {
       "book_arabic": "أخيرة العقبى في ذكر فضائل أئمة الهدى",
@@ -2598,7 +2927,8 @@
       "reasoning": "This is an OCR typo for Dhakhirat al-'Uqba, a book on the virtues (fada'il) of the Imams.",
       "known_book": true,
       "standard_title_arabic": "ذخيرة العقبى في ذكر فضائل أئمة الهدى",
-      "standard_title_english": "Dhakhirat al-'Uqba fi Dhikr Fada'il A'immat al-Huda"
+      "standard_title_english": "Dhakhirat al-'Uqba fi Dhikr Fada'il A'immat al-Huda",
+      "hawramani_match": null
     },
     {
       "book_arabic": "مشارق الأنوار في أحوال أهل الاعتبار",
@@ -2616,7 +2946,8 @@
       "reasoning": "Mashariq al-Anwar fi Fawz Ahl al-I'tibar is a work combining eschatology and virtues of the Prophet's family.",
       "known_book": true,
       "standard_title_arabic": "مشارق الأنوار في فوز أهل الاعتبار",
-      "standard_title_english": "Mashariq al-Anwar fi Fawz Ahl al-I'tibar"
+      "standard_title_english": "Mashariq al-Anwar fi Fawz Ahl al-I'tibar",
+      "hawramani_match": null
     },
     {
       "book_arabic": "الفتح المبين",
@@ -2634,7 +2965,12 @@
       "reasoning": "Al-Fath al-Mubin by Zayni Dahlan is a compilation of the virtues of the Rightly Guided Caliphs and Ahl al-Bayt.",
       "known_book": true,
       "standard_title_arabic": "الفتح المبين في فضائل الخلفاء الراشدين وأهل البيت الطاهرين",
-      "standard_title_english": "al-Fath al-Mubin fi Fada'il al-Khulafa' al-Rashidin"
+      "standard_title_english": "al-Fath al-Mubin fi Fada'il al-Khulafa' al-Rashidin",
+      "hawramani_match": {
+        "category_id": 5535,
+        "category_name": "Abū l-Fatḥ al-Azdī (d. 984 CE) - al-Kunā li-man la yuʿraf lahu ism min aṣḥāb al-nabī - أبو الفتح الأزدي - الكنى لمن لا يعرف له اسم من أصحاب النبي",
+        "entry_count": 168
+      }
     },
     {
       "book_arabic": "ينابيع المودة",
@@ -2652,7 +2988,8 @@
       "reasoning": "Yanabi' al-Mawaddah is a famous thematic compilation of the virtues of the Ahl al-Bayt without systematic primary isnads.",
       "known_book": true,
       "standard_title_arabic": "ينابيع المودة لذوي القربى",
-      "standard_title_english": "Yanabi' al-Mawaddah li-Dhawi al-Qurba"
+      "standard_title_english": "Yanabi' al-Mawaddah li-Dhawi al-Qurba",
+      "hawramani_match": null
     },
     {
       "book_arabic": "مشكاة المصابيح",
@@ -2670,7 +3007,8 @@
       "reasoning": "Mishkat al-Masabih is a comprehensive secondary hadith collection organized by fiqh chapters.",
       "known_book": true,
       "standard_title_arabic": "مشكاة المصابيح",
-      "standard_title_english": "Mishkat al-Masabih"
+      "standard_title_english": "Mishkat al-Masabih",
+      "hawramani_match": null
     },
     {
       "book_arabic": "المعجم الأوسط",
@@ -2688,7 +3026,12 @@
       "reasoning": "Al-Mu'jam al-Awsat is a primary hadith collection organized by the names of al-Tabarani's teachers.",
       "known_book": true,
       "standard_title_arabic": "المعجم الأوسط",
-      "standard_title_english": "al-Mu'jam al-Awsat"
+      "standard_title_english": "al-Mu'jam al-Awsat",
+      "hawramani_match": {
+        "category_id": 5560,
+        "category_name": "ʿAbd al-Karīm al-Samʿānī (d. 1167 CE) - al-Taḥbīr fī-l-Muʿjām al-kābīr - عبد الكريم السمعاني - التحبير في المعجم الكبير",
+        "entry_count": 1105
+      }
     },
     {
       "book_arabic": "الشافي",
@@ -2706,7 +3049,12 @@
       "reasoning": "Likely an OCR typo for 'al-Saghir' (الصغير), referring to al-Mu'jam al-Saghir by al-Tabarani.",
       "known_book": true,
       "standard_title_arabic": "المعجم الصغير",
-      "standard_title_english": "al-Mu'jam al-Saghir"
+      "standard_title_english": "al-Mu'jam al-Saghir",
+      "hawramani_match": {
+        "category_id": 5520,
+        "category_name": "Al-Bukhārī (d. 870 CE) - al-Ḍuʿafāʾ al-ṣaghīr - البخاري - الضعفاء الصغير",
+        "entry_count": 417
+      }
     },
     {
       "book_arabic": "فصول المبقى",
@@ -2724,7 +3072,12 @@
       "reasoning": "This is an OCR typo for al-Fusul al-Muhimmah by Ibn Sabbagh al-Maliki, a biographical/manaqib work on the Twelve Imams.",
       "known_book": true,
       "standard_title_arabic": "الفصول المهمة في معرفة الأئمة",
-      "standard_title_english": "al-Fusul al-Muhimmah fi Ma'rifat al-A'immah"
+      "standard_title_english": "al-Fusul al-Muhimmah fi Ma'rifat al-A'immah",
+      "hawramani_match": {
+        "category_id": 5547,
+        "category_name": "Abū Nuʿaym al-Aṣbahānī (d. 1038 CE) - Maʿrifat al-ṣaḥāba - أبو نعيم الأصبهاني - معرفة الصحابة",
+        "entry_count": 4112
+      }
     },
     {
       "book_arabic": "كنز العقال",
@@ -2742,7 +3095,8 @@
       "reasoning": "Likely a typo for 'Kanz al-Ummal' (based on al-Suyuti's Jam' al-Jawami'), which is a massive hadith compilation arranged by fiqh chapters.",
       "known_book": true,
       "standard_title_arabic": "كنز العمال في سنن الأقوال والأفعال",
-      "standard_title_english": "Kanz al-'Ummal"
+      "standard_title_english": "Kanz al-'Ummal",
+      "hawramani_match": null
     },
     {
       "book_arabic": "تاريخ اليعقوبي",
@@ -2760,7 +3114,12 @@
       "reasoning": "A general chronological history of the world and Islamic empire, not organized as a biographical dictionary.",
       "known_book": true,
       "standard_title_arabic": "تاريخ اليعقوبي",
-      "standard_title_english": "Tarikh al-Ya'qubi"
+      "standard_title_english": "Tarikh al-Ya'qubi",
+      "hawramani_match": {
+        "category_id": 5519,
+        "category_name": "Al-Bukhārī (d. 870 CE) - al-Tārikh al-kabīr - البخاري - التاريخ الكبير",
+        "entry_count": 13266
+      }
     },
     {
       "book_arabic": "تذكرة الخواص",
@@ -2778,7 +3137,12 @@
       "reasoning": "A thematic compilation focusing on the virtues and biographies of the Ahl al-Bayt.",
       "known_book": true,
       "standard_title_arabic": "تذكرة خواص الأمة بذكر خصائص الأئمة",
-      "standard_title_english": "Tadhkirat al-Khawass"
+      "standard_title_english": "Tadhkirat al-Khawass",
+      "hawramani_match": {
+        "category_id": 5576,
+        "category_name": "Yūsuf b. ʿAbd al-Hādī al-Ḥanbalī (d. 1503-1504 CE) - Tadhkirat al-ḥuffāẓ wa-tabṣirat al-ayqāẓ - يوسف بن عبد الهادي الحنبلي - تذكرة الحفاظ وتبصرة الأيقاظ",
+        "entry_count": 947
+      }
     },
     {
       "book_arabic": "كفاية المحجوب لأرباب القلوص",
@@ -2796,7 +3160,8 @@
       "reasoning": "A garbled title for 'Kashf al-Mahjub li-Arbab al-Qulub' by al-Hujwiri, which is a foundational Sufi manual (falls outside standard indexed categories).",
       "known_book": true,
       "standard_title_arabic": "كشف المحجوب لأرباب القلوب",
-      "standard_title_english": "Kashf al-Mahjub"
+      "standard_title_english": "Kashf al-Mahjub",
+      "hawramani_match": null
     },
     {
       "book_arabic": "هداية السعداء",
@@ -2814,7 +3179,12 @@
       "reasoning": "A well-known Persian/Arabic work on the virtues and martyrdom of the Ahl al-Bayt by Shihab al-Din Dawlatabadi.",
       "known_book": true,
       "standard_title_arabic": "هداية السعداء",
-      "standard_title_english": "Hidayat al-Su'ada"
+      "standard_title_english": "Hidayat al-Su'ada",
+      "hawramani_match": {
+        "category_id": 5542,
+        "category_name": "Al-Kalābādhī (d. 990-5 CE) - al-Hidāya wa-l-irshād (rijāl Ṣaḥīḥ al-Bukhārī) - الكلاباذي - الهداية المعروف برجال صحيح البخاري",
+        "entry_count": 1522
+      }
     },
     {
       "book_arabic": "مرآة الأسرار",
@@ -2832,7 +3202,8 @@
       "reasoning": "A biographical dictionary (tabaqat) of Sufi saints and scholars.",
       "known_book": true,
       "standard_title_arabic": "مرآة الأسرار",
-      "standard_title_english": "Mir'at al-Asrar"
+      "standard_title_english": "Mir'at al-Asrar",
+      "hawramani_match": null
     },
     {
       "book_arabic": "تفسير شاهي",
@@ -2850,7 +3221,12 @@
       "reasoning": "A Quranic commentary (tafsir) work.",
       "known_book": true,
       "standard_title_arabic": "تفسير شاهي",
-      "standard_title_english": "Tafsir Shahi"
+      "standard_title_english": "Tafsir Shahi",
+      "hawramani_match": {
+        "category_id": 5530,
+        "category_name": "Ibn Ḥibbān (d. 965 CE) – Mashāhīr ʿulamāʾ al-amṣār - ابن حبان - مشاهير علماء الأمصار",
+        "entry_count": 1589
+      }
     },
     {
       "book_arabic": "موقع الإيمان",
@@ -2868,7 +3244,8 @@
       "reasoning": "Likely a minor treatise on theology or Sufism by Sayyid Ali Hamadani; falls outside standard indexed schemas.",
       "known_book": false,
       "standard_title_arabic": "موقع الإيمان",
-      "standard_title_english": "Muqam al-Iman"
+      "standard_title_english": "Muqam al-Iman",
+      "hawramani_match": null
     },
     {
       "book_arabic": "مسند الغردوس",
@@ -2886,7 +3263,8 @@
       "reasoning": "A typo for 'Musnad al-Firdaws', a primary hadith collection.",
       "known_book": true,
       "standard_title_arabic": "مسند الفردوس",
-      "standard_title_english": "Musnad al-Firdaws"
+      "standard_title_english": "Musnad al-Firdaws",
+      "hawramani_match": null
     },
     {
       "book_arabic": "سنن الترمذي",
@@ -2904,7 +3282,12 @@
       "reasoning": "One of the canonical six hadith collections, organized by fiqh chapters with gradings.",
       "known_book": true,
       "standard_title_arabic": "جامع الترمذي",
-      "standard_title_english": "Sunan al-Tirmidhi"
+      "standard_title_english": "Sunan al-Tirmidhi",
+      "hawramani_match": {
+        "category_id": 5518,
+        "category_name": "Aḥmad b. Ḥanbal (d. 855 CE) - al-Jāmiʿ li-ʿulūm imām Aḥmad: al-Rijāl - أحمد بن حنبل - الجامع لعلوم إمام أحمد: الرجال",
+        "entry_count": 3094
+      }
     },
     {
       "book_arabic": "مصنف ابن أبي شيبة",
@@ -2922,7 +3305,8 @@
       "reasoning": "An early, massive compilation of hadith and athar organized by topic.",
       "known_book": true,
       "standard_title_arabic": "مصنف ابن أبي شيبة",
-      "standard_title_english": "Musannaf Ibn Abi Shaybah"
+      "standard_title_english": "Musannaf Ibn Abi Shaybah",
+      "hawramani_match": null
     },
     {
       "book_arabic": "موطأ مالك",
@@ -2940,7 +3324,12 @@
       "reasoning": "An early foundational compilation of hadith and Medinan practice, structurally functioning as a musannaf/sunan.",
       "known_book": true,
       "standard_title_arabic": "موطأ الإمام مالك",
-      "standard_title_english": "Muwatta' Malik"
+      "standard_title_english": "Muwatta' Malik",
+      "hawramani_match": {
+        "category_id": 5564,
+        "category_name": "Al-Suyūṭī (d. 1505 CE) - Isʿāf al-mubaṭṭaʾ fī-rijāl al-Muwaṭṭaʾ - السيوطي - إسعاف المبطأ في رجال الموطأ",
+        "entry_count": 382
+      }
     },
     {
       "book_arabic": "مسند أبي حنيفة",
@@ -2958,7 +3347,8 @@
       "reasoning": "A collection of hadiths transmitted by Abu Hanifah, organized by narrator/companion.",
       "known_book": true,
       "standard_title_arabic": "مسند أبي حنيفة",
-      "standard_title_english": "Musnad Abi Hanifah"
+      "standard_title_english": "Musnad Abi Hanifah",
+      "hawramani_match": null
     },
     {
       "book_arabic": "آثار الإمام",
@@ -2976,7 +3366,12 @@
       "reasoning": "Likely refers to 'Kitab al-Athar' by Abu Yusuf, an early compilation of hadith and athar.",
       "known_book": true,
       "standard_title_arabic": "كتاب الآثار",
-      "standard_title_english": "Kitab al-Athar"
+      "standard_title_english": "Kitab al-Athar",
+      "hawramani_match": {
+        "category_id": 5565,
+        "category_name": "Ibn Ḥajar al-ʿAsqalāni (d. 1449 CE) - al-Īthār bi-maʿrifat ruwāt al-Āthar li-al-Shaybānī - ابن حجر العسقلاني - الإيثار بمعرفة رواة كتاب الآثار للشيباني",
+        "entry_count": 367
+      }
     },
     {
       "book_arabic": "مسند الشافعي",
@@ -2994,7 +3389,8 @@
       "reasoning": "A collection of hadiths extracted from al-Shafi'i's works, organized as a musnad.",
       "known_book": true,
       "standard_title_arabic": "مسند الشافعي",
-      "standard_title_english": "Musnad al-Shafi'i"
+      "standard_title_english": "Musnad al-Shafi'i",
+      "hawramani_match": null
     },
     {
       "book_arabic": "إبهاج شرح المنهاج",
@@ -3012,7 +3408,8 @@
       "reasoning": "A commentary on al-Baydawi's 'Minhaj al-Wusul' in Usul al-Fiqh (legal theory).",
       "known_book": true,
       "standard_title_arabic": "الإبهاج في شرح المنهاج",
-      "standard_title_english": "Al-Ibhaj fi Sharh al-Minhaj"
+      "standard_title_english": "Al-Ibhaj fi Sharh al-Minhaj",
+      "hawramani_match": null
     },
     {
       "book_arabic": "دراسات الليبي",
@@ -3030,7 +3427,8 @@
       "reasoning": "A typo for 'Dirasat al-Labib' by Muhammad Mu'in al-Sindi, a work on fiqh methodology and hadith application.",
       "known_book": true,
       "standard_title_arabic": "دراسات اللبيب في الأسوة الحسنة بالحبيب",
-      "standard_title_english": "Dirasat al-Labib"
+      "standard_title_english": "Dirasat al-Labib",
+      "hawramani_match": null
     },
     {
       "book_arabic": "منهاج مكية",
@@ -3048,7 +3446,8 @@
       "reasoning": "Likely a typo for 'al-Minah al-Makkiyyah', Ibn Hajar al-Haytami's commentary on the Hamziyyah poem.",
       "known_book": true,
       "standard_title_arabic": "المنح المكية في شرح الهمزية",
-      "standard_title_english": "Al-Minah al-Makkiyyah"
+      "standard_title_english": "Al-Minah al-Makkiyyah",
+      "hawramani_match": null
     },
     {
       "book_arabic": "مشرع الروي",
@@ -3066,7 +3465,8 @@
       "reasoning": "A biographical dictionary of the Ba 'Alawi sayyids of Hadramawt.",
       "known_book": true,
       "standard_title_arabic": "المشرع الروي في مناقب السادة الكرام آل أبي علوي",
-      "standard_title_english": "Al-Mashra' al-Rawi"
+      "standard_title_english": "Al-Mashra' al-Rawi",
+      "hawramani_match": null
     },
     {
       "book_arabic": "ضوء اللامع",
@@ -3084,7 +3484,8 @@
       "reasoning": "A famous biographical dictionary of 9th-century Islamic figures by al-Sakhawi.",
       "known_book": true,
       "standard_title_arabic": "الضوء اللامع لأهل القرن التاسع",
-      "standard_title_english": "Al-Daw' al-Lami'"
+      "standard_title_english": "Al-Daw' al-Lami'",
+      "hawramani_match": null
     },
     {
       "book_arabic": "رفع الإسر عن أخطاء ابن خلدون",
@@ -3102,7 +3503,8 @@
       "reasoning": "A garbled title; Ibn Hajar wrote 'Raf' al-Isr 'an Qudat Misr' (a biographical dictionary), but this specific title about Ibn Khaldun's mistakes is unknown/hallucinated.",
       "known_book": false,
       "standard_title_arabic": "رفع الإصر عن قضاة مصر",
-      "standard_title_english": "Raf' al-Isr 'an Qudat Misr"
+      "standard_title_english": "Raf' al-Isr 'an Qudat Misr",
+      "hawramani_match": null
     },
     {
       "book_arabic": "مقدمة ابن خلدون",
@@ -3120,7 +3522,8 @@
       "reasoning": "A foundational text on sociology, historiography, and general history.",
       "known_book": true,
       "standard_title_arabic": "مقدمة ابن خلدون",
-      "standard_title_english": "Muqaddimah Ibn Khaldun"
+      "standard_title_english": "Muqaddimah Ibn Khaldun",
+      "hawramani_match": null
     },
     {
       "book_arabic": "دقائق الإصرار في رفع الإسرار",
@@ -3138,7 +3541,8 @@
       "reasoning": "Appears to be a garbled or hallucinated title mistakenly attributed to Ibn Hajar.",
       "known_book": false,
       "standard_title_arabic": "دقائق الإصرار في رفع الإسرار",
-      "standard_title_english": "Daqa'iq al-Israr"
+      "standard_title_english": "Daqa'iq al-Israr",
+      "hawramani_match": null
     },
     {
       "book_arabic": "كشف الظنون",
@@ -3156,7 +3560,12 @@
       "reasoning": "Kashf al-Zunun is a massive bibliographic encyclopedia, though the author listed in the prompt (al-Dhahabi) is incorrect; it is by Hajji Khalifa.",
       "known_book": true,
       "standard_title_arabic": "كشف الظنون عن أسامي الكتب والفنون",
-      "standard_title_english": "Kashf al-Zunun 'an Asami al-Kutub wa al-Funun"
+      "standard_title_english": "Kashf al-Zunun 'an Asami al-Kutub wa al-Funun",
+      "hawramani_match": {
+        "category_id": 5544,
+        "category_name": "Abū l-Faḍl al-Harawī (d. 1014-15 CE) - Mushtabih asāmī al-muḥaddithīn - أبو الفضل الهروي - مشتبه أسامي المحدثين",
+        "entry_count": 193
+      }
     },
     {
       "book_arabic": "إسعاف الزائفين",
@@ -3174,7 +3583,12 @@
       "reasoning": "A typo for 'Is'af al-Raghibin', a well-known work on the virtues of the Ahl al-Bayt and Prophetic biography.",
       "known_book": true,
       "standard_title_arabic": "إسعاف الراغبين في سيرة المصطفى وفضائل أهل بيته الطاهرين",
-      "standard_title_english": "Is'af al-Raghibin"
+      "standard_title_english": "Is'af al-Raghibin",
+      "hawramani_match": {
+        "category_id": 5564,
+        "category_name": "Al-Suyūṭī (d. 1505 CE) - Isʿāf al-mubaṭṭaʾ fī-rijāl al-Muwaṭṭaʾ - السيوطي - إسعاف المبطأ في رجال الموطأ",
+        "entry_count": 382
+      }
     },
     {
       "book_arabic": "سر الشهادتين",
@@ -3192,7 +3606,8 @@
       "reasoning": "A treatise on the spiritual significance of the martyrdoms of Hasan and Husayn (often attributed to Shah Abd al-Aziz Dehlawi).",
       "known_book": true,
       "standard_title_arabic": "سر الشهادتين",
-      "standard_title_english": "Sirr al-Shahadatayn"
+      "standard_title_english": "Sirr al-Shahadatayn",
+      "hawramani_match": null
     },
     {
       "book_arabic": "منح المكي",
@@ -3210,7 +3625,8 @@
       "reasoning": "Refers to 'al-Minah al-Makkiyyah', a commentary on al-Busiri's Hamziyyah poem.",
       "known_book": true,
       "standard_title_arabic": "المنح المكية في شرح الهمزية",
-      "standard_title_english": "Al-Minah al-Makkiyyah"
+      "standard_title_english": "Al-Minah al-Makkiyyah",
+      "hawramani_match": null
     },
     {
       "book_arabic": "إسعاف الرافعين",
@@ -3228,7 +3644,12 @@
       "reasoning": "Another typo for 'Is'af al-Raghibin' by al-Sabban.",
       "known_book": true,
       "standard_title_arabic": "إسعاف الراغبين في سيرة المصطفى وفضائل أهل بيته الطاهرين",
-      "standard_title_english": "Is'af al-Raghibin"
+      "standard_title_english": "Is'af al-Raghibin",
+      "hawramani_match": {
+        "category_id": 5564,
+        "category_name": "Al-Suyūṭī (d. 1505 CE) - Isʿāf al-mubaṭṭaʾ fī-rijāl al-Muwaṭṭaʾ - السيوطي - إسعاف المبطأ في رجال الموطأ",
+        "entry_count": 382
+      }
     },
     {
       "book_arabic": "غنية الطالبين",
@@ -3246,7 +3667,8 @@
       "reasoning": "A famous Sufi/Hanbali manual (usually by Abd al-Qadir al-Jilani, here misattributed to al-Nabulsi or referring to a different work).",
       "known_book": true,
       "standard_title_arabic": "غنية الطالبين",
-      "standard_title_english": "Ghunyat al-Talibin"
+      "standard_title_english": "Ghunyat al-Talibin",
+      "hawramani_match": null
     },
     {
       "book_arabic": "رجال مشكاة",
@@ -3264,7 +3686,12 @@
       "reasoning": "Refers to 'al-Ikmal fi Asma' al-Rijal', the biographical dictionary of hadith narrators appended to Mishkat al-Masabih.",
       "known_book": true,
       "standard_title_arabic": "الإكمال في أسماء الرجال",
-      "standard_title_english": "Rijal Mishkat al-Masabih"
+      "standard_title_english": "Rijal Mishkat al-Masabih",
+      "hawramani_match": {
+        "category_id": 5518,
+        "category_name": "Aḥmad b. Ḥanbal (d. 855 CE) - al-Jāmiʿ li-ʿulūm imām Aḥmad: al-Rijāl - أحمد بن حنبل - الجامع لعلوم إمام أحمد: الرجال",
+        "entry_count": 3094
+      }
     },
     {
       "book_arabic": "فتح الباري",
@@ -3282,7 +3709,12 @@
       "reasoning": "Fath al-Bari is the famous commentary on Sahih al-Bukhari, though the author listed in the prompt (Ibn Kathir) is incorrect; it was written by Ibn Hajar al-Asqalani.",
       "known_book": true,
       "standard_title_arabic": "فتح الباري شرح صحيح البخاري",
-      "standard_title_english": "Fath al-Bari Sharh Sahih al-Bukhari"
+      "standard_title_english": "Fath al-Bari Sharh Sahih al-Bukhari",
+      "hawramani_match": {
+        "category_id": 5520,
+        "category_name": "Al-Bukhārī (d. 870 CE) - al-Ḍuʿafāʾ al-ṣaghīr - البخاري - الضعفاء الصغير",
+        "entry_count": 417
+      }
     },
     {
       "book_arabic": "عمدة القاري",
@@ -3300,7 +3732,12 @@
       "reasoning": "Umdat al-Qari is a major, comprehensive commentary on Sahih al-Bukhari by Badr al-Din al-Ayni.",
       "known_book": true,
       "standard_title_arabic": "عمدة القاري شرح صحيح البخاري",
-      "standard_title_english": "Umdat al-Qari Sharh Sahih al-Bukhari"
+      "standard_title_english": "Umdat al-Qari Sharh Sahih al-Bukhari",
+      "hawramani_match": {
+        "category_id": 5520,
+        "category_name": "Al-Bukhārī (d. 870 CE) - al-Ḍuʿafāʾ al-ṣaghīr - البخاري - الضعفاء الصغير",
+        "entry_count": 417
+      }
     },
     {
       "book_arabic": "إرشاد الشاري",
@@ -3318,7 +3755,12 @@
       "reasoning": "This is a typo for 'Irshad al-Sari', which is the well-known commentary on Sahih al-Bukhari by al-Qastallani.",
       "known_book": true,
       "standard_title_arabic": "إرشاد الساري لشرح صحيح البخاري",
-      "standard_title_english": "Irshad al-Sari li-Sharh Sahih al-Bukhari"
+      "standard_title_english": "Irshad al-Sari li-Sharh Sahih al-Bukhari",
+      "hawramani_match": {
+        "category_id": 5520,
+        "category_name": "Al-Bukhārī (d. 870 CE) - al-Ḍuʿafāʾ al-ṣaghīr - البخاري - الضعفاء الصغير",
+        "entry_count": 417
+      }
     },
     {
       "book_arabic": "تبيين الحقائق فتاوى أهل السنة شرح كنز الدقائق",
@@ -3336,7 +3778,12 @@
       "reasoning": "Tabyin al-Haqa'iq is a foundational commentary on the Hanafi fiqh manual 'Kanz al-Daqa'iq' by al-Zayla'i.",
       "known_book": true,
       "standard_title_arabic": "تبيين الحقائق شرح كنز الدقائق",
-      "standard_title_english": "Tabyin al-Haqa'iq Sharh Kanz al-Daqa'iq"
+      "standard_title_english": "Tabyin al-Haqa'iq Sharh Kanz al-Daqa'iq",
+      "hawramani_match": {
+        "category_id": 5567,
+        "category_name": "Burhān al-Dīn al-Ḥalabī (d. 1438 CE) - al-Tabyīn li-asmāʾ al-mudallisīn - برهان الدين الحلبي - التبيين لأسماء المدلسين",
+        "entry_count": 93
+      }
     },
     {
       "book_arabic": "رمز الحفائق شرح كنز الدقائق",
@@ -3354,7 +3801,8 @@
       "reasoning": "Ramz al-Haqa'iq (with a typo in the prompt) is a commentary on the Hanafi fiqh text 'Kanz al-Daqa'iq' by al-Ayni.",
       "known_book": true,
       "standard_title_arabic": "رمز الحقائق شرح كنز الدقائق",
-      "standard_title_english": "Ramz al-Haqa'iq Sharh Kanz al-Daqa'iq"
+      "standard_title_english": "Ramz al-Haqa'iq Sharh Kanz al-Daqa'iq",
+      "hawramani_match": null
     },
     {
       "book_arabic": "نيل الأوطار",
@@ -3372,7 +3820,12 @@
       "reasoning": "Nayl al-Awtar is a fiqh-oriented commentary on the hadith collection 'Muntaqa al-Akhbar' by al-Shawkani.",
       "known_book": true,
       "standard_title_arabic": "نيل الأوطار شرح منتقى الأخبار",
-      "standard_title_english": "Nayl al-Awtar Sharh Muntaqa al-Akhbar"
+      "standard_title_english": "Nayl al-Awtar Sharh Muntaqa al-Akhbar",
+      "hawramani_match": {
+        "category_id": 5524,
+        "category_name": "Al-Kaʿbī (d. 931 CE) - Qubūl al-akhbār wa-maʿrifat al-rijāl - الكعبي - قبول الأخبار ومعرفة الرجال",
+        "entry_count": 965
+      }
     },
     {
       "book_arabic": "طبقات الشافعية",
@@ -3390,7 +3843,12 @@
       "reasoning": "This is a biographical dictionary organized by generations (tabaqat) of scholars belonging to the Shafi'i school of jurisprudence.",
       "known_book": true,
       "standard_title_arabic": "طبقات الشافعية",
-      "standard_title_english": "Tabaqat al-Shafi'iyya"
+      "standard_title_english": "Tabaqat al-Shafi'iyya",
+      "hawramani_match": {
+        "category_id": 5555,
+        "category_name": "Abū Isḥāq al-Shīrāzī (d. 1083 CE) - Ṭabaqāt al-fuqahāʾ - أبو إسحاق الشيرازي - طبقات الفقهاء",
+        "entry_count": 392
+      }
     },
     {
       "book_arabic": "مغني الليال",
@@ -3408,7 +3866,12 @@
       "reasoning": "Likely a severe typo for 'al-Mughni fi al-Du'afa' by al-Dhahabi, which is a dictionary of weak hadith narrators used for narrator criticism.",
       "known_book": true,
       "standard_title_arabic": "المغني في الضعفاء",
-      "standard_title_english": "al-Mughni fi al-Du'afa'"
+      "standard_title_english": "al-Mughni fi al-Du'afa'",
+      "hawramani_match": {
+        "category_id": 5546,
+        "category_name": "Abū Nuʿaym al-Aṣbahānī (d. 1038 CE) - al-Ḍuʿafāʾ - أبو نعيم الأصبهاني - الضعفاء",
+        "entry_count": 292
+      }
     },
     {
       "book_arabic": "كشف الظنون",
@@ -3426,7 +3889,12 @@
       "reasoning": "Kashf al-Zunun is a massive bibliographic encyclopedia, though the author listed in the prompt (al-Dhahabi) is incorrect; it is by Hajji Khalifa.",
       "known_book": true,
       "standard_title_arabic": "كشف الظنون عن أسامي الكتب والفنون",
-      "standard_title_english": "Kashf al-Zunun 'an Asami al-Kutub wa al-Funun"
+      "standard_title_english": "Kashf al-Zunun 'an Asami al-Kutub wa al-Funun",
+      "hawramani_match": {
+        "category_id": 5544,
+        "category_name": "Abū l-Faḍl al-Harawī (d. 1014-15 CE) - Mushtabih asāmī al-muḥaddithīn - أبو الفضل الهروي - مشتبه أسامي المحدثين",
+        "entry_count": 193
+      }
     },
     {
       "book_arabic": "فتح القدير",
@@ -3444,7 +3912,8 @@
       "reasoning": "Fath al-Qadir is a famous Hanafi fiqh commentary by Ibn al-Humam (or a tafsir by al-Shawkani); the prompt lists al-Sarakhsi, who wrote al-Mabsut, but the title strongly points to the fiqh genre.",
       "known_book": true,
       "standard_title_arabic": "فتح القدير",
-      "standard_title_english": "Fath al-Qadir"
+      "standard_title_english": "Fath al-Qadir",
+      "hawramani_match": null
     },
     {
       "book_arabic": "كتاب الثقات",
@@ -3462,7 +3931,12 @@
       "reasoning": "Kitab al-Thiqat by Ibn Hibban is a foundational biographical dictionary evaluating reliable hadith transmitters.",
       "known_book": true,
       "standard_title_arabic": "الثقات",
-      "standard_title_english": "Kitab al-Thiqat"
+      "standard_title_english": "Kitab al-Thiqat",
+      "hawramani_match": {
+        "category_id": 5521,
+        "category_name": "Abū l-Ḥasan al-ʿIjlī (d. 874-875 CE) - al-Thiqāt - أبو الحسن العجلي - الثقات",
+        "entry_count": 2096
+      }
     },
     {
       "book_arabic": "تذكرة الموضوعات",
@@ -3480,7 +3954,12 @@
       "reasoning": "Tadhkirat al-Mawdu'at is a compilation of fabricated hadiths; such works are typically classified as single-topic hadith collections (juz) or takhrij.",
       "known_book": true,
       "standard_title_arabic": "تذكرة الموضوعات",
-      "standard_title_english": "Tadhkirat al-Mawdu'at"
+      "standard_title_english": "Tadhkirat al-Mawdu'at",
+      "hawramani_match": {
+        "category_id": 5576,
+        "category_name": "Yūsuf b. ʿAbd al-Hādī al-Ḥanbalī (d. 1503-1504 CE) - Tadhkirat al-ḥuffāẓ wa-tabṣirat al-ayqāẓ - يوسف بن عبد الهادي الحنبلي - تذكرة الحفاظ وتبصرة الأيقاظ",
+        "entry_count": 947
+      }
     },
     {
       "book_arabic": "نهاية العقول",
@@ -3498,7 +3977,8 @@
       "reasoning": "Nihayat al-Uqul is a major theological (kalam) work by Fakhr al-Din al-Razi.",
       "known_book": true,
       "standard_title_arabic": "نهاية العقول في دراية الأصول",
-      "standard_title_english": "Nihayat al-Uqul fi Dirayat al-Usul"
+      "standard_title_english": "Nihayat al-Uqul fi Dirayat al-Usul",
+      "hawramani_match": null
     },
     {
       "book_arabic": "الموضوعات",
@@ -3516,7 +3996,8 @@
       "reasoning": "Al-Mawdu'at by Ibn al-Jawzi is a comprehensive collection of hadiths deemed fabricated, organized by topic.",
       "known_book": true,
       "standard_title_arabic": "الموضوعات من الأحاديث المرفوعات",
-      "standard_title_english": "al-Mawdu'at"
+      "standard_title_english": "al-Mawdu'at",
+      "hawramani_match": null
     },
     {
       "book_arabic": "اللآلئ المستوعبة",
@@ -3534,7 +4015,8 @@
       "reasoning": "This is a typo for 'al-La'ali' al-Masnu'a', which is a collection of fabricated hadiths compiled by al-Suyuti.",
       "known_book": true,
       "standard_title_arabic": "اللآلئ المصنوعة في الأحاديث الموضوعة",
-      "standard_title_english": "al-La'ali' al-Masnu'a fi al-Ahadith al-Mawdu'a"
+      "standard_title_english": "al-La'ali' al-Masnu'a fi al-Ahadith al-Mawdu'a",
+      "hawramani_match": null
     },
     {
       "book_arabic": "اختصار تنزيه القريمة",
@@ -3552,7 +4034,12 @@
       "reasoning": "This is a typo for 'Mukhtasar Tanzih al-Shari'a', a summary of a work collecting and criticizing fabricated hadiths.",
       "known_book": true,
       "standard_title_arabic": "مختصر تنزيه الشريعة المرفوعة",
-      "standard_title_english": "Mukhtasar Tanzih al-Shari'a al-Marfu'a"
+      "standard_title_english": "Mukhtasar Tanzih al-Shari'a al-Marfu'a",
+      "hawramani_match": {
+        "category_id": 5551,
+        "category_name": "Al-Dhahabī (d. 1348 CE) - al-Mukhtaṣar al-muḥtāj ilayhi min Tārikh Ibn al-Dubaythī - الذهبي - مختصر تاريخ ابن الدبيثي",
+        "entry_count": 1551
+      }
     },
     {
       "book_arabic": "قانون الموضوعات",
@@ -3570,7 +4057,8 @@
       "reasoning": "Qanun al-Mawdu'at wa al-Du'afa establishes rules for identifying fabricated hadiths and weak narrators.",
       "known_book": true,
       "standard_title_arabic": "قانون الموضوعات والضعفاء",
-      "standard_title_english": "Qanun al-Mawdu'at wa al-Du'afa"
+      "standard_title_english": "Qanun al-Mawdu'at wa al-Du'afa",
+      "hawramani_match": null
     },
     {
       "book_arabic": "كشف الأحوال في نقد الرجال",
@@ -3588,7 +4076,12 @@
       "reasoning": "The title explicitly states it is a critique of narrators (Naqd al-Rijal), which falls under Jarh wa Ta'dil.",
       "known_book": true,
       "standard_title_arabic": "كشف الأحوال في نقد الرجال",
-      "standard_title_english": "Kashf al-Ahwal fi Naqd al-Rijal"
+      "standard_title_english": "Kashf al-Ahwal fi Naqd al-Rijal",
+      "hawramani_match": {
+        "category_id": 5518,
+        "category_name": "Aḥmad b. Ḥanbal (d. 855 CE) - al-Jāmiʿ li-ʿulūm imām Aḥmad: al-Rijāl - أحمد بن حنبل - الجامع لعلوم إمام أحمد: الرجال",
+        "entry_count": 3094
+      }
     },
     {
       "book_arabic": "شرح عقائد عضدي",
@@ -3606,7 +4099,8 @@
       "reasoning": "This is a commentary on the creedal (kalam) work al-'Aqa'id al-'Adudiyya by al-Dawwani.",
       "known_book": true,
       "standard_title_arabic": "شرح العقائد العضدية",
-      "standard_title_english": "Sharh al-'Aqa'id al-'Adudiyya"
+      "standard_title_english": "Sharh al-'Aqa'id al-'Adudiyya",
+      "hawramani_match": null
     },
     {
       "book_arabic": "حاشية شرح عفائد",
@@ -3624,7 +4118,8 @@
       "reasoning": "This is a marginal gloss (hashiyah) on a commentary of Islamic creed (Aqa'id, misspelled as Ufa'id), falling under theology.",
       "known_book": true,
       "standard_title_arabic": "حاشية على شرح العقائد",
-      "standard_title_english": "Hashiyat Sharh al-'Aqa'id"
+      "standard_title_english": "Hashiyat Sharh al-'Aqa'id",
+      "hawramani_match": null
     },
     {
       "book_arabic": "ملل ونحل",
@@ -3642,7 +4137,8 @@
       "reasoning": "Al-Milal wa al-Nihal is a classic heresiographical and theological work detailing various sects and religions.",
       "known_book": true,
       "standard_title_arabic": "الملل والنحل",
-      "standard_title_english": "al-Milal wa al-Nihal"
+      "standard_title_english": "al-Milal wa al-Nihal",
+      "hawramani_match": null
     },
     {
       "book_arabic": "تفسير الكبير",
@@ -3660,7 +4156,12 @@
       "reasoning": "Mafatih al-Ghayb, commonly known as al-Tafsir al-Kabir, is the major Quranic exegesis by Fakhr al-Din al-Razi.",
       "known_book": true,
       "standard_title_arabic": "التفسير الكبير (مفاتيح الغيب)",
-      "standard_title_english": "al-Tafsir al-Kabir (Mafatih al-Ghayb)"
+      "standard_title_english": "al-Tafsir al-Kabir (Mafatih al-Ghayb)",
+      "hawramani_match": {
+        "category_id": 5519,
+        "category_name": "Al-Bukhārī (d. 870 CE) - al-Tārikh al-kabīr - البخاري - التاريخ الكبير",
+        "entry_count": 13266
+      }
     },
     {
       "book_arabic": "كاشف الشكوكة",
@@ -3678,7 +4179,12 @@
       "reasoning": "Likely a typo for 'al-Kashif 'an Haqa'iq al-Sunan', al-Tibi's famous commentary on the hadith collection Mishkat al-Masabih.",
       "known_book": true,
       "standard_title_arabic": "الكاشف عن حقائق السنن",
-      "standard_title_english": "al-Kashif 'an Haqa'iq al-Sunan"
+      "standard_title_english": "al-Kashif 'an Haqa'iq al-Sunan",
+      "hawramani_match": {
+        "category_id": 5573,
+        "category_name": "Ibn Zurayq al-Maqdisī (d. 1400-1401 CE) - Man takallama fī-hi al-Dāraquṭnī fī Kitāb al-sunan - ابن زريق - من تكلم فيه الدارقطني في كتاب السنن",
+        "entry_count": 480
+      }
     },
     {
       "book_arabic": "مرقاة الشكوكة",
@@ -3696,7 +4202,8 @@
       "reasoning": "This is a typo for 'Mirqat al-Mafatih', the comprehensive commentary on the hadith collection Mishkat al-Masabih by Mulla Ali al-Qari.",
       "known_book": true,
       "standard_title_arabic": "مرقاة المفاتيح شرح مشكاة المصابيح",
-      "standard_title_english": "Mirqat al-Mafatih Sharh Mishkat al-Masabih"
+      "standard_title_english": "Mirqat al-Mafatih Sharh Mishkat al-Masabih",
+      "hawramani_match": null
     },
     {
       "book_arabic": "معالم التنزيل",
@@ -3714,7 +4221,8 @@
       "reasoning": "Ma'alim al-Tanzil is a classical Quranic exegesis (tafsir) by al-Baghawi, though the prompt incorrectly attributes it to al-Baydawi (who wrote Anwar al-Tanzil).",
       "known_book": true,
       "standard_title_arabic": "معالم التنزيل",
-      "standard_title_english": "Ma'alim al-Tanzil"
+      "standard_title_english": "Ma'alim al-Tanzil",
+      "hawramani_match": null
     },
     {
       "book_arabic": "تفسير الكبير",
@@ -3732,7 +4240,12 @@
       "reasoning": "Mafatih al-Ghayb, commonly known as al-Tafsir al-Kabir, is the major Quranic exegesis by Fakhr al-Din al-Razi.",
       "known_book": true,
       "standard_title_arabic": "التفسير الكبير (مفاتيح الغيب)",
-      "standard_title_english": "al-Tafsir al-Kabir (Mafatih al-Ghayb)"
+      "standard_title_english": "al-Tafsir al-Kabir (Mafatih al-Ghayb)",
+      "hawramani_match": {
+        "category_id": 5519,
+        "category_name": "Al-Bukhārī (d. 870 CE) - al-Tārikh al-kabīr - البخاري - التاريخ الكبير",
+        "entry_count": 13266
+      }
     },
     {
       "book_arabic": "تفسير النصابوري",
@@ -3750,7 +4263,8 @@
       "reasoning": "Ghara'ib al-Qur'an, commonly known as Tafsir al-Nisaburi, is a well-known Quranic exegesis.",
       "known_book": true,
       "standard_title_arabic": "غرائب القرآن ورغائب الفرقان",
-      "standard_title_english": "Ghara'ib al-Qur'an (Tafsir al-Nisaburi)"
+      "standard_title_english": "Ghara'ib al-Qur'an (Tafsir al-Nisaburi)",
+      "hawramani_match": null
     },
     {
       "book_arabic": "تفسير الثعلبي",
@@ -3768,7 +4282,12 @@
       "reasoning": "Al-Kashf wa al-Bayan, commonly known as Tafsir al-Tha'labi, is a classical Quranic exegesis.",
       "known_book": true,
       "standard_title_arabic": "الكشف والبيان عن تفسير القرآن",
-      "standard_title_english": "al-Kashf wa al-Bayan (Tafsir al-Tha'labi)"
+      "standard_title_english": "al-Kashf wa al-Bayan (Tafsir al-Tha'labi)",
+      "hawramani_match": {
+        "category_id": 5574,
+        "category_name": "Burhān al-Dīn al-Ḥalabī (d. 1438 CE) - al-Kashf al-ḥathīth ʿamman rumiya bi-waḍʿ al-ḥadīth - برهان الدين الحلبي - الكشف الحثيث عمن رمي بوضع الحديث",
+        "entry_count": 872
+      }
     },
     {
       "book_arabic": "تفسير البغوي",
@@ -3786,7 +4305,8 @@
       "reasoning": "Ma'alim al-Tanzil, commonly known as Tafsir al-Baghawi, is a classical Quranic exegesis.",
       "known_book": true,
       "standard_title_arabic": "معالم التنزيل",
-      "standard_title_english": "Ma'alim al-Tanzil (Tafsir al-Baghawi)"
+      "standard_title_english": "Ma'alim al-Tanzil (Tafsir al-Baghawi)",
+      "hawramani_match": null
     },
     {
       "book_arabic": "قصص الأنبياء",
@@ -3804,7 +4324,8 @@
       "reasoning": "Qisas al-Anbiya' works are collections of tales of the prophets, generally classified under general history or adab rather than strict hadith collections.",
       "known_book": true,
       "standard_title_arabic": "قصص الأنبياء",
-      "standard_title_english": "Qisas al-Anbiya'"
+      "standard_title_english": "Qisas al-Anbiya'",
+      "hawramani_match": null
     },
     {
       "book_arabic": "ذيل تاريخ بغداد",
@@ -3815,7 +4336,12 @@
       "citation_contexts": [
         "HADITH_SOURCE"
       ],
-      "citation_count": 1
+      "citation_count": 1,
+      "hawramani_match": {
+        "category_id": 5519,
+        "category_name": "Al-Bukhārī (d. 870 CE) - al-Tārikh al-kabīr - البخاري - التاريخ الكبير",
+        "entry_count": 13266
+      }
     },
     {
       "book_arabic": "تذكرة الحكام",
@@ -3826,7 +4352,12 @@
       "citation_contexts": [
         "AUTHOR_TAWTHIQ"
       ],
-      "citation_count": 1
+      "citation_count": 1,
+      "hawramani_match": {
+        "category_id": 5576,
+        "category_name": "Yūsuf b. ʿAbd al-Hādī al-Ḥanbalī (d. 1503-1504 CE) - Tadhkirat al-ḥuffāẓ wa-tabṣirat al-ayqāẓ - يوسف بن عبد الهادي الحنبلي - تذكرة الحفاظ وتبصرة الأيقاظ",
+        "entry_count": 947
+      }
     },
     {
       "book_arabic": "عبر الذهبي",
@@ -3837,7 +4368,12 @@
       "citation_contexts": [
         "AUTHOR_TAWTHIQ"
       ],
-      "citation_count": 1
+      "citation_count": 1,
+      "hawramani_match": {
+        "category_id": 5551,
+        "category_name": "Al-Dhahabī (d. 1348 CE) - al-Mukhtaṣar al-muḥtāj ilayhi min Tārikh Ibn al-Dubaythī - الذهبي - مختصر تاريخ ابن الدبيثي",
+        "entry_count": 1551
+      }
     },
     {
       "book_arabic": "هدى الإسلام",
@@ -3848,7 +4384,8 @@
       "citation_contexts": [
         "AUTHOR_TAWTHIQ"
       ],
-      "citation_count": 1
+      "citation_count": 1,
+      "hawramani_match": null
     },
     {
       "book_arabic": "وفيات الأعيان",
@@ -3859,7 +4396,8 @@
       "citation_contexts": [
         "AUTHOR_TAWTHIQ"
       ],
-      "citation_count": 1
+      "citation_count": 1,
+      "hawramani_match": null
     },
     {
       "book_arabic": "الوفي بالوفيات",
@@ -3870,7 +4408,8 @@
       "citation_contexts": [
         "AUTHOR_TAWTHIQ"
       ],
-      "citation_count": 1
+      "citation_count": 1,
+      "hawramani_match": null
     },
     {
       "book_arabic": "مرآة الجنآن",
@@ -3881,7 +4420,8 @@
       "citation_contexts": [
         "AUTHOR_TAWTHIQ"
       ],
-      "citation_count": 1
+      "citation_count": 1,
+      "hawramani_match": null
     },
     {
       "book_arabic": "مدائع العلوم",
@@ -3892,7 +4432,8 @@
       "citation_contexts": [
         "AUTHOR_TAWTHIQ"
       ],
-      "citation_count": 1
+      "citation_count": 1,
+      "hawramani_match": null
     },
     {
       "book_arabic": "أبجد العلوم",
@@ -3903,7 +4444,8 @@
       "citation_contexts": [
         "AUTHOR_TAWTHIQ"
       ],
-      "citation_count": 1
+      "citation_count": 1,
+      "hawramani_match": null
     },
     {
       "book_arabic": "تاج المكثفل",
@@ -3914,7 +4456,8 @@
       "citation_contexts": [
         "AUTHOR_TAWTHIQ"
       ],
-      "citation_count": 1
+      "citation_count": 1,
+      "hawramani_match": null
     },
     {
       "book_arabic": "إتحاف التلاميذ",
@@ -3925,7 +4468,8 @@
       "citation_contexts": [
         "AUTHOR_TAWTHIQ"
       ],
-      "citation_count": 1
+      "citation_count": 1,
+      "hawramani_match": null
     },
     {
       "book_arabic": "فضائل الصحابة",
@@ -3943,7 +4487,12 @@
       "reasoning": "Early works on the virtues of the Companions by hadith scholars are typically primary hadith compilations with isnads.",
       "known_book": true,
       "standard_title_arabic": "فضائل الصحابة للسمعاني",
-      "standard_title_english": "Fada'il al-Sahaba"
+      "standard_title_english": "Fada'il al-Sahaba",
+      "hawramani_match": {
+        "category_id": 5547,
+        "category_name": "Abū Nuʿaym al-Aṣbahānī (d. 1038 CE) - Maʿrifat al-ṣaḥāba - أبو نعيم الأصبهاني - معرفة الصحابة",
+        "entry_count": 4112
+      }
     },
     {
       "book_arabic": "تهذيب الأسماء",
@@ -3954,7 +4503,8 @@
       "citation_contexts": [
         "AUTHOR_TAWTHIQ"
       ],
-      "citation_count": 1
+      "citation_count": 1,
+      "hawramani_match": null
     },
     {
       "book_arabic": "شرح صحيح البخاري",
@@ -3965,7 +4515,12 @@
       "citation_contexts": [
         "AUTHOR_TAWTHIQ"
       ],
-      "citation_count": 1
+      "citation_count": 1,
+      "hawramani_match": {
+        "category_id": 5520,
+        "category_name": "Al-Bukhārī (d. 870 CE) - al-Ḍuʿafāʾ al-ṣaghīr - البخاري - الضعفاء الصغير",
+        "entry_count": 417
+      }
     },
     {
       "book_arabic": "الباطل",
@@ -3976,7 +4531,8 @@
       "citation_contexts": [
         "AUTHOR_TAWTHIQ"
       ],
-      "citation_count": 1
+      "citation_count": 1,
+      "hawramani_match": null
     },
     {
       "book_arabic": "شرح فقه أكبر",
@@ -3987,7 +4543,8 @@
       "citation_contexts": [
         "AUTHOR_TAWTHIQ"
       ],
-      "citation_count": 1
+      "citation_count": 1,
+      "hawramani_match": null
     },
     {
       "book_arabic": "شرح تهذيب الكلام",
@@ -3998,7 +4555,8 @@
       "citation_contexts": [
         "AUTHOR_TAWTHIQ"
       ],
-      "citation_count": 1
+      "citation_count": 1,
+      "hawramani_match": null
     },
     {
       "book_arabic": "حاشية جامع الصافي",
@@ -4009,7 +4567,12 @@
       "citation_contexts": [
         "AUTHOR_TAWTHIQ"
       ],
-      "citation_count": 1
+      "citation_count": 1,
+      "hawramani_match": {
+        "category_id": 5518,
+        "category_name": "Aḥmad b. Ḥanbal (d. 855 CE) - al-Jāmiʿ li-ʿulūm imām Aḥmad: al-Rijāl - أحمد بن حنبل - الجامع لعلوم إمام أحمد: الرجال",
+        "entry_count": 3094
+      }
     },
     {
       "book_arabic": "عقائد الإمام الحسين",
@@ -4020,7 +4583,8 @@
       "citation_contexts": [
         "HADITH_SOURCE"
       ],
-      "citation_count": 1
+      "citation_count": 1,
+      "hawramani_match": null
     },
     {
       "book_arabic": "الإحكام في أصول الأحكام",
@@ -4031,7 +4595,8 @@
       "citation_contexts": [
         "PRIMARY_REBUTTAL"
       ],
-      "citation_count": 1
+      "citation_count": 1,
+      "hawramani_match": null
     },
     {
       "book_arabic": "المبسوط",
@@ -4042,7 +4607,8 @@
       "citation_contexts": [
         "PRIMARY_REBUTTAL"
       ],
-      "citation_count": 1
+      "citation_count": 1,
+      "hawramani_match": null
     },
     {
       "book_arabic": "البدائع",
@@ -4053,7 +4619,8 @@
       "citation_contexts": [
         "PRIMARY_REBUTTAL"
       ],
-      "citation_count": 1
+      "citation_count": 1,
+      "hawramani_match": null
     },
     {
       "book_arabic": "تذكرة الموضوعات",
@@ -4071,7 +4638,12 @@
       "reasoning": "Tadhkirat al-Mawdu'at is a compilation of fabricated hadiths; such works are typically classified as single-topic hadith collections (juz) or takhrij.",
       "known_book": true,
       "standard_title_arabic": "تذكرة الموضوعات",
-      "standard_title_english": "Tadhkirat al-Mawdu'at"
+      "standard_title_english": "Tadhkirat al-Mawdu'at",
+      "hawramani_match": {
+        "category_id": 5576,
+        "category_name": "Yūsuf b. ʿAbd al-Hādī al-Ḥanbalī (d. 1503-1504 CE) - Tadhkirat al-ḥuffāẓ wa-tabṣirat al-ayqāẓ - يوسف بن عبد الهادي الحنبلي - تذكرة الحفاظ وتبصرة الأيقاظ",
+        "entry_count": 947
+      }
     },
     {
       "book_arabic": "فوائد مجمعة",
@@ -4082,7 +4654,8 @@
       "citation_contexts": [
         "AUTHOR_TAJRIH"
       ],
-      "citation_count": 1
+      "citation_count": 1,
+      "hawramani_match": null
     },
     {
       "book_arabic": "تجريد التحاويب",
@@ -4093,7 +4666,8 @@
       "citation_contexts": [
         "AUTHOR_TAWTHIQ"
       ],
-      "citation_count": 1
+      "citation_count": 1,
+      "hawramani_match": null
     },
     {
       "book_arabic": "الإصابة في تمييز الصحابة",
@@ -4104,7 +4678,12 @@
       "citation_contexts": [
         "AUTHOR_TAWTHIQ"
       ],
-      "citation_count": 1
+      "citation_count": 1,
+      "hawramani_match": {
+        "category_id": 5547,
+        "category_name": "Abū Nuʿaym al-Aṣbahānī (d. 1038 CE) - Maʿrifat al-ṣaḥāba - أبو نعيم الأصبهاني - معرفة الصحابة",
+        "entry_count": 4112
+      }
     },
     {
       "book_arabic": "تاج العروس",
@@ -4115,7 +4694,8 @@
       "citation_contexts": [
         "AUTHOR_TAWTHIQ"
       ],
-      "citation_count": 1
+      "citation_count": 1,
+      "hawramani_match": null
     },
     {
       "book_arabic": "جامع الأصول",
@@ -4126,7 +4706,12 @@
       "citation_contexts": [
         "AUTHOR_TAWTHIQ"
       ],
-      "citation_count": 1
+      "citation_count": 1,
+      "hawramani_match": {
+        "category_id": 5518,
+        "category_name": "Aḥmad b. Ḥanbal (d. 855 CE) - al-Jāmiʿ li-ʿulūm imām Aḥmad: al-Rijāl - أحمد بن حنبل - الجامع لعلوم إمام أحمد: الرجال",
+        "entry_count": 3094
+      }
     },
     {
       "book_arabic": "أسد الغابة",
@@ -4137,7 +4722,12 @@
       "citation_contexts": [
         "AUTHOR_TAWTHIQ"
       ],
-      "citation_count": 1
+      "citation_count": 1,
+      "hawramani_match": {
+        "category_id": 5556,
+        "category_name": "Ibn al-Athīr (d. 1233 CE) - Usd al-ghāba fī maʿrifat al-ṣaḥāba - ابن الأثير - أسد الغابة",
+        "entry_count": 7491
+      }
     },
     {
       "book_arabic": "كشف الظهر",
@@ -4148,7 +4738,8 @@
       "citation_contexts": [
         "AUTHOR_TAWTHIQ"
       ],
-      "citation_count": 1
+      "citation_count": 1,
+      "hawramani_match": null
     },
     {
       "book_arabic": "تقريب التهذيب",
@@ -4159,7 +4750,8 @@
       "citation_contexts": [
         "AUTHOR_TAWTHIQ"
       ],
-      "citation_count": 1
+      "citation_count": 1,
+      "hawramani_match": null
     },
     {
       "book_arabic": "مختصر تهذيب التهذيب",
@@ -4170,18 +4762,24 @@
       "citation_contexts": [
         "AUTHOR_TAWTHIQ"
       ],
-      "citation_count": 1
+      "citation_count": 1,
+      "hawramani_match": {
+        "category_id": 5551,
+        "category_name": "Al-Dhahabī (d. 1348 CE) - al-Mukhtaṣar al-muḥtāj ilayhi min Tārikh Ibn al-Dubaythī - الذهبي - مختصر تاريخ ابن الدبيثي",
+        "entry_count": 1551
+      }
     },
     {
       "book_arabic": "المناقب",
-      "book_transliterated": "al-Manāqib",
-      "author_arabic": "أحمد بن حنبل",
-      "author_transliterated": "Ahmad b. Hanbal",
-      "author_death_ah": 241,
+      "book_transliterated": "al-Manaqib",
+      "author_arabic": "أبو المؤيد موفق بن أحمد الخوارزمي",
+      "author_transliterated": "Abu al-Mu'ayyad Muwaqqaf ibn Ahmad al-Khwarazmi",
+      "author_death_ah": null,
       "citation_contexts": [
         "HADITH_SOURCE"
       ],
-      "citation_count": 1
+      "citation_count": 1,
+      "hawramani_match": null
     },
     {
       "book_arabic": "ذخائر العقبى",
@@ -4192,7 +4790,8 @@
       "citation_contexts": [
         "HADITH_SOURCE"
       ],
-      "citation_count": 1
+      "citation_count": 1,
+      "hawramani_match": null
     },
     {
       "book_arabic": "هداية السعداء",
@@ -4210,7 +4809,12 @@
       "reasoning": "A well-known Persian/Arabic work on the virtues and martyrdom of the Ahl al-Bayt by Shihab al-Din Dawlatabadi.",
       "known_book": true,
       "standard_title_arabic": "هداية السعداء",
-      "standard_title_english": "Hidayat al-Su'ada"
+      "standard_title_english": "Hidayat al-Su'ada",
+      "hawramani_match": {
+        "category_id": 5542,
+        "category_name": "Al-Kalābādhī (d. 990-5 CE) - al-Hidāya wa-l-irshād (rijāl Ṣaḥīḥ al-Bukhārī) - الكلاباذي - الهداية المعروف برجال صحيح البخاري",
+        "entry_count": 1522
+      }
     },
     {
       "book_arabic": "الموافقات في أصول الأحكام",
@@ -4221,7 +4825,8 @@
       "citation_contexts": [
         "SUB_CLAIM_REBUTTAL"
       ],
-      "citation_count": 1
+      "citation_count": 1,
+      "hawramani_match": null
     },
     {
       "book_arabic": "التقرير والتحبير",
@@ -4232,7 +4837,8 @@
       "citation_contexts": [
         "PRIMARY_REBUTTAL"
       ],
-      "citation_count": 1
+      "citation_count": 1,
+      "hawramani_match": null
     },
     {
       "book_arabic": "إرشاد التقاد إلى وجوب الاجتهاد",
@@ -4243,7 +4849,8 @@
       "citation_contexts": [
         "PRIMARY_REBUTTAL"
       ],
-      "citation_count": 1
+      "citation_count": 1,
+      "hawramani_match": null
     },
     {
       "book_arabic": "دفوائج الرحمة - شرح الثر الثبت",
@@ -4254,7 +4861,8 @@
       "citation_contexts": [
         "PRIMARY_REBUTTAL"
       ],
-      "citation_count": 1
+      "citation_count": 1,
+      "hawramani_match": null
     },
     {
       "book_arabic": "شرح منهاج",
@@ -4265,7 +4873,8 @@
       "citation_contexts": [
         "PRIMARY_REBUTTAL"
       ],
-      "citation_count": 1
+      "citation_count": 1,
+      "hawramani_match": null
     },
     {
       "book_arabic": "إعلام الموقعين",
@@ -4276,7 +4885,8 @@
       "citation_contexts": [
         "PRIMARY_REBUTTAL"
       ],
-      "citation_count": 1
+      "citation_count": 1,
+      "hawramani_match": null
     },
     {
       "book_arabic": "إسعاف الراغبين في سيرة المصطفى وفضائل أهل بيته الطاهرين",
@@ -4287,7 +4897,12 @@
       "citation_contexts": [
         "HADITH_SOURCE"
       ],
-      "citation_count": 1
+      "citation_count": 1,
+      "hawramani_match": {
+        "category_id": 5564,
+        "category_name": "Al-Suyūṭī (d. 1505 CE) - Isʿāf al-mubaṭṭaʾ fī-rijāl al-Muwaṭṭaʾ - السيوطي - إسعاف المبطأ في رجال الموطأ",
+        "entry_count": 382
+      }
     },
     {
       "book_arabic": "وسيلة النجاة",
@@ -4298,7 +4913,8 @@
       "citation_contexts": [
         "HADITH_SOURCE"
       ],
-      "citation_count": 1
+      "citation_count": 1,
+      "hawramani_match": null
     },
     {
       "book_arabic": "القلم",
@@ -4309,7 +4925,8 @@
       "citation_contexts": [
         "CROSS_REF"
       ],
-      "citation_count": 1
+      "citation_count": 1,
+      "hawramani_match": null
     },
     {
       "book_arabic": "العرائس في تفسير الآيات",
@@ -4320,7 +4937,8 @@
       "citation_contexts": [
         "HADITH_SOURCE"
       ],
-      "citation_count": 1
+      "citation_count": 1,
+      "hawramani_match": null
     },
     {
       "book_arabic": "الخصائص العلوية على سائر البرية",
@@ -4331,7 +4949,8 @@
       "citation_contexts": [
         "HADITH_SOURCE"
       ],
-      "citation_count": 1
+      "citation_count": 1,
+      "hawramani_match": null
     },
     {
       "book_arabic": "الوفيات",
@@ -4342,7 +4961,8 @@
       "citation_contexts": [
         "AUTHOR_TAWTHIQ"
       ],
-      "citation_count": 1
+      "citation_count": 1,
+      "hawramani_match": null
     },
     {
       "book_arabic": "ذيل تاريخ الخطيب",
@@ -4353,7 +4973,12 @@
       "citation_contexts": [
         "HADITH_SOURCE"
       ],
-      "citation_count": 1
+      "citation_count": 1,
+      "hawramani_match": {
+        "category_id": 5519,
+        "category_name": "Al-Bukhārī (d. 870 CE) - al-Tārikh al-kabīr - البخاري - التاريخ الكبير",
+        "entry_count": 13266
+      }
     },
     {
       "book_arabic": "روشة الأحباب",
@@ -4364,7 +4989,8 @@
       "citation_contexts": [
         "HADITH_SOURCE"
       ],
-      "citation_count": 1
+      "citation_count": 1,
+      "hawramani_match": null
     },
     {
       "book_arabic": "حبيب السير",
@@ -4375,7 +5001,8 @@
       "citation_contexts": [
         "HADITH_SOURCE"
       ],
-      "citation_count": 1
+      "citation_count": 1,
+      "hawramani_match": null
     },
     {
       "book_arabic": "هداية التغدا",
@@ -4386,7 +5013,12 @@
       "citation_contexts": [
         "HADITH_SOURCE"
       ],
-      "citation_count": 1
+      "citation_count": 1,
+      "hawramani_match": {
+        "category_id": 5542,
+        "category_name": "Al-Kalābādhī (d. 990-5 CE) - al-Hidāya wa-l-irshād (rijāl Ṣaḥīḥ al-Bukhārī) - الكلاباذي - الهداية المعروف برجال صحيح البخاري",
+        "entry_count": 1522
+      }
     },
     {
       "book_arabic": "تفسير سورة يوسف",
@@ -4397,7 +5029,12 @@
       "citation_contexts": [
         "HADITH_SOURCE"
       ],
-      "citation_count": 1
+      "citation_count": 1,
+      "hawramani_match": {
+        "category_id": 5569,
+        "category_name": "Yūsuf al-Dāwudī (2013) - al-Mutaffiq wa-l-muftariq fī-man dhukira bi-kunyatih - يوسف الداودي - المتفق والمفترق فيمن ذكر بكنيته",
+        "entry_count": 22
+      }
     },
     {
       "book_arabic": "كتاب السقيفة",
@@ -4408,7 +5045,12 @@
       "citation_contexts": [
         "PRIMARY_REBUTTAL"
       ],
-      "citation_count": 1
+      "citation_count": 1,
+      "hawramani_match": {
+        "category_id": 5565,
+        "category_name": "Ibn Ḥajar al-ʿAsqalāni (d. 1449 CE) - al-Īthār bi-maʿrifat ruwāt al-Āthar li-al-Shaybānī - ابن حجر العسقلاني - الإيثار بمعرفة رواة كتاب الآثار للشيباني",
+        "entry_count": 367
+      }
     },
     {
       "book_arabic": "تاريخ",
@@ -4419,7 +5061,12 @@
       "citation_contexts": [
         "PRIMARY_REBUTTAL"
       ],
-      "citation_count": 1
+      "citation_count": 1,
+      "hawramani_match": {
+        "category_id": 5519,
+        "category_name": "Al-Bukhārī (d. 870 CE) - al-Tārikh al-kabīr - البخاري - التاريخ الكبير",
+        "entry_count": 13266
+      }
     },
     {
       "book_arabic": "الفصول الميته",
@@ -4430,7 +5077,8 @@
       "citation_contexts": [
         "PRIMARY_REBUTTAL"
       ],
-      "citation_count": 1
+      "citation_count": 1,
+      "hawramani_match": null
     },
     {
       "book_arabic": "رسالة عليه",
@@ -4441,7 +5089,12 @@
       "citation_contexts": [
         "PRIMARY_REBUTTAL"
       ],
-      "citation_count": 1
+      "citation_count": 1,
+      "hawramani_match": {
+        "category_id": 5533,
+        "category_name": "Abū l-Shaykh al-Aṣbahānī (d. 979 CE) - Ṭabaqāt al-muḥaddithīn bi-Aṣbahān wa-l-wāridīn ʿalayhā - أبو الشيخ الأصبهاني - طبقات المحدثين بأصبهان والواردين عليها",
+        "entry_count": 648
+      }
     },
     {
       "book_arabic": "السواعق",
@@ -4452,7 +5105,8 @@
       "citation_contexts": [
         "PRIMARY_REBUTTAL"
       ],
-      "citation_count": 1
+      "citation_count": 1,
+      "hawramani_match": null
     },
     {
       "book_arabic": "وسيلة المآل في عد مناقب الآل",
@@ -4463,7 +5117,8 @@
       "citation_contexts": [
         "PRIMARY_REBUTTAL"
       ],
-      "citation_count": 1
+      "citation_count": 1,
+      "hawramani_match": null
     },
     {
       "book_arabic": "الفضائل",
@@ -4474,7 +5129,8 @@
       "citation_contexts": [
         "HADITH_SOURCE"
       ],
-      "citation_count": 1
+      "citation_count": 1,
+      "hawramani_match": null
     },
     {
       "book_arabic": "صراط السيّ",
@@ -4485,7 +5141,8 @@
       "citation_contexts": [
         "PRIMARY_REBUTTAL"
       ],
-      "citation_count": 1
+      "citation_count": 1,
+      "hawramani_match": null
     },
     {
       "book_arabic": "الإتحاف",
@@ -4496,7 +5153,8 @@
       "citation_contexts": [
         "PRIMARY_REBUTTAL"
       ],
-      "citation_count": 1
+      "citation_count": 1,
+      "hawramani_match": null
     },
     {
       "book_arabic": "شرف النبوة",
@@ -4514,7 +5172,8 @@
       "reasoning": "It is a biographical work focusing on the life, miracles (dala'il), and characteristics (shama'il) of the Prophet Muhammad.",
       "known_book": true,
       "standard_title_arabic": "شرف المصطفى",
-      "standard_title_english": "Sharaf al-Mustafa"
+      "standard_title_english": "Sharaf al-Mustafa",
+      "hawramani_match": null
     },
     {
       "book_arabic": "مشارق الأنوار",
@@ -4525,7 +5184,8 @@
       "citation_contexts": [
         "PRIMARY_REBUTTAL"
       ],
-      "citation_count": 1
+      "citation_count": 1,
+      "hawramani_match": null
     },
     {
       "book_arabic": "مناقب المطهرين",
@@ -4536,7 +5196,8 @@
       "citation_contexts": [
         "HADITH_SOURCE"
       ],
-      "citation_count": 1
+      "citation_count": 1,
+      "hawramani_match": null
     },
     {
       "book_arabic": "التدوين",
@@ -4547,7 +5208,8 @@
       "citation_contexts": [
         "HADITH_SOURCE"
       ],
-      "citation_count": 1
+      "citation_count": 1,
+      "hawramani_match": null
     },
     {
       "book_arabic": "كنز العمال",
@@ -4558,7 +5220,8 @@
       "citation_contexts": [
         "HADITH_SOURCE"
       ],
-      "citation_count": 1
+      "citation_count": 1,
+      "hawramani_match": null
     },
     {
       "book_arabic": "تسديق الإشارة إلى تعميم البشارة",
@@ -4569,7 +5232,8 @@
       "citation_contexts": [
         "HADITH_SOURCE"
       ],
-      "citation_count": 1
+      "citation_count": 1,
+      "hawramani_match": null
     },
     {
       "book_arabic": "المسند الكبير",
@@ -4580,7 +5244,12 @@
       "citation_contexts": [
         "HADITH_SOURCE"
       ],
-      "citation_count": 1
+      "citation_count": 1,
+      "hawramani_match": {
+        "category_id": 5519,
+        "category_name": "Al-Bukhārī (d. 870 CE) - al-Tārikh al-kabīr - البخاري - التاريخ الكبير",
+        "entry_count": 13266
+      }
     },
     {
       "book_arabic": "شرح نهج البلاغة",
@@ -4591,7 +5260,8 @@
       "citation_contexts": [
         "HADITH_SOURCE"
       ],
-      "citation_count": 1
+      "citation_count": 1,
+      "hawramani_match": null
     },
     {
       "book_arabic": "المناقب",
@@ -4602,7 +5272,8 @@
       "citation_contexts": [
         "HADITH_SOURCE"
       ],
-      "citation_count": 1
+      "citation_count": 1,
+      "hawramani_match": null
     },
     {
       "book_arabic": "ذيل المذيل",
@@ -4613,7 +5284,8 @@
       "citation_contexts": [
         "HADITH_SOURCE"
       ],
-      "citation_count": 1
+      "citation_count": 1,
+      "hawramani_match": null
     },
     {
       "book_arabic": "فوائد مجموعة في الأحاديث الموضوعة",
@@ -4624,7 +5296,8 @@
       "citation_contexts": [
         "HADITH_SOURCE"
       ],
-      "citation_count": 1
+      "citation_count": 1,
+      "hawramani_match": null
     },
     {
       "book_arabic": "فوات الوفيات",
@@ -4635,7 +5308,8 @@
       "citation_contexts": [
         "AUTHOR_TAWTHIQ"
       ],
-      "citation_count": 1
+      "citation_count": 1,
+      "hawramani_match": null
     },
     {
       "book_arabic": "فواتح الرحموت شرح مسلم الثبوت",
@@ -4646,7 +5320,12 @@
       "citation_contexts": [
         "PRIMARY_REBUTTAL"
       ],
-      "citation_count": 1
+      "citation_count": 1,
+      "hawramani_match": {
+        "category_id": 5559,
+        "category_name": "Ibn Khalfūn (d. 1239 CE) - al-Muʿallim bi-shuyūkh al-Bukhārī wa-Muslim - ابن خلفون - المعلم بشيوخ البخاري ومسلم",
+        "entry_count": 500
+      }
     },
     {
       "book_arabic": "فيض القدير شرح الجامع الصغير",
@@ -4657,7 +5336,12 @@
       "citation_contexts": [
         "HADITH_SOURCE"
       ],
-      "citation_count": 1
+      "citation_count": 1,
+      "hawramani_match": {
+        "category_id": 5518,
+        "category_name": "Aḥmad b. Ḥanbal (d. 855 CE) - al-Jāmiʿ li-ʿulūm imām Aḥmad: al-Rijāl - أحمد بن حنبل - الجامع لعلوم إمام أحمد: الرجال",
+        "entry_count": 3094
+      }
     },
     {
       "book_arabic": "القاموس المحيط",
@@ -4668,7 +5352,8 @@
       "citation_contexts": [
         "LINGUISTIC"
       ],
-      "citation_count": 1
+      "citation_count": 1,
+      "hawramani_match": null
     },
     {
       "book_arabic": "قانون الموضوعات",
@@ -4686,7 +5371,8 @@
       "reasoning": "Qanun al-Mawdu'at wa al-Du'afa establishes rules for identifying fabricated hadiths and weak narrators.",
       "known_book": true,
       "standard_title_arabic": "قانون الموضوعات والضعفاء",
-      "standard_title_english": "Qanun al-Mawdu'at wa al-Du'afa"
+      "standard_title_english": "Qanun al-Mawdu'at wa al-Du'afa",
+      "hawramani_match": null
     },
     {
       "book_arabic": "قصص الأنبياء",
@@ -4704,7 +5390,8 @@
       "reasoning": "Qisas al-Anbiya' works are collections of tales of the prophets, generally classified under general history or adab rather than strict hadith collections.",
       "known_book": true,
       "standard_title_arabic": "قصص الأنبياء",
-      "standard_title_english": "Qisas al-Anbiya'"
+      "standard_title_english": "Qisas al-Anbiya'",
+      "hawramani_match": null
     },
     {
       "book_arabic": "قمر الأقمار حاشية نور الأنوار",
@@ -4715,7 +5402,8 @@
       "citation_contexts": [
         "PRIMARY_REBUTTAL"
       ],
-      "citation_count": 1
+      "citation_count": 1,
+      "hawramani_match": null
     },
     {
       "book_arabic": "القول المفيد في أدلة الاجتهاد والتقليد",
@@ -4726,7 +5414,8 @@
       "citation_contexts": [
         "PRIMARY_REBUTTAL"
       ],
-      "citation_count": 1
+      "citation_count": 1,
+      "hawramani_match": null
     },
     {
       "book_arabic": "كاشف شرح مشكاة",
@@ -4737,7 +5426,8 @@
       "citation_contexts": [
         "HADITH_SOURCE"
       ],
-      "citation_count": 1
+      "citation_count": 1,
+      "hawramani_match": null
     },
     {
       "book_arabic": "الكامل في التاريخ",
@@ -4748,7 +5438,12 @@
       "citation_contexts": [
         "HADITH_SOURCE"
       ],
-      "citation_count": 1
+      "citation_count": 1,
+      "hawramani_match": {
+        "category_id": 5519,
+        "category_name": "Al-Bukhārī (d. 870 CE) - al-Tārikh al-kabīr - البخاري - التاريخ الكبير",
+        "entry_count": 13266
+      }
     },
     {
       "book_arabic": "كتاب أعلام الأخيار",
@@ -4759,7 +5454,12 @@
       "citation_contexts": [
         "AUTHOR_TAWTHIQ"
       ],
-      "citation_count": 1
+      "citation_count": 1,
+      "hawramani_match": {
+        "category_id": 5563,
+        "category_name": "Al-Dhahabī (d. 1348 CE) - Siyar aʿlām al-nubalāʾ - الذهبي - سير أعلام النبلاء",
+        "entry_count": 5806
+      }
     },
     {
       "book_arabic": "الكشاف عن حقائق غوامض التنزيل",
@@ -4770,7 +5470,8 @@
       "citation_contexts": [
         "HADITH_SOURCE"
       ],
-      "citation_count": 1
+      "citation_count": 1,
+      "hawramani_match": null
     },
     {
       "book_arabic": "كشف الأحوال في نقد الرجال",
@@ -4788,7 +5489,12 @@
       "reasoning": "The title explicitly states it is a critique of narrators (Naqd al-Rijal), which falls under Jarh wa Ta'dil.",
       "known_book": true,
       "standard_title_arabic": "كشف الأحوال في نقد الرجال",
-      "standard_title_english": "Kashf al-Ahwal fi Naqd al-Rijal"
+      "standard_title_english": "Kashf al-Ahwal fi Naqd al-Rijal",
+      "hawramani_match": {
+        "category_id": 5518,
+        "category_name": "Aḥmad b. Ḥanbal (d. 855 CE) - al-Jāmiʿ li-ʿulūm imām Aḥmad: al-Rijāl - أحمد بن حنبل - الجامع لعلوم إمام أحمد: الرجال",
+        "entry_count": 3094
+      }
     },
     {
       "book_arabic": "كشف الأسرار شرح أصول البزدوي",
@@ -4799,7 +5505,8 @@
       "citation_contexts": [
         "PRIMARY_REBUTTAL"
       ],
-      "citation_count": 1
+      "citation_count": 1,
+      "hawramani_match": null
     },
     {
       "book_arabic": "كشف الأسرار شرح المنار",
@@ -4810,7 +5517,8 @@
       "citation_contexts": [
         "PRIMARY_REBUTTAL"
       ],
-      "citation_count": 1
+      "citation_count": 1,
+      "hawramani_match": null
     },
     {
       "book_arabic": "كشف الحثيث عمن رمي بوضع الحديث",
@@ -4821,7 +5529,12 @@
       "citation_contexts": [
         "AUTHOR_TAJRIH"
       ],
-      "citation_count": 1
+      "citation_count": 1,
+      "hawramani_match": {
+        "category_id": 5574,
+        "category_name": "Burhān al-Dīn al-Ḥalabī (d. 1438 CE) - al-Kashf al-ḥathīth ʿamman rumiya bi-waḍʿ al-ḥadīth - برهان الدين الحلبي - الكشف الحثيث عمن رمي بوضع الحديث",
+        "entry_count": 872
+      }
     },
     {
       "book_arabic": "كشف الظنون عن أسامي الكتب والفنون",
@@ -4832,7 +5545,12 @@
       "citation_contexts": [
         "AUTHOR_TAWTHIQ"
       ],
-      "citation_count": 1
+      "citation_count": 1,
+      "hawramani_match": {
+        "category_id": 5544,
+        "category_name": "Abū l-Faḍl al-Harawī (d. 1014-15 CE) - Mushtabih asāmī al-muḥaddithīn - أبو الفضل الهروي - مشتبه أسامي المحدثين",
+        "entry_count": 193
+      }
     },
     {
       "book_arabic": "كشف الفقه",
@@ -4843,7 +5561,12 @@
       "citation_contexts": [
         "PRIMARY_REBUTTAL"
       ],
-      "citation_count": 1
+      "citation_count": 1,
+      "hawramani_match": {
+        "category_id": 5555,
+        "category_name": "Abū Isḥāq al-Shīrāzī (d. 1083 CE) - Ṭabaqāt al-fuqahāʾ - أبو إسحاق الشيرازي - طبقات الفقهاء",
+        "entry_count": 392
+      }
     },
     {
       "book_arabic": "كشف المحجوب لأرباب القلوب",
@@ -4854,7 +5577,8 @@
       "citation_contexts": [
         "PRIMARY_REBUTTAL"
       ],
-      "citation_count": 1
+      "citation_count": 1,
+      "hawramani_match": null
     },
     {
       "book_arabic": "الكشف والبيان عن تفسير القرآن",
@@ -4865,7 +5589,12 @@
       "citation_contexts": [
         "HADITH_SOURCE"
       ],
-      "citation_count": 1
+      "citation_count": 1,
+      "hawramani_match": {
+        "category_id": 5574,
+        "category_name": "Burhān al-Dīn al-Ḥalabī (d. 1438 CE) - al-Kashf al-ḥathīth ʿamman rumiya bi-waḍʿ al-ḥadīth - برهان الدين الحلبي - الكشف الحثيث عمن رمي بوضع الحديث",
+        "entry_count": 872
+      }
     },
     {
       "book_arabic": "كفاية الطالب في مناقب علي بن أبي طالب",
@@ -4876,7 +5605,8 @@
       "citation_contexts": [
         "PRIMARY_REBUTTAL"
       ],
-      "citation_count": 1
+      "citation_count": 1,
+      "hawramani_match": null
     },
     {
       "book_arabic": "كفاية",
@@ -4887,7 +5617,8 @@
       "citation_contexts": [
         "PRIMARY_REBUTTAL"
       ],
-      "citation_count": 1
+      "citation_count": 1,
+      "hawramani_match": null
     },
     {
       "book_arabic": "كفاية المتطلع",
@@ -4898,7 +5629,8 @@
       "citation_contexts": [
         "PRIMARY_REBUTTAL"
       ],
-      "citation_count": 1
+      "citation_count": 1,
+      "hawramani_match": null
     },
     {
       "book_arabic": "الكمال في أسماء الرجال",
@@ -4909,7 +5641,12 @@
       "citation_contexts": [
         "AUTHOR_TAWTHIQ"
       ],
-      "citation_count": 1
+      "citation_count": 1,
+      "hawramani_match": {
+        "category_id": 5518,
+        "category_name": "Aḥmad b. Ḥanbal (d. 855 CE) - al-Jāmiʿ li-ʿulūm imām Aḥmad: al-Rijāl - أحمد بن حنبل - الجامع لعلوم إمام أحمد: الرجال",
+        "entry_count": 3094
+      }
     },
     {
       "book_arabic": "كنز العمال في سنن الأقوال والأفعال",
@@ -4920,7 +5657,8 @@
       "citation_contexts": [
         "HADITH_SOURCE"
       ],
-      "citation_count": 1
+      "citation_count": 1,
+      "hawramani_match": null
     },
     {
       "book_arabic": "كنوز الحقائق",
@@ -4938,7 +5676,8 @@
       "reasoning": "The famous 'Kunuz al-Haqa'iq' is by al-Manawi, not al-Tha'labi, suggesting a misattribution in the input.",
       "known_book": false,
       "standard_title_arabic": "كنوز الحقائق",
-      "standard_title_english": "Kunuz al-Haqa'iq"
+      "standard_title_english": "Kunuz al-Haqa'iq",
+      "hawramani_match": null
     },
     {
       "book_arabic": "كواكب دراري شرح صحيح البخاري",
@@ -4949,7 +5688,12 @@
       "citation_contexts": [
         "HADITH_SOURCE"
       ],
-      "citation_count": 1
+      "citation_count": 1,
+      "hawramani_match": {
+        "category_id": 5520,
+        "category_name": "Al-Bukhārī (d. 870 CE) - al-Ḍuʿafāʾ al-ṣaghīr - البخاري - الضعفاء الصغير",
+        "entry_count": 417
+      }
     },
     {
       "book_arabic": "كوكب دري شرح جامع صغير",
@@ -4960,7 +5704,12 @@
       "citation_contexts": [
         "HADITH_SOURCE"
       ],
-      "citation_count": 1
+      "citation_count": 1,
+      "hawramani_match": {
+        "category_id": 5518,
+        "category_name": "Aḥmad b. Ḥanbal (d. 855 CE) - al-Jāmiʿ li-ʿulūm imām Aḥmad: al-Rijāl - أحمد بن حنبل - الجامع لعلوم إمام أحمد: الرجال",
+        "entry_count": 3094
+      }
     },
     {
       "book_arabic": "اللآلئ المصنوعة في الأحاديث الموضوعة",
@@ -4971,7 +5720,8 @@
       "citation_contexts": [
         "AUTHOR_TAJRIH"
       ],
-      "citation_count": 1
+      "citation_count": 1,
+      "hawramani_match": null
     },
     {
       "book_arabic": "لباب التأويل في معاني التنزيل",
@@ -4982,7 +5732,12 @@
       "citation_contexts": [
         "HADITH_SOURCE"
       ],
-      "citation_count": 1
+      "citation_count": 1,
+      "hawramani_match": {
+        "category_id": 5560,
+        "category_name": "ʿAbd al-Karīm al-Samʿānī (d. 1167 CE) - al-Taḥbīr fī-l-Muʿjām al-kābīr - عبد الكريم السمعاني - التحبير في المعجم الكبير",
+        "entry_count": 1105
+      }
     },
     {
       "book_arabic": "لسان الميزان",
@@ -4993,7 +5748,12 @@
       "citation_contexts": [
         "AUTHOR_TAJRIH"
       ],
-      "citation_count": 1
+      "citation_count": 1,
+      "hawramani_match": {
+        "category_id": 5578,
+        "category_name": "Ḥātim b. ʿĀrif al-ʿAwnī (born 1966 CE) - Dhayl Lisān al-mīzān - حاتم بن عارف العوني - ذيل لسان الميزان: رواة ضعفاء أو تكلم فيهم",
+        "entry_count": 249
+      }
     },
     {
       "book_arabic": "لمعات شرح مشكاة",
@@ -5004,7 +5764,8 @@
       "citation_contexts": [
         "HADITH_SOURCE"
       ],
-      "citation_count": 1
+      "citation_count": 1,
+      "hawramani_match": null
     },
     {
       "book_arabic": "لواقح الأنوار",
@@ -5015,502 +5776,8 @@
       "citation_contexts": [
         "PRIMARY_REBUTTAL"
       ],
-      "citation_count": 1
-    },
-    {
-      "book_arabic": "نجوم السماء",
-      "book_transliterated": "Nujum al-Sama'",
-      "author_arabic": "محمد تقی العصيدي",
-      "author_transliterated": "Muhammad Taqi al-Usaydi",
-      "author_death_ah": 1275,
-      "citation_contexts": [
-        "CROSS_REF"
-      ],
-      "citation_count": 1
-    },
-    {
-      "book_arabic": "الذريعة إلى تصانيف الشيعة",
-      "book_transliterated": "al-Dhari'ah ila Tasanif al-Shi'ah",
-      "author_arabic": "آقا بزرگ تهراني",
-      "author_transliterated": "Agha Buzurg Tehrani",
-      "author_death_ah": 1389,
-      "citation_contexts": [
-        "CROSS_REF"
-      ],
-      "citation_count": 1
-    },
-    {
-      "book_arabic": "تحفة أثنا عشرية",
-      "book_transliterated": "Tahfat al-Athna 'Ashariyyah",
-      "author_arabic": "عبد العزيز بن شاه ولي الله الدهلوي",
-      "author_transliterated": "Abd al-Aziz b. Shah Wali Allah al-Dehlawi",
-      "author_death_ah": 1239,
-      "citation_contexts": [
-        "PRIMARY_REBUTTAL"
-      ],
-      "citation_count": 1
-    },
-    {
-      "book_arabic": "صواعق",
-      "book_transliterated": "al-Sawa'iq",
-      "author_arabic": "ابن حجر العسقلاني",
-      "author_transliterated": "Ibn Hajar al-Asqalani",
-      "author_death_ah": 852,
-      "citation_contexts": [
-        "ARGUMENT_LINEAGE"
-      ],
-      "citation_count": 1
-    },
-    {
-      "book_arabic": "تذكرة علماء الهند",
-      "book_transliterated": "Tadhkirat 'Ulama' al-Hind",
-      "author_arabic": "ميرزا محمد بن عين الدين",
-      "author_transliterated": "Mirza Muhammad b. 'Ayn al-Din",
-      "author_death_ah": 1272,
-      "citation_contexts": [
-        "AUTHOR_TAWTHIQ"
-      ],
-      "citation_count": 1
-    },
-    {
-      "book_arabic": "الأعلام",
-      "book_transliterated": "al-A'lam",
-      "author_arabic": "خير الدين الزركلي",
-      "author_transliterated": "Khalid al-Din al-Zarkili",
-      "author_death_ah": 1396,
-      "citation_contexts": [
-        "AUTHOR_TAWTHIQ"
-      ],
-      "citation_count": 1
-    },
-    {
-      "book_arabic": "اليانع الجني",
-      "book_transliterated": "al-Yan' al-Jani",
-      "author_arabic": "عبد الحي بن فخر الدين الحسيني",
-      "author_transliterated": "Abd al-Hayy b. Fakhr al-Din al-Husayni",
-      "author_death_ah": 1343,
-      "citation_contexts": [
-        "AUTHOR_TAWTHIQ"
-      ],
-      "citation_count": 1
-    },
-    {
-      "book_arabic": "إيضاح المكنون",
-      "book_transliterated": "Iydah al-Maknun",
-      "author_arabic": "عبد الحي بن فخر الدين الحسيني",
-      "author_transliterated": "Abd al-Hayy b. Fakhr al-Din al-Husayni",
-      "author_death_ah": 1343,
-      "citation_contexts": [
-        "AUTHOR_TAWTHIQ"
-      ],
-      "citation_count": 1
-    },
-    {
-      "book_arabic": "حديقة الأفراح لزاحة الأتراح",
-      "book_transliterated": "Hadiqat al-Afrah li-Zahq al-Atarah",
-      "author_arabic": "ميرزا أحمد أنصاري شرواني يمني",
-      "author_transliterated": "Mirza Ahmad Ansari Shirwani Yamani",
-      "author_death_ah": null,
-      "citation_contexts": [
-        "AUTHOR_TAWTHIQ"
-      ],
-      "citation_count": 1
-    },
-    {
-      "book_arabic": "فهرست الغهارس والآثار ومعجم المعاجم والمشيخات والمسلسلات",
-      "book_transliterated": "Fihrist al-Gharars wa-l-Athar wa Mu'jam al-Mu'ajam wa-l-Mashikhat wa-l-Musalsalat",
-      "author_arabic": "حافظ العس سيد عبد الحي الحسني الإدريسي",
-      "author_transliterated": "Hafiz al-As Sayyid Abd al-Hayy al-Hasani al-Idrisi",
-      "author_death_ah": null,
-      "citation_contexts": [
-        "AUTHOR_TAWTHIQ"
-      ],
-      "citation_count": 1
-    },
-    {
-      "book_arabic": "عون المعبود على سنن أبي داود",
-      "book_transliterated": "'Awn al-Ma'bud 'ala Sunan Abi Dawud",
-      "author_arabic": "عبد الله بن عبد الرحمن بن أحمد الدامري",
-      "author_transliterated": "Abd Allah b. Abd al-Rahman b. Ahmad al-Damiri",
-      "author_death_ah": 1130,
-      "citation_contexts": [
-        "AUTHOR_TAWTHIQ"
-      ],
-      "citation_count": 1
-    },
-    {
-      "book_arabic": "القول المجيد على موطأ مالك",
-      "book_transliterated": "al-Qawl al-Majid 'ala Muwatta' Malik",
-      "author_arabic": null,
-      "author_transliterated": null,
-      "author_death_ah": null,
-      "citation_contexts": [
-        "AUTHOR_TAWTHIQ"
-      ],
-      "citation_count": 1
-    },
-    {
-      "book_arabic": "مجمع المؤلفين",
-      "book_transliterated": "Majma' al-Mu'allifin",
-      "author_arabic": "عمر رضا كحالة",
-      "author_transliterated": "Umar Rida Kahalah",
-      "author_death_ah": 1377,
-      "citation_contexts": [
-        "AUTHOR_TAWTHIQ"
-      ],
-      "citation_count": 1
-    },
-    {
-      "book_arabic": "فهرست الآثار والأئمات",
-      "book_transliterated": "Fihrist al-Athar wa-l-A'immat",
-      "author_arabic": null,
-      "author_transliterated": null,
-      "author_death_ah": null,
-      "citation_contexts": [
-        "AUTHOR_TAWTHIQ"
-      ],
-      "citation_count": 1
-    },
-    {
-      "book_arabic": "كشف الحجب",
-      "book_transliterated": "Kashf al-Hijab",
-      "author_arabic": "ملا باقر علوخان",
-      "author_transliterated": "Mulla Baqir Alukh Khan",
-      "author_death_ah": null,
-      "citation_contexts": [
-        "REBUTTAL_LINEAGE"
-      ],
-      "citation_count": 1
-    },
-    {
-      "book_arabic": "السيف المسلول على مخربي دين الرسول",
-      "book_transliterated": "al-Sayf al-Masul 'ala Mukharribi Din al-Rasul",
-      "author_arabic": "أبو أحمد عثمان بن عبد الله بن عبد المنعم الأخباري النيشابوري",
-      "author_transliterated": "Abu Ahmad 'Uthman b. Abd Allah b. Abd al-Mun'im al-Akhbari al-Naysaburi",
-      "author_death_ah": 1287,
-      "citation_contexts": [
-        "REBUTTAL_LINEAGE"
-      ],
-      "citation_count": 1
-    },
-    {
-      "book_arabic": "السوارم الإلهيات في قطع شبهات عبيد المرية واللات",
-      "book_transliterated": "al-Sawarm al-Ilahiyyat fi Qat' Shubahat 'Ubayd al-Mar'iyyah wa-l-Lat",
-      "author_arabic": "سيد دلدار علي بن تك معين نقوي",
-      "author_transliterated": "Sayyid Dildar Ali b. Tak Mu'in Naqawi",
-      "author_death_ah": 1237,
-      "citation_contexts": [
-        "REBUTTAL_LINEAGE"
-      ],
-      "citation_count": 1
-    },
-    {
-      "book_arabic": "صارم الإسلام",
-      "book_transliterated": "Sarim al-Islam",
-      "author_arabic": "رشيد الدين خان",
-      "author_transliterated": "Rashid al-Din Khan",
-      "author_death_ah": null,
-      "citation_contexts": [
-        "REBUTTAL_LINEAGE"
-      ],
-      "citation_count": 1
-    },
-    {
-      "book_arabic": "حسام الإسلام وسهام الملام",
-      "book_transliterated": "Hisam al-Islam wa Saham al-Malam",
-      "author_arabic": "حكيم باقر علوخان",
-      "author_transliterated": "Hakim Baqir Alukh Khan",
-      "author_death_ah": null,
-      "citation_contexts": [
-        "REBUTTAL_LINEAGE"
-      ],
-      "citation_count": 1
-    },
-    {
-      "book_arabic": "إحياء السنة",
-      "book_transliterated": "Ihya' al-Sunnah",
-      "author_arabic": null,
-      "author_transliterated": null,
-      "author_death_ah": null,
-      "citation_contexts": [
-        "REBUTTAL_LINEAGE"
-      ],
-      "citation_count": 1
-    },
-    {
-      "book_arabic": "ذو الفقار",
-      "book_transliterated": "Dhu al-Fiqar",
-      "author_arabic": null,
-      "author_transliterated": null,
-      "author_death_ah": null,
-      "citation_contexts": [
-        "REBUTTAL_LINEAGE"
-      ],
-      "citation_count": 1
-    },
-    {
-      "book_arabic": "نزهة الإثني عشرية",
-      "book_transliterated": "Nuzhat al-Athna 'Ashariyyah",
-      "author_arabic": "ميرزا عدن عثمان أحمد خان الكشميري",
-      "author_transliterated": "Mirza 'Adn 'Uthman Ahmad Khan al-Kashmiri",
-      "author_death_ah": 1278,
-      "citation_contexts": [
-        "REBUTTAL_LINEAGE"
-      ],
-      "citation_count": 1
-    },
-    {
-      "book_arabic": "المآثر والآثار",
-      "book_transliterated": "al-Ma'athir wa-l-Athar",
-      "author_arabic": null,
-      "author_transliterated": null,
-      "author_death_ah": null,
-      "citation_contexts": [
-        "ARGUMENT_LINEAGE"
-      ],
-      "citation_count": 1
-    },
-    {
-      "book_arabic": "الأجناد الإثنا عشرة المحمدية",
-      "book_transliterated": "al-Ajnad al-Athna 'Ashara al-Muhammadiyyah",
-      "author_arabic": "سيد علي قلي بن سيد الحسين بن سيد حامد حسين بن العابدين الموسوي النيشابوري",
-      "author_transliterated": "Sayyid Ali Quli b. Sayyid al-Husayn b. Sayyid Hamid Husayn b. al-Abidin al-Musawi al-Naysaburi",
-      "author_death_ah": 1310,
-      "citation_contexts": [
-        "REBUTTAL_LINEAGE"
-      ],
-      "citation_count": 1
-    },
-    {
-      "book_arabic": "السيف الثاقري",
-      "book_transliterated": "al-Sayf al-Thaqri",
-      "author_arabic": "سيد علي قلي بن سيد الحسين بن سيد حامد حسين بن العابدين الموسوي النيشابوري",
-      "author_transliterated": "Sayyid Ali Quli b. Sayyid al-Husayn b. Sayyid Hamid Husayn b. al-Abidin al-Musawi al-Naysaburi",
-      "author_death_ah": 1310,
-      "citation_contexts": [
-        "REBUTTAL_LINEAGE"
-      ],
-      "citation_count": 1
-    },
-    {
-      "book_arabic": "تقليب المكائد",
-      "book_transliterated": "Taqlib al-Maka'id",
-      "author_arabic": "سيد علي قلي بن سيد الحسين بن سيد حامد حسين بن العابدين الموسوي النيشابوري",
-      "author_transliterated": "Sayyid Ali Quli b. Sayyid al-Husayn b. Sayyid Hamid Husayn b. al-Abidin al-Musawi al-Naysaburi",
-      "author_death_ah": 1310,
-      "citation_contexts": [
-        "REBUTTAL_LINEAGE"
-      ],
-      "citation_count": 1
-    },
-    {
-      "book_arabic": "برهان السعادة",
-      "book_transliterated": "Burhan al-Sa'adah",
-      "author_arabic": "سيد علي قلي بن سيد الحسين بن سيد حامد حسين بن العابدين الموسوي النيشابوري",
-      "author_transliterated": "Sayyid Ali Quli b. Sayyid al-Husayn b. Sayyid Hamid Husayn b. al-Abidin al-Musawi al-Naysaburi",
-      "author_death_ah": 1310,
-      "citation_contexts": [
-        "REBUTTAL_LINEAGE"
-      ],
-      "citation_count": 1
-    },
-    {
-      "book_arabic": "تشييد المطاعن لكشف الضفائن",
-      "book_transliterated": "Tashyid al-Mata'in li-Kashf al-Daf'ain",
-      "author_arabic": "سيد علي قلي بن سيد الحسين بن سيد حامد حسين بن العابدين الموسوي النيشابوري",
-      "author_transliterated": "Sayyid Ali Quli b. Sayyid al-Husayn b. Sayyid Hamid Husayn b. al-Abidin al-Musawi al-Naysaburi",
-      "author_death_ah": 1310,
-      "citation_contexts": [
-        "REBUTTAL_LINEAGE"
-      ],
-      "citation_count": 1
-    },
-    {
-      "book_arabic": "رجوم الشياطين",
-      "book_transliterated": "Rujum al-Shayatin",
-      "author_arabic": "سيد جعفر أبو علي خان الموسوي",
-      "author_transliterated": "Sayyid Ja'far Abu Ali Khan al-Musawi",
-      "author_death_ah": null,
-      "citation_contexts": [
-        "REBUTTAL_LINEAGE"
-      ],
-      "citation_count": 1
-    },
-    {
-      "book_arabic": "تتميم الباب التاسع من النزهة",
-      "book_transliterated": "Tatimmat al-Bab al-Tasi' min al-Nuzhah",
-      "author_arabic": "سيد جعفر أبو علي خان الموسوي",
-      "author_transliterated": "Sayyid Ja'far Abu Ali Khan al-Musawi",
-      "author_death_ah": null,
-      "citation_contexts": [
-        "REBUTTAL_LINEAGE"
-      ],
-      "citation_count": 1
-    },
-    {
-      "book_arabic": "الجوابة الفاخرة في رد الأشاعرة",
-      "book_transliterated": "al-Jawabat al-Fakhirah fi Radd al-Asha'irah",
-      "author_arabic": "سيد محمد قلي",
-      "author_transliterated": "Sayyid Muhammad Quli",
-      "author_death_ah": null,
-      "citation_contexts": [
-        "REBUTTAL_LINEAGE"
-      ],
-      "citation_count": 1
-    },
-    {
-      "book_arabic": "معين الصاداتين في رد رجوم الشياطين",
-      "book_transliterated": "Mu'in al-Sadatin fi Radd Rujum al-Shayatin",
-      "author_arabic": null,
-      "author_transliterated": null,
-      "author_death_ah": null,
-      "citation_contexts": [
-        "REBUTTAL_LINEAGE"
-      ],
-      "citation_count": 1
-    },
-    {
-      "book_arabic": "مصارع الأفهام",
-      "book_transliterated": "Musar' al-Afham",
-      "author_arabic": "سيد علي قلي بن سيد الحسين بن سيد حامد حسين بن العابدين الموسوي النيشابوري",
-      "author_transliterated": "Sayyid Ali Quli b. Sayyid al-Husayn b. Sayyid Hamid Husayn b. al-Abidin al-Musawi al-Naysaburi",
-      "author_death_ah": 1310,
-      "citation_contexts": [
-        "REBUTTAL_LINEAGE"
-      ],
-      "citation_count": 1
-    },
-    {
-      "book_arabic": "الوجيزة في الأصول",
-      "book_transliterated": "al-Wajizah fi al-Usul",
-      "author_arabic": "محمد سبحان علي خان الهندي",
-      "author_transliterated": "Muhammad Subhan Ali Khan al-Hindi",
-      "author_death_ah": 1250,
-      "citation_contexts": [
-        "REBUTTAL_LINEAGE"
-      ],
-      "citation_count": 1
-    },
-    {
-      "book_arabic": "الإمامة",
-      "book_transliterated": "al-Imamah",
-      "author_arabic": "سيد ولدار علي تقوي نضير بادي لكبنوي",
-      "author_transliterated": "Sayyid Wuldar Ali Taqawi Nadir Badi Lakhna'wi",
-      "author_death_ah": 1284,
-      "citation_contexts": [
-        "REBUTTAL_LINEAGE"
-      ],
-      "citation_count": 1
-    },
-    {
-      "book_arabic": "البوارق المويقة",
-      "book_transliterated": "al-Bawa riq al-Maw iqah",
-      "author_arabic": "سيد ولدار علي تقوي نضير بادي لكبنوي",
-      "author_transliterated": "Sayyid Wuldar Ali Taqawi Nadir Badi Lakhna'wi",
-      "author_death_ah": 1284,
-      "citation_contexts": [
-        "REBUTTAL_LINEAGE"
-      ],
-      "citation_count": 1
-    },
-    {
-      "book_arabic": "برهان الصادقين",
-      "book_transliterated": "Burhan al-Sadiqin",
-      "author_arabic": "سيد جعفر أبو علي خان الموسوي",
-      "author_transliterated": "Sayyid Ja'far Abu Ali Khan al-Musawi",
-      "author_death_ah": null,
-      "citation_contexts": [
-        "REBUTTAL_LINEAGE"
-      ],
-      "citation_count": 1
-    },
-    {
-      "book_arabic": "مهجة البرهان",
-      "book_transliterated": "Mahjat al-Burhan",
-      "author_arabic": "سيد جعفر أبو علي خان الموسوي",
-      "author_transliterated": "Sayyid Ja'far Abu Ali Khan al-Musawi",
-      "author_death_ah": null,
-      "citation_contexts": [
-        "REBUTTAL_LINEAGE"
-      ],
-      "citation_count": 1
-    },
-    {
-      "book_arabic": "تمكيس السثمين",
-      "book_transliterated": "Tamkis al-Sathmin",
-      "author_arabic": "سيد جعفر أبو علي خان الموسوي",
-      "author_transliterated": "Sayyid Ja'far Abu Ali Khan al-Musawi",
-      "author_death_ah": null,
-      "citation_contexts": [
-        "REBUTTAL_LINEAGE"
-      ],
-      "citation_count": 1
-    },
-    {
-      "book_arabic": "هداية العزيز",
-      "book_transliterated": "Hidayat al-Aziz",
-      "author_arabic": "مولوى خير الدين علي آبادي الهندي",
-      "author_transliterated": "Mawlawi Khayr al-Din Ali Abadi al-Hindi",
-      "author_death_ah": null,
-      "citation_contexts": [
-        "REBUTTAL_LINEAGE"
-      ],
-      "citation_count": 1
-    },
-    {
-      "book_arabic": "الجواهر العبقرية",
-      "book_transliterated": "al-Jawahir al-Ubaqariyyah",
-      "author_arabic": "سيد مفتي مير علي عباس بن علي كبر شوشتري",
-      "author_transliterated": "Sayyid Mufti Mir Ali Abbas b. Ali Kabir Shushtari",
-      "author_death_ah": 1290,
-      "citation_contexts": [
-        "REBUTTAL_LINEAGE"
-      ],
-      "citation_count": 1
-    },
-    {
-      "book_arabic": "تصحيح المنحة الإلهية عن النفثة الشيطانية",
-      "book_transliterated": "Tas-hih al-Minhah al-Ilahiyyah 'an al-Nafthah al-Shaytaniyyah",
-      "author_arabic": "شيخ مبدئ بن شيخ حسين خالصي كاظمي",
-      "author_transliterated": "Shaykh Mabd i' b. Shaykh Husayn Khalisi Kazimi",
-      "author_death_ah": 1247,
-      "citation_contexts": [
-        "REBUTTAL_LINEAGE"
-      ],
-      "citation_count": 1
-    },
-    {
-      "book_arabic": "المنحة الإلهية",
-      "book_transliterated": "al-Minhah al-Ilahiyyah",
-      "author_arabic": "غلام حليم بن محيي الدين أسلمي",
-      "author_transliterated": "Ghalam Halim b. Muhyi al-Din Aslami",
-      "author_death_ah": null,
-      "citation_contexts": [
-        "SUB_CLAIM_REBUTTAL"
-      ],
-      "citation_count": 1
-    },
-    {
-      "book_arabic": "طعن الرماح",
-      "book_transliterated": "Ta'n al-Rumah",
-      "author_arabic": "سيد علي مجتهى مجمع سلطان العلماء",
-      "author_transliterated": "Sayyid Ali Mujtahid Majma' Sultan al-Ulama",
-      "author_death_ah": null,
-      "citation_contexts": [
-        "REBUTTAL_LINEAGE"
-      ],
-      "citation_count": 1
-    },
-    {
-      "book_arabic": "وقايع الأيام",
-      "book_transliterated": "Waqi'at al-Ayyam",
-      "author_arabic": "حاج ملا مي غيابائي",
-      "author_transliterated": "Haj Mulla Mi Ghiyabai",
-      "author_death_ah": null,
-      "citation_contexts": [
-        "CROSS_REF"
-      ],
-      "citation_count": 1
+      "citation_count": 1,
+      "hawramani_match": null
     },
     {
       "book_arabic": "نجوم السماء",
@@ -5521,7 +5788,580 @@
       "citation_contexts": [
         "AUTHOR_TAWTHIQ"
       ],
-      "citation_count": 1
+      "citation_count": 1,
+      "hawramani_match": null
+    },
+    {
+      "book_arabic": "الذريعة إلى تصانيف الشيعة",
+      "book_transliterated": "al-Dhari'ah ila Tasanif al-Shi'ah",
+      "author_arabic": "آقا بزرگ تهراني",
+      "author_transliterated": "Agha Buzurg Tehrani",
+      "author_death_ah": 1389,
+      "citation_contexts": [
+        "CROSS_REF"
+      ],
+      "citation_count": 1,
+      "hawramani_match": null
+    },
+    {
+      "book_arabic": "تحفة أثنا عشرية",
+      "book_transliterated": "Tahfat al-Athna 'Ashariyyah",
+      "author_arabic": "عبد العزيز بن شاه ولي الله الدهلوي",
+      "author_transliterated": "Abd al-Aziz b. Shah Wali Allah al-Dehlawi",
+      "author_death_ah": 1239,
+      "citation_contexts": [
+        "PRIMARY_REBUTTAL"
+      ],
+      "citation_count": 1,
+      "hawramani_match": null
+    },
+    {
+      "book_arabic": "صواعق",
+      "book_transliterated": "al-Sawa'iq",
+      "author_arabic": "ابن حجر العسقلاني",
+      "author_transliterated": "Ibn Hajar al-Asqalani",
+      "author_death_ah": 852,
+      "citation_contexts": [
+        "ARGUMENT_LINEAGE"
+      ],
+      "citation_count": 1,
+      "hawramani_match": null
+    },
+    {
+      "book_arabic": "تذكرة علماء الهند",
+      "book_transliterated": "Tadhkirat 'Ulama' al-Hind",
+      "author_arabic": "ميرزا محمد بن عين الدين",
+      "author_transliterated": "Mirza Muhammad b. 'Ayn al-Din",
+      "author_death_ah": 1272,
+      "citation_contexts": [
+        "AUTHOR_TAWTHIQ"
+      ],
+      "citation_count": 1,
+      "hawramani_match": {
+        "category_id": 5530,
+        "category_name": "Ibn Ḥibbān (d. 965 CE) – Mashāhīr ʿulamāʾ al-amṣār - ابن حبان - مشاهير علماء الأمصار",
+        "entry_count": 1589
+      }
+    },
+    {
+      "book_arabic": "الأعلام",
+      "book_transliterated": "al-A'lam",
+      "author_arabic": "خير الدين الزركلي",
+      "author_transliterated": "Khalid al-Din al-Zarkili",
+      "author_death_ah": 1396,
+      "citation_contexts": [
+        "AUTHOR_TAWTHIQ"
+      ],
+      "citation_count": 1,
+      "hawramani_match": null
+    },
+    {
+      "book_arabic": "اليانع الجني",
+      "book_transliterated": "al-Yan' al-Jani",
+      "author_arabic": "عبد الحي بن فخر الدين الحسيني",
+      "author_transliterated": "Abd al-Hayy b. Fakhr al-Din al-Husayni",
+      "author_death_ah": 1343,
+      "citation_contexts": [
+        "AUTHOR_TAWTHIQ"
+      ],
+      "citation_count": 1,
+      "hawramani_match": null
+    },
+    {
+      "book_arabic": "إيضاح المكنون",
+      "book_transliterated": "Iydah al-Maknun",
+      "author_arabic": "عبد الحي بن فخر الدين الحسيني",
+      "author_transliterated": "Abd al-Hayy b. Fakhr al-Din al-Husayni",
+      "author_death_ah": 1343,
+      "citation_contexts": [
+        "AUTHOR_TAWTHIQ"
+      ],
+      "citation_count": 1,
+      "hawramani_match": null
+    },
+    {
+      "book_arabic": "حديقة الأفراح لزاحة الأتراح",
+      "book_transliterated": "Hadiqat al-Afrah li-Zahq al-Atarah",
+      "author_arabic": "ميرزا أحمد أنصاري شرواني يمني",
+      "author_transliterated": "Mirza Ahmad Ansari Shirwani Yamani",
+      "author_death_ah": null,
+      "citation_contexts": [
+        "AUTHOR_TAWTHIQ"
+      ],
+      "citation_count": 1,
+      "hawramani_match": null
+    },
+    {
+      "book_arabic": "فهرست الغهارس والآثار ومعجم المعاجم والمشيخات والمسلسلات",
+      "book_transliterated": "Fihrist al-Gharars wa-l-Athar wa Mu'jam al-Mu'ajam wa-l-Mashikhat wa-l-Musalsalat",
+      "author_arabic": "حافظ العس سيد عبد الحي الحسني الإدريسي",
+      "author_transliterated": "Hafiz al-As Sayyid Abd al-Hayy al-Hasani al-Idrisi",
+      "author_death_ah": null,
+      "citation_contexts": [
+        "AUTHOR_TAWTHIQ"
+      ],
+      "citation_count": 1,
+      "hawramani_match": null
+    },
+    {
+      "book_arabic": "عون المعبود على سنن أبي داود",
+      "book_transliterated": "'Awn al-Ma'bud 'ala Sunan Abi Dawud",
+      "author_arabic": "عبد الله بن عبد الرحمن بن أحمد الدامري",
+      "author_transliterated": "Abd Allah b. Abd al-Rahman b. Ahmad al-Damiri",
+      "author_death_ah": 1130,
+      "citation_contexts": [
+        "AUTHOR_TAWTHIQ"
+      ],
+      "citation_count": 1,
+      "hawramani_match": {
+        "category_id": 5569,
+        "category_name": "Yūsuf al-Dāwudī (2013) - al-Mutaffiq wa-l-muftariq fī-man dhukira bi-kunyatih - يوسف الداودي - المتفق والمفترق فيمن ذكر بكنيته",
+        "entry_count": 22
+      }
+    },
+    {
+      "book_arabic": "القول المجيد على موطأ مالك",
+      "book_transliterated": "al-Qawl al-Majid 'ala Muwatta' Malik",
+      "author_arabic": null,
+      "author_transliterated": null,
+      "author_death_ah": null,
+      "citation_contexts": [
+        "AUTHOR_TAWTHIQ"
+      ],
+      "citation_count": 1,
+      "hawramani_match": {
+        "category_id": 5564,
+        "category_name": "Al-Suyūṭī (d. 1505 CE) - Isʿāf al-mubaṭṭaʾ fī-rijāl al-Muwaṭṭaʾ - السيوطي - إسعاف المبطأ في رجال الموطأ",
+        "entry_count": 382
+      }
+    },
+    {
+      "book_arabic": "مجمع المؤلفين",
+      "book_transliterated": "Majma' al-Mu'allifin",
+      "author_arabic": "عمر رضا كحالة",
+      "author_transliterated": "Umar Rida Kahalah",
+      "author_death_ah": 1377,
+      "citation_contexts": [
+        "AUTHOR_TAWTHIQ"
+      ],
+      "citation_count": 1,
+      "hawramani_match": null
+    },
+    {
+      "book_arabic": "فهرست الآثار والأئمات",
+      "book_transliterated": "Fihrist al-Athar wa-l-A'immat",
+      "author_arabic": null,
+      "author_transliterated": null,
+      "author_death_ah": null,
+      "citation_contexts": [
+        "AUTHOR_TAWTHIQ"
+      ],
+      "citation_count": 1,
+      "hawramani_match": {
+        "category_id": 5565,
+        "category_name": "Ibn Ḥajar al-ʿAsqalāni (d. 1449 CE) - al-Īthār bi-maʿrifat ruwāt al-Āthar li-al-Shaybānī - ابن حجر العسقلاني - الإيثار بمعرفة رواة كتاب الآثار للشيباني",
+        "entry_count": 367
+      }
+    },
+    {
+      "book_arabic": "كشف الحجب",
+      "book_transliterated": "Kashf al-Hijab",
+      "author_arabic": "ملا باقر علوخان",
+      "author_transliterated": "Mulla Baqir Alukh Khan",
+      "author_death_ah": null,
+      "citation_contexts": [
+        "REBUTTAL_LINEAGE"
+      ],
+      "citation_count": 1,
+      "hawramani_match": null
+    },
+    {
+      "book_arabic": "السيف المسلول على مخربي دين الرسول",
+      "book_transliterated": "al-Sayf al-Masul 'ala Mukharribi Din al-Rasul",
+      "author_arabic": "أبو أحمد عثمان بن عبد الله بن عبد المنعم الأخباري النيشابوري",
+      "author_transliterated": "Abu Ahmad 'Uthman b. Abd Allah b. Abd al-Mun'im al-Akhbari al-Naysaburi",
+      "author_death_ah": 1287,
+      "citation_contexts": [
+        "REBUTTAL_LINEAGE"
+      ],
+      "citation_count": 1,
+      "hawramani_match": null
+    },
+    {
+      "book_arabic": "السوارم الإلهيات في قطع شبهات عبيد المرية واللات",
+      "book_transliterated": "al-Sawarm al-Ilahiyyat fi Qat' Shubahat 'Ubayd al-Mar'iyyah wa-l-Lat",
+      "author_arabic": "سيد دلدار علي بن تك معين نقوي",
+      "author_transliterated": "Sayyid Dildar Ali b. Tak Mu'in Naqawi",
+      "author_death_ah": 1237,
+      "citation_contexts": [
+        "REBUTTAL_LINEAGE"
+      ],
+      "citation_count": 1,
+      "hawramani_match": null
+    },
+    {
+      "book_arabic": "صارم الإسلام",
+      "book_transliterated": "Sarim al-Islam",
+      "author_arabic": "رشيد الدين خان",
+      "author_transliterated": "Rashid al-Din Khan",
+      "author_death_ah": null,
+      "citation_contexts": [
+        "REBUTTAL_LINEAGE"
+      ],
+      "citation_count": 1,
+      "hawramani_match": null
+    },
+    {
+      "book_arabic": "حسام الإسلام وسهام الملام",
+      "book_transliterated": "Hisam al-Islam wa Saham al-Malam",
+      "author_arabic": "حكيم باقر علوخان",
+      "author_transliterated": "Hakim Baqir Alukh Khan",
+      "author_death_ah": null,
+      "citation_contexts": [
+        "REBUTTAL_LINEAGE"
+      ],
+      "citation_count": 1,
+      "hawramani_match": null
+    },
+    {
+      "book_arabic": "إحياء السنة",
+      "book_transliterated": "Ihya' al-Sunnah",
+      "author_arabic": null,
+      "author_transliterated": null,
+      "author_death_ah": null,
+      "citation_contexts": [
+        "REBUTTAL_LINEAGE"
+      ],
+      "citation_count": 1,
+      "hawramani_match": null
+    },
+    {
+      "book_arabic": "ذو الفقار",
+      "book_transliterated": "Dhu al-Fiqar",
+      "author_arabic": null,
+      "author_transliterated": null,
+      "author_death_ah": null,
+      "citation_contexts": [
+        "REBUTTAL_LINEAGE"
+      ],
+      "citation_count": 1,
+      "hawramani_match": null
+    },
+    {
+      "book_arabic": "نزهة الإثني عشرية",
+      "book_transliterated": "Nuzhat al-Athna 'Ashariyyah",
+      "author_arabic": "ميرزا عدن عثمان أحمد خان الكشميري",
+      "author_transliterated": "Mirza 'Adn 'Uthman Ahmad Khan al-Kashmiri",
+      "author_death_ah": 1278,
+      "citation_contexts": [
+        "REBUTTAL_LINEAGE"
+      ],
+      "citation_count": 1,
+      "hawramani_match": null
+    },
+    {
+      "book_arabic": "المآثر والآثار",
+      "book_transliterated": "al-Ma'athir wa-l-Athar",
+      "author_arabic": null,
+      "author_transliterated": null,
+      "author_death_ah": null,
+      "citation_contexts": [
+        "ARGUMENT_LINEAGE"
+      ],
+      "citation_count": 1,
+      "hawramani_match": null
+    },
+    {
+      "book_arabic": "الأجناد الإثنا عشرة المحمدية",
+      "book_transliterated": "al-Ajnad al-Athna 'Ashara al-Muhammadiyyah",
+      "author_arabic": "سيد علي قلي بن سيد الحسين بن سيد حامد حسين بن العابدين الموسوي النيشابوري",
+      "author_transliterated": "Sayyid Ali Quli b. Sayyid al-Husayn b. Sayyid Hamid Husayn b. al-Abidin al-Musawi al-Naysaburi",
+      "author_death_ah": 1310,
+      "citation_contexts": [
+        "REBUTTAL_LINEAGE"
+      ],
+      "citation_count": 1,
+      "hawramani_match": null
+    },
+    {
+      "book_arabic": "السيف الثاقري",
+      "book_transliterated": "al-Sayf al-Thaqri",
+      "author_arabic": "سيد علي قلي بن سيد الحسين بن سيد حامد حسين بن العابدين الموسوي النيشابوري",
+      "author_transliterated": "Sayyid Ali Quli b. Sayyid al-Husayn b. Sayyid Hamid Husayn b. al-Abidin al-Musawi al-Naysaburi",
+      "author_death_ah": 1310,
+      "citation_contexts": [
+        "REBUTTAL_LINEAGE"
+      ],
+      "citation_count": 1,
+      "hawramani_match": null
+    },
+    {
+      "book_arabic": "تقليب المكائد",
+      "book_transliterated": "Taqlib al-Maka'id",
+      "author_arabic": "سيد علي قلي بن سيد الحسين بن سيد حامد حسين بن العابدين الموسوي النيشابوري",
+      "author_transliterated": "Sayyid Ali Quli b. Sayyid al-Husayn b. Sayyid Hamid Husayn b. al-Abidin al-Musawi al-Naysaburi",
+      "author_death_ah": 1310,
+      "citation_contexts": [
+        "REBUTTAL_LINEAGE"
+      ],
+      "citation_count": 1,
+      "hawramani_match": null
+    },
+    {
+      "book_arabic": "برهان السعادة",
+      "book_transliterated": "Burhan al-Sa'adah",
+      "author_arabic": "سيد علي قلي بن سيد الحسين بن سيد حامد حسين بن العابدين الموسوي النيشابوري",
+      "author_transliterated": "Sayyid Ali Quli b. Sayyid al-Husayn b. Sayyid Hamid Husayn b. al-Abidin al-Musawi al-Naysaburi",
+      "author_death_ah": 1310,
+      "citation_contexts": [
+        "REBUTTAL_LINEAGE"
+      ],
+      "citation_count": 1,
+      "hawramani_match": {
+        "category_id": 5566,
+        "category_name": "Burhān al-Dīn al-Ḥalabī (d. 1438 CE) - al-Ightibāṭ bi-man rumiya min al-ruwāt bi-l-ikhtilāṭ - برهان الدين الحلبي - الاغتباط بمن رمي من الرواة بالاختلاط",
+        "entry_count": 123
+      }
+    },
+    {
+      "book_arabic": "تشييد المطاعن لكشف الضفائن",
+      "book_transliterated": "Tashyid al-Mata'in li-Kashf al-Daf'ain",
+      "author_arabic": "سيد علي قلي بن سيد الحسين بن سيد حامد حسين بن العابدين الموسوي النيشابوري",
+      "author_transliterated": "Sayyid Ali Quli b. Sayyid al-Husayn b. Sayyid Hamid Husayn b. al-Abidin al-Musawi al-Naysaburi",
+      "author_death_ah": 1310,
+      "citation_contexts": [
+        "REBUTTAL_LINEAGE"
+      ],
+      "citation_count": 1,
+      "hawramani_match": {
+        "category_id": 5574,
+        "category_name": "Burhān al-Dīn al-Ḥalabī (d. 1438 CE) - al-Kashf al-ḥathīth ʿamman rumiya bi-waḍʿ al-ḥadīth - برهان الدين الحلبي - الكشف الحثيث عمن رمي بوضع الحديث",
+        "entry_count": 872
+      }
+    },
+    {
+      "book_arabic": "رجوم الشياطين",
+      "book_transliterated": "Rujum al-Shayatin",
+      "author_arabic": "سيد جعفر أبو علي خان الموسوي",
+      "author_transliterated": "Sayyid Ja'far Abu Ali Khan al-Musawi",
+      "author_death_ah": null,
+      "citation_contexts": [
+        "REBUTTAL_LINEAGE"
+      ],
+      "citation_count": 1,
+      "hawramani_match": null
+    },
+    {
+      "book_arabic": "تتميم الباب التاسع من النزهة",
+      "book_transliterated": "Tatimmat al-Bab al-Tasi' min al-Nuzhah",
+      "author_arabic": "سيد جعفر أبو علي خان الموسوي",
+      "author_transliterated": "Sayyid Ja'far Abu Ali Khan al-Musawi",
+      "author_death_ah": null,
+      "citation_contexts": [
+        "REBUTTAL_LINEAGE"
+      ],
+      "citation_count": 1,
+      "hawramani_match": null
+    },
+    {
+      "book_arabic": "الجوابة الفاخرة في رد الأشاعرة",
+      "book_transliterated": "al-Jawabat al-Fakhirah fi Radd al-Asha'irah",
+      "author_arabic": "سيد محمد قلي",
+      "author_transliterated": "Sayyid Muhammad Quli",
+      "author_death_ah": null,
+      "citation_contexts": [
+        "REBUTTAL_LINEAGE"
+      ],
+      "citation_count": 1,
+      "hawramani_match": null
+    },
+    {
+      "book_arabic": "معين الصاداتين في رد رجوم الشياطين",
+      "book_transliterated": "Mu'in al-Sadatin fi Radd Rujum al-Shayatin",
+      "author_arabic": null,
+      "author_transliterated": null,
+      "author_death_ah": null,
+      "citation_contexts": [
+        "REBUTTAL_LINEAGE"
+      ],
+      "citation_count": 1,
+      "hawramani_match": null
+    },
+    {
+      "book_arabic": "مصارع الأفهام",
+      "book_transliterated": "Musar' al-Afham",
+      "author_arabic": "سيد علي قلي بن سيد الحسين بن سيد حامد حسين بن العابدين الموسوي النيشابوري",
+      "author_transliterated": "Sayyid Ali Quli b. Sayyid al-Husayn b. Sayyid Hamid Husayn b. al-Abidin al-Musawi al-Naysaburi",
+      "author_death_ah": 1310,
+      "citation_contexts": [
+        "REBUTTAL_LINEAGE"
+      ],
+      "citation_count": 1,
+      "hawramani_match": null
+    },
+    {
+      "book_arabic": "الوجيزة في الأصول",
+      "book_transliterated": "al-Wajizah fi al-Usul",
+      "author_arabic": "محمد سبحان علي خان الهندي",
+      "author_transliterated": "Muhammad Subhan Ali Khan al-Hindi",
+      "author_death_ah": 1250,
+      "citation_contexts": [
+        "REBUTTAL_LINEAGE"
+      ],
+      "citation_count": 1,
+      "hawramani_match": null
+    },
+    {
+      "book_arabic": "الإمامة",
+      "book_transliterated": "al-Imamah",
+      "author_arabic": "سيد ولدار علي تقوي نضير بادي لكبنوي",
+      "author_transliterated": "Sayyid Wuldar Ali Taqawi Nadir Badi Lakhna'wi",
+      "author_death_ah": 1284,
+      "citation_contexts": [
+        "REBUTTAL_LINEAGE"
+      ],
+      "citation_count": 1,
+      "hawramani_match": null
+    },
+    {
+      "book_arabic": "البوارق المويقة",
+      "book_transliterated": "al-Bawa riq al-Maw iqah",
+      "author_arabic": "سيد ولدار علي تقوي نضير بادي لكبنوي",
+      "author_transliterated": "Sayyid Wuldar Ali Taqawi Nadir Badi Lakhna'wi",
+      "author_death_ah": 1284,
+      "citation_contexts": [
+        "REBUTTAL_LINEAGE"
+      ],
+      "citation_count": 1,
+      "hawramani_match": null
+    },
+    {
+      "book_arabic": "برهان الصادقين",
+      "book_transliterated": "Burhan al-Sadiqin",
+      "author_arabic": "سيد جعفر أبو علي خان الموسوي",
+      "author_transliterated": "Sayyid Ja'far Abu Ali Khan al-Musawi",
+      "author_death_ah": null,
+      "citation_contexts": [
+        "REBUTTAL_LINEAGE"
+      ],
+      "citation_count": 1,
+      "hawramani_match": {
+        "category_id": 5566,
+        "category_name": "Burhān al-Dīn al-Ḥalabī (d. 1438 CE) - al-Ightibāṭ bi-man rumiya min al-ruwāt bi-l-ikhtilāṭ - برهان الدين الحلبي - الاغتباط بمن رمي من الرواة بالاختلاط",
+        "entry_count": 123
+      }
+    },
+    {
+      "book_arabic": "مهجة البرهان",
+      "book_transliterated": "Mahjat al-Burhan",
+      "author_arabic": "سيد جعفر أبو علي خان الموسوي",
+      "author_transliterated": "Sayyid Ja'far Abu Ali Khan al-Musawi",
+      "author_death_ah": null,
+      "citation_contexts": [
+        "REBUTTAL_LINEAGE"
+      ],
+      "citation_count": 1,
+      "hawramani_match": null
+    },
+    {
+      "book_arabic": "تمكيس السثمين",
+      "book_transliterated": "Tamkis al-Sathmin",
+      "author_arabic": "سيد جعفر أبو علي خان الموسوي",
+      "author_transliterated": "Sayyid Ja'far Abu Ali Khan al-Musawi",
+      "author_death_ah": null,
+      "citation_contexts": [
+        "REBUTTAL_LINEAGE"
+      ],
+      "citation_count": 1,
+      "hawramani_match": null
+    },
+    {
+      "book_arabic": "هداية العزيز",
+      "book_transliterated": "Hidayat al-Aziz",
+      "author_arabic": "مولوى خير الدين علي آبادي الهندي",
+      "author_transliterated": "Mawlawi Khayr al-Din Ali Abadi al-Hindi",
+      "author_death_ah": null,
+      "citation_contexts": [
+        "REBUTTAL_LINEAGE"
+      ],
+      "citation_count": 1,
+      "hawramani_match": {
+        "category_id": 5542,
+        "category_name": "Al-Kalābādhī (d. 990-5 CE) - al-Hidāya wa-l-irshād (rijāl Ṣaḥīḥ al-Bukhārī) - الكلاباذي - الهداية المعروف برجال صحيح البخاري",
+        "entry_count": 1522
+      }
+    },
+    {
+      "book_arabic": "الجواهر العبقرية",
+      "book_transliterated": "al-Jawahir al-Ubaqariyyah",
+      "author_arabic": "سيد مفتي مير علي عباس بن علي كبر شوشتري",
+      "author_transliterated": "Sayyid Mufti Mir Ali Abbas b. Ali Kabir Shushtari",
+      "author_death_ah": 1290,
+      "citation_contexts": [
+        "REBUTTAL_LINEAGE"
+      ],
+      "citation_count": 1,
+      "hawramani_match": null
+    },
+    {
+      "book_arabic": "تصحيح المنحة الإلهية عن النفثة الشيطانية",
+      "book_transliterated": "Tas-hih al-Minhah al-Ilahiyyah 'an al-Nafthah al-Shaytaniyyah",
+      "author_arabic": "شيخ مبدئ بن شيخ حسين خالصي كاظمي",
+      "author_transliterated": "Shaykh Mabd i' b. Shaykh Husayn Khalisi Kazimi",
+      "author_death_ah": 1247,
+      "citation_contexts": [
+        "REBUTTAL_LINEAGE"
+      ],
+      "citation_count": 1,
+      "hawramani_match": null
+    },
+    {
+      "book_arabic": "المنحة الإلهية",
+      "book_transliterated": "al-Minhah al-Ilahiyyah",
+      "author_arabic": "غلام حليم بن محيي الدين أسلمي",
+      "author_transliterated": "Ghalam Halim b. Muhyi al-Din Aslami",
+      "author_death_ah": null,
+      "citation_contexts": [
+        "SUB_CLAIM_REBUTTAL"
+      ],
+      "citation_count": 1,
+      "hawramani_match": null
+    },
+    {
+      "book_arabic": "طعن الرماح",
+      "book_transliterated": "Ta'n al-Rumah",
+      "author_arabic": "سيد علي مجتهى مجمع سلطان العلماء",
+      "author_transliterated": "Sayyid Ali Mujtahid Majma' Sultan al-Ulama",
+      "author_death_ah": null,
+      "citation_contexts": [
+        "REBUTTAL_LINEAGE"
+      ],
+      "citation_count": 1,
+      "hawramani_match": null
+    },
+    {
+      "book_arabic": "وقايع الأيام",
+      "book_transliterated": "Waqi'at al-Ayyam",
+      "author_arabic": "حاج ملا مي غيابائي",
+      "author_transliterated": "Haj Mulla Mi Ghiyabai",
+      "author_death_ah": null,
+      "citation_contexts": [
+        "CROSS_REF"
+      ],
+      "citation_count": 1,
+      "hawramani_match": null
+    },
+    {
+      "book_arabic": "نجوم السماء",
+      "book_transliterated": "Nujum al-Sama'",
+      "author_arabic": "ميرزا هادي بن ميرزا محمد علي العزيز",
+      "author_transliterated": "Mirza Hadi b. Mirza Muhammad Ali al-Aziz",
+      "author_death_ah": 1284,
+      "citation_contexts": [
+        "AUTHOR_TAWTHIQ"
+      ],
+      "citation_count": 1,
+      "hawramani_match": null
     },
     {
       "book_arabic": "نقباء البشر",
@@ -5532,7 +6372,8 @@
       "citation_contexts": [
         "AUTHOR_TAWTHIQ"
       ],
-      "citation_count": 1
+      "citation_count": 1,
+      "hawramani_match": null
     },
     {
       "book_arabic": "صحيفة المكتبة",
@@ -5543,7 +6384,8 @@
       "citation_contexts": [
         "AUTHOR_TAWTHIQ"
       ],
-      "citation_count": 1
+      "citation_count": 1,
+      "hawramani_match": null
     },
     {
       "book_arabic": "نقباء البشر في القرن الرابع عشر",
@@ -5554,7 +6396,8 @@
       "citation_contexts": [
         "AUTHOR_TAWTHIQ"
       ],
-      "citation_count": 1
+      "citation_count": 1,
+      "hawramani_match": null
     },
     {
       "book_arabic": "تكملة أعيان الشيعة",
@@ -5565,7 +6408,8 @@
       "citation_contexts": [
         "AUTHOR_TAWTHIQ"
       ],
-      "citation_count": 1
+      "citation_count": 1,
+      "hawramani_match": null
     },
     {
       "book_arabic": "علماء معاصرين",
@@ -5576,7 +6420,12 @@
       "citation_contexts": [
         "AUTHOR_TAWTHIQ"
       ],
-      "citation_count": 1
+      "citation_count": 1,
+      "hawramani_match": {
+        "category_id": 5530,
+        "category_name": "Ibn Ḥibbān (d. 965 CE) – Mashāhīr ʿulamāʾ al-amṣār - ابن حبان - مشاهير علماء الأمصار",
+        "entry_count": 1589
+      }
     },
     {
       "book_arabic": "أحسن الوديعة",
@@ -5587,7 +6436,8 @@
       "citation_contexts": [
         "AUTHOR_TAWTHIQ"
       ],
-      "citation_count": 1
+      "citation_count": 1,
+      "hawramani_match": null
     },
     {
       "book_arabic": "شفاء الصدور",
@@ -5598,7 +6448,8 @@
       "citation_contexts": [
         "AUTHOR_TAWTHIQ"
       ],
-      "citation_count": 1
+      "citation_count": 1,
+      "hawramani_match": null
     },
     {
       "book_arabic": "كشف الحجب عن أسماء المؤلفات والكتب",
@@ -5609,7 +6460,12 @@
       "citation_contexts": [
         "AUTHOR_TAWTHIQ"
       ],
-      "citation_count": 1
+      "citation_count": 1,
+      "hawramani_match": {
+        "category_id": 5567,
+        "category_name": "Burhān al-Dīn al-Ḥalabī (d. 1438 CE) - al-Tabyīn li-asmāʾ al-mudallisīn - برهان الدين الحلبي - التبيين لأسماء المدلسين",
+        "entry_count": 93
+      }
     },
     {
       "book_arabic": "ذريعة الوصول إلى تصانيف الشيعة",
@@ -5620,7 +6476,8 @@
       "citation_contexts": [
         "CROSS_REF"
       ],
-      "citation_count": 1
+      "citation_count": 1,
+      "hawramani_match": null
     },
     {
       "book_arabic": "سواطع الأنوار في تقريظات عبقات الأنوار",
@@ -5631,7 +6488,8 @@
       "citation_contexts": [
         "AUTHOR_TAWTHIQ"
       ],
-      "citation_count": 1
+      "citation_count": 1,
+      "hawramani_match": null
     },
     {
       "book_arabic": "زينة الإنشاء",
@@ -5642,7 +6500,8 @@
       "citation_contexts": [
         "CROSS_REF"
       ],
-      "citation_count": 1
+      "citation_count": 1,
+      "hawramani_match": null
     },
     {
       "book_arabic": "حديقة الأفراح",
@@ -5653,73 +6512,8 @@
       "citation_contexts": [
         "AUTHOR_TAWTHIQ"
       ],
-      "citation_count": 1
-    },
-    {
-      "book_arabic": "الثقلان",
-      "book_transliterated": "al-Thuqlan",
-      "author_arabic": "الشيخ أبو عبد الله محمد بن محمد بن النعمان البغدادي (الشيخ المفيد)",
-      "author_transliterated": "al-Shaykh Abu Abd Allah Muhammad b. Muhammad b. al-Nu'man al-Baghdadi (al-Shaykh al-Mufid)",
-      "author_death_ah": 413,
-      "citation_contexts": [
-        "HADITH_SOURCE"
-      ],
-      "citation_count": 1
-    },
-    {
-      "book_arabic": "طرق حديث إني تارك فيكم الثقلين",
-      "book_transliterated": "Turq Hadith Inni Tarik Fikum al-Thaqalayn",
-      "author_arabic": "محمد بن طاهر المقدسي القيسراني",
-      "author_transliterated": "Muhammad b. Tahir al-Maqdisi al-Qaysarani",
-      "author_death_ah": 507,
-      "citation_contexts": [
-        "HADITH_SOURCE"
-      ],
-      "citation_count": 1
-    },
-    {
-      "book_arabic": "رسالة في الثقلين والتكلم في تعيين الأكبر منهما",
-      "book_transliterated": "Risalah fi al-Thuqlayn wa al-Takallum fi Ta'yin al-Akbar Minhum",
-      "author_arabic": "سيد محمد باقر الرضوي القمي",
-      "author_transliterated": "Sayyid Muhammad Baqir al-Radawi al-Qummi",
-      "author_death_ah": 1170,
-      "citation_contexts": [
-        "HADITH_SOURCE"
-      ],
-      "citation_count": 1
-    },
-    {
-      "book_arabic": "الثقلان",
-      "book_transliterated": "al-Thuqlan",
-      "author_arabic": "سبحان علي الخوان هندي",
-      "author_transliterated": "Subhan Ali Khan al-Hindi",
-      "author_death_ah": 1272,
-      "citation_contexts": [
-        "HADITH_SOURCE"
-      ],
-      "citation_count": 1
-    },
-    {
-      "book_arabic": "تعيين الثقل الأكبر",
-      "book_transliterated": "Ta'yin al-Thaql al-Akbar",
-      "author_arabic": "ميرزا يحيى بن ميرزا شفيع أصفهاوي",
-      "author_transliterated": "Mirza Yahya b. Mirza Shafi' Asfahani",
-      "author_death_ah": 1210,
-      "citation_contexts": [
-        "HADITH_SOURCE"
-      ],
-      "citation_count": 1
-    },
-    {
-      "book_arabic": "المفاضلة بين الثقلين: القرآن والعترة",
-      "book_transliterated": "al-Mufadalah bayn al-Thaqalayn: al-Qur'an wa al-`Itra",
-      "author_arabic": "ميرزا محمد باقر بن شيخ حسين علي الشريف الإيراني الأصفهاني",
-      "author_transliterated": "Mirza Muhammad Baqir b. Shaykh Husayn Ali al-Sharif al-Irani al-Isfahani",
-      "author_death_ah": 1301,
-      "citation_contexts": [
-        "HADITH_SOURCE"
-      ],
-      "citation_count": 1
+      "citation_count": 1,
+      "hawramani_match": null
     },
     {
       "book_arabic": "الثقلان",
@@ -5730,7 +6524,84 @@
       "citation_contexts": [
         "HADITH_SOURCE"
       ],
-      "citation_count": 1
+      "citation_count": 1,
+      "hawramani_match": null
+    },
+    {
+      "book_arabic": "طرق حديث إني تارك فيكم الثقلين",
+      "book_transliterated": "Turq Hadith Inni Tarik Fikum al-Thaqalayn",
+      "author_arabic": "محمد بن طاهر المقدسي القيسراني",
+      "author_transliterated": "Muhammad b. Tahir al-Maqdisi al-Qaysarani",
+      "author_death_ah": 507,
+      "citation_contexts": [
+        "HADITH_SOURCE"
+      ],
+      "citation_count": 1,
+      "hawramani_match": {
+        "category_id": 5574,
+        "category_name": "Burhān al-Dīn al-Ḥalabī (d. 1438 CE) - al-Kashf al-ḥathīth ʿamman rumiya bi-waḍʿ al-ḥadīth - برهان الدين الحلبي - الكشف الحثيث عمن رمي بوضع الحديث",
+        "entry_count": 872
+      }
+    },
+    {
+      "book_arabic": "رسالة في الثقلين والتكلم في تعيين الأكبر منهما",
+      "book_transliterated": "Risalah fi al-Thuqlayn wa al-Takallum fi Ta'yin al-Akbar Minhum",
+      "author_arabic": "سيد محمد باقر الرضوي القمي",
+      "author_transliterated": "Sayyid Muhammad Baqir al-Radawi al-Qummi",
+      "author_death_ah": 1170,
+      "citation_contexts": [
+        "HADITH_SOURCE"
+      ],
+      "citation_count": 1,
+      "hawramani_match": null
+    },
+    {
+      "book_arabic": "الثقلان",
+      "book_transliterated": "al-Thuqlan",
+      "author_arabic": "شيخ محمد حسين المظفر النجفي",
+      "author_transliterated": "Shaykh Muhammad Husayn al-Muzaffar al-Najafi",
+      "author_death_ah": 1381,
+      "citation_contexts": [
+        "HADITH_SOURCE"
+      ],
+      "citation_count": 1,
+      "hawramani_match": null
+    },
+    {
+      "book_arabic": "تعيين الثقل الأكبر",
+      "book_transliterated": "Ta'yin al-Thaql al-Akbar",
+      "author_arabic": "ميرزا يحيى بن ميرزا شفيع أصفهاوي",
+      "author_transliterated": "Mirza Yahya b. Mirza Shafi' Asfahani",
+      "author_death_ah": 1210,
+      "citation_contexts": [
+        "HADITH_SOURCE"
+      ],
+      "citation_count": 1,
+      "hawramani_match": null
+    },
+    {
+      "book_arabic": "المفاضلة بين الثقلين: القرآن والعترة",
+      "book_transliterated": "al-Mufadalah bayn al-Thaqalayn: al-Qur'an wa al-`Itra",
+      "author_arabic": "ميرزا محمد باقر بن شيخ حسين علي الشريف الإيراني الأصفهاني",
+      "author_transliterated": "Mirza Muhammad Baqir b. Shaykh Husayn Ali al-Sharif al-Irani al-Isfahani",
+      "author_death_ah": 1301,
+      "citation_contexts": [
+        "HADITH_SOURCE"
+      ],
+      "citation_count": 1,
+      "hawramani_match": null
+    },
+    {
+      "book_arabic": "الثقلان",
+      "book_transliterated": "al-Thuqlan",
+      "author_arabic": "شيخ محمد حسين المظفر النجفي",
+      "author_transliterated": "Shaykh Muhammad Husayn al-Muzaffar al-Najafi",
+      "author_death_ah": 1381,
+      "citation_contexts": [
+        "HADITH_SOURCE"
+      ],
+      "citation_count": 1,
+      "hawramani_match": null
     },
     {
       "book_arabic": "موسمائية نفيس",
@@ -5741,7 +6612,8 @@
       "citation_contexts": [
         "HADITH_SOURCE"
       ],
-      "citation_count": 1
+      "citation_count": 1,
+      "hawramani_match": null
     },
     {
       "book_arabic": "حديث ثقلين",
@@ -5752,7 +6624,12 @@
       "citation_contexts": [
         "HADITH_SOURCE"
       ],
-      "citation_count": 1
+      "citation_count": 1,
+      "hawramani_match": {
+        "category_id": 5574,
+        "category_name": "Burhān al-Dīn al-Ḥalabī (d. 1438 CE) - al-Kashf al-ḥathīth ʿamman rumiya bi-waḍʿ al-ḥadīth - برهان الدين الحلبي - الكشف الحثيث عمن رمي بوضع الحديث",
+        "entry_count": 872
+      }
     },
     {
       "book_arabic": "تجليات تاريخ عباس",
@@ -5763,7 +6640,12 @@
       "citation_contexts": [
         "CROSS_REF"
       ],
-      "citation_count": 1
+      "citation_count": 1,
+      "hawramani_match": {
+        "category_id": 5519,
+        "category_name": "Al-Bukhārī (d. 870 CE) - al-Tārikh al-kabīr - البخاري - التاريخ الكبير",
+        "entry_count": 13266
+      }
     },
     {
       "book_arabic": "بغية المريد",
@@ -5774,7 +6656,8 @@
       "citation_contexts": [
         "AUTHOR_TAWTHIQ"
       ],
-      "citation_count": 1
+      "citation_count": 1,
+      "hawramani_match": null
     },
     {
       "book_arabic": "روضات الجنات",
@@ -5785,7 +6668,8 @@
       "citation_contexts": [
         "AUTHOR_TAWTHIQ"
       ],
-      "citation_count": 1
+      "citation_count": 1,
+      "hawramani_match": null
     },
     {
       "book_arabic": "فهرست كتبخانه‌های جابی فارسی",
@@ -5796,7 +6680,8 @@
       "citation_contexts": [
         "CROSS_REF"
       ],
-      "citation_count": 1
+      "citation_count": 1,
+      "hawramani_match": null
     },
     {
       "book_arabic": "وقائع الأيام",
@@ -5807,7 +6692,8 @@
       "citation_contexts": [
         "AUTHOR_TAWTHIQ"
       ],
-      "citation_count": 1
+      "citation_count": 1,
+      "hawramani_match": null
     },
     {
       "book_arabic": "مآثر وآثار",
@@ -5818,7 +6704,8 @@
       "citation_contexts": [
         "AUTHOR_TAWTHIQ"
       ],
-      "citation_count": 1
+      "citation_count": 1,
+      "hawramani_match": null
     },
     {
       "book_arabic": "نامه دانشوران ناصري",
@@ -5829,7 +6716,8 @@
       "citation_contexts": [
         "AUTHOR_TAWTHIQ"
       ],
-      "citation_count": 1
+      "citation_count": 1,
+      "hawramani_match": null
     }
   ]
 }

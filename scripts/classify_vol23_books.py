@@ -275,8 +275,8 @@ def generate_markdown(books: list[dict], metadata: dict) -> str:
         ])
         for b in schema_books:
             std_ar = b.get("standard_title_arabic") or b["book_arabic"]
-            std_en = b.get("standard_title_english") or b.get("book_transliterated", "")
-            author = b.get("author_arabic", "")[:30]
+            std_en = b.get("standard_title_english") or b.get("book_transliterated") or ""
+            author = (b.get("author_arabic") or "")[:30]
             death = b.get("author_death_ah") or "?"
             btype = b.get("book_type", "?")
             conf = b.get("confidence", "?")
@@ -299,9 +299,9 @@ def generate_markdown(books: list[dict], metadata: dict) -> str:
         ])
         for b in needs_review:
             lines.append(
-                f"| {b['book_arabic']} | {b.get('author_arabic', '')[:30]} | "
+                f"| {b['book_arabic']} | {(b.get('author_arabic') or '')[:30]} | "
                 f"{b.get('author_death_ah') or '?'} | {b.get('schema', '?')}/{b.get('book_type', '?')} | "
-                f"{b.get('reasoning', '')} |"
+                f"{b.get('reasoning') or ''} |"
             )
 
     return "\n".join(lines) + "\n"
