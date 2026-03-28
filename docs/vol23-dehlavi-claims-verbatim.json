@@ -1,0 +1,420 @@
+{
+  "hadith_section": "Hadith 12",
+  "total_claims": 28,
+  "claims": [
+    {
+      "claim_number": 1,
+      "page": 440,
+      "farsi_verbatim": "روایت زید بن ارقم عن النبی صلی الله علیه وسلم (انی تارك فيكم الثقلين ما ان تمسكتم بهما لن تضلوا بعدى احدهما اعظم من الآخر كتاب الله وعترتی)",
+      "arabic_embedded": "انی تارك فيكم الثقلين ما ان تمسكتم بهما لن تضلوا بعدى احدهما اعظم من الآخر كتاب الله وعترتی",
+      "english_translation": "Narrated by Zaid bin Arqam from the Prophet (peace be upon him): 'I am leaving among you the two weighty things; as long as you hold fast to them, you will not go astray after me. One is greater than the other: the Book of Allah and my progeny.'",
+      "argument_type": "HADITH_QUOTE",
+      "hadiths_quoted": [
+        {
+          "arabic": "انی تارك فيكم الثقلين ما ان تمسكتم بهما لن تضلوا بعدى احدهما اعظم من الآخر كتاب الله وعترتی",
+          "attribution": "زید بن ارقم عن النبی",
+          "source_named": false
+        }
+      ],
+      "quran_cited": [],
+      "about": "thaqalayn",
+      "connects_to_previous": "Introduces Hadith al-Thaqalayn as the main subject.",
+      "key_logical_move": "Quotes the hadith verbatim to begin analysis."
+    },
+    {
+      "claim_number": 2,
+      "page": 440,
+      "farsi_verbatim": "و این حدیث هم بدستور احادیث سابقه با مدعی مساس ندارد زیرا که لازم نیست که متمسک بر صاحب زعامت کبری باشد",
+      "arabic_embedded": "",
+      "english_translation": "And this hadith, like the previous hadiths, has no connection to the claim, since it is not necessary that holding fast requires adherence to the one with greater leadership.",
+      "argument_type": "MEANING_MINIMIZATION",
+      "hadiths_quoted": [],
+      "quran_cited": [],
+      "about": "thaqalayn",
+      "connects_to_previous": "Builds on prior hadith dismissals by denying implication of supreme leadership.",
+      "key_logical_move": "Minimizes hadith's implication to reject Shi'i imamah claim."
+    },
+    {
+      "claim_number": 3,
+      "page": 441,
+      "farsi_verbatim": "سلمنا سلمنا لیکن این حدیث هم صحیح است (عليكم بسنتى وسنة الخلفاء الراشدين المهديين من بعدى تمسكوا بها وعضوا عليها بالنواجذ)",
+      "arabic_embedded": "عليكم بسنتى وسنة الخلفاء الراشدين المهديين من بعدى تمسكوا بها وعضوا عليها بالنواجذ",
+      "english_translation": "We concede, we concede, but this hadith is also authentic: 'Hold to my Sunnah and the Sunnah of the Rightly Guided Caliphs after me, cling to it with your molars.'",
+      "argument_type": "COUNTER_HADITH",
+      "hadiths_quoted": [
+        {
+          "arabic": "عليكم بسنتى وسنة الخلفاء الراشدين المهديين من بعدى تمسكوا بها وعضوا عليها بالنواجذ",
+          "attribution": "unspecified",
+          "source_named": false
+        }
+      ],
+      "quran_cited": [],
+      "about": "thaqalayn",
+      "connects_to_previous": "Concedes authenticity but counters with Sunni hadith on caliphs.",
+      "key_logical_move": "Uses authentic counter-hadith to balance Thaqalayn's weight."
+    },
+    {
+      "claim_number": 4,
+      "page": 441,
+      "farsi_verbatim": "عترت در لغت عرب بمعنى اقارب است پس اگر دلالت بر امامت کند لازم آید که جمیع اقارب آنحضرت صلى الله علیه و سلم ائمه باشند واجب الاطاعت علی الخصوص",
+      "arabic_embedded": "",
+      "english_translation": "'Itrah' in Arabic means relatives, so if it implies imamah, it would necessitate that all relatives of the Prophet (peace be upon him) are imams specifically obligatory to obey.",
+      "argument_type": "LOGICAL",
+      "hadiths_quoted": [],
+      "quran_cited": [],
+      "about": "thaqalayn",
+      "connects_to_previous": "Extends linguistic argument from counter-hadith.",
+      "key_logical_move": "Linguistic analysis leads to absurd universal imamah for all kin."
+    },
+    {
+      "claim_number": 5,
+      "page": 441,
+      "farsi_verbatim": "مثل عبد الله بن عباس و محمد بن الحنفیه و زید بن علی و حسن مثنی و اسحاق ابن جعفر صادق و امثال ایشان از اهل بیت",
+      "arabic_embedded": "",
+      "english_translation": "Like Abdullah bin Abbas, Muhammad bin al-Hanafiyyah, Zaid bin Ali, Hasan al-Muthanna, Ishaq bin Ja'far Sadiq, and the like from the Ahl al-Bayt.",
+      "argument_type": "REDUCTIO",
+      "hadiths_quoted": [],
+      "quran_cited": [],
+      "about": "thaqalayn",
+      "connects_to_previous": "Provides examples to illustrate reductio absurdity.",
+      "key_logical_move": "Lists specific non-imams to show logical impossibility."
+    },
+    {
+      "claim_number": 6,
+      "page": 441,
+      "farsi_verbatim": "و نیز در حدیث صحیح وارد است (خذوا شطر دینکم عن هذه الحمیراء) و اشاره بعائشه فرمود",
+      "arabic_embedded": "خذوا شطر دینکم عن هذه الحمیراء",
+      "english_translation": "And also in an authentic hadith: 'Take half of your religion from this red-haired woman,' referring to Aisha.",
+      "argument_type": "COUNTER_HADITH",
+      "hadiths_quoted": [
+        {
+          "arabic": "خذوا شطر دینکم عن هذه الحمیراء",
+          "attribution": "unspecified",
+          "source_named": true
+        }
+      ],
+      "quran_cited": [],
+      "about": "thaqalayn",
+      "connects_to_previous": "Adds more counter-hadiths naming non-Ali kin.",
+      "key_logical_move": "Cites hadith elevating Aisha to undermine exclusive progeny focus."
+    },
+    {
+      "claim_number": 7,
+      "page": 441,
+      "farsi_verbatim": "و (اهتدوا بهدى عمار) و (تمسكوا بعهد ابن ام عبد) و (رضیت لكم ما رضى لكم ابن ام عبد) و (اعلمكم بالحلال و الحرام معاذ بن جبل)",
+      "arabic_embedded": "اهتدوا بهدى عمار تمسكوا بعهد ابن ام عبد رضیت لكم ما رضى لكم ابن ام عبد اعلمكم بالحلال و الحرام معاذ بن جبل",
+      "english_translation": "And 'Follow the guidance of Ammar,' 'Hold to the covenant of Ibn Am Abd,' 'I am pleased for you what Ibn Am Abd was pleased,' 'The most knowledgeable of halal and haram: Muadh bin Jabal.'",
+      "argument_type": "COUNTER_HADITH",
+      "hadiths_quoted": [
+        {
+          "arabic": "اهتدوا بهدى عمار تمسكوا بعهد ابن ام عبد رضیت لكم ما رضى لكم ابن ام عبد اعلمكم بالحلال و الحرام معاذ بن جبل",
+          "attribution": "unspecified",
+          "source_named": false
+        }
+      ],
+      "quran_cited": [],
+      "about": "thaqalayn",
+      "connects_to_previous": "Continues listing endorsements of companions beyond progeny.",
+      "key_logical_move": "Multiplies counter-examples to dilute Thaqalayn exclusivity."
+    },
+    {
+      "claim_number": 8,
+      "page": 441,
+      "farsi_verbatim": "خصوصا قوله (اقتدوا بالذین من بعدى ابى بكر و عمر) که بدرجه شهرت و تواتر معنوی رسیده",
+      "arabic_embedded": "اقتدوا بالذین من بعدى ابى بكر و عمر",
+      "english_translation": "Especially his saying 'Follow those after me: Abu Bakr and Umar,' which has reached the level of widespread fame and moral tawatur.",
+      "argument_type": "COUNTER_HADITH",
+      "hadiths_quoted": [
+        {
+          "arabic": "اقتدوا بالذین من بعدى ابى بكر و عمر",
+          "attribution": "unspecified",
+          "source_named": false
+        }
+      ],
+      "quran_cited": [],
+      "about": "thaqalayn",
+      "connects_to_previous": "Emphasizes strongest counter for caliphs.",
+      "key_logical_move": "Highlights tawatur of Sunni leadership hadith."
+    },
+    {
+      "claim_number": 9,
+      "page": 441,
+      "farsi_verbatim": "پس لازم آمد که همه این اشخاص امام باشند",
+      "arabic_embedded": "",
+      "english_translation": "Thus, it would be necessary that all these persons are imams.",
+      "argument_type": "REDUCTIO",
+      "hadiths_quoted": [],
+      "quran_cited": [],
+      "about": "thaqalayn",
+      "connects_to_previous": "Concludes reductio from prior counters.",
+      "key_logical_move": "Forces Shi'i logic to absurdly expand imams."
+    },
+    {
+      "claim_number": 10,
+      "page": 441,
+      "farsi_verbatim": "و اگر این حدیث دلالت بر امامت عترت نماید حدیث صحیح مروی از حضرت امیر که نزد شیعه متواتر است (انما الشورى للمهاجرین والانصار) چگونه درست شود",
+      "arabic_embedded": "انما الشورى للمهاجرین والانصار",
+      "english_translation": "And if this hadith implies imamah of the progeny, how does the authentic hadith from Amir (Ali), mutawatir among Shi'a, 'Shura is only for the Muhajirun and Ansar,' stand?",
+      "argument_type": "COUNTER_HADITH",
+      "hadiths_quoted": [
+        {
+          "arabic": "انما الشورى للمهاجرین والانصار",
+          "attribution": "حضرت امیر",
+          "source_named": false
+        }
+      ],
+      "quran_cited": [],
+      "about": "thaqalayn",
+      "connects_to_previous": "Uses Shi'i-accepted hadith against their position.",
+      "key_logical_move": "Shi'i hadith contradicts exclusive progeny imamah."
+    },
+    {
+      "claim_number": 11,
+      "page": 441,
+      "farsi_verbatim": "و همین قسم حدیث (مثل اهل بیتی فیکم مثل سفینة نوح من ركبها نجی و من تخلف عنها غرق)",
+      "arabic_embedded": "مثل اهل بیتی فیکم مثل سفینة نوح من ركبها نجی و من تخلف عنها غرق",
+      "english_translation": "Similarly the hadith 'My Ahl al-Bayt among you is like Noah's ship: whoever rides it is saved, whoever stays behind drowns.'",
+      "argument_type": "HADITH_QUOTE",
+      "hadiths_quoted": [
+        {
+          "arabic": "مثل اهل بیتی فیکم مثل سفینة نوح من ركبها نجی و من تخلف عنها غرق",
+          "attribution": "unspecified",
+          "source_named": false
+        }
+      ],
+      "quran_cited": [],
+      "about": "safinah",
+      "connects_to_previous": "Introduces Hadith al-Safinah.",
+      "key_logical_move": "Quotes Safinah hadith to pivot analysis."
+    },
+    {
+      "claim_number": 12,
+      "page": 441,
+      "farsi_verbatim": "دلالت نمیکند مگر بر آنکه فلاح و هدایت مربوط بدوستی ایشان و منوط باتباع ایشان است و تخلف از دوستی و اتباع ایشان موجب هلاك",
+      "arabic_embedded": "",
+      "english_translation": "It only implies that salvation and guidance relate to loving them and following them, and abandoning their love and following causes destruction.",
+      "argument_type": "MEANING_MINIMIZATION",
+      "hadiths_quoted": [],
+      "quran_cited": [],
+      "about": "safinah",
+      "connects_to_previous": "Interprets Safinah as general love/following, not infallibility.",
+      "key_logical_move": "Reduces to non-exclusive affection and adherence."
+    },
+    {
+      "claim_number": 13,
+      "page": 441,
+      "farsi_verbatim": "و این معنی بفضل الله تعالى محض نصیب اهل سنت است و پس از جمیع فرق اسلامیه و خاص است به مذهب اهل سنت لا يوجد فی غیرهم",
+      "arabic_embedded": "لا يوجد فی غیرهم",
+      "english_translation": "And this meaning, by God's grace, is purely the share of Ahl al-Sunnah, after all Islamic sects, and specific to the Sunni madhhab; it does not exist elsewhere.",
+      "argument_type": "SECTARIAN_CHARGE",
+      "hadiths_quoted": [],
+      "quran_cited": [],
+      "about": "both",
+      "connects_to_previous": "Claims Sunni monopoly on correct interpretation.",
+      "key_logical_move": "Positions Sunnis as true adherents to hadiths' plain sense."
+    },
+    {
+      "claim_number": 14,
+      "page": 441,
+      "farsi_verbatim": "زیرا که ایشان متمسک اند بحبل و داد جمیع اهل بیت",
+      "arabic_embedded": "",
+      "english_translation": "Because they hold fast to the rope and hand of all Ahl al-Bayt.",
+      "argument_type": "SECTARIAN_CHARGE",
+      "hadiths_quoted": [],
+      "quran_cited": [
+        "2:85",
+        "2:285"
+      ],
+      "about": "both",
+      "connects_to_previous": "Contrasts Sunni comprehensive adherence.",
+      "key_logical_move": "Affirms Sunni love for entire family."
+    },
+    {
+      "claim_number": 15,
+      "page": 441,
+      "farsi_verbatim": "(... أَتُؤْمِنُونَ بِبَعْضِ الْكِتَابِ وَتَكْفُرُونَ بِبَعْضٍ ... الآية. البقرة: ٨٥) و در رنگ ایمان بالانبیاء که (... لَا نُفَرِّقُ بَيْنَ أَحَدٍ مِّن رُّسُلِهِ ... الآية. البقرة: ٢٨٥)",
+      "arabic_embedded": "أَتُؤْمِنُونَ بِبَعْضِ الْكِتَابِ وَتَكْفُرُونَ بِبَعْضٍ لَا نُفَرِّقُ بَيْنَ أَحَدٍ مِّن رُّسُلِهِ",
+      "english_translation": "Do you believe in part of the Book and disbelieve in part? (2:85) And in the mold of faith in prophets: We make no distinction between any of His messengers (2:285).",
+      "argument_type": "QURAN_CITE",
+      "hadiths_quoted": [],
+      "quran_cited": [
+        "2:85",
+        "2:285"
+      ],
+      "about": "both",
+      "connects_to_previous": "Uses Quran to mandate uniform adherence.",
+      "key_logical_move": "Quranic analogy equates partial family love to partial faith."
+    },
+    {
+      "claim_number": 16,
+      "page": 441,
+      "farsi_verbatim": "بخلاف شیعه که هیچ فرقه ایشان اهل بیت را دوست ندار و بعضی یک طایفه را محبوب می سازند و بقیه را مبغوض میدارند",
+      "arabic_embedded": "",
+      "english_translation": "Unlike Shi'a, none of whose sects love the Ahl al-Bayt fully, but make some factions beloved and others hated.",
+      "argument_type": "SECTARIAN_CHARGE",
+      "hadiths_quoted": [],
+      "quran_cited": [],
+      "about": "both",
+      "connects_to_previous": "Accuses Shi'a of selective love violating Quran.",
+      "key_logical_move": "Charges Shi'a with hypocritical partiality."
+    },
+    {
+      "claim_number": 17,
+      "page": 442,
+      "farsi_verbatim": "گفته است که تشبیه اهل بیت درین حدیث بسفینه اقتضا می نماید که محبت جمیع اهل بیت و اتباع کل ایشان در نجات و فلاح ضرور نیست زیرا که اگر شخصی در یک گنج کشتی جا گرفت بلا شبهه از غرق اورا نجات حاصل شد",
+      "arabic_embedded": "",
+      "english_translation": "It is said that the simile of Ahl al-Bayt to the ship does not require love of all and following all for salvation, since taking place in one compartment of the ship saves from drowning.",
+      "argument_type": "CRITIQUE_OF_SHIA_INTERPRETATION",
+      "hadiths_quoted": [],
+      "quran_cited": [],
+      "about": "safinah",
+      "connects_to_previous": "Quotes and sets up Shia counter-argument.",
+      "key_logical_move": "Presents Shia 'compartment' metaphor for refutation."
+    },
+    {
+      "claim_number": 18,
+      "page": 442,
+      "farsi_verbatim": "بلا شبهه ناجی باشند و طعنی که اهل سنت برایشان بابت انکار بعض اهل بیت می نمایند دفع شد",
+      "arabic_embedded": "",
+      "english_translation": "Thus Shi'a following some are surely saved, and the Sunni objection about denying some Ahl al-Bayt is deflected.",
+      "argument_type": "CRITIQUE_OF_SHIA_INTERPRETATION",
+      "hadiths_quoted": [],
+      "quran_cited": [],
+      "about": "safinah",
+      "connects_to_previous": "Summarizes Shia deflection claim.",
+      "key_logical_move": "Highlights Shia self-justification."
+    },
+    {
+      "claim_number": 19,
+      "page": 442,
+      "farsi_verbatim": "اهل سنت درین جواب او بدو وجه سخن دارند اول بطریق نقض آنکه درین صورت امامیه را باید که زیدیه و کیسانیه و ناوسیه و افطحیه را گمراه ندانند و ناجی و مفلح انگارند",
+      "arabic_embedded": "",
+      "english_translation": "Ahl al-Sunnah respond in two ways: first, by refutation, that in this case Imamiyya must not consider Zaydiyya, Kaysaniyya, etc., misguided but saved and successful.",
+      "argument_type": "REDUCTIO",
+      "hadiths_quoted": [],
+      "quran_cited": [],
+      "about": "safinah",
+      "connects_to_previous": "Initiates first refutation via other Shia sects.",
+      "key_logical_move": "Reduces Shia position to accepting rival sects as saved."
+    },
+    {
+      "claim_number": 20,
+      "page": 442,
+      "farsi_verbatim": "بلکه درین صورت تعین ائمه اثنا عشریه نیز مخدوش گشت زیرا که هر گنج کشتی در نجات بخشیدن از موج دریا کافی است و معنی امام همین است که اتباع او موجب نجات آخرت باشد",
+      "arabic_embedded": "",
+      "english_translation": "Rather, determination of the Twelve Imams becomes doubtful, since each compartment suffices for salvation, and imam means following him saves in afterlife.",
+      "argument_type": "REDUCTIO",
+      "hadiths_quoted": [],
+      "quran_cited": [],
+      "about": "safinah",
+      "connects_to_previous": "Extends reductio to undermine Twelver specificity.",
+      "key_logical_move": "Shows compartment logic destroys imamah definition."
+    },
+    {
+      "claim_number": 21,
+      "page": 442,
+      "farsi_verbatim": "پس تعین مذهبی برای خود هیچ فرقه را از فرق شیعه درست نیست بلکه جمیع مذاهب را باید که حق دانند و صواب انگارند حال آنکه در میان مذاهب اینها تناقض و تضاد واقع است",
+      "arabic_embedded": "",
+      "english_translation": "Thus no Shia sect has a valid specified madhhab; all must be deemed true despite contradictions, which is impossible.",
+      "argument_type": "LOGICAL",
+      "hadiths_quoted": [],
+      "quran_cited": [],
+      "about": "safinah",
+      "connects_to_previous": "Concludes first refutation with contradiction impossibility.",
+      "key_logical_move": "Invokes law of non-contradiction."
+    },
+    {
+      "claim_number": 22,
+      "page": 442,
+      "farsi_verbatim": "دوم بطریق حال آنکه جا گرفتن در یک گنج کشتی وقتی نجات بخش از غرق دریاست که در گنج دیگر ازان کشتی رخنه نکند",
+      "arabic_embedded": "",
+      "english_translation": "Second, by construction: staying in one compartment saves only if no breach to another compartment.",
+      "argument_type": "METAPHOR",
+      "hadiths_quoted": [],
+      "quran_cited": [],
+      "about": "safinah",
+      "connects_to_previous": "Introduces second refutation extending ship metaphor.",
+      "key_logical_move": "Refines metaphor to show Shia internal inconsistencies."
+    },
+    {
+      "claim_number": 23,
+      "page": 443,
+      "farsi_verbatim": "و هیچ فرقه از فرق شیعه نیست الا در یک گنج این کشتی نشسته و در گنج دیگر رخنه پیدا کرده",
+      "arabic_embedded": "",
+      "english_translation": "No Shia sect sits in one compartment without breaching another.",
+      "argument_type": "SECTARIAN_CHARGE",
+      "hadiths_quoted": [],
+      "quran_cited": [],
+      "about": "safinah",
+      "connects_to_previous": "Applies breach to all Shia sects.",
+      "key_logical_move": "Accuses Shia of self-contradictory positions."
+    },
+    {
+      "claim_number": 24,
+      "page": 443,
+      "farsi_verbatim": "آری اهل سنت هر چند در گنجهاء مختلفه سیر و دور می نمایند اما کشتی ایشان سالم است در هیچ گنج رخنه نکرده اند",
+      "arabic_embedded": "",
+      "english_translation": "Yes, Ahl al-Sunnah traverse various compartments, but their ship is intact, no breaches.",
+      "argument_type": "SECTARIAN_CHARGE",
+      "hadiths_quoted": [],
+      "quran_cited": [],
+      "about": "safinah",
+      "connects_to_previous": "Contrasts with Sunni intact ship.",
+      "key_logical_move": "Affirms Sunni consistency."
+    },
+    {
+      "claim_number": 25,
+      "page": 443,
+      "farsi_verbatim": "الحمد لله و باختیار روش اهل سنت الزام توان داد نواصب را در انکار این دو حدیث که بدلیل عقلی در صحت این هر دو قدح کرده اند",
+      "arabic_embedded": "",
+      "english_translation": "Praise God, and by adopting Sunni method, Nasibis can be forced who deny these two hadiths rationally objecting to their authenticity.",
+      "argument_type": "DEFENSE_OF_HADITHS",
+      "hadiths_quoted": [],
+      "quran_cited": [],
+      "about": "both",
+      "connects_to_previous": "Defends hadith authenticity against anti-Shi'i extremists.",
+      "key_logical_move": "Sunni method vindicates both hadiths rationally."
+    },
+    {
+      "claim_number": 26,
+      "page": 443,
+      "farsi_verbatim": "مفاد این هر دو حدیث تکلیف بممتنعات عقلیه است که بالبداهة محال است زیرا که اگر تمسک بجميع اهل بیت نموده آید و بلا شبهه در عقاید و فروع ایشان اختلاف و تناقض رو داده",
+      "arabic_embedded": "",
+      "english_translation": "Both hadiths command rationally impossible things: if holding all Ahl al-Bayt, their contradictions in beliefs and rulings make it impossible.",
+      "argument_type": "LOGICAL",
+      "hadiths_quoted": [],
+      "quran_cited": [],
+      "about": "both",
+      "connects_to_previous": "Outlines rational objection to hadiths.",
+      "key_logical_move": "Argues hadiths imply impossible contradiction adherence."
+    },
+    {
+      "claim_number": 27,
+      "page": 443,
+      "farsi_verbatim": "و اگر شق ثانی مراد باشد لازم آید تجویز عقاید مختلفه و شرایع متفاوته در یک دین واحد از خود شارع حالانکه (... لِكُلٍّ جَعَلْنَا مِنكُمْ شِرْعَةً وَمِنْهَاجًا ...* الآية. المائدة: ٤٨) صریح مخالف این تجویز است",
+      "arabic_embedded": "لِكُلٍّ جَعَلْنَا مِنكُمْ شِرْعَةً وَمِنْهَاجًا",
+      "english_translation": "If the second case, it allows diverse beliefs and laws in one religion from the Lawgiver, while (5:48) explicitly opposes this.",
+      "argument_type": "QURAN_CITE",
+      "hadiths_quoted": [],
+      "quran_cited": [
+        "5:48"
+      ],
+      "about": "both",
+      "connects_to_previous": "Continues rational critique with Quran.",
+      "key_logical_move": "Quran refutes multiple paths in single shari'ah."
+    },
+    {
+      "claim_number": 28,
+      "page": 443,
+      "farsi_verbatim": "هیچ فرقه از فرق شیعه از عهده جواب این خدشه آن اشقیا نمی تواند بر آمد الا چون روش اهل سنت اختیار کند",
+      "arabic_embedded": "",
+      "english_translation": "No Shia sect can answer this objection except by adopting the Sunni method.",
+      "argument_type": "SECTARIAN_CHARGE",
+      "hadiths_quoted": [],
+      "quran_cited": [],
+      "about": "both",
+      "connects_to_previous": "Concludes Shi'a must concede to Sunni approach.",
+      "key_logical_move": "Forces Shi'a into Sunni interpretive framework."
+    }
+  ]
+}
