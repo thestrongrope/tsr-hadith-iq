@@ -6,6 +6,18 @@
 
 ---
 
+## The Scale Disparity
+
+| | Dehlavi (Tuhfat) | Mir Hamid Husain (Abaqat) |
+|---|---|---|
+| **Pages on Safinah** | 3 (pages 441-443) | 340 (entire Vol 23) |
+| **Ratio** | 1 | 113 |
+| **Location in book** | Embedded in Hadith 12 (Thaqalayn), Chapter 7 | Entire dedicated volume |
+| **Source in Tuhfat** | `sources/tuhfat/tuhfat-ch7-full.txt` pages 440-443 |  |
+| **Source in Abaqat** | | `sources/abaqat/volumes-gemini/vol23-full.txt` all 340 pages |
+
+Dehlavi's entire discussion of Hadith al-Safinah fits on 3 printed pages — buried as a sub-argument within Hadith al-Thaqalayn (Hadith 12 of Chapter 7). Mir Hamid Husain's response is a 340-page volume with 169 Sunni source books, 40 full isnad chains, and 11 dalalah proofs.
+
 ## Context
 
 **Dehlavi's position:** Accepts the authenticity of both Hadith al-Thaqalayn and Hadith al-Safinah. Does NOT deny the hadiths exist. Instead, reinterprets their meaning to deny exclusive Shia Imamate.
@@ -230,6 +242,33 @@ If Thaqalayn proves Imamate, these would prove Imamate for Abu Bakr, Umar, Aisha
 | About Safinah directly | 7 of 12 | All of Vol 23 |
 | About Thaqalayn (context) | 5 of 12 | Addressed but not primary focus |
 | Scholarly grade (per analysis) | D | A |
+
+---
+
+## Tuhfat Chapter 7 — Hadith 12 Section Map
+
+The Safinah discussion is embedded within Dehlavi's treatment of Hadith al-Thaqalayn (his 12th hadith proof). From clean Gemini OCR of Tuhfat pages 348-472:
+
+| Tuhfat Page | Type | Content |
+|-------------|------|---------|
+| 440 (mid-page) | PRIOR_HADITH | Hadith 11 ends — Ali fights on ta'wil of Quran |
+| 440 (line 53) | THAQALAYN_INTRO | **Hadith 12 begins** — Thaqalayn narration from Zayd ibn Arqam |
+| 440-441 | MEANING_MINIMIZATION | Claim 1: تمسّک ≠ political leadership |
+| 441 | COUNTER_HADITH | Claim 2: Counter-hadith — عليكم بسنتى وسنة الخلفاء الراشدين |
+| 441 | REDUCTIO | Claim 3: عترت = all relatives → all would be Imams |
+| 441 | COUNTER_HADITH | Claim 4: Counter-hadiths — Aisha, Ammar, Muadh, Abu Bakr/Umar |
+| 441 | INTERNAL_CONTRADICTION | Claim 5: Ali's Shura hadith contradicts Imamate |
+| **441-442** | **SAFINAH_CORE** | **Safinah introduced: "means love, not Imamate; Sunnis fulfill it"** |
+| 441 | SECTARIAN_CHARGE | Claim 6: Shia selectively love Ahl al-Bayt (Q2:85, Q2:285) |
+| 441 | TU_QUOQUE | Claim 7: Shia narrations agree with Sunnis |
+| 442 | SETUP_REDUCTIO | Claim 8: Ship compartment — quotes a Shia response |
+| 442 | REDUCTIO | Claim 9: All Shia sects saved → Twelver exclusivity collapses |
+| 442 | LOGIC | Claim 10: Law of non-contradiction (اجتماع نقيضين) |
+| 442-443 | METAPHOR | Claim 11: Ship wholeness — Shia "make holes" |
+| 443 | LOGICAL_DEFENSE | Claim 12: Defending hadiths vs Nasibis (Q5:48) |
+| 443+ | TRANSITION | Moves to rational proofs (دلایل عقلیه) |
+
+**Key observation:** All 12 claims fit on 4 printed pages (440-443). The arguments are dense, rhetorical, and entirely without source references. No book is named, no isnad is given, no grading authority is cited.
 
 ---
 
