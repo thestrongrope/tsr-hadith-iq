@@ -31,7 +31,7 @@ load_dotenv(REPO_ROOT / ".env")
 PDF_DIR = Path("/Users/asifshakir/Downloads/AbaghaatAlanwaarfarsi-2")
 OUTPUT_DIR = REPO_ROOT / "sources" / "abaqat" / "volumes-gemini"
 
-MODEL = "gemini-3.1-pro-preview"
+MODEL = "gemini-3.1-flash-lite-preview"
 
 OCR_PROMPT = """Extract ALL text from this scanned page of an Arabic/Farsi Islamic scholarly book (Abaqat al-Anwar).
 
@@ -82,6 +82,7 @@ def ocr_page(client, img_bytes: bytes, page_num: int) -> str:
         config=types.GenerateContentConfig(
             temperature=0.1,
             max_output_tokens=4096,
+            thinking_config=types.ThinkingConfig(thinking_level="minimal"),
         ),
     )
 
