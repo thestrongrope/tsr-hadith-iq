@@ -31,7 +31,7 @@ load_dotenv(REPO_ROOT / ".env")
 INPUT_FILE = REPO_ROOT / "docs" / "citation-extraction" / "vol23-grok.json"
 OUTPUT_JSON = REPO_ROOT / "docs" / "citation-extraction" / "vol23-book-registry.json"
 OUTPUT_MD = REPO_ROOT / "docs" / "citation-extraction" / "vol23-book-registry.md"
-HAWRAMANI_CATS = REPO_ROOT / "reference" / "hawramani-categories.json"
+HAWRAMANI_CATS = REPO_ROOT / "reference" / "indexes" / "hawramani-categories.json"
 
 MODEL = "gemini-3.1-pro-preview"
 

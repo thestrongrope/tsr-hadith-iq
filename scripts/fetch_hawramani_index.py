@@ -21,7 +21,7 @@ from pathlib import Path
 import httpx
 
 BASE_URL = "https://hadithtransmitters.hawramani.com/wp-json/wp/v2"
-OUTPUT_DIR = Path("reference")
+OUTPUT_DIR = Path("reference") / "indexes"
 CATEGORIES_FILE = OUTPUT_DIR / "hawramani-categories.json"
 INDEX_FILE = OUTPUT_DIR / "hawramani-index.json"
 PER_PAGE = 100

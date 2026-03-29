@@ -1,11 +1,8 @@
 # API keys
 .env
 
-# Cloned reference repos (not our work)
+# All reference data (PDFs, OCR, indexes, external repos — large/binary)
 reference/
-
-# Source texts (large OCR files, not diffable)
-sources/
 
 # IDE / OS
 .DS_Store

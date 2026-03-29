@@ -11,8 +11,8 @@ Usage:
   uv run --with google-genai --with pymupdf --with python-dotenv python scripts/ocr_volume_gemini.py --volume 23 --dry-run
 
 Output:
-  sources/abaqat/volumes-gemini/vol23-pages.json  — per-page text with metadata
-  sources/abaqat/volumes-gemini/vol23-full.txt    — concatenated clean text
+  reference/books/abaqat/ocr/vol23-gemini-pages.json  — per-page text with metadata
+  reference/books/abaqat/ocr/vol23-gemini-full.txt    — concatenated clean text
 """
 
 import json
@@ -28,8 +28,8 @@ from dotenv import load_dotenv
 REPO_ROOT = Path(__file__).resolve().parent.parent
 load_dotenv(REPO_ROOT / ".env")
 
-PDF_DIR = Path("/Users/asifshakir/Downloads/AbaghaatAlanwaarfarsi-2")
-OUTPUT_DIR = REPO_ROOT / "sources" / "abaqat" / "volumes-gemini"
+PDF_DIR = REPO_ROOT / "reference" / "books" / "abaqat" / "pdf"
+OUTPUT_DIR = REPO_ROOT / "reference" / "books" / "abaqat" / "ocr"
 
 MODEL = "gemini-3.1-flash-lite-preview"
 

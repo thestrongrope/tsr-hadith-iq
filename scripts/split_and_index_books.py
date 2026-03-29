@@ -11,7 +11,7 @@ import sys
 from pathlib import Path
 
 REPO_ROOT = Path(__file__).resolve().parent.parent
-BOOKS_DIR = REPO_ROOT / "reference" / "rijal-books"
+BOOKS_DIR = REPO_ROOT / "reference" / "books" / "rijal"
 
 try:
     import fitz  # PyMuPDF
