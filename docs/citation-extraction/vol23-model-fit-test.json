@@ -1,0 +1,352 @@
+{
+  "pages": [
+    {
+      "page": 11,
+      "extractions": [
+        {
+          "type": "HADITH_CITATION",
+          "book_arabic": "تهذیب الآثار",
+          "author_arabic": "محمد بن جرير طبرى",
+          "author_death_ah": null,
+          "isnad": null,
+          "companion": "أبي ذر",
+          "hadith_text_variant": "انما مثل أهل بيتي فيكم كمثل سفينة نوح عليه الصلوة والسلام من دخلها نجى ومن تخلف عنها هلك"
+        },
+        {
+          "type": "HADITH_CITATION",
+          "book_arabic": "الأوراق",
+          "author_arabic": "أبوبکر صولی",
+          "author_death_ah": null,
+          "isnad": null,
+          "companion": "ابن عباس",
+          "hadith_text_variant": null
+        },
+        {
+          "type": "HADITH_CITATION",
+          "book_arabic": "مرج البحرین",
+          "author_arabic": "ابوالفرج اصفهانی",
+          "author_death_ah": null,
+          "isnad": "سند خود",
+          "companion": "أبي ذر",
+          "hadith_text_variant": null
+        },
+        {
+          "type": "HADITH_CITATION",
+          "book_arabic": "معجم صغیر",
+          "author_arabic": "ابوالقاسم سلیمان بن أحمد الطبرانی",
+          "author_death_ah": null,
+          "isnad": "الحسین بن منصورسمار البغدادي، عبدالله بن عبدالقدوس، الأعمش، أبي اسحق، حنش بن المعتمر",
+          "companion": "أباذر الغفاري",
+          "hadith_text_variant": "مثل أهلبيتي فيكم كمثل سفينة نوح في قوم نوح ، من ركبها نجا ومن تخلف عنها هلك ، ومثل باب حطة في بني اسرائيل"
+        },
+        {
+          "type": "HADITH_CITATION",
+          "book_arabic": "معجم صغیر",
+          "author_arabic": "الطبرانی",
+          "author_death_ah": null,
+          "isnad": "محمد بن عبدالعزیز بن محمد بن ربيعة الكلابي، أبي، عبدالرحمن بن أبي حماد المقري، أبي سلمة الصائغ",
+          "companion": "أبي سعيد الخدري",
+          "hadith_text_variant": "إنما مثل أهلبيتي فيكم كمثل سفينة نوح من ركبها نجى ومن تخلف عنها غرق ، و إنما أهلبيتي فيكم مثل باب حطة في بني اسرائيل ، من دخله غفر له"
+        }
+      ],
+      "uncategorized_count": 0,
+      "coverage_pct": 100
+    },
+    {
+      "page": 15,
+      "extractions": [
+        {
+          "type": "HADITH_CITATION",
+          "book_arabic": "تفسیر",
+          "author_arabic": null,
+          "author_death_ah": null,
+          "isnad": "الحاكم في صحيحه عن أحمد بن جعفر ابن حمدان ، عباس بن ابراهيم القراطيسي ، محمد بن اسمعيل الأحمسي ، المفضل ابن صالح ، أبي اسحق ، حنش الكناني",
+          "companion": "أباذر",
+          "hadith_text_variant": "مثل أهلبيتي فيكم مثل سفينة نوح في قومه ، من ركبها نجا ومن تخلف عنها غرق ، ومثل باب حطة لبنى اسرائيل"
+        },
+        {
+          "type": "HADITH_CITATION",
+          "book_arabic": "فرائد السمطين",
+          "author_arabic": "حموتى",
+          "author_death_ah": null,
+          "isnad": "سند ديگر",
+          "companion": "أبى ذر غفارى",
+          "hadith_text_variant": null
+        },
+        {
+          "type": "HADITH_CITATION",
+          "book_arabic": "إمتنان أهل حق",
+          "author_arabic": "ابن المغازلى",
+          "author_death_ah": null,
+          "isnad": "أسانيد متعدده",
+          "companion": "ابن عباس، أبى ذر، سلمة بن الأكوع",
+          "hadith_text_variant": "مثل أهلبيتي مثل سفينة نوح من ركبها نجى و من تخلف عنها هلك"
+        }
+      ],
+      "uncategorized_count": 0,
+      "coverage_pct": 100
+    },
+    {
+      "page": 20,
+      "extractions": [
+        {
+          "type": "HADITH_CITATION",
+          "book_arabic": "معجم شيوخه",
+          "author_arabic": "إمام الحديث",
+          "author_death_ah": null,
+          "isnad": "أبي اسحق، حنش بن المعتمر",
+          "companion": "أباذر الغفاري",
+          "hadith_text_variant": "مثل أهلبيتي فيكم كمثل سفينة نوح من ركبها نجى و من تخلّف عنه هلك و مثل باب حطة في بني اسرائيل"
+        },
+        {
+          "type": "HADITH_CITATION",
+          "book_arabic": null,
+          "author_arabic": "الحافظ أبو الحجاج يوسف بن خليل الدمشقي",
+          "author_death_ah": null,
+          "isnad": "الأمين أبو على داود بن سليمان بن أحمد، فاطمة الجوزدانية وخجستة الصالحية ، أبو بكر بن زبدة، الحافظ أبو القاسم سليمان بن أحمد الطبراني، محمد بن عبدالعزيز بن محمد بن ربيعة، أبي، عبدالرحمن بن أبي حماد المقري، أبي سلمة الصائغ، عطية",
+          "companion": "أبي سعيد الخدري",
+          "hadith_text_variant": "إنما مثل أهلبيتي فيكم كمثل سفينة نوح من ركبها نجى ومن تخلّف عنها غرق و إنما مثل أهلبيتي فيكم مثل باب حطة في بني اسرائيل من دخله غفر له"
+        },
+        {
+          "type": "HADITH_CITATION",
+          "book_arabic": "ذخائر العقبى في مناقب ذوى القربى",
+          "author_arabic": "محب طبرى",
+          "author_death_ah": null,
+          "isnad": null,
+          "companion": "ابن عباس، على",
+          "hadith_text_variant": "مثل أهلبيتي كمثل سفينة نوح من ركبها نجى و من تخلّف عنها غرق / مثل أهلبيتي كمثل سفينة نوح من ركبها نجى ومن تعلّق بها فاز ومن تخلّف عنها زجّ في النار"
+        },
+        {
+          "type": "HADITH_CITATION",
+          "book_arabic": "لسان العرب",
+          "author_arabic": "ابن منظور افريقى",
+          "author_death_ah": null,
+          "isnad": null,
+          "companion": null,
+          "hadith_text_variant": "مثل أهلبيتي مثل سفينة نوح من تخلّف عنها زخّ به في النار"
+        }
+      ],
+      "uncategorized_count": 0,
+      "coverage_pct": 100
+    },
+    {
+      "page": 25,
+      "extractions": [
+        {
+          "type": "AUTHOR_COMMENTARY",
+          "summary": "شرح قول أبي ذر وتأكيد صدقه بقول النبي: ما أظلّت الخضراء ، ولا أقلّت الغبراء ، أصدق من أبی ذر"
+        },
+        {
+          "type": "HADITH_CITATION",
+          "book_arabic": "صبح الأعشی",
+          "author_arabic": "ابوالعباس قلقشندی",
+          "author_death_ah": null,
+          "isnad": null,
+          "companion": null,
+          "hadith_text_variant": null
+        },
+        {
+          "type": "HADITH_CITATION",
+          "book_arabic": "فصل الخطاب",
+          "author_arabic": "خواجه پارسا البخاری",
+          "author_death_ah": null,
+          "isnad": null,
+          "companion": null,
+          "hadith_text_variant": "مثل أهلبیتی کمثل سفينة نوح علیه الصلوة والسلام من رکب فيها نجا"
+        },
+        {
+          "type": "HADITH_CITATION",
+          "book_arabic": null,
+          "author_arabic": "ابن حجة حموی",
+          "author_death_ah": null,
+          "isnad": null,
+          "companion": null,
+          "hadith_text_variant": "آل هذا البیت كسفینة نوح وتعلّق بهم فنجا"
+        },
+        {
+          "type": "HADITH_CITATION",
+          "book_arabic": "هدایة السعدا",
+          "author_arabic": "ملك العلماء دولت آبادی",
+          "author_death_ah": null,
+          "isnad": null,
+          "companion": "أبي ذر",
+          "hadith_text_variant": "ألا ! مثل أولادی ( أهلبیتی ) فیکم کمثل سفينة نوح فمن رکبها نجا ومن زاغ عنها هلک"
+        }
+      ],
+      "uncategorized_count": 0,
+      "coverage_pct": 100
+    },
+    {
+      "page": 30,
+      "extractions": [
+        {
+          "type": "UNCATEGORIZED",
+          "raw_text": "هم الکلمات الطیبات التی بها یتاب علی الخاطی فیحیی ویزلف",
+          "why_uncategorized": "شعر وأبيات تحت عنوان فضيلت اهل البيت، لا يطابق فئات محددة"
+        },
+        {
+          "type": "HADITH_CITATION",
+          "book_arabic": "در منشور",
+          "author_arabic": "جلال الدین سیوطی",
+          "author_death_ah": null,
+          "isnad": "الحاکم عن أبي ذر",
+          "companion": "أبي ذر",
+          "hadith_text_variant": "مثل أهلبیتی مثل سفينة نوح من رکبها نجى ومن تخلف عنها غرق"
+        },
+        {
+          "type": "HADITH_CITATION",
+          "book_arabic": "جامع صغیر",
+          "author_arabic": "سیوطی",
+          "author_death_ah": null,
+          "isnad": null,
+          "companion": "أبي ذر",
+          "hadith_text_variant": "إن مثل أهلبیتی فیکم مثل سفينة نوح من رکبها نجا ومن تخلف عنها هلك"
+        },
+        {
+          "type": "HADITH_CITATION",
+          "book_arabic": "جامع صغیر",
+          "author_arabic": "سیوطی",
+          "author_death_ah": null,
+          "isnad": "البزار عن ابن عباس وعن ابن الزبیر",
+          "companion": "ابن عباس، ابن الزبیر",
+          "hadith_text_variant": "مثل أهل بیتی مثل سفينة نوح من رکبها نجا ومن تخلف عنها غرق"
+        },
+        {
+          "type": "AUTHOR_COMMENTARY",
+          "summary": "شرح تحريف في مثنوی بلخي حيث غير 'ما و اصحابيم' إلى 'ما و اهل بیت'، ونقد لذلك"
+        }
+      ],
+      "uncategorized_count": 1,
+      "coverage_pct": 90
+    },
+    {
+      "page": 35,
+      "extractions": [
+        {
+          "type": "AUTHOR_COMMENTARY",
+          "summary": "شرح وجه التشبيه بكشتی نوح وباب حطة، وتفسير معنى النجاة والغرق والتخلف"
+        },
+        {
+          "type": "HADITH_CITATION",
+          "book_arabic": "براهين قاطعه",
+          "author_arabic": null,
+          "author_death_ah": null,
+          "isnad": "حاکم من أبوذر، بزار من ابن عباس وابن زبیر",
+          "companion": "أبوذر، ابن عباس، ابن زبیر",
+          "hadith_text_variant": "مثل أهل بیتی فیکم کمثل سفينة نوح من رکبها نجا ومن تخلف عنها هلك / مثل أهلبیت من مثل کشتی نوح ست هر کس که بر آن سوار شد نجات یافت و هر کس که تخلف ورزید غرق شد"
+        },
+        {
+          "type": "HADITH_CITATION",
+          "book_arabic": "الأربعین",
+          "author_arabic": "جمال الدین محدث",
+          "author_death_ah": null,
+          "isnad": null,
+          "companion": null,
+          "hadith_text_variant": null
+        }
+      ],
+      "uncategorized_count": 0,
+      "coverage_pct": 100
+    },
+    {
+      "page": 40,
+      "extractions": [
+        {
+          "type": "HADITH_CITATION",
+          "book_arabic": "مشرع روي",
+          "author_arabic": "شلى",
+          "author_death_ah": null,
+          "isnad": null,
+          "companion": null,
+          "hadith_text_variant": "مثل أهلبيتي فيكم كسفينة نوح في قومه من ركبها نجا ومن تخلّف عنها غرق ومثل حطة لبنى إسرائيل / ألا إنّ مثل أهلبيتي فيكم مثل سفينة نوح من ركب فيها نجى ومن تخلف عنها غرق / إنّ مثل أهلبيتي فيكم مثل سفينة نوح من ركبها نجا و من تخلف عنها غرق و إنّ مثل أهلبيتي فيكم مثل باب حطة"
+        },
+        {
+          "type": "HADITH_CITATION",
+          "book_arabic": "جمع الفوائد",
+          "author_arabic": "محمد بن محمد بن سليمان المغربي",
+          "author_death_ah": null,
+          "isnad": "البزار، ابن الزبير",
+          "companion": "ابن الزبير",
+          "hadith_text_variant": "مثل أهلبيتي مثل سفينة نوح من ركبها نجا و من تركها غرق"
+        }
+      ],
+      "uncategorized_count": 0,
+      "coverage_pct": 100
+    },
+    {
+      "page": 50,
+      "extractions": [
+        {
+          "type": "HADITH_CITATION",
+          "book_arabic": "وسیلة النجاة",
+          "author_arabic": "امامولوی محمد مبین لکهنوی",
+          "author_death_ah": null,
+          "isnad": "أحمد في مسنده وابن جرير والحاکم في مستدرکه",
+          "companion": "أبي ذر الغفاري",
+          "hadith_text_variant": "ألا إن مثل أهلبيتي فيکم مثل سفينة نوح من رکبها نجى ومن تخلف عنها هلک"
+        },
+        {
+          "type": "HADITH_CITATION",
+          "book_arabic": "سیف مسلول",
+          "author_arabic": "ثناءالله پانی پتی",
+          "author_death_ah": null,
+          "isnad": null,
+          "companion": null,
+          "hadith_text_variant": "مثل أهل‌بیتی کسفینة نوح من رکبها نجا ومن تخلف عنها هلک"
+        },
+        {
+          "type": "REBUTTAL",
+          "target": "ثناءالله پانی پتی",
+          "argument_type": "logical",
+          "summary": "جواب حدیث ثقلین مثل حدیث سفينة، لا دلالة على إمامة بل على محبة أهل البيت"
+        }
+      ],
+      "uncategorized_count": 0,
+      "coverage_pct": 100
+    },
+    {
+      "page": 60,
+      "extractions": [
+        {
+          "type": "UNCATEGORIZED",
+          "raw_text": "المهابة ، فكلّ من طرق سمعه راعه فيها به ، وقد جمع الله له بين الحلاوة و الملاحة",
+          "why_uncategorized": "خطبة في مدح النبي ووصف خلق العالم وأهل البيت، لا يطابق فئات محددة بدقة"
+        }
+      ],
+      "uncategorized_count": 1,
+      "coverage_pct": 70
+    },
+    {
+      "page": 70,
+      "extractions": [
+        {
+          "type": "AUTHOR_COMMENTARY",
+          "summary": "تأكيد دلالة حدیث الثقلين والسفينة على إمامة أهل البيت بوضوح، ووصفها كنور بصيرة"
+        },
+        {
+          "type": "HADITH_CITATION",
+          "book_arabic": "أربعین",
+          "author_arabic": "أبو عبدالله محمد بن مسلم بن أبی الفوارس الرازي",
+          "author_death_ah": null,
+          "isnad": null,
+          "companion": null,
+          "hadith_text_variant": "إني تارك فيكم كتاب الله و عترتی أهلبیتی... فإن مثلهم فيكم كمثل سفينة نوح من ركبها نجى ومن تخلف عنها هلك ومثلهم فيكم كمثل باب حطة في بني إسرائيل من دخله غفر له"
+        }
+      ],
+      "uncategorized_count": 0,
+      "coverage_pct": 95
+    }
+  ],
+  "summary": {
+    "total_extractions": 42,
+    "by_type": {
+      "HADITH_CITATION": 32,
+      "RIJAL_EVALUATION": 0,
+      "REBUTTAL": 1,
+      "AUTHOR_COMMENTARY": 4,
+      "UNCATEGORIZED": 2
+    },
+    "overall_coverage_pct": 95,
+    "what_was_lost": "بعض الشعر والخطب الطويلة في مدح النبي وأهل البيت التي لا تطابق الفئات بدقة"
+  }
+}

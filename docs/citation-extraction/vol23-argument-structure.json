@@ -1,0 +1,5445 @@
+{
+  "volume": 23,
+  "hadith": "Hadith al-Safinah",
+  "hadith_arabic": "حديث السفينة",
+  "hadith_text": "مَثَلُ أَهْلِ بَيْتِي كَمَثَلِ سَفِينَةِ نُوحٍ مَنْ رَكِبَهَا نَجَا وَمَنْ تَخَلَّفَ عَنْهَا هَلَكَ",
+  "stats": {
+    "evidence": {
+      "total_books": 169,
+      "total_citations": 225,
+      "earliest_author_ah": 235,
+      "latest_author_ah": 1305,
+      "time_span_years": 1070,
+      "by_century": {
+        "8th century AH": 12,
+        "9th century AH": 5,
+        "13th century AH": 4,
+        "10th century AH": 22,
+        "3th century AH": 11,
+        "4th century AH": 15,
+        "5th century AH": 13,
+        "7th century AH": 9,
+        "11th century AH": 14,
+        "12th century AH": 5,
+        "14th century AH": 3,
+        "6th century AH": 3
+      }
+    },
+    "authentication": {
+      "total_books": 81,
+      "total_citations": 109,
+      "tawthiq_books": 65,
+      "tajrih_books": 21,
+      "tawthiq_citations": 84,
+      "tajrih_citations": 43,
+      "unique_scholars_evaluated": 25
+    },
+    "rebuttal": {
+      "total_books": 119,
+      "total_citations": 169,
+      "by_type": {
+        "PRIMARY_REBUTTAL": 70,
+        "LINGUISTIC": 7,
+        "CONTRADICTION": 1,
+        "ARGUMENT_LINEAGE": 8,
+        "SUB_CLAIM_REBUTTAL": 7,
+        "REBUTTAL_LINEAGE": 28
+      }
+    },
+    "total_unique_books": 348,
+    "dual_role_evidence_auth": 3,
+    "dual_role_evidence_rebuttal": 15
+  },
+  "layers": {
+    "evidence": {
+      "description": "Sunni books containing Hadith al-Safinah — proving tawatur",
+      "total_books": 169,
+      "total_citations": 225,
+      "books": [
+        {
+          "book_arabic": "ينابيع المودة",
+          "book_transliterated": "Yanabi' al-Mawadda",
+          "standard_title_english": "Yanabi' al-Mawaddah li-Dhawi al-Qurba",
+          "author_arabic": "سليمان بن إبراهيم بن محمد بلخي القافي",
+          "author_death_ah": null,
+          "schema": "F",
+          "book_type": "manaqib",
+          "citation_count": 9,
+          "contexts": [
+            "HADITH_SOURCE"
+          ],
+          "subject_scholars": []
+        },
+        {
+          "book_arabic": "المستدرك على الصحيحين",
+          "book_transliterated": "al-Mustadrak 'ala al-Sahihayn",
+          "standard_title_english": "Al-Mustadrak 'ala al-Sahihayn",
+          "author_arabic": "أبو عبد الله محمد بن عبد الله الحاكم النيسابوري",
+          "author_death_ah": 405,
+          "schema": "B",
+          "book_type": "mustadrak",
+          "citation_count": 7,
+          "contexts": [
+            "HADITH_SOURCE"
+          ],
+          "subject_scholars": []
+        },
+        {
+          "book_arabic": "فرائد السمطين",
+          "book_transliterated": "Fara'id al-Samtayn",
+          "standard_title_english": "Fara'id al-Simtayn",
+          "author_arabic": "صدر الدين أبو المجامع إبراهيم بن محمد المؤيد الحموي",
+          "author_death_ah": 741,
+          "schema": "B",
+          "book_type": "juz",
+          "citation_count": 6,
+          "contexts": [
+            "HADITH_SOURCE",
+            "TAWATUR_PROOF"
+          ],
+          "subject_scholars": []
+        },
+        {
+          "book_arabic": "هداية السعداء",
+          "book_transliterated": "Hidayat al-Sa'ada",
+          "standard_title_english": "Hidayat al-Su'ada",
+          "author_arabic": "ملك العلماء شباب الدين بن شمس الدين الراولي الدولت آبادي",
+          "author_death_ah": 1088,
+          "schema": "F",
+          "book_type": "manaqib",
+          "citation_count": 5,
+          "contexts": [
+            "HADITH_SOURCE"
+          ],
+          "subject_scholars": []
+        },
+        {
+          "book_arabic": "المسند",
+          "book_transliterated": "al-Musnad",
+          "standard_title_english": "Musnad Abi Ya'la",
+          "author_arabic": "أبو بكر أحمد بن عمرو بن عبد الخالق البزار البصري المعروف بالبرّار",
+          "author_death_ah": 292,
+          "schema": "B",
+          "book_type": "musnad",
+          "citation_count": 4,
+          "contexts": [
+            "HADITH_SOURCE"
+          ],
+          "subject_scholars": []
+        },
+        {
+          "book_arabic": "مشكاة المصابيح",
+          "book_transliterated": "Mishkat al-Masabih",
+          "standard_title_english": "Mishkat al-Masabih",
+          "author_arabic": "ولي الله محمد بن عبد الرحيم الخطيب التبريزي",
+          "author_death_ah": 1234,
+          "schema": "B",
+          "book_type": "sunan",
+          "citation_count": 3,
+          "contexts": [
+            "HADITH_SOURCE"
+          ],
+          "subject_scholars": []
+        },
+        {
+          "book_arabic": "الصواعق المحرقة",
+          "book_transliterated": "al-Sawa'iq al-Muhriqa",
+          "standard_title_english": "Al-Sawa'iq al-Muhriqah",
+          "author_arabic": "أحمد بن محمد بن حجر الهيتمي المكي",
+          "author_death_ah": 974,
+          "schema": "D",
+          "book_type": "sunni_polemical",
+          "citation_count": 3,
+          "contexts": [
+            "HADITH_SOURCE"
+          ],
+          "subject_scholars": []
+        },
+        {
+          "book_arabic": "الأربعين",
+          "book_transliterated": "al-Arba'un",
+          "standard_title_english": "Al-Arba'un Hadithan",
+          "author_arabic": "أبو بكر عبد الله بن أبي الفوارس الرازي",
+          "author_death_ah": null,
+          "schema": "B",
+          "book_type": "juz",
+          "citation_count": 3,
+          "contexts": [
+            "HADITH_SOURCE"
+          ],
+          "subject_scholars": []
+        },
+        {
+          "book_arabic": "صبح الأعشى",
+          "book_transliterated": "Subh al-A'sha",
+          "standard_title_english": "Subh al-A'sha fi Sina'at al-Insha",
+          "author_arabic": "أبو العباس أحمد بن زين العراس القلقشندي",
+          "author_death_ah": 821,
+          "schema": "F",
+          "book_type": "adab",
+          "citation_count": 3,
+          "contexts": [
+            "HADITH_SOURCE"
+          ],
+          "subject_scholars": []
+        },
+        {
+          "book_arabic": "كنز العمّال",
+          "book_transliterated": "Kanz al-'Ummal",
+          "standard_title_english": "Kanz al-'Ummal",
+          "author_arabic": "علي بن حسام الدين المتقي",
+          "author_death_ah": 975,
+          "schema": "B",
+          "book_type": "musannaf",
+          "citation_count": 3,
+          "contexts": [
+            "HADITH_SOURCE",
+            "TAWATUR_PROOF"
+          ],
+          "subject_scholars": []
+        },
+        {
+          "book_arabic": "الثقلان",
+          "book_transliterated": "al-Thuqlan",
+          "standard_title_english": "",
+          "author_arabic": "الشيخ أبو عبد الله محمد بن محمد بن النعمان البغدادي (الشيخ المفيد)",
+          "author_death_ah": 413,
+          "schema": "?",
+          "book_type": "?",
+          "citation_count": 3,
+          "contexts": [
+            "HADITH_SOURCE"
+          ],
+          "subject_scholars": []
+        },
+        {
+          "book_arabic": "ذخيرة المآل",
+          "book_transliterated": "Dhakhira al-Ma'al",
+          "standard_title_english": "Dhakhirat al-Ma'al fi Manaqib al-Aal",
+          "author_arabic": "علاء الدين علي بن قاسم العجيلي",
+          "author_death_ah": 862,
+          "schema": "F",
+          "book_type": "manaqib",
+          "citation_count": 2,
+          "contexts": [
+            "HADITH_SOURCE",
+            "TAWATUR_PROOF"
+          ],
+          "subject_scholars": []
+        },
+        {
+          "book_arabic": "مرآة المؤمنين",
+          "book_transliterated": "Mira'at al-Mu'minin",
+          "standard_title_english": "Mir'at al-Mu'minin",
+          "author_arabic": "مولوي ولي الله بن كبير اللكبوي",
+          "author_death_ah": null,
+          "schema": "F",
+          "book_type": "manaqib",
+          "citation_count": 2,
+          "contexts": [
+            "HADITH_SOURCE"
+          ],
+          "subject_scholars": []
+        },
+        {
+          "book_arabic": "المعجم الصغير",
+          "book_transliterated": "al-Mu'jam al-Saghir",
+          "standard_title_english": "Al-Mu'jam al-Saghir",
+          "author_arabic": "أبو القاسم سليمان بن أحمد الطبراني",
+          "author_death_ah": 360,
+          "schema": "B",
+          "book_type": "mujam",
+          "citation_count": 2,
+          "contexts": [
+            "HADITH_SOURCE"
+          ],
+          "subject_scholars": []
+        },
+        {
+          "book_arabic": "كنوز الحقائق",
+          "book_transliterated": "Kunuz al-Haqa'iq",
+          "standard_title_english": "Kunuz al-Haqa'iq",
+          "author_arabic": "أبو إسحاق أحمد بن محمد الثعلبي النيسابوري",
+          "author_death_ah": 427,
+          "schema": "F",
+          "book_type": "unknown",
+          "citation_count": 2,
+          "contexts": [
+            "HADITH_SOURCE"
+          ],
+          "subject_scholars": []
+        },
+        {
+          "book_arabic": "حلية الأولياء",
+          "book_transliterated": "Hilya al-Awliya'",
+          "standard_title_english": "Hilyat al-Awliya' wa Tabaqat al-Asfiya'",
+          "author_arabic": "أبو نعيم أحمد بن عبد الله الأصبهاني",
+          "author_death_ah": 430,
+          "schema": "A",
+          "book_type": "tabaqat",
+          "citation_count": 2,
+          "contexts": [
+            "HADITH_SOURCE"
+          ],
+          "subject_scholars": [
+            "علي بن أبي طالب"
+          ]
+        },
+        {
+          "book_arabic": "كفاية الطالب",
+          "book_transliterated": "Kifayat al-Talib",
+          "standard_title_english": "Kifayat al-Talib",
+          "author_arabic": "حافظ كنجي الشافعي",
+          "author_death_ah": null,
+          "schema": "F",
+          "book_type": "manaqib",
+          "citation_count": 2,
+          "contexts": [
+            "HADITH_SOURCE"
+          ],
+          "subject_scholars": []
+        },
+        {
+          "book_arabic": "نظم درر السمطين",
+          "book_transliterated": "Nazm Durar al-Samtayn",
+          "standard_title_english": "Nazm Durar al-Simtayn",
+          "author_arabic": "جمال الدين زرندي",
+          "author_death_ah": null,
+          "schema": "F",
+          "book_type": "manaqib",
+          "citation_count": 2,
+          "contexts": [
+            "HADITH_SOURCE"
+          ],
+          "subject_scholars": []
+        },
+        {
+          "book_arabic": "جواهر العقدين",
+          "book_transliterated": "Jawahir al-'Uqdān",
+          "standard_title_english": "Jawahir al-'Iqdayn fi Fadl al-Sharafayn",
+          "author_arabic": "شمس الدين أبو عبد الرحمن السمهودي",
+          "author_death_ah": 911,
+          "schema": "F",
+          "book_type": "manaqib",
+          "citation_count": 2,
+          "contexts": [
+            "TAWATUR_PROOF"
+          ],
+          "subject_scholars": []
+        },
+        {
+          "book_arabic": "براهين قاطعة",
+          "book_transliterated": "Burhan Qat'i'a",
+          "standard_title_english": "Al-Barahin al-Qati'ah",
+          "author_arabic": "كمال الدين بن فخر الدين الجهرمي",
+          "author_death_ah": null,
+          "schema": "F",
+          "book_type": "kalam",
+          "citation_count": 2,
+          "contexts": [
+            "HADITH_SOURCE"
+          ],
+          "subject_scholars": []
+        },
+        {
+          "book_arabic": "سراج منير شرح جامع الصغير",
+          "book_transliterated": "Siraj Munir Sharh Jami' al-Saghir",
+          "standard_title_english": "Al-Siraj al-Munir Sharh al-Jami' al-Saghir",
+          "author_arabic": "علي بن محمد بن أبي بكر العزيزي",
+          "author_death_ah": 1070,
+          "schema": "E",
+          "book_type": "sharh",
+          "citation_count": 2,
+          "contexts": [
+            "HADITH_SOURCE"
+          ],
+          "subject_scholars": []
+        },
+        {
+          "book_arabic": "جمع الفوائد",
+          "book_transliterated": "Jama' al-Fawa'id",
+          "standard_title_english": "Jam' al-Fawa'id min Jami' al-Usul wa Majma' al-Zawa'id",
+          "author_arabic": "محمد بن سليمان بن خياط المغربي",
+          "author_death_ah": 943,
+          "schema": "B",
+          "book_type": "juz",
+          "citation_count": 2,
+          "contexts": [
+            "HADITH_SOURCE"
+          ],
+          "subject_scholars": []
+        },
+        {
+          "book_arabic": "نزل الأبرار بما صم ني مناقب أهل البيت الاطهار",
+          "book_transliterated": "Nuzul al-Abrar bima Samma fi Manaqib Ahl al-Bayt al-Athar",
+          "standard_title_english": "Nuzul al-Abrar bima Sahha min Manaqib Ahl al-Bayt al-Athar",
+          "author_arabic": "مرزا محمد بن معتمد خان",
+          "author_death_ah": null,
+          "schema": "F",
+          "book_type": "manaqib",
+          "citation_count": 2,
+          "contexts": [
+            "HADITH_SOURCE"
+          ],
+          "subject_scholars": []
+        },
+        {
+          "book_arabic": "فرائد الشمطين",
+          "book_transliterated": "Fara'id al-Shamtayn",
+          "standard_title_english": "Fara'id al-Simtayn fi Fada'il al-Murtada wa al-Batul wa al-Sibtayn",
+          "author_arabic": "صدر الدين أبو المجاهدات إبراهيم بن محمد المؤيد الحموي",
+          "author_death_ah": null,
+          "schema": "F",
+          "book_type": "manaqib",
+          "citation_count": 2,
+          "contexts": [
+            "HADITH_SOURCE"
+          ],
+          "subject_scholars": []
+        },
+        {
+          "book_arabic": "صحيح مسلم",
+          "book_transliterated": "Sahih Muslim",
+          "standard_title_english": "Sahih Muslim",
+          "author_arabic": "مسلم بن الحجاج القشيري النيسابوري",
+          "author_death_ah": 261,
+          "schema": "B",
+          "book_type": "sahih",
+          "citation_count": 2,
+          "contexts": [
+            "HADITH_SOURCE"
+          ],
+          "subject_scholars": []
+        },
+        {
+          "book_arabic": "مسند أحمد",
+          "book_transliterated": "Musnad Ahmad",
+          "standard_title_english": "Musnad Ahmad bin Hanbal",
+          "author_arabic": "أحمد بن حنبل أبو عبد الله",
+          "author_death_ah": 241,
+          "schema": "B",
+          "book_type": "musnad",
+          "citation_count": 2,
+          "contexts": [
+            "HADITH_SOURCE"
+          ],
+          "subject_scholars": []
+        },
+        {
+          "book_arabic": "صحيح البخاري",
+          "book_transliterated": "Sahih al-Bukhari",
+          "standard_title_english": "Sahih al-Bukhari",
+          "author_arabic": "محمد بن إسماعيل البخاري",
+          "author_death_ah": 256,
+          "schema": "B",
+          "book_type": "sahih",
+          "citation_count": 2,
+          "contexts": [
+            "HADITH_SOURCE"
+          ],
+          "subject_scholars": []
+        },
+        {
+          "book_arabic": "المناقب",
+          "book_transliterated": "al-Manāqib",
+          "standard_title_english": "",
+          "author_arabic": "أحمد بن حنبل",
+          "author_death_ah": 241,
+          "schema": "?",
+          "book_type": "?",
+          "citation_count": 2,
+          "contexts": [
+            "HADITH_SOURCE"
+          ],
+          "subject_scholars": []
+        },
+        {
+          "book_arabic": "التواقيع",
+          "book_transliterated": "al-Tawaqi'",
+          "standard_title_english": "Al-Tawaqi'",
+          "author_arabic": "أبو بكر أحمد بن الحسين بن عتبة الخزاز البغدادي",
+          "author_death_ah": 386,
+          "schema": "F",
+          "book_type": "unknown",
+          "citation_count": 2,
+          "contexts": [
+            "HADITH_SOURCE"
+          ],
+          "subject_scholars": []
+        },
+        {
+          "book_arabic": "الصحيح",
+          "book_transliterated": "al-Sahih",
+          "standard_title_english": "Sahih Muslim",
+          "author_arabic": "مسلم بن الحجاج القشيري النيسابوري",
+          "author_death_ah": 261,
+          "schema": "B",
+          "book_type": "sahih",
+          "citation_count": 1,
+          "contexts": [
+            "HADITH_SOURCE"
+          ],
+          "subject_scholars": []
+        },
+        {
+          "book_arabic": "المعارف",
+          "book_transliterated": "al-Ma'arif",
+          "standard_title_english": "al-Ma'arif",
+          "author_arabic": "عبد الله بن مسلم بن قتيبة الدينوري",
+          "author_death_ah": 276,
+          "schema": "F",
+          "book_type": "tarikh_general",
+          "citation_count": 1,
+          "contexts": [
+            "HADITH_SOURCE"
+          ],
+          "subject_scholars": []
+        },
+        {
+          "book_arabic": "عيون الأخبار",
+          "book_transliterated": "Uyūn al-Akhbar",
+          "standard_title_english": "Uyun al-Akhbar",
+          "author_arabic": "عبد الله بن مسلم بن قتيبة الدينوري",
+          "author_death_ah": 276,
+          "schema": "F",
+          "book_type": "adab",
+          "citation_count": 1,
+          "contexts": [
+            "HADITH_SOURCE"
+          ],
+          "subject_scholars": []
+        },
+        {
+          "book_arabic": "تهذيب الآثار",
+          "book_transliterated": "Tahdhīb al-Athar",
+          "standard_title_english": "Tahdhib al-Athar",
+          "author_arabic": "محمد بن جرير أبو جعفر الطبري",
+          "author_death_ah": 310,
+          "schema": "B",
+          "book_type": "musnad",
+          "citation_count": 1,
+          "contexts": [
+            "HADITH_SOURCE"
+          ],
+          "subject_scholars": []
+        },
+        {
+          "book_arabic": "الأوراق",
+          "book_transliterated": "al-Awraq",
+          "standard_title_english": "Kitab al-Awraq",
+          "author_arabic": "أبو بكر أحمد بن عبد الله بن عثمان الصولي",
+          "author_death_ah": 335,
+          "schema": "F",
+          "book_type": "adab",
+          "citation_count": 1,
+          "contexts": [
+            "HADITH_SOURCE"
+          ],
+          "subject_scholars": []
+        },
+        {
+          "book_arabic": "مرج البحرين",
+          "book_transliterated": "Majma' al-Bahrayn",
+          "standard_title_english": "Majma' al-Bahrayn",
+          "author_arabic": "أبو الفرج علي بن الحسين الأصفهاني",
+          "author_death_ah": 356,
+          "schema": "F",
+          "book_type": "unknown",
+          "citation_count": 1,
+          "contexts": [
+            "HADITH_SOURCE"
+          ],
+          "subject_scholars": []
+        },
+        {
+          "book_arabic": "المجالس",
+          "book_transliterated": "al-Majalis",
+          "standard_title_english": "Majalis al-Samarqandi",
+          "author_arabic": "أبو الليث نصر بن محمد السمرقندي",
+          "author_death_ah": 373,
+          "schema": "F",
+          "book_type": "adab",
+          "citation_count": 1,
+          "contexts": [
+            "HADITH_SOURCE"
+          ],
+          "subject_scholars": []
+        },
+        {
+          "book_arabic": "شرف النبوة",
+          "book_transliterated": "Sharaf al-Nubuwwa",
+          "standard_title_english": "Sharaf al-Mustafa",
+          "author_arabic": "أبو سعيد عبد الملك بن عدي الخرقوشي البوري",
+          "author_death_ah": 450,
+          "schema": "F",
+          "book_type": "sirah",
+          "citation_count": 1,
+          "contexts": [
+            "HADITH_SOURCE"
+          ],
+          "subject_scholars": []
+        },
+        {
+          "book_arabic": "تفسير الطبري",
+          "book_transliterated": "Tafsir al-Tabari",
+          "standard_title_english": "Jami' al-Bayan (Tafsir al-Tabari)",
+          "author_arabic": "محمد بن جرير أبو جعفر الطبري",
+          "author_death_ah": 310,
+          "schema": "F",
+          "book_type": "tafsir",
+          "citation_count": 1,
+          "contexts": [
+            "HADITH_SOURCE"
+          ],
+          "subject_scholars": []
+        },
+        {
+          "book_arabic": "ثمار القلوب في العقائد والتوحيد",
+          "book_transliterated": "Thamar al-Qulub fi al-'Aqa'id wa al-Tawhid",
+          "standard_title_english": "Thimar al-Qulub",
+          "author_arabic": "أبو منصور عبد الملك بن علي التعلبي التيسافوري",
+          "author_death_ah": null,
+          "schema": "F",
+          "book_type": "adab",
+          "citation_count": 1,
+          "contexts": [
+            "HADITH_SOURCE"
+          ],
+          "subject_scholars": []
+        },
+        {
+          "book_arabic": "الإنباء على قبائل الرواة",
+          "book_transliterated": "al-Isthab 'ala Qaba'il al-Riwaya",
+          "standard_title_english": "al-Inbah 'ala Qaba'il al-Ruwat",
+          "author_arabic": "يوسف بن عبد البرّ القرطبي",
+          "author_death_ah": 463,
+          "schema": "C",
+          "book_type": "genealogical",
+          "citation_count": 1,
+          "contexts": [
+            "HADITH_SOURCE"
+          ],
+          "subject_scholars": []
+        },
+        {
+          "book_arabic": "تاريخ بغداد",
+          "book_transliterated": "Tarikh Baghdad",
+          "standard_title_english": "Tarikh Baghdad",
+          "author_arabic": "أبو بكر أحمد بن علي بن ثابت الخطيب البغدادي",
+          "author_death_ah": 463,
+          "schema": "A",
+          "book_type": "tarikh",
+          "citation_count": 1,
+          "contexts": [
+            "HADITH_SOURCE"
+          ],
+          "subject_scholars": [
+            "علي بن محمد بن شداد"
+          ]
+        },
+        {
+          "book_arabic": "تفسير الواحدي",
+          "book_transliterated": "Tafsir al-Wahidi",
+          "standard_title_english": "Tafsir al-Wahidi",
+          "author_arabic": "أبو الحسن علي بن أحمد الواحدي",
+          "author_death_ah": 468,
+          "schema": "F",
+          "book_type": "tafsir",
+          "citation_count": 1,
+          "contexts": [
+            "HADITH_SOURCE"
+          ],
+          "subject_scholars": []
+        },
+        {
+          "book_arabic": "الإمتاع بحل الحق والإيمان وإيقاظ الهمم",
+          "book_transliterated": "al-Imta' bi-Hill al-Haqq wa al-Iman wa Iqaẓ al-Himam",
+          "standard_title_english": "al-Imta' bi-Hill al-Haqq",
+          "author_arabic": "عبد الرحمن بن أحمد بن عبد الملك بن المفازلي",
+          "author_death_ah": null,
+          "schema": "F",
+          "book_type": "unknown",
+          "citation_count": 1,
+          "contexts": [
+            "HADITH_SOURCE"
+          ],
+          "subject_scholars": []
+        },
+        {
+          "book_arabic": "فضائل الصحابة",
+          "book_transliterated": "Fada'il al-Sahaba",
+          "standard_title_english": "Fada'il al-Sahaba",
+          "author_arabic": "أبو المظفر منصور بن محمد السمعاني",
+          "author_death_ah": 489,
+          "schema": "B",
+          "book_type": "juz",
+          "citation_count": 1,
+          "contexts": [
+            "HADITH_SOURCE"
+          ],
+          "subject_scholars": []
+        },
+        {
+          "book_arabic": "مسند الفردوس",
+          "book_transliterated": "Musnad al-Firdaws",
+          "standard_title_english": "Musnad al-Firdaws",
+          "author_arabic": "أبو منصور شهردار بن شهردار الديلمي",
+          "author_death_ah": null,
+          "schema": "B",
+          "book_type": "musnad",
+          "citation_count": 1,
+          "contexts": [
+            "HADITH_SOURCE"
+          ],
+          "subject_scholars": []
+        },
+        {
+          "book_arabic": "وسيلة المتعبدين",
+          "book_transliterated": "Wasilat al-Muta'abbadin",
+          "standard_title_english": "Wasilat al-Muta'abbadin",
+          "author_arabic": "عمر بن أحمد الملا",
+          "author_death_ah": null,
+          "schema": "F",
+          "book_type": "manaqib",
+          "citation_count": 1,
+          "contexts": [
+            "HADITH_SOURCE"
+          ],
+          "subject_scholars": []
+        },
+        {
+          "book_arabic": "السنة",
+          "book_transliterated": "al-Sunna",
+          "standard_title_english": "Kitab al-Sunna",
+          "author_arabic": "أحمد بن السري",
+          "author_death_ah": null,
+          "schema": "F",
+          "book_type": "kalam",
+          "citation_count": 1,
+          "contexts": [
+            "HADITH_SOURCE"
+          ],
+          "subject_scholars": []
+        },
+        {
+          "book_arabic": "زين الفتى",
+          "book_transliterated": "Zayn al-Fatta",
+          "standard_title_english": "Zayn al-Fata fi Tafsir Surat Hal Ata",
+          "author_arabic": "عاصم بن محمد العاصمي",
+          "author_death_ah": null,
+          "schema": "F",
+          "book_type": "tafsir",
+          "citation_count": 1,
+          "contexts": [
+            "HADITH_SOURCE"
+          ],
+          "subject_scholars": []
+        },
+        {
+          "book_arabic": "نهاية الأفضل في تفضيل الآل",
+          "book_transliterated": "Nihayat al-Afdal fi Tafdil al-Al",
+          "standard_title_english": "Nihayat al-Afdal fi Tafdil al-Al",
+          "author_arabic": "مجد الدين أبو الشعارات هبة الله بن أحمد بن عبد الكريم الجزري المعروف بابن الأثير",
+          "author_death_ah": 630,
+          "schema": "F",
+          "book_type": "manaqib",
+          "citation_count": 1,
+          "contexts": [
+            "HADITH_SOURCE"
+          ],
+          "subject_scholars": []
+        },
+        {
+          "book_arabic": "مفاتيح الغيب",
+          "book_transliterated": "Mafatih al-Ghayb",
+          "standard_title_english": "Mafatih al-Ghayb",
+          "author_arabic": "فخر الدين أبو عبد الله محمد بن عمر الرازي",
+          "author_death_ah": 606,
+          "schema": "F",
+          "book_type": "tafsir",
+          "citation_count": 1,
+          "contexts": [
+            "HADITH_SOURCE"
+          ],
+          "subject_scholars": []
+        },
+        {
+          "book_arabic": "مطالب السؤول في مناقب آل الرسول",
+          "book_transliterated": "Mataleb al-Su'ul fi Manaqib Al al-Rasul",
+          "standard_title_english": "Matalib al-Su'ul fi Manaqib Al al-Rasul",
+          "author_arabic": "محمد بن طلحه الشافعي",
+          "author_death_ah": 652,
+          "schema": "F",
+          "book_type": "manaqib",
+          "citation_count": 1,
+          "contexts": [
+            "HADITH_SOURCE"
+          ],
+          "subject_scholars": []
+        },
+        {
+          "book_arabic": "خواص الأئمة",
+          "book_transliterated": "Khawass al-A'imma",
+          "standard_title_english": "Tadhkirat Khawass al-Ummah",
+          "author_arabic": "شَمْسُ الدِّينِ يُوسُفُ بْنُ قَزْغْلُوِيُّ الْحَنَفِيُّ الْمَعْرُوفُ بِسِبْطِ ابْنِ الْجَوْزِيِّ",
+          "author_death_ah": 654,
+          "schema": "F",
+          "book_type": "manaqib",
+          "citation_count": 1,
+          "contexts": [
+            "HADITH_SOURCE"
+          ],
+          "subject_scholars": []
+        },
+        {
+          "book_arabic": "ذخائر العقبى في مناقب ذوي الأربة",
+          "book_transliterated": "Dhakhirat al-'Uqba fi Manaqib Dhi al-Arba'a",
+          "standard_title_english": "Dhakha'ir al-Uqba",
+          "author_arabic": "محب الدين أبي زهرة أحمد بن محمد الطبري",
+          "author_death_ah": 694,
+          "schema": "F",
+          "book_type": "manaqib",
+          "citation_count": 1,
+          "contexts": [
+            "HADITH_SOURCE"
+          ],
+          "subject_scholars": []
+        },
+        {
+          "book_arabic": "نسخة تقليد",
+          "book_transliterated": "Nuskha Taqlid",
+          "standard_title_english": "Nuskha Taqlid",
+          "author_arabic": "شهاب الدين أحمد بن يسرى",
+          "author_death_ah": null,
+          "schema": "F",
+          "book_type": "unknown",
+          "citation_count": 1,
+          "contexts": [
+            "HADITH_SOURCE"
+          ],
+          "subject_scholars": []
+        },
+        {
+          "book_arabic": "تفسير فرائد الأنوار",
+          "book_transliterated": "Tafsir Fara'id al-Anwar",
+          "standard_title_english": "Ghara'ib al-Qur'an",
+          "author_arabic": "نظام الدين الحسن بن محمد النيسابوري الأعرج",
+          "author_death_ah": 764,
+          "schema": "F",
+          "book_type": "tafsir",
+          "citation_count": 1,
+          "contexts": [
+            "HADITH_SOURCE"
+          ],
+          "subject_scholars": []
+        },
+        {
+          "book_arabic": "كاشف الخفاء شرح مشكاة المصابيح",
+          "book_transliterated": "Kashf al-Khafa' Sharh Mishkat al-Masabih",
+          "standard_title_english": "al-Kashif 'an Haqa'iq al-Sunan",
+          "author_arabic": "حسن بن محمد الطيبي",
+          "author_death_ah": 743,
+          "schema": "E",
+          "book_type": "sharh",
+          "citation_count": 1,
+          "contexts": [
+            "HADITH_SOURCE"
+          ],
+          "subject_scholars": []
+        },
+        {
+          "book_arabic": "الإعلام",
+          "book_transliterated": "al-I'lam",
+          "standard_title_english": "al-I'lam",
+          "author_arabic": "جمال الدين زرندي",
+          "author_death_ah": null,
+          "schema": "F",
+          "book_type": "unknown",
+          "citation_count": 1,
+          "contexts": [
+            "HADITH_SOURCE"
+          ],
+          "subject_scholars": []
+        },
+        {
+          "book_arabic": "مودة القربى",
+          "book_transliterated": "Mawaddat al-Qurba",
+          "standard_title_english": "Mawaddat al-Qurba",
+          "author_arabic": "سيد علي بن شهاب الدين البمداني الأنصاري",
+          "author_death_ah": 785,
+          "schema": "F",
+          "book_type": "manaqib",
+          "citation_count": 1,
+          "contexts": [
+            "HADITH_SOURCE"
+          ],
+          "subject_scholars": []
+        },
+        {
+          "book_arabic": "حاشية على مشكوة المصابيح",
+          "book_transliterated": "Hashiya 'ala Mishkat al-Masabih",
+          "standard_title_english": "Hashiyat al-Jurjani 'ala Mishkat al-Masabih",
+          "author_arabic": "سيد الشريف علي بن عدي الجرجاني",
+          "author_death_ah": 816,
+          "schema": "E",
+          "book_type": "hashiyah",
+          "citation_count": 1,
+          "contexts": [
+            "HADITH_SOURCE"
+          ],
+          "subject_scholars": []
+        },
+        {
+          "book_arabic": "فصل الخطاب",
+          "book_transliterated": "Fasl al-Khitab",
+          "standard_title_english": "Fasl al-Khitab li-Wasl al-Ahbab",
+          "author_arabic": "عبد الدين محمود الحافظ البخاري المعروف بخواجه يارسا",
+          "author_death_ah": 1041,
+          "schema": "F",
+          "book_type": "manaqib",
+          "citation_count": 1,
+          "contexts": [
+            "HADITH_SOURCE"
+          ],
+          "subject_scholars": []
+        },
+        {
+          "book_arabic": "عبدية",
+          "book_transliterated": "'Ubadiyya",
+          "standard_title_english": "Unknown",
+          "author_arabic": "أبو بكر علي الحموي المعروف بابن حجرة",
+          "author_death_ah": 1041,
+          "schema": "F",
+          "book_type": "unknown",
+          "citation_count": 1,
+          "contexts": [
+            "HADITH_SOURCE"
+          ],
+          "subject_scholars": []
+        },
+        {
+          "book_arabic": "الفصول المهمة",
+          "book_transliterated": "al-Fusul al-Muhima",
+          "standard_title_english": "al-Fusul al-Muhimmah fi Ma'rifat al-A'immah",
+          "author_arabic": "عبد الرحمن بن أبي بكر بن الصباغ المالكي",
+          "author_death_ah": null,
+          "schema": "F",
+          "book_type": "manaqib",
+          "citation_count": 1,
+          "contexts": [
+            "HADITH_SOURCE"
+          ],
+          "subject_scholars": []
+        },
+        {
+          "book_arabic": "فواتح شرح ديوان منسوب إلى أمي المؤمنين عائشة",
+          "book_transliterated": "Fawatih Sharh Diwan Mansub ila Umm al-Mu'minin 'A'isha",
+          "standard_title_english": "Fawatih al-Maybudi Sharh Diwan Amir al-Mu'minin",
+          "author_arabic": "حسين بن علي الكاشفي الميبذي",
+          "author_death_ah": 910,
+          "schema": "F",
+          "book_type": "adab",
+          "citation_count": 1,
+          "contexts": [
+            "HADITH_SOURCE"
+          ],
+          "subject_scholars": []
+        },
+        {
+          "book_arabic": "أساس الاقتباس",
+          "book_transliterated": "Asas al-Iqtibas",
+          "standard_title_english": "Asas al-Iqtibas",
+          "author_arabic": "اختيار الدين بن غياث الدين البروي",
+          "author_death_ah": 840,
+          "schema": "F",
+          "book_type": "adab",
+          "citation_count": 1,
+          "contexts": [
+            "HADITH_SOURCE"
+          ],
+          "subject_scholars": []
+        },
+        {
+          "book_arabic": "نزهة المجالس",
+          "book_transliterated": "Nazhat al-Majalis",
+          "standard_title_english": "Nuzhat al-Majalis wa Muntakhab al-Nafa'is",
+          "author_arabic": "صفوري",
+          "author_death_ah": null,
+          "schema": "F",
+          "book_type": "adab",
+          "citation_count": 1,
+          "contexts": [
+            "HADITH_SOURCE"
+          ],
+          "subject_scholars": []
+        },
+        {
+          "book_arabic": "استجلاب ارتقاب الغرف بحب أقرباء الرسول وذوي الشرف",
+          "book_transliterated": "Istijlab Irtiqab al-Ghuraf bi-Hubb Aqraba' al-Rasul wa Dhi al-Sharaf",
+          "standard_title_english": "Istijlab Irtiqa' al-Ghuraf bi-Hubb Aqraba' al-Rasul",
+          "author_arabic": "شهاب الدين أحمد بن حاج بن محمد السخاوي",
+          "author_death_ah": 902,
+          "schema": "B",
+          "book_type": "juz",
+          "citation_count": 1,
+          "contexts": [
+            "TAWATUR_PROOF"
+          ],
+          "subject_scholars": []
+        },
+        {
+          "book_arabic": "رسالة عليه في الأحاديث النبوية",
+          "book_transliterated": "Risala 'Alihi fi al-Ahadith al-Nabawiyya",
+          "standard_title_english": "al-Risalah al-'Aliyyah fi al-Ahadith al-Nabawiyyah",
+          "author_arabic": "حسين بن علي الكاشفي",
+          "author_death_ah": 910,
+          "schema": "B",
+          "book_type": "juz",
+          "citation_count": 1,
+          "contexts": [
+            "HADITH_SOURCE"
+          ],
+          "subject_scholars": []
+        },
+        {
+          "book_arabic": "در المنثور",
+          "book_transliterated": "al-Durr al-Manthur",
+          "standard_title_english": "al-Durr al-Manthur fi al-Tafsir bi-al-Ma'thur",
+          "author_arabic": "جلال الدين عبد الرحمن بن أبي بكر السيوطي",
+          "author_death_ah": 911,
+          "schema": "F",
+          "book_type": "tafsir",
+          "citation_count": 1,
+          "contexts": [
+            "HADITH_SOURCE"
+          ],
+          "subject_scholars": []
+        },
+        {
+          "book_arabic": "جامع الصغير",
+          "book_transliterated": "al-Jami' al-Saghir",
+          "standard_title_english": "al-Jami' al-Saghir min Hadith al-Bashir al-Nadhir",
+          "author_arabic": "جلال الدين عبد الرحمن بن أبي بكر السيوطي",
+          "author_death_ah": 911,
+          "schema": "B",
+          "book_type": "musannaf",
+          "citation_count": 1,
+          "contexts": [
+            "HADITH_SOURCE"
+          ],
+          "subject_scholars": []
+        },
+        {
+          "book_arabic": "الخصائص الكبرى",
+          "book_transliterated": "al-Khasa'is al-Kubra",
+          "standard_title_english": "al-Khasa'is al-Kubra",
+          "author_arabic": "جلال الدين عبد الرحمن بن أبي بكر السيوطي",
+          "author_death_ah": 911,
+          "schema": "F",
+          "book_type": "sirah",
+          "citation_count": 1,
+          "contexts": [
+            "HADITH_SOURCE"
+          ],
+          "subject_scholars": []
+        },
+        {
+          "book_arabic": "إحياء الميت بفضل أهل البيت",
+          "book_transliterated": "Ihya' al-Mayyit bi-Fadl Ahl al-Bayt",
+          "standard_title_english": "Ihya' al-Mayyit bi-Fada'il Ahl al-Bayt",
+          "author_arabic": "جلال الدين عبد الرحمن بن أبي بكر السيوطي",
+          "author_death_ah": 911,
+          "schema": "B",
+          "book_type": "juz",
+          "citation_count": 1,
+          "contexts": [
+            "HADITH_SOURCE"
+          ],
+          "subject_scholars": []
+        },
+        {
+          "book_arabic": "نهاية الإفضال في تشريف الآل",
+          "book_transliterated": "Nihayat al-Afdal fi Tashrif al-Al",
+          "standard_title_english": "Nihayat al-Amal fi Tashrif al-Al",
+          "author_arabic": "جلال الدين عبد الرحمن بن أبي بكر السيوطي",
+          "author_death_ah": 911,
+          "schema": "F",
+          "book_type": "manaqib",
+          "citation_count": 1,
+          "contexts": [
+            "HADITH_SOURCE"
+          ],
+          "subject_scholars": []
+        },
+        {
+          "book_arabic": "الأساس",
+          "book_transliterated": "al-Asas",
+          "standard_title_english": "al-Asas fi Manaqib Bani al-'Abbas",
+          "author_arabic": "جلال الدين عبد الرحمن بن أبي بكر السيوطي",
+          "author_death_ah": 911,
+          "schema": "F",
+          "book_type": "manaqib",
+          "citation_count": 1,
+          "contexts": [
+            "HADITH_SOURCE"
+          ],
+          "subject_scholars": []
+        },
+        {
+          "book_arabic": "منن المكي شرح قصيدة همزية",
+          "book_transliterated": "Mannan al-Makki Sharh Qasidat Hamziyya",
+          "standard_title_english": "al-Minah al-Makkiyyah fi Sharh al-Hamziyyah",
+          "author_arabic": "أحمد بن محمد بن حجر الهيتمي المكي",
+          "author_death_ah": 974,
+          "schema": "F",
+          "book_type": "adab",
+          "citation_count": 1,
+          "contexts": [
+            "HADITH_SOURCE"
+          ],
+          "subject_scholars": []
+        },
+        {
+          "book_arabic": "عفد نبوي وسرّ مسطفوي",
+          "book_transliterated": "'Ufd Nabawi wa Sirr Mustafaawi",
+          "standard_title_english": "al-'Iqd al-Nabawi wa al-Sirr al-Mustafawi",
+          "author_arabic": "شيخ بن عبد الله بن شيخ بن عبد الله المدري والسلمي",
+          "author_death_ah": 1106,
+          "schema": "F",
+          "book_type": "manaqib",
+          "citation_count": 1,
+          "contexts": [
+            "HADITH_SOURCE"
+          ],
+          "subject_scholars": []
+        },
+        {
+          "book_arabic": "ميراة شرح مشكاة",
+          "book_transliterated": "'Umdat Sharh Mishkat",
+          "standard_title_english": "Mirqat al-Mafatih Sharh Mishkat al-Masabih",
+          "author_arabic": "علي بن سلطان محمد القاري",
+          "author_death_ah": 1014,
+          "schema": "E",
+          "book_type": "sharh",
+          "citation_count": 1,
+          "contexts": [
+            "HADITH_SOURCE"
+          ],
+          "subject_scholars": []
+        },
+        {
+          "book_arabic": "ذوق الحقائق",
+          "book_transliterated": "Dhuq al-Haqa'iq",
+          "standard_title_english": "Unknown",
+          "author_arabic": "منادي",
+          "author_death_ah": null,
+          "schema": "F",
+          "book_type": "unknown",
+          "citation_count": 1,
+          "contexts": [
+            "HADITH_SOURCE"
+          ],
+          "subject_scholars": []
+        },
+        {
+          "book_arabic": "رسالة كلامية",
+          "book_transliterated": "Risala Kalamiyya",
+          "standard_title_english": "Risalah Kalamiyyah",
+          "author_arabic": "مجد الدين سهرندي",
+          "author_death_ah": null,
+          "schema": "F",
+          "book_type": "kalam",
+          "citation_count": 1,
+          "contexts": [
+            "HADITH_SOURCE"
+          ],
+          "subject_scholars": []
+        },
+        {
+          "book_arabic": "مشرع روي",
+          "book_transliterated": "Mushra' Rawi",
+          "standard_title_english": "al-Mashra' al-Rawi fi Manaqib al-Sadah Al Abi 'Alawi",
+          "author_arabic": "محمد بن أبي بكر الشري",
+          "author_death_ah": null,
+          "schema": "A",
+          "book_type": "biographical",
+          "citation_count": 1,
+          "contexts": [
+            "HADITH_SOURCE"
+          ],
+          "subject_scholars": []
+        },
+        {
+          "book_arabic": "تحقيق الإشارة إلى تعميم البشارة",
+          "book_transliterated": "Tahqiq al-Ishara ila Ta'mim al-Bashara",
+          "standard_title_english": "Tahqiq al-Isharah fi Ta'mim al-Basharah",
+          "author_arabic": "عبد الحق بن سيف الدين الدهلوي",
+          "author_death_ah": 1052,
+          "schema": "F",
+          "book_type": "unknown",
+          "citation_count": 1,
+          "contexts": [
+            "HADITH_SOURCE"
+          ],
+          "subject_scholars": []
+        },
+        {
+          "book_arabic": "معاات شرح مشكوة",
+          "book_transliterated": "Mu'allaqat Sharh Mishkat",
+          "standard_title_english": "Luma'at al-Tanqih fi Sharh Mishkat al-Masabih",
+          "author_arabic": "عبد الحق بن سيف الدين الدهلوي",
+          "author_death_ah": 1052,
+          "schema": "E",
+          "book_type": "sharh",
+          "citation_count": 1,
+          "contexts": [
+            "HADITH_SOURCE"
+          ],
+          "subject_scholars": []
+        },
+        {
+          "book_arabic": "أشعة اللمعات",
+          "book_transliterated": "Asha'at al-Lu'maat",
+          "standard_title_english": "Ashi'at al-Lama'at fi Sharh al-Mishkat",
+          "author_arabic": "عبد الحق بن سيف الدين الدهلوي",
+          "author_death_ah": 1052,
+          "schema": "E",
+          "book_type": "sharh",
+          "citation_count": 1,
+          "contexts": [
+            "HADITH_SOURCE"
+          ],
+          "subject_scholars": []
+        },
+        {
+          "book_arabic": "مناقب أهل البيت",
+          "book_transliterated": "Manaqib Ahl al-Bayt",
+          "standard_title_english": "Manaqib Ahl al-Bayt",
+          "author_arabic": "عبد الحق بن سيف الدين الدهلوي",
+          "author_death_ah": 1052,
+          "schema": "F",
+          "book_type": "manaqib",
+          "citation_count": 1,
+          "contexts": [
+            "HADITH_SOURCE"
+          ],
+          "subject_scholars": []
+        },
+        {
+          "book_arabic": "وسيلة المآل في عدّ مناقب الآل",
+          "book_transliterated": "Wasilat al-Ma'al fi 'Add Manaqib al-Al",
+          "standard_title_english": "Wasilat al-Ma'al fi 'Add Manaqib al-Al",
+          "author_arabic": "أحمد بن الفضل بن محمد البكري المكي",
+          "author_death_ah": 1003,
+          "schema": "F",
+          "book_type": "manaqib",
+          "citation_count": 1,
+          "contexts": [
+            "TAWATUR_PROOF"
+          ],
+          "subject_scholars": []
+        },
+        {
+          "book_arabic": "صراط السوي",
+          "book_transliterated": "Siraat al-Sawi",
+          "standard_title_english": "al-Sirat al-Sawi fi Manaqib Al al-Nabi",
+          "author_arabic": "محمود بن شيخ خان قادري",
+          "author_death_ah": null,
+          "schema": "F",
+          "book_type": "manaqib",
+          "citation_count": 1,
+          "contexts": [
+            "HADITH_SOURCE"
+          ],
+          "subject_scholars": []
+        },
+        {
+          "book_arabic": "مرافش",
+          "book_transliterated": "Marafish",
+          "standard_title_english": "Unknown",
+          "author_arabic": "شهاب الدين أحمد بن نبودي",
+          "author_death_ah": null,
+          "schema": "F",
+          "book_type": "unknown",
+          "citation_count": 1,
+          "contexts": [
+            "HADITH_SOURCE"
+          ],
+          "subject_scholars": []
+        },
+        {
+          "book_arabic": "مفتاح النجا",
+          "book_transliterated": "Miftah al-Naja",
+          "standard_title_english": "Miftah al-Naja fi Manaqib Al al-Aba",
+          "author_arabic": "مرزا محمد بدخشي",
+          "author_death_ah": null,
+          "schema": "F",
+          "book_type": "manaqib",
+          "citation_count": 1,
+          "contexts": [
+            "HADITH_SOURCE"
+          ],
+          "subject_scholars": []
+        },
+        {
+          "book_arabic": "تهذيب الأثار",
+          "book_transliterated": "Tahdhib al-Athar",
+          "standard_title_english": "Tahdhib al-Athar",
+          "author_arabic": "أبو جعفر محمد بن جرير الطبري",
+          "author_death_ah": 310,
+          "schema": "B",
+          "book_type": "musnad",
+          "citation_count": 1,
+          "contexts": [
+            "HADITH_SOURCE"
+          ],
+          "subject_scholars": []
+        },
+        {
+          "book_arabic": "المعجم الكبير",
+          "book_transliterated": "al-Mu'jam al-Kabir",
+          "standard_title_english": "al-Mu'jam al-Kabir",
+          "author_arabic": "الطبراني أبو القاسم سليمان بن أحمد",
+          "author_death_ah": 360,
+          "schema": "B",
+          "book_type": "mujam",
+          "citation_count": 1,
+          "contexts": [
+            "HADITH_SOURCE"
+          ],
+          "subject_scholars": []
+        },
+        {
+          "book_arabic": "الأوسط",
+          "book_transliterated": "al-Awsat",
+          "standard_title_english": "al-Mu'jam al-Awsat",
+          "author_arabic": "الطبراني أبو القاسم سليمان بن أحمد",
+          "author_death_ah": 360,
+          "schema": "B",
+          "book_type": "mujam",
+          "citation_count": 1,
+          "contexts": [
+            "HADITH_SOURCE"
+          ],
+          "subject_scholars": []
+        },
+        {
+          "book_arabic": "تحفة المحبين",
+          "book_transliterated": "Tuhfat al-Muhibbin",
+          "standard_title_english": "Tuhfat al-Muhibbin bi-Manaqib Khulafa' al-Rashidin",
+          "author_arabic": "مرزا محمد بدخشاني",
+          "author_death_ah": null,
+          "schema": "F",
+          "book_type": "manaqib",
+          "citation_count": 1,
+          "contexts": [
+            "HADITH_SOURCE"
+          ],
+          "subject_scholars": []
+        },
+        {
+          "book_arabic": "معارج العلى",
+          "book_transliterated": "Ma'arij al-'Ula",
+          "standard_title_english": "Ma'arij al-'Ula fi Manaqib al-Murtada",
+          "author_arabic": "محمد صدر العالم",
+          "author_death_ah": null,
+          "schema": "F",
+          "book_type": "manaqib",
+          "citation_count": 1,
+          "contexts": [
+            "HADITH_SOURCE"
+          ],
+          "subject_scholars": []
+        },
+        {
+          "book_arabic": "مقدمة سنية",
+          "book_transliterated": "Muqaddima Sunniyya",
+          "standard_title_english": "al-Muqaddima al-Saniyya",
+          "author_arabic": "ولي الله العمري الدهلوي",
+          "author_death_ah": 1176,
+          "schema": "D",
+          "book_type": "sunni_polemical",
+          "citation_count": 1,
+          "contexts": [
+            "HADITH_SOURCE"
+          ],
+          "subject_scholars": []
+        },
+        {
+          "book_arabic": "قرة العينين",
+          "book_transliterated": "Qurrat al-'Aynayn",
+          "standard_title_english": "Qurrat al-'Aynayn fi Tafdil al-Shaykhayn",
+          "author_arabic": "ولي الله العمري الدهلوي",
+          "author_death_ah": 1176,
+          "schema": "D",
+          "book_type": "sunni_polemical",
+          "citation_count": 1,
+          "contexts": [
+            "HADITH_SOURCE"
+          ],
+          "subject_scholars": []
+        },
+        {
+          "book_arabic": "حسن العقيدة",
+          "book_transliterated": "Hasan al-'Aqida",
+          "standard_title_english": "Husn al-'Aqida",
+          "author_arabic": "ولي الله الدهلوي شهاب الدين أحمد بن عبد الرحيم",
+          "author_death_ah": 1176,
+          "schema": "F",
+          "book_type": "kalam",
+          "citation_count": 1,
+          "contexts": [
+            "HADITH_SOURCE"
+          ],
+          "subject_scholars": []
+        },
+        {
+          "book_arabic": "حاشية جامع الصغير",
+          "book_transliterated": "Hashiya Jama' al-Saghir",
+          "standard_title_english": "Hashiyat al-Hifni 'ala al-Jami' al-Saghir",
+          "author_arabic": "حفني",
+          "author_death_ah": null,
+          "schema": "E",
+          "book_type": "hashiyah",
+          "citation_count": 1,
+          "contexts": [
+            "HADITH_SOURCE"
+          ],
+          "subject_scholars": []
+        },
+        {
+          "book_arabic": "روضة الندية",
+          "book_transliterated": "Rawdat al-Nadiyya",
+          "standard_title_english": "al-Rawdah al-Nadiyyah",
+          "author_arabic": "محمد بن إسماعيل الأمير الشنقيطي",
+          "author_death_ah": null,
+          "schema": "F",
+          "book_type": "fiqh",
+          "citation_count": 1,
+          "contexts": [
+            "HADITH_SOURCE"
+          ],
+          "subject_scholars": []
+        },
+        {
+          "book_arabic": "الإصافة في سيرة المصطفى وفضائل أهل بيته الطاهرين",
+          "book_transliterated": "al-Isa'fa fi Sirat al-Mustafa wa Fada'il Ahl Baytihi al-Tahirin",
+          "standard_title_english": "Is'af al-Raghibin fi Sirat al-Mustafa wa Fada'il Ahl Baytihi al-Tahirin",
+          "author_arabic": "محمد بن علي الصبات المسرى",
+          "author_death_ah": null,
+          "schema": "F",
+          "book_type": "manaqib",
+          "citation_count": 1,
+          "contexts": [
+            "HADITH_SOURCE"
+          ],
+          "subject_scholars": []
+        },
+        {
+          "book_arabic": "دماج العروس",
+          "book_transliterated": "Dimaaj al-'Urus",
+          "standard_title_english": "Taj al-'Urus min Jawahir al-Qamus",
+          "author_arabic": "محمد هرتضى الزبيدي",
+          "author_death_ah": null,
+          "schema": "F",
+          "book_type": "lughah",
+          "citation_count": 1,
+          "contexts": [
+            "HADITH_SOURCE"
+          ],
+          "subject_scholars": []
+        },
+        {
+          "book_arabic": "وسيلة",
+          "book_transliterated": "Wasila",
+          "standard_title_english": "Wasilat al-Najat",
+          "author_arabic": "أبو الوفي محمد بن لكبنوي",
+          "author_death_ah": null,
+          "schema": "F",
+          "book_type": "manaqib",
+          "citation_count": 1,
+          "contexts": [
+            "HADITH_SOURCE"
+          ],
+          "subject_scholars": []
+        },
+        {
+          "book_arabic": "المشكاة",
+          "book_transliterated": "al-Mishkat",
+          "standard_title_english": "Mishkat al-Masabih",
+          "author_arabic": "الخطيب التبریزي والسكھاوي",
+          "author_death_ah": 741,
+          "schema": "B",
+          "book_type": "sunan",
+          "citation_count": 1,
+          "contexts": [
+            "HADITH_SOURCE"
+          ],
+          "subject_scholars": []
+        },
+        {
+          "book_arabic": "أصول الإيمان",
+          "book_transliterated": "Usul al-Iman",
+          "standard_title_english": "Usul al-Iman",
+          "author_arabic": "محمد سالم دهلوي البخاري",
+          "author_death_ah": null,
+          "schema": "F",
+          "book_type": "kalam",
+          "citation_count": 1,
+          "contexts": [
+            "HADITH_SOURCE"
+          ],
+          "subject_scholars": []
+        },
+        {
+          "book_arabic": "تفريح الأحباب في مناقب الآل والأصحاب",
+          "book_transliterated": "Tafrih al-Ahabb fi Manaqib al-Al wa al-Ashab",
+          "standard_title_english": "Tafrih al-Ahbab fi Manaqib al-Al wa al-Ashab",
+          "author_arabic": "جمال الدين محمد بن عبد العلي القرشي الهاشمي",
+          "author_death_ah": null,
+          "schema": "F",
+          "book_type": "manaqib",
+          "citation_count": 1,
+          "contexts": [
+            "HADITH_SOURCE"
+          ],
+          "subject_scholars": []
+        },
+        {
+          "book_arabic": "مرآة المؤمن آل سيد المرسلين",
+          "book_transliterated": "Mira'at al-Mu'min Ahl Sayyid al-Mursalin",
+          "standard_title_english": "Mir'at al-Mu'minin fi Manaqib Ahl Bayt Sayyid al-Mursalin",
+          "author_arabic": "ولي الله لكهنوي",
+          "author_death_ah": null,
+          "schema": "F",
+          "book_type": "manaqib",
+          "citation_count": 1,
+          "contexts": [
+            "HADITH_SOURCE"
+          ],
+          "subject_scholars": []
+        },
+        {
+          "book_arabic": "الحق المبين في فضائل أهل بيت سيد المرسلين",
+          "book_transliterated": "al-Haqq al-Mubin fi Fada'il Ahl Bayt Sayyid al-Mursalin",
+          "standard_title_english": "al-Haqq al-Mubin fi Fada'il Ahl Bayt Sayyid al-Mursalin",
+          "author_arabic": "رشيد الدين خان دهلوي",
+          "author_death_ah": null,
+          "schema": "F",
+          "book_type": "manaqib",
+          "citation_count": 1,
+          "contexts": [
+            "HADITH_SOURCE"
+          ],
+          "subject_scholars": []
+        },
+        {
+          "book_arabic": "فتح العزيز",
+          "book_transliterated": "Fath al-Aziz",
+          "standard_title_english": "Tafsir Fath al-Aziz",
+          "author_arabic": "رشيد الدين خان دهلوي",
+          "author_death_ah": null,
+          "schema": "F",
+          "book_type": "tafsir",
+          "citation_count": 1,
+          "contexts": [
+            "HADITH_SOURCE"
+          ],
+          "subject_scholars": []
+        },
+        {
+          "book_arabic": "أخيرة العقبى في ذكر فضائل أئمة الهدى",
+          "book_transliterated": "'Ukhayrat al-'Uqba fi Dhikr Fada'il A'immat al-Huda",
+          "standard_title_english": "Dhakhirat al-'Uqba fi Dhikr Fada'il A'immat al-Huda",
+          "author_arabic": "عاشق علي خان دهلوي",
+          "author_death_ah": null,
+          "schema": "F",
+          "book_type": "manaqib",
+          "citation_count": 1,
+          "contexts": [
+            "HADITH_SOURCE"
+          ],
+          "subject_scholars": []
+        },
+        {
+          "book_arabic": "مشارق الأنوار في أحوال أهل الاعتبار",
+          "book_transliterated": "Mashariq al-Anwar fi Ahwal Ahl al-I'tibar",
+          "standard_title_english": "Mashariq al-Anwar fi Fawz Ahl al-I'tibar",
+          "author_arabic": "حسن عدوي حمزاوي معاصر",
+          "author_death_ah": null,
+          "schema": "F",
+          "book_type": "manaqib",
+          "citation_count": 1,
+          "contexts": [
+            "HADITH_SOURCE"
+          ],
+          "subject_scholars": []
+        },
+        {
+          "book_arabic": "الفتح المبين",
+          "book_transliterated": "al-Fath al-Mubin",
+          "standard_title_english": "al-Fath al-Mubin fi Fada'il al-Khulafa' al-Rashidin",
+          "author_arabic": "أحمد بن زيني دحلان معاصر",
+          "author_death_ah": 1305,
+          "schema": "F",
+          "book_type": "manaqib",
+          "citation_count": 1,
+          "contexts": [
+            "HADITH_SOURCE"
+          ],
+          "subject_scholars": []
+        },
+        {
+          "book_arabic": "نور الأبصار",
+          "book_transliterated": "Nur al-Absar",
+          "standard_title_english": "Nur al-Absar fi Manaqib Al Bayt al-Nabi al-Mukhtar",
+          "author_arabic": "شبلنجي معاصر",
+          "author_death_ah": null,
+          "schema": "F",
+          "book_type": "manaqib",
+          "citation_count": 1,
+          "contexts": [
+            "HADITH_SOURCE"
+          ],
+          "subject_scholars": []
+        },
+        {
+          "book_arabic": "المعجم الأوسط",
+          "book_transliterated": "al-Mu'jam al-Awsat",
+          "standard_title_english": "al-Mu'jam al-Awsat",
+          "author_arabic": "الطبراني أبو القاسم سليمان بن أحمد",
+          "author_death_ah": 360,
+          "schema": "B",
+          "book_type": "mujam",
+          "citation_count": 1,
+          "contexts": [
+            "HADITH_SOURCE"
+          ],
+          "subject_scholars": []
+        },
+        {
+          "book_arabic": "الشافي",
+          "book_transliterated": "al-Shafi",
+          "standard_title_english": "al-Mu'jam al-Saghir",
+          "author_arabic": "الطبراني أبو القاسم سليمان بن أحمد",
+          "author_death_ah": 360,
+          "schema": "B",
+          "book_type": "mujam",
+          "citation_count": 1,
+          "contexts": [
+            "HADITH_SOURCE"
+          ],
+          "subject_scholars": []
+        },
+        {
+          "book_arabic": "فصول المبقى",
+          "book_transliterated": "Fusul al-Mubqa",
+          "standard_title_english": "al-Fusul al-Muhimmah fi Ma'rifat al-A'immah",
+          "author_arabic": "المالكي",
+          "author_death_ah": null,
+          "schema": "F",
+          "book_type": "manaqib",
+          "citation_count": 1,
+          "contexts": [
+            "HADITH_SOURCE"
+          ],
+          "subject_scholars": []
+        },
+        {
+          "book_arabic": "الدر المنثور",
+          "book_transliterated": "al-Durr al-Manthur",
+          "standard_title_english": "Al-Durr al-Manthur fi al-Tafsir bi al-Ma'thur",
+          "author_arabic": "السيوطي جلال الدين عبد الرحمن بن أبي بكر",
+          "author_death_ah": 911,
+          "schema": "F",
+          "book_type": "tafsir",
+          "citation_count": 1,
+          "contexts": [
+            "HADITH_SOURCE"
+          ],
+          "subject_scholars": []
+        },
+        {
+          "book_arabic": "كنز العقال",
+          "book_transliterated": "Kanz al-'Uqal",
+          "standard_title_english": "Kanz al-'Ummal",
+          "author_arabic": "السيوطي جلال الدين عبد الرحمن بن أبي بكر",
+          "author_death_ah": 911,
+          "schema": "B",
+          "book_type": "musannaf",
+          "citation_count": 1,
+          "contexts": [
+            "HADITH_SOURCE"
+          ],
+          "subject_scholars": []
+        },
+        {
+          "book_arabic": "تاريخ اليعقوبي",
+          "book_transliterated": "Tarikh al-Ya'qubi",
+          "standard_title_english": "Tarikh al-Ya'qubi",
+          "author_arabic": "أحمد بن أبي إسحاق بن جعفر بن وهب بن واضح اليعقوبي",
+          "author_death_ah": 284,
+          "schema": "F",
+          "book_type": "tarikh_general",
+          "citation_count": 1,
+          "contexts": [
+            "HADITH_SOURCE"
+          ],
+          "subject_scholars": []
+        },
+        {
+          "book_arabic": "تذكرة الخواص",
+          "book_transliterated": "Tadhkirat al-Khawass",
+          "standard_title_english": "Tadhkirat al-Khawass",
+          "author_arabic": "سبط ابن الجوزي يوسف بن قزلغلي البغدادي الحنفي",
+          "author_death_ah": 654,
+          "schema": "F",
+          "book_type": "manaqib",
+          "citation_count": 1,
+          "contexts": [
+            "HADITH_SOURCE"
+          ],
+          "subject_scholars": []
+        },
+        {
+          "book_arabic": "كفاية المحجوب لأرباب القلوص",
+          "book_transliterated": "Kifayat al-Mahjub li-Arbab al-Qulub",
+          "standard_title_english": "Kashf al-Mahjub",
+          "author_arabic": "أبو الحسن على بن عثمان النزنوي",
+          "author_death_ah": null,
+          "schema": "F",
+          "book_type": "unknown",
+          "citation_count": 1,
+          "contexts": [
+            "HADITH_SOURCE"
+          ],
+          "subject_scholars": []
+        },
+        {
+          "book_arabic": "موقع الإيمان",
+          "book_transliterated": "Muqam al-Iman",
+          "standard_title_english": "Muqam al-Iman",
+          "author_arabic": "سيد علي همداني",
+          "author_death_ah": 786,
+          "schema": "F",
+          "book_type": "unknown",
+          "citation_count": 1,
+          "contexts": [
+            "HADITH_SOURCE"
+          ],
+          "subject_scholars": []
+        },
+        {
+          "book_arabic": "مسند الغردوس",
+          "book_transliterated": "Musnad al-Firdaws (Firdaws Kabir)",
+          "standard_title_english": "Musnad al-Firdaws",
+          "author_arabic": "أبو منصور شهردارين شيرويه الديلمي",
+          "author_death_ah": null,
+          "schema": "B",
+          "book_type": "musnad",
+          "citation_count": 1,
+          "contexts": [
+            "HADITH_SOURCE"
+          ],
+          "subject_scholars": []
+        },
+        {
+          "book_arabic": "سنن الترمذي",
+          "book_transliterated": "Sunan al-Tirmidhi",
+          "standard_title_english": "Sunan al-Tirmidhi",
+          "author_arabic": "محمد بن عيسى بن سورة الترمذي",
+          "author_death_ah": 279,
+          "schema": "B",
+          "book_type": "sunan",
+          "citation_count": 1,
+          "contexts": [
+            "HADITH_SOURCE"
+          ],
+          "subject_scholars": []
+        },
+        {
+          "book_arabic": "مصنف ابن أبي شيبة",
+          "book_transliterated": "Musannaf Ibn Abi Shaybah",
+          "standard_title_english": "Musannaf Ibn Abi Shaybah",
+          "author_arabic": "عبد الله بن محمد بن أبي شيبة",
+          "author_death_ah": 235,
+          "schema": "B",
+          "book_type": "musannaf",
+          "citation_count": 1,
+          "contexts": [
+            "HADITH_SOURCE"
+          ],
+          "subject_scholars": []
+        },
+        {
+          "book_arabic": "فتح الباري",
+          "book_transliterated": "Fath al-Bari",
+          "standard_title_english": "Fath al-Bari Sharh Sahih al-Bukhari",
+          "author_arabic": "إسماعيل بن عمر بن كثير الشامي",
+          "author_death_ah": 774,
+          "schema": "E",
+          "book_type": "sharh",
+          "citation_count": 1,
+          "contexts": [
+            "HADITH_SOURCE"
+          ],
+          "subject_scholars": []
+        },
+        {
+          "book_arabic": "عمدة القاري",
+          "book_transliterated": "ʿUmdat al-Qari",
+          "standard_title_english": "Umdat al-Qari Sharh Sahih al-Bukhari",
+          "author_arabic": "بدر الدين محمود بن أحمد العيني الحنفي",
+          "author_death_ah": 855,
+          "schema": "E",
+          "book_type": "sharh",
+          "citation_count": 1,
+          "contexts": [
+            "HADITH_SOURCE"
+          ],
+          "subject_scholars": []
+        },
+        {
+          "book_arabic": "إرشاد الشاري",
+          "book_transliterated": "Irshad al-Shari",
+          "standard_title_english": "Irshad al-Sari li-Sharh Sahih al-Bukhari",
+          "author_arabic": "أحمد بن محمد القسطلاني",
+          "author_death_ah": 923,
+          "schema": "E",
+          "book_type": "sharh",
+          "citation_count": 1,
+          "contexts": [
+            "HADITH_SOURCE"
+          ],
+          "subject_scholars": []
+        },
+        {
+          "book_arabic": "الموضوعات",
+          "book_transliterated": "al-Mawduʿat",
+          "standard_title_english": "al-Mawdu'at",
+          "author_arabic": "أبو الفرج عبد الرحمن بن علي بن الجوزي",
+          "author_death_ah": 597,
+          "schema": "B",
+          "book_type": "juz",
+          "citation_count": 1,
+          "contexts": [
+            "HADITH_SOURCE"
+          ],
+          "subject_scholars": [
+            "الحسن بن علي صاحب العسكري"
+          ]
+        },
+        {
+          "book_arabic": "اللآلئ المستوعبة",
+          "book_transliterated": "al-Laʾliʾ al-Mus tawʿaba",
+          "standard_title_english": "al-La'ali' al-Masnu'a fi al-Ahadith al-Mawdu'a",
+          "author_arabic": "جلال الدين عبد الرحمن بن أبي بكر السيوطي",
+          "author_death_ah": 911,
+          "schema": "B",
+          "book_type": "juz",
+          "citation_count": 1,
+          "contexts": [
+            "HADITH_SOURCE"
+          ],
+          "subject_scholars": [
+            "الحسن بن علي صاحب العسكري"
+          ]
+        },
+        {
+          "book_arabic": "اختصار تنزيه القريمة",
+          "book_transliterated": "Ikhtisar Tanz ih al-Qurima",
+          "standard_title_english": "Mukhtasar Tanzih al-Shari'a al-Marfu'a",
+          "author_arabic": "رحمة الله بن أحمد السندي",
+          "author_death_ah": 1303,
+          "schema": "B",
+          "book_type": "juz",
+          "citation_count": 1,
+          "contexts": [
+            "HADITH_SOURCE"
+          ],
+          "subject_scholars": []
+        },
+        {
+          "book_arabic": "ذيل تاريخ بغداد",
+          "book_transliterated": "Dhayl Tarikh Baghdad",
+          "standard_title_english": "",
+          "author_arabic": "ابو عبد الله محمد بن الحسن بن هبة الله البغدادي",
+          "author_death_ah": 749,
+          "schema": "?",
+          "book_type": "?",
+          "citation_count": 1,
+          "contexts": [
+            "HADITH_SOURCE"
+          ],
+          "subject_scholars": [
+            "حسن بن أحمد المحمدي"
+          ]
+        },
+        {
+          "book_arabic": "عقائد الإمام الحسين",
+          "book_transliterated": "Uqayd al-Imam al-Husayn",
+          "standard_title_english": "",
+          "author_arabic": "شيخ بن عبد الله بن شيخ بن عبد الوهاب المدراس اليمني",
+          "author_death_ah": null,
+          "schema": "?",
+          "book_type": "?",
+          "citation_count": 1,
+          "contexts": [
+            "HADITH_SOURCE"
+          ],
+          "subject_scholars": []
+        },
+        {
+          "book_arabic": "ذخائر العقبى",
+          "book_transliterated": "Dhakhā'ir al-Uqbā",
+          "standard_title_english": "",
+          "author_arabic": "محب الدين الطبري",
+          "author_death_ah": 694,
+          "schema": "?",
+          "book_type": "?",
+          "citation_count": 1,
+          "contexts": [
+            "HADITH_SOURCE"
+          ],
+          "subject_scholars": []
+        },
+        {
+          "book_arabic": "إسعاف الراغبين في سيرة المصطفى وفضائل أهل بيته الطاهرين",
+          "book_transliterated": "I'saf al-Raghibin fi Sirat al-Mustafa wa Fada'il Ahl Baytihi al-Tahir",
+          "standard_title_english": "",
+          "author_arabic": "محمد بن يوسف السبّان المالكي",
+          "author_death_ah": 1206,
+          "schema": "?",
+          "book_type": "?",
+          "citation_count": 1,
+          "contexts": [
+            "HADITH_SOURCE"
+          ],
+          "subject_scholars": []
+        },
+        {
+          "book_arabic": "وسيلة النجاة",
+          "book_transliterated": "Wasilat al-Najat",
+          "standard_title_english": "",
+          "author_arabic": "ملا مبين",
+          "author_death_ah": null,
+          "schema": "?",
+          "book_type": "?",
+          "citation_count": 1,
+          "contexts": [
+            "HADITH_SOURCE"
+          ],
+          "subject_scholars": []
+        },
+        {
+          "book_arabic": "العرائس في تفسير الآيات",
+          "book_transliterated": "al-Arays fi Tafsir al-Ayat",
+          "standard_title_english": "",
+          "author_arabic": "أبو إسحاق أحمد بن محمد بن إبراهيم الثعلبي النيسابوري",
+          "author_death_ah": 427,
+          "schema": "?",
+          "book_type": "?",
+          "citation_count": 1,
+          "contexts": [
+            "HADITH_SOURCE"
+          ],
+          "subject_scholars": []
+        },
+        {
+          "book_arabic": "الخصائص العلوية على سائر البرية",
+          "book_transliterated": "al-Khasa'is al-UlwiYYa ala Sayr al-Bariyya",
+          "standard_title_english": "",
+          "author_arabic": "أبو الفتح عُدْبْن على بن إبراهيم الطنزي",
+          "author_death_ah": null,
+          "schema": "?",
+          "book_type": "?",
+          "citation_count": 1,
+          "contexts": [
+            "HADITH_SOURCE"
+          ],
+          "subject_scholars": []
+        },
+        {
+          "book_arabic": "ذيل تاريخ الخطيب",
+          "book_transliterated": "Dhayl Tarikh al-Khatib",
+          "standard_title_english": "",
+          "author_arabic": "محتال الدين محمد بن محمود البغدادي ابن التقي",
+          "author_death_ah": 707,
+          "schema": "?",
+          "book_type": "?",
+          "citation_count": 1,
+          "contexts": [
+            "HADITH_SOURCE"
+          ],
+          "subject_scholars": []
+        },
+        {
+          "book_arabic": "روشة الأحباب",
+          "book_transliterated": "Rawdat al-Ahbab",
+          "standard_title_english": "",
+          "author_arabic": "عبد بن خاوند شاه بن محمود البروجردي",
+          "author_death_ah": null,
+          "schema": "?",
+          "book_type": "?",
+          "citation_count": 1,
+          "contexts": [
+            "HADITH_SOURCE"
+          ],
+          "subject_scholars": []
+        },
+        {
+          "book_arabic": "حبيب السير",
+          "book_transliterated": "Habib al-Siyar",
+          "standard_title_english": "",
+          "author_arabic": "غياث الدين بن همام الدين الحسيني المدعوي خواجة",
+          "author_death_ah": null,
+          "schema": "?",
+          "book_type": "?",
+          "citation_count": 1,
+          "contexts": [
+            "HADITH_SOURCE"
+          ],
+          "subject_scholars": []
+        },
+        {
+          "book_arabic": "هداية التغدا",
+          "book_transliterated": "Hidayat al-Taghda",
+          "standard_title_english": "",
+          "author_arabic": "شهاب الدين ذوالتنايا",
+          "author_death_ah": null,
+          "schema": "?",
+          "book_type": "?",
+          "citation_count": 1,
+          "contexts": [
+            "HADITH_SOURCE"
+          ],
+          "subject_scholars": []
+        },
+        {
+          "book_arabic": "هداية السعدا",
+          "book_transliterated": "Hidayat al-Sa'ada",
+          "standard_title_english": "Hidayat al-Su'ada",
+          "author_arabic": "شهاب الدين دولت آبادي",
+          "author_death_ah": null,
+          "schema": "F",
+          "book_type": "manaqib",
+          "citation_count": 1,
+          "contexts": [
+            "HADITH_SOURCE"
+          ],
+          "subject_scholars": []
+        },
+        {
+          "book_arabic": "تفسير سورة يوسف",
+          "book_transliterated": "Tafsir Surah Yusuf",
+          "standard_title_english": "",
+          "author_arabic": "إمام ضياء الحق والدين الشنامي",
+          "author_death_ah": null,
+          "schema": "?",
+          "book_type": "?",
+          "citation_count": 1,
+          "contexts": [
+            "HADITH_SOURCE"
+          ],
+          "subject_scholars": []
+        },
+        {
+          "book_arabic": "الفضائل",
+          "book_transliterated": "al-Fada'il",
+          "standard_title_english": "",
+          "author_arabic": "علي بن أبي بكر الدارقطني",
+          "author_death_ah": 385,
+          "schema": "?",
+          "book_type": "?",
+          "citation_count": 1,
+          "contexts": [
+            "HADITH_SOURCE"
+          ],
+          "subject_scholars": []
+        },
+        {
+          "book_arabic": "مناقب المطهرين",
+          "book_transliterated": "Manaqib al-Mutahharin",
+          "standard_title_english": "",
+          "author_arabic": "أبو نعيم أحمد بن عبد الله الأصبهاني",
+          "author_death_ah": 430,
+          "schema": "?",
+          "book_type": "?",
+          "citation_count": 1,
+          "contexts": [
+            "HADITH_SOURCE"
+          ],
+          "subject_scholars": []
+        },
+        {
+          "book_arabic": "التدوين",
+          "book_transliterated": "al-Tadwin",
+          "standard_title_english": "",
+          "author_arabic": "عبد الكريم بن محمد الرافعي القائمي",
+          "author_death_ah": null,
+          "schema": "?",
+          "book_type": "?",
+          "citation_count": 1,
+          "contexts": [
+            "HADITH_SOURCE"
+          ],
+          "subject_scholars": []
+        },
+        {
+          "book_arabic": "كنز العمال",
+          "book_transliterated": "Kanz al-Ummal",
+          "standard_title_english": "",
+          "author_arabic": "ملا علي المقتبس المكي",
+          "author_death_ah": 975,
+          "schema": "?",
+          "book_type": "?",
+          "citation_count": 1,
+          "contexts": [
+            "HADITH_SOURCE"
+          ],
+          "subject_scholars": []
+        },
+        {
+          "book_arabic": "تسديق الإشارة إلى تعميم البشارة",
+          "book_transliterated": "Tasdiq al-Ishara ila Ta'mim al-Bashara",
+          "standard_title_english": "",
+          "author_arabic": "عبد الحق الدهلوي",
+          "author_death_ah": 1052,
+          "schema": "?",
+          "book_type": "?",
+          "citation_count": 1,
+          "contexts": [
+            "HADITH_SOURCE"
+          ],
+          "subject_scholars": []
+        },
+        {
+          "book_arabic": "المسند الكبير",
+          "book_transliterated": "al-Musnad al-Kabir",
+          "standard_title_english": "",
+          "author_arabic": "أبو القاسم الطبراني",
+          "author_death_ah": 360,
+          "schema": "?",
+          "book_type": "?",
+          "citation_count": 1,
+          "contexts": [
+            "HADITH_SOURCE"
+          ],
+          "subject_scholars": []
+        },
+        {
+          "book_arabic": "رجال مشكاة",
+          "book_transliterated": "Rijal Mashkawat",
+          "standard_title_english": "Rijal Mishkat al-Masabih",
+          "author_arabic": "شيخ عبد الحق الدهلوي",
+          "author_death_ah": 1052,
+          "schema": "A",
+          "book_type": "jarh_tadil",
+          "citation_count": 1,
+          "contexts": [
+            "HADITH_SOURCE"
+          ],
+          "subject_scholars": []
+        },
+        {
+          "book_arabic": "شرح نهج البلاغة",
+          "book_transliterated": "Sharh Nahj al-Balagha",
+          "standard_title_english": "",
+          "author_arabic": "ابن أبي الحديد المدائني",
+          "author_death_ah": 656,
+          "schema": "?",
+          "book_type": "?",
+          "citation_count": 1,
+          "contexts": [
+            "HADITH_SOURCE"
+          ],
+          "subject_scholars": []
+        },
+        {
+          "book_arabic": "ذيل المذيل",
+          "book_transliterated": "Dhayl al-Mudhayyal",
+          "standard_title_english": "",
+          "author_arabic": "أبو جعفر محمد بن جرير الطبري",
+          "author_death_ah": 310,
+          "schema": "?",
+          "book_type": "?",
+          "citation_count": 1,
+          "contexts": [
+            "HADITH_SOURCE"
+          ],
+          "subject_scholars": []
+        },
+        {
+          "book_arabic": "فوائد مجموعة في الأحاديث الموضوعة",
+          "book_transliterated": "Fawa'id Majmu'ah fi al-Ahadith al-Mawdu'ah",
+          "standard_title_english": "",
+          "author_arabic": "محمد بن علي الشوكاني",
+          "author_death_ah": 1250,
+          "schema": "?",
+          "book_type": "?",
+          "citation_count": 1,
+          "contexts": [
+            "HADITH_SOURCE"
+          ],
+          "subject_scholars": []
+        },
+        {
+          "book_arabic": "فيض القدير شرح الجامع الصغير",
+          "book_transliterated": "Fayd al-Qadir Sharh al-Jami' al-Saghir",
+          "standard_title_english": "",
+          "author_arabic": "عبد الرؤوف بن تاج العارفين المناوي",
+          "author_death_ah": 1031,
+          "schema": "?",
+          "book_type": "?",
+          "citation_count": 1,
+          "contexts": [
+            "HADITH_SOURCE"
+          ],
+          "subject_scholars": []
+        },
+        {
+          "book_arabic": "قانون الموضوعات",
+          "book_transliterated": "Qanun al-Mawdu'at",
+          "standard_title_english": "Qanun al-Mawdu'at wa al-Du'afa",
+          "author_arabic": "محمد بن طاهر الفتني",
+          "author_death_ah": 986,
+          "schema": "A",
+          "book_type": "jarh_tadil",
+          "citation_count": 1,
+          "contexts": [
+            "HADITH_SOURCE"
+          ],
+          "subject_scholars": []
+        },
+        {
+          "book_arabic": "قصص الأنبياء",
+          "book_transliterated": "Qisas al-Anbiya",
+          "standard_title_english": "Qisas al-Anbiya'",
+          "author_arabic": "محمد بن عبد الله الكسائي",
+          "author_death_ah": 480,
+          "schema": "F",
+          "book_type": "tarikh_general",
+          "citation_count": 1,
+          "contexts": [
+            "HADITH_SOURCE"
+          ],
+          "subject_scholars": []
+        },
+        {
+          "book_arabic": "كاشف شرح مشكاة",
+          "book_transliterated": "Kashif Sharh Mishkat",
+          "standard_title_english": "",
+          "author_arabic": "حسن بن محمد الطيبي",
+          "author_death_ah": 743,
+          "schema": "?",
+          "book_type": "?",
+          "citation_count": 1,
+          "contexts": [
+            "HADITH_SOURCE"
+          ],
+          "subject_scholars": []
+        },
+        {
+          "book_arabic": "الكامل في التاريخ",
+          "book_transliterated": "al-Kamil fi al-Tarikh",
+          "standard_title_english": "",
+          "author_arabic": "عز الدين علي بن محمد بن الأثير الجزري",
+          "author_death_ah": 630,
+          "schema": "?",
+          "book_type": "?",
+          "citation_count": 1,
+          "contexts": [
+            "HADITH_SOURCE"
+          ],
+          "subject_scholars": []
+        },
+        {
+          "book_arabic": "الكشاف عن حقائق غوامض التنزيل",
+          "book_transliterated": "al-Kashshaf 'an Haqa'iq Ghawamid al-Tanzil",
+          "standard_title_english": "",
+          "author_arabic": "جار الله محمود بن عمر الزمخشري",
+          "author_death_ah": 538,
+          "schema": "?",
+          "book_type": "?",
+          "citation_count": 1,
+          "contexts": [
+            "HADITH_SOURCE"
+          ],
+          "subject_scholars": []
+        },
+        {
+          "book_arabic": "الكشف والبيان عن تفسير القرآن",
+          "book_transliterated": "al-Kashf wa al-Bayan 'an Tafsir al-Qur'an",
+          "standard_title_english": "",
+          "author_arabic": "أبو إسحاق أحمد بن محمد الثعلبي",
+          "author_death_ah": 427,
+          "schema": "?",
+          "book_type": "?",
+          "citation_count": 1,
+          "contexts": [
+            "HADITH_SOURCE"
+          ],
+          "subject_scholars": []
+        },
+        {
+          "book_arabic": "كنز العمال في سنن الأقوال والأفعال",
+          "book_transliterated": "Kanz al-Ummal fi Sunan al-Aqwal wa al-Af'al",
+          "standard_title_english": "",
+          "author_arabic": "علاء الدين علي المتقي الهندي",
+          "author_death_ah": 975,
+          "schema": "?",
+          "book_type": "?",
+          "citation_count": 1,
+          "contexts": [
+            "HADITH_SOURCE"
+          ],
+          "subject_scholars": []
+        },
+        {
+          "book_arabic": "كواكب دراري شرح صحيح البخاري",
+          "book_transliterated": "Kawakib al-Darari Sharh Sahih al-Bukhari",
+          "standard_title_english": "",
+          "author_arabic": "محمد بن يوسف الكرماني",
+          "author_death_ah": 786,
+          "schema": "?",
+          "book_type": "?",
+          "citation_count": 1,
+          "contexts": [
+            "HADITH_SOURCE"
+          ],
+          "subject_scholars": []
+        },
+        {
+          "book_arabic": "كوكب دري شرح جامع صغير",
+          "book_transliterated": "Kawkab Durri Sharh Jami' Saghir",
+          "standard_title_english": "",
+          "author_arabic": "شمس الدين محمد بن علقمة",
+          "author_death_ah": 900,
+          "schema": "?",
+          "book_type": "?",
+          "citation_count": 1,
+          "contexts": [
+            "HADITH_SOURCE"
+          ],
+          "subject_scholars": []
+        },
+        {
+          "book_arabic": "لباب التأويل في معاني التنزيل",
+          "book_transliterated": "Lubab al-Ta'wil fi Ma'ani al-Tanzil",
+          "standard_title_english": "",
+          "author_arabic": "علاء الدين علي بن محمد الخازن البغدادي",
+          "author_death_ah": 741,
+          "schema": "?",
+          "book_type": "?",
+          "citation_count": 1,
+          "contexts": [
+            "HADITH_SOURCE"
+          ],
+          "subject_scholars": []
+        },
+        {
+          "book_arabic": "لمعات شرح مشكاة",
+          "book_transliterated": "Lama'at Sharh Mishkat",
+          "standard_title_english": "",
+          "author_arabic": "عبد الحق الدهلوي",
+          "author_death_ah": 1052,
+          "schema": "?",
+          "book_type": "?",
+          "citation_count": 1,
+          "contexts": [
+            "HADITH_SOURCE"
+          ],
+          "subject_scholars": []
+        },
+        {
+          "book_arabic": "طرق حديث إني تارك فيكم الثقلين",
+          "book_transliterated": "Turq Hadith Inni Tarik Fikum al-Thaqalayn",
+          "standard_title_english": "",
+          "author_arabic": "محمد بن طاهر المقدسي القيسراني",
+          "author_death_ah": 507,
+          "schema": "?",
+          "book_type": "?",
+          "citation_count": 1,
+          "contexts": [
+            "HADITH_SOURCE"
+          ],
+          "subject_scholars": []
+        },
+        {
+          "book_arabic": "رسالة في الثقلين والتكلم في تعيين الأكبر منهما",
+          "book_transliterated": "Risalah fi al-Thuqlayn wa al-Takallum fi Ta'yin al-Akbar Minhum",
+          "standard_title_english": "",
+          "author_arabic": "سيد محمد باقر الرضوي القمي",
+          "author_death_ah": 1170,
+          "schema": "?",
+          "book_type": "?",
+          "citation_count": 1,
+          "contexts": [
+            "HADITH_SOURCE"
+          ],
+          "subject_scholars": []
+        },
+        {
+          "book_arabic": "تعيين الثقل الأكبر",
+          "book_transliterated": "Ta'yin al-Thaql al-Akbar",
+          "standard_title_english": "",
+          "author_arabic": "ميرزا يحيى بن ميرزا شفيع أصفهاوي",
+          "author_death_ah": 1210,
+          "schema": "?",
+          "book_type": "?",
+          "citation_count": 1,
+          "contexts": [
+            "HADITH_SOURCE"
+          ],
+          "subject_scholars": []
+        },
+        {
+          "book_arabic": "المفاضلة بين الثقلين: القرآن والعترة",
+          "book_transliterated": "al-Mufadalah bayn al-Thaqalayn: al-Qur'an wa al-`Itra",
+          "standard_title_english": "",
+          "author_arabic": "ميرزا محمد باقر بن شيخ حسين علي الشريف الإيراني الأصفهاني",
+          "author_death_ah": 1301,
+          "schema": "?",
+          "book_type": "?",
+          "citation_count": 1,
+          "contexts": [
+            "HADITH_SOURCE"
+          ],
+          "subject_scholars": []
+        },
+        {
+          "book_arabic": "موسمائية نفيس",
+          "book_transliterated": "Mawsamiyyah Nafis",
+          "standard_title_english": "",
+          "author_arabic": "آقا ميرزا أبو القاسم دانش آشتياني",
+          "author_death_ah": null,
+          "schema": "?",
+          "book_type": "?",
+          "citation_count": 1,
+          "contexts": [
+            "HADITH_SOURCE"
+          ],
+          "subject_scholars": []
+        },
+        {
+          "book_arabic": "حديث ثقلين",
+          "book_transliterated": "Hadith Thaqlayn",
+          "standard_title_english": "",
+          "author_arabic": "آقا سيد قوام الدين وشتوي",
+          "author_death_ah": null,
+          "schema": "?",
+          "book_type": "?",
+          "citation_count": 1,
+          "contexts": [
+            "HADITH_SOURCE"
+          ],
+          "subject_scholars": []
+        }
+      ]
+    },
+    "authentication": {
+      "description": "Rijal/jarh books establishing narrator reliability",
+      "total_books": 81,
+      "total_citations": 109,
+      "books": [
+        {
+          "book_arabic": "تهذيب التهذيب",
+          "book_transliterated": "Tahdhib al-Tahdhib",
+          "standard_title_english": "Tahdhib al-Tahdhib",
+          "author_arabic": "شهاب الدين أحمد بن علي بن محمد بن حجر العسقلاني",
+          "author_death_ah": 852,
+          "schema": "A",
+          "book_type": "jarh_tadil",
+          "citation_count": 6,
+          "contexts": [
+            "AUTHOR_TAJRIH",
+            "AUTHOR_TAWTHIQ"
+          ],
+          "subject_scholars": [
+            "الإمام جعفر الصادق",
+            "الإمام علي الرضا",
+            "الإمام موسى الكاظم",
+            "علي بن الحسين زين العابدين",
+            "نبيط بن شريط"
+          ]
+        },
+        {
+          "book_arabic": "طبقات الشافعية",
+          "book_transliterated": "Tabaqat al-Shafi'iyyah",
+          "standard_title_english": "Tabaqat al-Shafi'iyya",
+          "author_arabic": "تاج الدين السبكي أبو نصر عبد الوهاب بن علي",
+          "author_death_ah": 771,
+          "schema": "A",
+          "book_type": "tabaqat",
+          "citation_count": 5,
+          "contexts": [
+            "AUTHOR_TAJRIH",
+            "AUTHOR_TAWTHIQ"
+          ],
+          "subject_scholars": [
+            "ابو عبد الله محمد بن الحسن بن هبة الله البغدادي",
+            "عد بن نصر المروزي"
+          ]
+        },
+        {
+          "book_arabic": "منهاج السنة",
+          "book_transliterated": "Minhaj al-Sunna",
+          "standard_title_english": "Minhaj al-Sunnah al-Nabawiyyah",
+          "author_arabic": "تقي الدين أبو العباس أحمد بن عبد الحليم بن عبد السلام ابن تيمية",
+          "author_death_ah": 728,
+          "schema": "D",
+          "book_type": "sunni_polemical",
+          "citation_count": 5,
+          "contexts": [
+            "AUTHOR_TAJRIH"
+          ],
+          "subject_scholars": [
+            "الإمام علي الرضا",
+            "الإمام محمد الباقر",
+            "الإمام موسى الكاظم",
+            "الحسن العسكري",
+            "علي بن الحسين زين العابدين"
+          ]
+        },
+        {
+          "book_arabic": "ميزان الاعتدال",
+          "book_transliterated": "Mizan al-Iʿtidal",
+          "standard_title_english": "Mizan al-I'tidal fi Naqd al-Rijal",
+          "author_arabic": "شمس الدين محمد بن أحمد بن عثمان الذهبي",
+          "author_death_ah": 748,
+          "schema": "A",
+          "book_type": "jarh_tadil",
+          "citation_count": 4,
+          "contexts": [
+            "AUTHOR_TAJRIH"
+          ],
+          "subject_scholars": [
+            "الإمام جعفر الصادق",
+            "الإمام علي الرضا",
+            "الإمام موسى الكاظم",
+            "مروان بن الحكم"
+          ]
+        },
+        {
+          "book_arabic": "أعيان الشيعة",
+          "book_transliterated": "A'yan al-Shi'ah",
+          "standard_title_english": "A'yan al-Shi'ah",
+          "author_arabic": "سید محسن الأمين",
+          "author_death_ah": 1371,
+          "schema": "A",
+          "book_type": "biographical",
+          "citation_count": 4,
+          "contexts": [
+            "AUTHOR_TAWTHIQ"
+          ],
+          "subject_scholars": [
+            "سيد حامد حسين",
+            "سيد علي قلى",
+            "سيد ناصر حسين",
+            "ميرزا عدن عثمان أحمد خان الكشميري"
+          ]
+        },
+        {
+          "book_arabic": "رجال مشكاة",
+          "book_transliterated": "Rijal Mishkat",
+          "standard_title_english": "Rijal Mishkat al-Masabih",
+          "author_arabic": "عبد الحق بن سيف الدين الدهلوي",
+          "author_death_ah": 1052,
+          "schema": "A",
+          "book_type": "jarh_tadil",
+          "citation_count": 3,
+          "contexts": [
+            "AUTHOR_TAJRIH",
+            "AUTHOR_TAWTHIQ"
+          ],
+          "subject_scholars": [
+            "فاطمة",
+            "مروان بن الحكم"
+          ]
+        },
+        {
+          "book_arabic": "ريحانة الأدب",
+          "book_transliterated": "Rihanat al-Adab",
+          "standard_title_english": "Rayhanat al-Adab",
+          "author_arabic": "أحمد بن زين العابدين بن علي الشهرستاني",
+          "author_death_ah": 1299,
+          "schema": "A",
+          "book_type": "biographical",
+          "citation_count": 3,
+          "contexts": [
+            "AUTHOR_TAWTHIQ"
+          ],
+          "subject_scholars": [
+            "سيد إعجاز حسين",
+            "سيد حامد حسين",
+            "سيد ناصر حسين"
+          ]
+        },
+        {
+          "book_arabic": "تهذيب الأسماء واللغات",
+          "book_transliterated": "Tahdhib al-Asmaʾ wa al-Lughat",
+          "standard_title_english": "Tahdhib al-Asma' wa al-Lughat",
+          "author_arabic": "محب الدين أبو زكريا يحيى بن شرف النووي",
+          "author_death_ah": 676,
+          "schema": "A",
+          "book_type": "biographical",
+          "citation_count": 2,
+          "contexts": [
+            "AUTHOR_TAJRIH",
+            "AUTHOR_TAWTHIQ"
+          ],
+          "subject_scholars": [
+            "إبراهيم بن يزيد النخعي",
+            "علي بن الحسين زين العابدين"
+          ]
+        },
+        {
+          "book_arabic": "تذكرة الموضوعات",
+          "book_transliterated": "Tadhkirat al-Mawduʿat",
+          "standard_title_english": "Tadhkirat al-Mawdu'at",
+          "author_arabic": "محمد بن طاهر المهدي المقدسي",
+          "author_death_ah": 507,
+          "schema": "B",
+          "book_type": "juz",
+          "citation_count": 2,
+          "contexts": [
+            "AUTHOR_TAJRIH"
+          ],
+          "subject_scholars": [
+            "الإمام علي الرضا",
+            "نبيط بن شريط"
+          ]
+        },
+        {
+          "book_arabic": "الأنساب",
+          "book_transliterated": "al-Ansab",
+          "standard_title_english": "Al-Ansab",
+          "author_arabic": "عبد الكريم بن محمد السمعاني",
+          "author_death_ah": 562,
+          "schema": "C",
+          "book_type": "genealogical",
+          "citation_count": 2,
+          "contexts": [
+            "AUTHOR_TAJRIH",
+            "AUTHOR_TAWTHIQ"
+          ],
+          "subject_scholars": [
+            "أبو الفتح عد بن علي بن إبراهيم الطنزي",
+            "الإمام علي الرضا"
+          ]
+        },
+        {
+          "book_arabic": "كشف الأحوال في نقد الرجال",
+          "book_transliterated": "Kashf al-Ahwal fi Naqd al-Rijal",
+          "standard_title_english": "Kashf al-Ahwal fi Naqd al-Rijal",
+          "author_arabic": "عبد الوهاب بن محمد الغوث المدراسي",
+          "author_death_ah": 973,
+          "schema": "A",
+          "book_type": "jarh_tadil",
+          "citation_count": 2,
+          "contexts": [
+            "AUTHOR_TAJRIH"
+          ],
+          "subject_scholars": [
+            "الحسن بن علي صاحب العسكري"
+          ]
+        },
+        {
+          "book_arabic": "فوائد الرضوية",
+          "book_transliterated": "Fawa'id al-Radawiyyah",
+          "standard_title_english": "Al-Fawa'id al-Radawiyya",
+          "author_arabic": "عباس بن عبد العظيم القمي",
+          "author_death_ah": 1334,
+          "schema": "A",
+          "book_type": "biographical",
+          "citation_count": 2,
+          "contexts": [
+            "AUTHOR_TAWTHIQ"
+          ],
+          "subject_scholars": [
+            "سيد حامد حسين"
+          ]
+        },
+        {
+          "book_arabic": "ضوء اللامع",
+          "book_transliterated": "Dhu al-Lamʿ",
+          "standard_title_english": "Al-Daw' al-Lami'",
+          "author_arabic": "شهاب الدين أحمد بن محمد بن الحسين السخاوي",
+          "author_death_ah": 902,
+          "schema": "A",
+          "book_type": "biographical",
+          "citation_count": 1,
+          "contexts": [
+            "AUTHOR_TAJRIH"
+          ],
+          "subject_scholars": []
+        },
+        {
+          "book_arabic": "مغني الليال",
+          "book_transliterated": "Mughni al-Layal",
+          "standard_title_english": "al-Mughni fi al-Du'afa'",
+          "author_arabic": "شمس الدين محمد بن أحمد بن عثمان الذهبي",
+          "author_death_ah": 748,
+          "schema": "A",
+          "book_type": "jarh_tadil",
+          "citation_count": 1,
+          "contexts": [
+            "AUTHOR_TAJRIH"
+          ],
+          "subject_scholars": [
+            "الإمام جعفر الصادق"
+          ]
+        },
+        {
+          "book_arabic": "كشف الظنون",
+          "book_transliterated": "Kashf al-Zunun",
+          "standard_title_english": "Kashf al-Zunun 'an Asami al-Kutub wa al-Funun",
+          "author_arabic": "شمس الدين محمد بن أحمد بن عثمان الذهبي",
+          "author_death_ah": 748,
+          "schema": "C",
+          "book_type": "bibliography",
+          "citation_count": 1,
+          "contexts": [
+            "AUTHOR_TAJRIH"
+          ],
+          "subject_scholars": [
+            "الإمام جعفر الصادق"
+          ]
+        },
+        {
+          "book_arabic": "فتح القدير",
+          "book_transliterated": "Fath al-Qadir",
+          "standard_title_english": "Fath al-Qadir",
+          "author_arabic": "محمد بن أحمد السرخسي",
+          "author_death_ah": 483,
+          "schema": "F",
+          "book_type": "fiqh",
+          "citation_count": 1,
+          "contexts": [
+            "AUTHOR_TAJRIH"
+          ],
+          "subject_scholars": [
+            "الإمام جعفر الصادق"
+          ]
+        },
+        {
+          "book_arabic": "كتاب الثقات",
+          "book_transliterated": "Kitab al-Thiqat",
+          "standard_title_english": "Kitab al-Thiqat",
+          "author_arabic": "محمد بن حبان البستي",
+          "author_death_ah": 354,
+          "schema": "A",
+          "book_type": "jarh_tadil",
+          "citation_count": 1,
+          "contexts": [
+            "AUTHOR_TAJRIH"
+          ],
+          "subject_scholars": [
+            "الإمام جعفر الصادق"
+          ]
+        },
+        {
+          "book_arabic": "نهاية العقول",
+          "book_transliterated": "Nihayat al-ʿUqul",
+          "standard_title_english": "Nihayat al-Uqul fi Dirayat al-Usul",
+          "author_arabic": "فخر الدين أبو محمد رضي الدين علي بن طاهر الرازي",
+          "author_death_ah": 606,
+          "schema": "F",
+          "book_type": "kalam",
+          "citation_count": 1,
+          "contexts": [
+            "AUTHOR_TAJRIH"
+          ],
+          "subject_scholars": [
+            "الأئمة المتأخرون مثل الحسن العسكري"
+          ]
+        },
+        {
+          "book_arabic": "قانون الموضوعات",
+          "book_transliterated": "Qanun al-Mawduʿat",
+          "standard_title_english": "Qanun al-Mawdu'at wa al-Du'afa",
+          "author_arabic": "محمد بن طاهر الجراتي",
+          "author_death_ah": 1101,
+          "schema": "A",
+          "book_type": "jarh_tadil",
+          "citation_count": 1,
+          "contexts": [
+            "AUTHOR_TAJRIH"
+          ],
+          "subject_scholars": [
+            "الحسن العسكري"
+          ]
+        },
+        {
+          "book_arabic": "حاشية شرح عفائد",
+          "book_transliterated": "Hashiya Sharh ʿUfaʾid",
+          "standard_title_english": "Hashiyat Sharh al-'Aqa'id",
+          "author_arabic": "حسين خلخالي",
+          "author_death_ah": null,
+          "schema": "F",
+          "book_type": "kalam",
+          "citation_count": 1,
+          "contexts": [
+            "AUTHOR_TAJRIH"
+          ],
+          "subject_scholars": []
+        },
+        {
+          "book_arabic": "تذكرة الحكام",
+          "book_transliterated": "Tadhkirat al-Hukama'",
+          "standard_title_english": "",
+          "author_arabic": "لطف الله بن أحمد بن محمود الذهبي",
+          "author_death_ah": null,
+          "schema": "?",
+          "book_type": "?",
+          "citation_count": 1,
+          "contexts": [
+            "AUTHOR_TAWTHIQ"
+          ],
+          "subject_scholars": [
+            "ابو عبد الله محمد بن الحسن بن هبة الله البغدادي"
+          ]
+        },
+        {
+          "book_arabic": "عبر الذهبي",
+          "book_transliterated": "Ubar al-Dhahabi",
+          "standard_title_english": "",
+          "author_arabic": "لطف الله بن أحمد بن محمود الذهبي",
+          "author_death_ah": null,
+          "schema": "?",
+          "book_type": "?",
+          "citation_count": 1,
+          "contexts": [
+            "AUTHOR_TAWTHIQ"
+          ],
+          "subject_scholars": [
+            "ابو عبد الله محمد بن الحسن بن هبة الله البغدادي"
+          ]
+        },
+        {
+          "book_arabic": "هدى الإسلام",
+          "book_transliterated": "Hidayat al-Islam",
+          "standard_title_english": "",
+          "author_arabic": "لطف الله بن أحمد بن محمود الذهبي",
+          "author_death_ah": null,
+          "schema": "?",
+          "book_type": "?",
+          "citation_count": 1,
+          "contexts": [
+            "AUTHOR_TAWTHIQ"
+          ],
+          "subject_scholars": [
+            "ابو عبد الله محمد بن الحسن بن هبة الله البغدادي"
+          ]
+        },
+        {
+          "book_arabic": "وفيات الأعيان",
+          "book_transliterated": "Wafayat al-A'yan",
+          "standard_title_english": "",
+          "author_arabic": "صلاح الدين خليل بن أيبك الصفدي",
+          "author_death_ah": 764,
+          "schema": "?",
+          "book_type": "?",
+          "citation_count": 1,
+          "contexts": [
+            "AUTHOR_TAWTHIQ"
+          ],
+          "subject_scholars": [
+            "ابو عبد الله محمد بن الحسن بن هبة الله البغدادي"
+          ]
+        },
+        {
+          "book_arabic": "الوفي بالوفيات",
+          "book_transliterated": "al-Wafi bi-l-Wafayat",
+          "standard_title_english": "",
+          "author_arabic": "صلاح الدين خليل بن أيبك الصفدي",
+          "author_death_ah": 764,
+          "schema": "?",
+          "book_type": "?",
+          "citation_count": 1,
+          "contexts": [
+            "AUTHOR_TAWTHIQ"
+          ],
+          "subject_scholars": [
+            "ابو عبد الله محمد بن الحسن بن هبة الله البغدادي"
+          ]
+        },
+        {
+          "book_arabic": "مرآة الجنآن",
+          "book_transliterated": "Mir'at al-Jinan",
+          "standard_title_english": "",
+          "author_arabic": "يافعي",
+          "author_death_ah": 768,
+          "schema": "?",
+          "book_type": "?",
+          "citation_count": 1,
+          "contexts": [
+            "AUTHOR_TAWTHIQ"
+          ],
+          "subject_scholars": [
+            "ابو عبد الله محمد بن الحسن بن هبة الله البغدادي"
+          ]
+        },
+        {
+          "book_arabic": "مدائع العلوم",
+          "book_transliterated": "Mada'in al-Ulum",
+          "standard_title_english": "",
+          "author_arabic": "زنيقي",
+          "author_death_ah": null,
+          "schema": "?",
+          "book_type": "?",
+          "citation_count": 1,
+          "contexts": [
+            "AUTHOR_TAWTHIQ"
+          ],
+          "subject_scholars": [
+            "ابو عبد الله محمد بن الحسن بن هبة الله البغدادي"
+          ]
+        },
+        {
+          "book_arabic": "أبجد العلوم",
+          "book_transliterated": "Abjad al-Ulum",
+          "standard_title_english": "",
+          "author_arabic": "زنيقي",
+          "author_death_ah": null,
+          "schema": "?",
+          "book_type": "?",
+          "citation_count": 1,
+          "contexts": [
+            "AUTHOR_TAWTHIQ"
+          ],
+          "subject_scholars": [
+            "ابو عبد الله محمد بن الحسن بن هبة الله البغدادي"
+          ]
+        },
+        {
+          "book_arabic": "تاج المكثفل",
+          "book_transliterated": "Taj al-Mukhtasaf",
+          "standard_title_english": "",
+          "author_arabic": "زنيقي",
+          "author_death_ah": null,
+          "schema": "?",
+          "book_type": "?",
+          "citation_count": 1,
+          "contexts": [
+            "AUTHOR_TAWTHIQ"
+          ],
+          "subject_scholars": [
+            "ابو عبد الله محمد بن الحسن بن هبة الله البغدادي"
+          ]
+        },
+        {
+          "book_arabic": "إتحاف التلاميذ",
+          "book_transliterated": "Ithaf al-Talamidh",
+          "standard_title_english": "",
+          "author_arabic": "صديق حسن خان",
+          "author_death_ah": 1307,
+          "schema": "?",
+          "book_type": "?",
+          "citation_count": 1,
+          "contexts": [
+            "AUTHOR_TAWTHIQ"
+          ],
+          "subject_scholars": [
+            "ابو عبد الله محمد بن الحسن بن هبة الله البغدادي"
+          ]
+        },
+        {
+          "book_arabic": "تهذيب الأسماء",
+          "book_transliterated": "Tahdhīb al-Asma'",
+          "standard_title_english": "",
+          "author_arabic": "النووي",
+          "author_death_ah": 676,
+          "schema": "?",
+          "book_type": "?",
+          "citation_count": 1,
+          "contexts": [
+            "AUTHOR_TAWTHIQ"
+          ],
+          "subject_scholars": [
+            "أمير المؤمنين علي بن أبي طالب"
+          ]
+        },
+        {
+          "book_arabic": "شرح صحيح البخاري",
+          "book_transliterated": "Sharh Sahih al-Bukhari",
+          "standard_title_english": "",
+          "author_arabic": "كرماني",
+          "author_death_ah": 412,
+          "schema": "?",
+          "book_type": "?",
+          "citation_count": 1,
+          "contexts": [
+            "AUTHOR_TAWTHIQ"
+          ],
+          "subject_scholars": [
+            "أمير المؤمنين علي بن أبي طالب"
+          ]
+        },
+        {
+          "book_arabic": "الباطل",
+          "book_transliterated": "al-Batil",
+          "standard_title_english": "",
+          "author_arabic": "ابن روض بهان",
+          "author_death_ah": null,
+          "schema": "?",
+          "book_type": "?",
+          "citation_count": 1,
+          "contexts": [
+            "AUTHOR_TAWTHIQ"
+          ],
+          "subject_scholars": [
+            "أمير المؤمنين علي بن أبي طالب"
+          ]
+        },
+        {
+          "book_arabic": "شرح فقه أكبر",
+          "book_transliterated": "Sharh Fiqh Akbar",
+          "standard_title_english": "",
+          "author_arabic": "علي القاري",
+          "author_death_ah": 1014,
+          "schema": "?",
+          "book_type": "?",
+          "citation_count": 1,
+          "contexts": [
+            "AUTHOR_TAWTHIQ"
+          ],
+          "subject_scholars": [
+            "أمير المؤمنين علي بن أبي طالب"
+          ]
+        },
+        {
+          "book_arabic": "شرح تهذيب الكلام",
+          "book_transliterated": "Sharh Tahdhib al-Kalam",
+          "standard_title_english": "",
+          "author_arabic": "يعقوب لاهوري",
+          "author_death_ah": null,
+          "schema": "?",
+          "book_type": "?",
+          "citation_count": 1,
+          "contexts": [
+            "AUTHOR_TAWTHIQ"
+          ],
+          "subject_scholars": [
+            "أمير المؤمنين علي بن أبي طالب"
+          ]
+        },
+        {
+          "book_arabic": "حاشية جامع الصافي",
+          "book_transliterated": "Hashiyat Jam' al-Safi",
+          "standard_title_english": "",
+          "author_arabic": "محمد بن سالم بن أحمد المحفوظي الحنفي",
+          "author_death_ah": null,
+          "schema": "?",
+          "book_type": "?",
+          "citation_count": 1,
+          "contexts": [
+            "AUTHOR_TAWTHIQ"
+          ],
+          "subject_scholars": [
+            "أمير المؤمنين علي بن أبي طالب"
+          ]
+        },
+        {
+          "book_arabic": "ذخيرة المآل",
+          "book_transliterated": "Dhakhirat al-Ma'al",
+          "standard_title_english": "Dhakhirat al-Ma'al fi Manaqib al-Aal",
+          "author_arabic": "عبد الله بن محمد بن عبد الوهاب العجيلي",
+          "author_death_ah": 1062,
+          "schema": "F",
+          "book_type": "manaqib",
+          "citation_count": 1,
+          "contexts": [
+            "AUTHOR_TAWTHIQ"
+          ],
+          "subject_scholars": [
+            "أمير المؤمنين علي بن أبي طالب"
+          ]
+        },
+        {
+          "book_arabic": "فوائد مجمعة",
+          "book_transliterated": "Fawa'id Majmu'a",
+          "standard_title_english": "",
+          "author_arabic": "محمد بن علي الشوكاني",
+          "author_death_ah": 1250,
+          "schema": "?",
+          "book_type": "?",
+          "citation_count": 1,
+          "contexts": [
+            "AUTHOR_TAJRIH"
+          ],
+          "subject_scholars": [
+            "نبيط بن شريط"
+          ]
+        },
+        {
+          "book_arabic": "الاستيعاب",
+          "book_transliterated": "al-Isti'ab",
+          "standard_title_english": "Al-Isti'ab fi Ma'rifat al-Ashab",
+          "author_arabic": "ابن عبد البر القرطبي",
+          "author_death_ah": 463,
+          "schema": "A",
+          "book_type": "biographical",
+          "citation_count": 1,
+          "contexts": [
+            "AUTHOR_TAWTHIQ"
+          ],
+          "subject_scholars": [
+            "شريط بن أنس / نبيط بن شريط"
+          ]
+        },
+        {
+          "book_arabic": "تجريد التحاويب",
+          "book_transliterated": "Tajrid al-Tahawib",
+          "standard_title_english": "",
+          "author_arabic": "الذهبي",
+          "author_death_ah": 748,
+          "schema": "?",
+          "book_type": "?",
+          "citation_count": 1,
+          "contexts": [
+            "AUTHOR_TAWTHIQ"
+          ],
+          "subject_scholars": [
+            "شريط بن أنس / نبيط بن شريط"
+          ]
+        },
+        {
+          "book_arabic": "الإصابة في تمييز الصحابة",
+          "book_transliterated": "al-Isaba fi Tamyiz al-Sahaba",
+          "standard_title_english": "",
+          "author_arabic": "ابن حجر العسقلاني",
+          "author_death_ah": 852,
+          "schema": "?",
+          "book_type": "?",
+          "citation_count": 1,
+          "contexts": [
+            "AUTHOR_TAWTHIQ"
+          ],
+          "subject_scholars": [
+            "شريط بن أنس / نبيط بن شريط"
+          ]
+        },
+        {
+          "book_arabic": "تاج العروس",
+          "book_transliterated": "Taj al-Arus",
+          "standard_title_english": "",
+          "author_arabic": "محمد بن محمد الرتيبي البيندي",
+          "author_death_ah": 1084,
+          "schema": "?",
+          "book_type": "?",
+          "citation_count": 1,
+          "contexts": [
+            "AUTHOR_TAWTHIQ"
+          ],
+          "subject_scholars": [
+            "شريط بن أنس / نبيط بن شريط"
+          ]
+        },
+        {
+          "book_arabic": "جامع الأصول",
+          "book_transliterated": "Jami' al-Usul",
+          "standard_title_english": "",
+          "author_arabic": "مجد الدين ابن الاثير الجزري",
+          "author_death_ah": 606,
+          "schema": "?",
+          "book_type": "?",
+          "citation_count": 1,
+          "contexts": [
+            "AUTHOR_TAWTHIQ"
+          ],
+          "subject_scholars": [
+            "نبيط بن شريط"
+          ]
+        },
+        {
+          "book_arabic": "أسد الغابة",
+          "book_transliterated": "Usd al-Ghabah",
+          "standard_title_english": "",
+          "author_arabic": "عز الدين ابن الاثير الجزري",
+          "author_death_ah": 630,
+          "schema": "?",
+          "book_type": "?",
+          "citation_count": 1,
+          "contexts": [
+            "AUTHOR_TAWTHIQ"
+          ],
+          "subject_scholars": [
+            "نبيط بن شريط"
+          ]
+        },
+        {
+          "book_arabic": "كشف الظهر",
+          "book_transliterated": "Kashf al-Zunun",
+          "standard_title_english": "",
+          "author_arabic": "الذهبي",
+          "author_death_ah": 748,
+          "schema": "?",
+          "book_type": "?",
+          "citation_count": 1,
+          "contexts": [
+            "AUTHOR_TAWTHIQ"
+          ],
+          "subject_scholars": [
+            "نبيط بن شريط"
+          ]
+        },
+        {
+          "book_arabic": "تقريب التهذيب",
+          "book_transliterated": "Taqrib al-Tahdhib",
+          "standard_title_english": "",
+          "author_arabic": "ابن حجر العسقلاني",
+          "author_death_ah": 852,
+          "schema": "?",
+          "book_type": "?",
+          "citation_count": 1,
+          "contexts": [
+            "AUTHOR_TAWTHIQ"
+          ],
+          "subject_scholars": [
+            "نبيط بن شريط"
+          ]
+        },
+        {
+          "book_arabic": "مختصر تهذيب التهذيب",
+          "book_transliterated": "Mukhtasar Tahdhīb al-Tahdhīb",
+          "standard_title_english": "",
+          "author_arabic": "صفي الدين الخزرجي",
+          "author_death_ah": 923,
+          "schema": "?",
+          "book_type": "?",
+          "citation_count": 1,
+          "contexts": [
+            "AUTHOR_TAWTHIQ"
+          ],
+          "subject_scholars": [
+            "نبيط بن شريط"
+          ]
+        },
+        {
+          "book_arabic": "الوفيات",
+          "book_transliterated": "al-Wafayat",
+          "standard_title_english": "",
+          "author_arabic": "صلاح الدين خليل بن أيبك الصفدي",
+          "author_death_ah": 764,
+          "schema": "?",
+          "book_type": "?",
+          "citation_count": 1,
+          "contexts": [
+            "AUTHOR_TAWTHIQ"
+          ],
+          "subject_scholars": [
+            "أبو الفتح عد بن علي بن إبراهيم الطنزي"
+          ]
+        },
+        {
+          "book_arabic": "فوات الوفيات",
+          "book_transliterated": "Fawat al-Wafayat",
+          "standard_title_english": "",
+          "author_arabic": "محمد بن شاكر الكتبي",
+          "author_death_ah": 764,
+          "schema": "?",
+          "book_type": "?",
+          "citation_count": 1,
+          "contexts": [
+            "AUTHOR_TAWTHIQ"
+          ],
+          "subject_scholars": []
+        },
+        {
+          "book_arabic": "كتاب أعلام الأخيار",
+          "book_transliterated": "Kitab A'lam al-Akhyar",
+          "standard_title_english": "",
+          "author_arabic": "محمود بن سليمان الكفوي",
+          "author_death_ah": 990,
+          "schema": "?",
+          "book_type": "?",
+          "citation_count": 1,
+          "contexts": [
+            "AUTHOR_TAWTHIQ"
+          ],
+          "subject_scholars": []
+        },
+        {
+          "book_arabic": "كشف الحثيث عمن رمي بوضع الحديث",
+          "book_transliterated": "Kashf al-Hathith 'amman Rumiya bi-Wad' al-Hadith",
+          "standard_title_english": "",
+          "author_arabic": "إبراهيم بن محمد بن خليل سبط ابن العجمي",
+          "author_death_ah": 841,
+          "schema": "?",
+          "book_type": "?",
+          "citation_count": 1,
+          "contexts": [
+            "AUTHOR_TAJRIH"
+          ],
+          "subject_scholars": []
+        },
+        {
+          "book_arabic": "كشف الظنون عن أسامي الكتب والفنون",
+          "book_transliterated": "Kashf al-Zunun 'an Asami al-Kutub wa al-Funun",
+          "standard_title_english": "",
+          "author_arabic": "مصطفى بن عبد الله القسطنطيني (حاجي خليفة)",
+          "author_death_ah": 1067,
+          "schema": "?",
+          "book_type": "?",
+          "citation_count": 1,
+          "contexts": [
+            "AUTHOR_TAWTHIQ"
+          ],
+          "subject_scholars": []
+        },
+        {
+          "book_arabic": "الكمال في أسماء الرجال",
+          "book_transliterated": "al-Kamal fi Asma' al-Rijal",
+          "standard_title_english": "",
+          "author_arabic": "حافظ عبد الغني المقدسي",
+          "author_death_ah": 600,
+          "schema": "?",
+          "book_type": "?",
+          "citation_count": 1,
+          "contexts": [
+            "AUTHOR_TAWTHIQ"
+          ],
+          "subject_scholars": []
+        },
+        {
+          "book_arabic": "اللآلئ المصنوعة في الأحاديث الموضوعة",
+          "book_transliterated": "al-La'ali al-Masnu'ah fi al-Ahadith al-Mawdu'ah",
+          "standard_title_english": "",
+          "author_arabic": "جلال الدين السيوطي",
+          "author_death_ah": 911,
+          "schema": "?",
+          "book_type": "?",
+          "citation_count": 1,
+          "contexts": [
+            "AUTHOR_TAJRIH"
+          ],
+          "subject_scholars": []
+        },
+        {
+          "book_arabic": "لسان الميزان",
+          "book_transliterated": "Lisan al-Mizan",
+          "standard_title_english": "",
+          "author_arabic": "ابن حجر العسقلاني",
+          "author_death_ah": 852,
+          "schema": "?",
+          "book_type": "?",
+          "citation_count": 1,
+          "contexts": [
+            "AUTHOR_TAJRIH"
+          ],
+          "subject_scholars": []
+        },
+        {
+          "book_arabic": "تذكرة علماء الهند",
+          "book_transliterated": "Tadhkirat 'Ulama' al-Hind",
+          "standard_title_english": "",
+          "author_arabic": "ميرزا محمد بن عين الدين",
+          "author_death_ah": 1272,
+          "schema": "?",
+          "book_type": "?",
+          "citation_count": 1,
+          "contexts": [
+            "AUTHOR_TAWTHIQ"
+          ],
+          "subject_scholars": [
+            "عبد العزيز الدهلوي"
+          ]
+        },
+        {
+          "book_arabic": "الأعلام",
+          "book_transliterated": "al-A'lam",
+          "standard_title_english": "",
+          "author_arabic": "خير الدين الزركلي",
+          "author_death_ah": 1396,
+          "schema": "?",
+          "book_type": "?",
+          "citation_count": 1,
+          "contexts": [
+            "AUTHOR_TAWTHIQ"
+          ],
+          "subject_scholars": [
+            "عبد العزيز الدهلوي"
+          ]
+        },
+        {
+          "book_arabic": "اليانع الجني",
+          "book_transliterated": "al-Yan' al-Jani",
+          "standard_title_english": "",
+          "author_arabic": "عبد الحي بن فخر الدين الحسيني",
+          "author_death_ah": 1343,
+          "schema": "?",
+          "book_type": "?",
+          "citation_count": 1,
+          "contexts": [
+            "AUTHOR_TAWTHIQ"
+          ],
+          "subject_scholars": [
+            "عبد العزيز الدهلوي"
+          ]
+        },
+        {
+          "book_arabic": "إيضاح المكنون",
+          "book_transliterated": "Iydah al-Maknun",
+          "standard_title_english": "",
+          "author_arabic": "عبد الحي بن فخر الدين الحسيني",
+          "author_death_ah": 1343,
+          "schema": "?",
+          "book_type": "?",
+          "citation_count": 1,
+          "contexts": [
+            "AUTHOR_TAWTHIQ"
+          ],
+          "subject_scholars": [
+            "عبد العزيز الدهلوي"
+          ]
+        },
+        {
+          "book_arabic": "حديقة الأفراح لزاحة الأتراح",
+          "book_transliterated": "Hadiqat al-Afrah li-Zahq al-Atarah",
+          "standard_title_english": "",
+          "author_arabic": "ميرزا أحمد أنصاري شرواني يمني",
+          "author_death_ah": null,
+          "schema": "?",
+          "book_type": "?",
+          "citation_count": 1,
+          "contexts": [
+            "AUTHOR_TAWTHIQ"
+          ],
+          "subject_scholars": [
+            "عبد العزيز الدهلوي"
+          ]
+        },
+        {
+          "book_arabic": "فهرست الغهارس والآثار ومعجم المعاجم والمشيخات والمسلسلات",
+          "book_transliterated": "Fihrist al-Gharars wa-l-Athar wa Mu'jam al-Mu'ajam wa-l-Mashikhat wa-l-Musalsalat",
+          "standard_title_english": "",
+          "author_arabic": "حافظ العس سيد عبد الحي الحسني الإدريسي",
+          "author_death_ah": null,
+          "schema": "?",
+          "book_type": "?",
+          "citation_count": 1,
+          "contexts": [
+            "AUTHOR_TAWTHIQ"
+          ],
+          "subject_scholars": [
+            "عبد العزيز الدهلوي"
+          ]
+        },
+        {
+          "book_arabic": "عون المعبود على سنن أبي داود",
+          "book_transliterated": "'Awn al-Ma'bud 'ala Sunan Abi Dawud",
+          "standard_title_english": "",
+          "author_arabic": "عبد الله بن عبد الرحمن بن أحمد الدامري",
+          "author_death_ah": 1130,
+          "schema": "?",
+          "book_type": "?",
+          "citation_count": 1,
+          "contexts": [
+            "AUTHOR_TAWTHIQ"
+          ],
+          "subject_scholars": [
+            "عبد العزيز الدهلوي"
+          ]
+        },
+        {
+          "book_arabic": "القول المجيد على موطأ مالك",
+          "book_transliterated": "al-Qawl al-Majid 'ala Muwatta' Malik",
+          "standard_title_english": "",
+          "author_arabic": null,
+          "author_death_ah": null,
+          "schema": "?",
+          "book_type": "?",
+          "citation_count": 1,
+          "contexts": [
+            "AUTHOR_TAWTHIQ"
+          ],
+          "subject_scholars": [
+            "عبد العزيز الدهلوي"
+          ]
+        },
+        {
+          "book_arabic": "مجمع المؤلفين",
+          "book_transliterated": "Majma' al-Mu'allifin",
+          "standard_title_english": "",
+          "author_arabic": "عمر رضا كحالة",
+          "author_death_ah": 1377,
+          "schema": "?",
+          "book_type": "?",
+          "citation_count": 1,
+          "contexts": [
+            "AUTHOR_TAWTHIQ"
+          ],
+          "subject_scholars": [
+            "عبد العزيز الدهلوي"
+          ]
+        },
+        {
+          "book_arabic": "فهرست الآثار والأئمات",
+          "book_transliterated": "Fihrist al-Athar wa-l-A'immat",
+          "standard_title_english": "",
+          "author_arabic": null,
+          "author_death_ah": null,
+          "schema": "?",
+          "book_type": "?",
+          "citation_count": 1,
+          "contexts": [
+            "AUTHOR_TAWTHIQ"
+          ],
+          "subject_scholars": [
+            "شاه ولي الله الدهلوي"
+          ]
+        },
+        {
+          "book_arabic": "نجوم السماء",
+          "book_transliterated": "Nujum al-Sama'",
+          "standard_title_english": "",
+          "author_arabic": "ميرزا هادي بن ميرزا محمد علي العزيز",
+          "author_death_ah": 1284,
+          "schema": "?",
+          "book_type": "?",
+          "citation_count": 1,
+          "contexts": [
+            "AUTHOR_TAWTHIQ"
+          ],
+          "subject_scholars": [
+            "سيد حامد حسين"
+          ]
+        },
+        {
+          "book_arabic": "نقباء البشر",
+          "book_transliterated": "Nuqaba' al-Bashar",
+          "standard_title_english": "",
+          "author_arabic": "حاجي خليل بن محمد تقي الخُراساني",
+          "author_death_ah": 1325,
+          "schema": "?",
+          "book_type": "?",
+          "citation_count": 1,
+          "contexts": [
+            "AUTHOR_TAWTHIQ"
+          ],
+          "subject_scholars": [
+            "سيد ذاكر حسين"
+          ]
+        },
+        {
+          "book_arabic": "صحيفة المكتبة",
+          "book_transliterated": "Sahifat al-Maktabah",
+          "standard_title_english": "",
+          "author_arabic": "غير محدد في النص (مقالة عن مكتبة ناصرية)",
+          "author_death_ah": null,
+          "schema": "?",
+          "book_type": "?",
+          "citation_count": 1,
+          "contexts": [
+            "AUTHOR_TAWTHIQ"
+          ],
+          "subject_scholars": []
+        },
+        {
+          "book_arabic": "نقباء البشر في القرن الرابع عشر",
+          "book_transliterated": "Nuqaba' al-Bashar fi al-Qarn al-Rabi' Ashar",
+          "standard_title_english": "",
+          "author_arabic": "حاج شيخ آقا بزرك طهراني",
+          "author_death_ah": 1389,
+          "schema": "?",
+          "book_type": "?",
+          "citation_count": 1,
+          "contexts": [
+            "AUTHOR_TAWTHIQ"
+          ],
+          "subject_scholars": [
+            "سيد حامد حسين"
+          ]
+        },
+        {
+          "book_arabic": "تكملة أعيان الشيعة",
+          "book_transliterated": "Takmilat A'yan al-Shi'a",
+          "standard_title_english": "",
+          "author_arabic": "الحسن بن عبد الله بن الحسن الصدر",
+          "author_death_ah": 1417,
+          "schema": "?",
+          "book_type": "?",
+          "citation_count": 1,
+          "contexts": [
+            "AUTHOR_TAWTHIQ"
+          ],
+          "subject_scholars": [
+            "سيد حامد حسين"
+          ]
+        },
+        {
+          "book_arabic": "علماء معاصرين",
+          "book_transliterated": "Ulama' Mu'asirin",
+          "standard_title_english": "",
+          "author_arabic": "حاج ملا علي خياباني",
+          "author_death_ah": 1327,
+          "schema": "?",
+          "book_type": "?",
+          "citation_count": 1,
+          "contexts": [
+            "AUTHOR_TAWTHIQ"
+          ],
+          "subject_scholars": [
+            "سيد حامد حسين"
+          ]
+        },
+        {
+          "book_arabic": "أحسن الوديعة",
+          "book_transliterated": "Ahsan al-Wadi'ah",
+          "standard_title_english": "",
+          "author_arabic": "محمد مهدي بن عبد الحسين بن نور الله المازندراني",
+          "author_death_ah": 1312,
+          "schema": "?",
+          "book_type": "?",
+          "citation_count": 1,
+          "contexts": [
+            "AUTHOR_TAWTHIQ"
+          ],
+          "subject_scholars": [
+            "سيد حامد حسين"
+          ]
+        },
+        {
+          "book_arabic": "شفاء الصدور",
+          "book_transliterated": "Shifa' al-Sudur",
+          "standard_title_english": "",
+          "author_arabic": "حاج ميرزا أبو الفضل كلانتري الطهراني",
+          "author_death_ah": 1325,
+          "schema": "?",
+          "book_type": "?",
+          "citation_count": 1,
+          "contexts": [
+            "AUTHOR_TAWTHIQ"
+          ],
+          "subject_scholars": [
+            "سيد حامد حسين"
+          ]
+        },
+        {
+          "book_arabic": "كشف الحجب عن أسماء المؤلفات والكتب",
+          "book_transliterated": "Kashf al-Hujub an Asma' al-Mu'allifat wa al-Kutub",
+          "standard_title_english": "",
+          "author_arabic": "سيد إعجاز حسين الكنتوري",
+          "author_death_ah": 1286,
+          "schema": "?",
+          "book_type": "?",
+          "citation_count": 1,
+          "contexts": [
+            "AUTHOR_TAWTHIQ"
+          ],
+          "subject_scholars": []
+        },
+        {
+          "book_arabic": "سواطع الأنوار في تقريظات عبقات الأنوار",
+          "book_transliterated": "Suwați' al-Anwar fi Taqriżat Abaqat al-Anwar",
+          "standard_title_english": "",
+          "author_arabic": "عباس بن أحمد الأنصاري الشيرواني",
+          "author_death_ah": null,
+          "schema": "?",
+          "book_type": "?",
+          "citation_count": 1,
+          "contexts": [
+            "AUTHOR_TAWTHIQ"
+          ],
+          "subject_scholars": [
+            "سيد حامد حسين"
+          ]
+        },
+        {
+          "book_arabic": "حديقة الأفراح",
+          "book_transliterated": "Hadigat al-Afrah",
+          "standard_title_english": "",
+          "author_arabic": "ميرزا أحمد الشيرواني",
+          "author_death_ah": null,
+          "schema": "?",
+          "book_type": "?",
+          "citation_count": 1,
+          "contexts": [
+            "AUTHOR_TAWTHIQ"
+          ],
+          "subject_scholars": []
+        },
+        {
+          "book_arabic": "بغية المريد",
+          "book_transliterated": "Bughyat al-Murīd",
+          "standard_title_english": "",
+          "author_arabic": "حافظ سيوطي",
+          "author_death_ah": 911,
+          "schema": "?",
+          "book_type": "?",
+          "citation_count": 1,
+          "contexts": [
+            "AUTHOR_TAWTHIQ"
+          ],
+          "subject_scholars": []
+        },
+        {
+          "book_arabic": "روضات الجنات",
+          "book_transliterated": "Rawḍāt al-Jannat",
+          "standard_title_english": "",
+          "author_arabic": "ميرزا محمد تقي الطباطبائي الإصفهاني",
+          "author_death_ah": 1241,
+          "schema": "?",
+          "book_type": "?",
+          "citation_count": 1,
+          "contexts": [
+            "AUTHOR_TAWTHIQ"
+          ],
+          "subject_scholars": []
+        },
+        {
+          "book_arabic": "وقائع الأيام",
+          "book_transliterated": "Waqa'i' al-Ayyam",
+          "standard_title_english": "",
+          "author_arabic": "حاج شيخ زين العابدين المازندراني",
+          "author_death_ah": 1217,
+          "schema": "?",
+          "book_type": "?",
+          "citation_count": 1,
+          "contexts": [
+            "AUTHOR_TAWTHIQ"
+          ],
+          "subject_scholars": [
+            "سيد حامد حسين"
+          ]
+        },
+        {
+          "book_arabic": "مآثر وآثار",
+          "book_transliterated": "Ma'athir wa Athar",
+          "standard_title_english": "",
+          "author_arabic": "حاج ملا علي خياباني",
+          "author_death_ah": 1327,
+          "schema": "?",
+          "book_type": "?",
+          "citation_count": 1,
+          "contexts": [
+            "AUTHOR_TAWTHIQ"
+          ],
+          "subject_scholars": []
+        },
+        {
+          "book_arabic": "نامه دانشوران ناصري",
+          "book_transliterated": "Nama-yi Danishwaran Nasiri",
+          "standard_title_english": "",
+          "author_arabic": "شيخ مهدي عبد الرب آبادي",
+          "author_death_ah": null,
+          "schema": "?",
+          "book_type": "?",
+          "citation_count": 1,
+          "contexts": [
+            "AUTHOR_TAWTHIQ"
+          ],
+          "subject_scholars": []
+        }
+      ]
+    },
+    "rebuttal": {
+      "description": "Books and arguments refuting Dehlavi's counter-claims",
+      "total_books": 119,
+      "total_citations": 169,
+      "books": [
+        {
+          "book_arabic": "قرة العينين",
+          "book_transliterated": "Qurrat al-'Uyūn",
+          "standard_title_english": "Qurrat al-'Aynayn fi Tafdil al-Shaykhayn",
+          "author_arabic": "عبد الرحمن بن محمد بن أبي بكر الديباجي",
+          "author_death_ah": 1259,
+          "schema": "D",
+          "book_type": "sunni_polemical",
+          "citation_count": 19,
+          "contexts": [
+            "PRIMARY_REBUTTAL"
+          ],
+          "subject_scholars": []
+        },
+        {
+          "book_arabic": "منهاج السنة",
+          "book_transliterated": "Minhaj al-Sunna",
+          "standard_title_english": "Minhaj al-Sunnah al-Nabawiyyah",
+          "author_arabic": "تقي الدين أحمد بن عبد الحليم بن عبد السلام ابن تيمية الحراني",
+          "author_death_ah": 728,
+          "schema": "D",
+          "book_type": "sunni_polemical",
+          "citation_count": 7,
+          "contexts": [
+            "PRIMARY_REBUTTAL"
+          ],
+          "subject_scholars": [
+            "الحسن بن علي",
+            "الحسن والحسين",
+            "الحسين بن علي",
+            "علي بن أبي طالب"
+          ]
+        },
+        {
+          "book_arabic": "ذخيرة المآل",
+          "book_transliterated": "Dhakhirat al-Ma'al",
+          "standard_title_english": "Dhakhirat al-Ma'al fi Manaqib al-Aal",
+          "author_arabic": "عبد الله بن محمد بن عبد الوهاب العجيلي",
+          "author_death_ah": 1062,
+          "schema": "F",
+          "book_type": "manaqib",
+          "citation_count": 7,
+          "contexts": [
+            "PRIMARY_REBUTTAL"
+          ],
+          "subject_scholars": []
+        },
+        {
+          "book_arabic": "جواهر العقدين",
+          "book_transliterated": "Jawahir al-'Uqdayn",
+          "standard_title_english": "Jawahir al-'Iqdayn fi Fadl al-Sharafayn",
+          "author_arabic": "نور الدين السمهودي",
+          "author_death_ah": null,
+          "schema": "F",
+          "book_type": "manaqib",
+          "citation_count": 5,
+          "contexts": [
+            "ARGUMENT_LINEAGE",
+            "PRIMARY_REBUTTAL"
+          ],
+          "subject_scholars": [
+            "الإمام الحسن"
+          ]
+        },
+        {
+          "book_arabic": "الصواعق المحرقة",
+          "book_transliterated": "al-Sawa'iq al-Muhriqa",
+          "standard_title_english": "Al-Sawa'iq al-Muhriqah",
+          "author_arabic": "ابن حجر الهيتمي أحمد بن محمد",
+          "author_death_ah": 974,
+          "schema": "D",
+          "book_type": "sunni_polemical",
+          "citation_count": 3,
+          "contexts": [
+            "ARGUMENT_LINEAGE",
+            "PRIMARY_REBUTTAL"
+          ],
+          "subject_scholars": [
+            "الإمام الحسن",
+            "الإمام الحسين"
+          ]
+        },
+        {
+          "book_arabic": "إزالة الخفاء",
+          "book_transliterated": "Izalat al-Khifa'",
+          "standard_title_english": "Izalat al-Khafa' 'an Khilafat al-Khulafa'",
+          "author_arabic": "ولي الله بن عبد الرحيم الدهلوي",
+          "author_death_ah": 1176,
+          "schema": "D",
+          "book_type": "sunni_polemical",
+          "citation_count": 3,
+          "contexts": [
+            "PRIMARY_REBUTTAL"
+          ],
+          "subject_scholars": []
+        },
+        {
+          "book_arabic": "فتح القدير",
+          "book_transliterated": "Fath al-Qadir",
+          "standard_title_english": "Fath al-Qadir",
+          "author_arabic": "ابن الهمام كمال الدين يوسف بن عبد الوهاب",
+          "author_death_ah": 861,
+          "schema": "F",
+          "book_type": "fiqh",
+          "citation_count": 3,
+          "contexts": [
+            "PRIMARY_REBUTTAL"
+          ],
+          "subject_scholars": [
+            "الحسن بن علي",
+            "الحسين بن علي"
+          ]
+        },
+        {
+          "book_arabic": "مشرع الروي",
+          "book_transliterated": "Mushri' al-Rawi",
+          "standard_title_english": "Al-Mashra' al-Rawi",
+          "author_arabic": "محمد بن أبي بكر الشبلي الحضرمي",
+          "author_death_ah": null,
+          "schema": "A",
+          "book_type": "biographical",
+          "citation_count": 3,
+          "contexts": [
+            "PRIMARY_REBUTTAL"
+          ],
+          "subject_scholars": [
+            "الإمام الحسين",
+            "الحسين بن علي"
+          ]
+        },
+        {
+          "book_arabic": "عقد النبوي",
+          "book_transliterated": "ʿUqd al-Nabawi",
+          "standard_title_english": "Al-'Iqd al-Nabawi",
+          "author_arabic": "شيخ بن عبد الله بن العيدروس اليمني",
+          "author_death_ah": 1032,
+          "schema": "F",
+          "book_type": "manaqib",
+          "citation_count": 3,
+          "contexts": [
+            "PRIMARY_REBUTTAL"
+          ],
+          "subject_scholars": [
+            "الإمام الحسن"
+          ]
+        },
+        {
+          "book_arabic": "لسان العرب",
+          "book_transliterated": "Lisan al-'Arab",
+          "standard_title_english": "Lisan al-'Arab",
+          "author_arabic": "ابن منظور الأفريقي",
+          "author_death_ah": 711,
+          "schema": "F",
+          "book_type": "lughah",
+          "citation_count": 2,
+          "contexts": [
+            "LINGUISTIC"
+          ],
+          "subject_scholars": []
+        },
+        {
+          "book_arabic": "تاريخ الخلفاء",
+          "book_transliterated": "Tarikh al-Khulafaʾ",
+          "standard_title_english": "Tarikh al-Khulafa'",
+          "author_arabic": "جلال الدين عبد الرحمن بن أبي بكر السخاوي",
+          "author_death_ah": 911,
+          "schema": "F",
+          "book_type": "tarikh_general",
+          "citation_count": 2,
+          "contexts": [
+            "PRIMARY_REBUTTAL"
+          ],
+          "subject_scholars": [
+            "الإمام الحسن"
+          ]
+        },
+        {
+          "book_arabic": "تفسير الكبير",
+          "book_transliterated": "Tafsir al-Kabir",
+          "standard_title_english": "al-Tafsir al-Kabir (Mafatih al-Ghayb)",
+          "author_arabic": "محمد بن ناصر العجمي",
+          "author_death_ah": 1101,
+          "schema": "F",
+          "book_type": "tafsir",
+          "citation_count": 2,
+          "contexts": [
+            "PRIMARY_REBUTTAL"
+          ],
+          "subject_scholars": []
+        },
+        {
+          "book_arabic": "تفسير الطبري",
+          "book_transliterated": "Tafsir al-Tabari",
+          "standard_title_english": "Jami' al-Bayan (Tafsir al-Tabari)",
+          "author_arabic": "محمد بن جرير الطبري",
+          "author_death_ah": 310,
+          "schema": "F",
+          "book_type": "tafsir",
+          "citation_count": 2,
+          "contexts": [
+            "PRIMARY_REBUTTAL"
+          ],
+          "subject_scholars": []
+        },
+        {
+          "book_arabic": "تفسير الخازن",
+          "book_transliterated": "Tafsir al-Khazin",
+          "standard_title_english": "Lubab al-Ta'wil fi Ma'ani al-Tanzil (Tafsir al-Khazin)",
+          "author_arabic": "علاء الدين الخازن البغدادي",
+          "author_death_ah": 741,
+          "schema": "F",
+          "book_type": "tafsir",
+          "citation_count": 2,
+          "contexts": [
+            "PRIMARY_REBUTTAL"
+          ],
+          "subject_scholars": []
+        },
+        {
+          "book_arabic": "رسالة في أصول الإيمان",
+          "book_transliterated": "Risala fi Usul al-Iman",
+          "standard_title_english": "Risala fi Usul al-Iman",
+          "author_arabic": "محمد سالم الدهلوي البخاري",
+          "author_death_ah": null,
+          "schema": "F",
+          "book_type": "kalam",
+          "citation_count": 2,
+          "contexts": [
+            "PRIMARY_REBUTTAL"
+          ],
+          "subject_scholars": []
+        },
+        {
+          "book_arabic": "مناظر الأنشا",
+          "book_transliterated": "Manazir al-Insha'",
+          "standard_title_english": "Manazir al-Insha'",
+          "author_arabic": "محمود بن أحمد الكيلاني",
+          "author_death_ah": null,
+          "schema": "F",
+          "book_type": "lughah",
+          "citation_count": 1,
+          "contexts": [
+            "LINGUISTIC"
+          ],
+          "subject_scholars": []
+        },
+        {
+          "book_arabic": "مجمع البحار",
+          "book_transliterated": "Majma' al-Buhur",
+          "standard_title_english": "Majma' Bihar al-Anwar",
+          "author_arabic": "محمد طاهر الفتني الكجراتي",
+          "author_death_ah": 1124,
+          "schema": "F",
+          "book_type": "lughah",
+          "citation_count": 1,
+          "contexts": [
+            "LINGUISTIC"
+          ],
+          "subject_scholars": []
+        },
+        {
+          "book_arabic": "سيف مسلول",
+          "book_transliterated": "Sayf Maslul",
+          "standard_title_english": "al-Sayf al-Maslul",
+          "author_arabic": "ثناء الله ياني",
+          "author_death_ah": null,
+          "schema": "D",
+          "book_type": "sunni_polemical",
+          "citation_count": 1,
+          "contexts": [
+            "CONTRADICTION"
+          ],
+          "subject_scholars": []
+        },
+        {
+          "book_arabic": "إيضاح الطاقة المقال",
+          "book_transliterated": "Idah al-Taqa al-Miqal",
+          "standard_title_english": "Idah al-Maqal",
+          "author_arabic": "رشيد الدين خان",
+          "author_death_ah": null,
+          "schema": "D",
+          "book_type": "sunni_polemical",
+          "citation_count": 1,
+          "contexts": [
+            "ARGUMENT_LINEAGE"
+          ],
+          "subject_scholars": []
+        },
+        {
+          "book_arabic": "تحفة",
+          "book_transliterated": "Tuhfa",
+          "standard_title_english": "al-Tuhfa al-Ithna Ashariyya",
+          "author_arabic": "رشيد الدين خان",
+          "author_death_ah": null,
+          "schema": "D",
+          "book_type": "sunni_polemical",
+          "citation_count": 1,
+          "contexts": [
+            "ARGUMENT_LINEAGE"
+          ],
+          "subject_scholars": []
+        },
+        {
+          "book_arabic": "المستدرك على الصحيحين",
+          "book_transliterated": "al-Mustadrak 'ala al-Sahihayn",
+          "standard_title_english": "Al-Mustadrak 'ala al-Sahihayn",
+          "author_arabic": "الحاكم النيسابوري أبو عبد الله محمد بن عبد الله",
+          "author_death_ah": 405,
+          "schema": "B",
+          "book_type": "mustadrak",
+          "citation_count": 1,
+          "contexts": [
+            "SUB_CLAIM_REBUTTAL"
+          ],
+          "subject_scholars": []
+        },
+        {
+          "book_arabic": "موطأ مالك",
+          "book_transliterated": "Muwatta' Malik",
+          "standard_title_english": "Muwatta' Malik",
+          "author_arabic": "مالك بن أنس بن مالك الأصبحي",
+          "author_death_ah": 179,
+          "schema": "B",
+          "book_type": "musannaf",
+          "citation_count": 1,
+          "contexts": [
+            "SUB_CLAIM_REBUTTAL"
+          ],
+          "subject_scholars": []
+        },
+        {
+          "book_arabic": "مسند أبي حنيفة",
+          "book_transliterated": "Musnad Abi Hanifah",
+          "standard_title_english": "Musnad Abi Hanifah",
+          "author_arabic": "أبو حنيفة النعمان بن ثابت الكوفي",
+          "author_death_ah": 150,
+          "schema": "B",
+          "book_type": "musnad",
+          "citation_count": 1,
+          "contexts": [
+            "SUB_CLAIM_REBUTTAL"
+          ],
+          "subject_scholars": []
+        },
+        {
+          "book_arabic": "آثار الإمام",
+          "book_transliterated": "Athar al-Imam",
+          "standard_title_english": "Kitab al-Athar",
+          "author_arabic": "أبو يوسف يعقوب بن إبراهيم القاضي",
+          "author_death_ah": 182,
+          "schema": "B",
+          "book_type": "musannaf",
+          "citation_count": 1,
+          "contexts": [
+            "SUB_CLAIM_REBUTTAL"
+          ],
+          "subject_scholars": []
+        },
+        {
+          "book_arabic": "مسند الشافعي",
+          "book_transliterated": "Musnad al-Shafi'i",
+          "standard_title_english": "Musnad al-Shafi'i",
+          "author_arabic": "محمد بن إدريس الشافعي",
+          "author_death_ah": 204,
+          "schema": "B",
+          "book_type": "musnad",
+          "citation_count": 1,
+          "contexts": [
+            "SUB_CLAIM_REBUTTAL"
+          ],
+          "subject_scholars": []
+        },
+        {
+          "book_arabic": "إبهاج شرح المنهاج",
+          "book_transliterated": "Ibha j Sharh al-Minhaj",
+          "standard_title_english": "Al-Ibhaj fi Sharh al-Minhaj",
+          "author_arabic": "البرهان الديما شقي أبو الحسن علي بن محمد الشيرازي",
+          "author_death_ah": 1083,
+          "schema": "F",
+          "book_type": "fiqh",
+          "citation_count": 1,
+          "contexts": [
+            "PRIMARY_REBUTTAL"
+          ],
+          "subject_scholars": [
+            "الحسن بن علي"
+          ]
+        },
+        {
+          "book_arabic": "دراسات الليبي",
+          "book_transliterated": "Dirasat al-Libi",
+          "standard_title_english": "Dirasat al-Labib",
+          "author_arabic": "محمد معين بن عدي النسندي",
+          "author_death_ah": null,
+          "schema": "F",
+          "book_type": "fiqh",
+          "citation_count": 1,
+          "contexts": [
+            "PRIMARY_REBUTTAL"
+          ],
+          "subject_scholars": [
+            "الحسن بن علي"
+          ]
+        },
+        {
+          "book_arabic": "منهاج مكية",
+          "book_transliterated": "Minhaj Makkah",
+          "standard_title_english": "Al-Minah al-Makkiyyah",
+          "author_arabic": "ابن حجر المكي أبو العباس أحمد بن محمد",
+          "author_death_ah": 852,
+          "schema": "F",
+          "book_type": "adab",
+          "citation_count": 1,
+          "contexts": [
+            "PRIMARY_REBUTTAL"
+          ],
+          "subject_scholars": [
+            "الحسين بن علي"
+          ]
+        },
+        {
+          "book_arabic": "رفع الإسر عن أخطاء ابن خلدون",
+          "book_transliterated": "Rafʿ al-Isr ʿan Akhtaʾ Ibn Khaldun",
+          "standard_title_english": "Raf' al-Isr 'an Qudat Misr",
+          "author_arabic": "شهاب الدين أحمد بن علي بن محمد بن حجر العسقلاني",
+          "author_death_ah": 852,
+          "schema": "F",
+          "book_type": "unknown",
+          "citation_count": 1,
+          "contexts": [
+            "PRIMARY_REBUTTAL"
+          ],
+          "subject_scholars": []
+        },
+        {
+          "book_arabic": "مقدمة ابن خلدون",
+          "book_transliterated": "Muqaddimah Ibn Khaldun",
+          "standard_title_english": "Muqaddimah Ibn Khaldun",
+          "author_arabic": "عبد الرحمن بن محمد بن خلدون",
+          "author_death_ah": 808,
+          "schema": "F",
+          "book_type": "tarikh_general",
+          "citation_count": 1,
+          "contexts": [
+            "PRIMARY_REBUTTAL"
+          ],
+          "subject_scholars": []
+        },
+        {
+          "book_arabic": "إسعاف الزائفين",
+          "book_transliterated": "Isʿaf al-Zaʾifin",
+          "standard_title_english": "Is'af al-Raghibin",
+          "author_arabic": "محمد صبان المصري",
+          "author_death_ah": 1206,
+          "schema": "F",
+          "book_type": "manaqib",
+          "citation_count": 1,
+          "contexts": [
+            "PRIMARY_REBUTTAL"
+          ],
+          "subject_scholars": []
+        },
+        {
+          "book_arabic": "سر الشهادتين",
+          "book_transliterated": "Sirr al-Shahadatayn",
+          "standard_title_english": "Sirr al-Shahadatayn",
+          "author_arabic": "مؤلف مجهول (مخاطب)",
+          "author_death_ah": null,
+          "schema": "F",
+          "book_type": "manaqib",
+          "citation_count": 1,
+          "contexts": [
+            "PRIMARY_REBUTTAL"
+          ],
+          "subject_scholars": []
+        },
+        {
+          "book_arabic": "الاستيعاب",
+          "book_transliterated": "al-Istiʿab",
+          "standard_title_english": "Al-Isti'ab fi Ma'rifat al-Ashab",
+          "author_arabic": "يوسف بن عبد البر القرطبي",
+          "author_death_ah": 463,
+          "schema": "A",
+          "book_type": "biographical",
+          "citation_count": 1,
+          "contexts": [
+            "PRIMARY_REBUTTAL"
+          ],
+          "subject_scholars": [
+            "الإمام الحسن"
+          ]
+        },
+        {
+          "book_arabic": "منح المكي",
+          "book_transliterated": "Manḥ al-Makki",
+          "standard_title_english": "Al-Minah al-Makkiyyah",
+          "author_arabic": "ابن حجر المكي الهيتمي",
+          "author_death_ah": 974,
+          "schema": "F",
+          "book_type": "adab",
+          "citation_count": 1,
+          "contexts": [
+            "PRIMARY_REBUTTAL"
+          ],
+          "subject_scholars": [
+            "الإمام الحسن"
+          ]
+        },
+        {
+          "book_arabic": "إسعاف الرافعين",
+          "book_transliterated": "Isʿaf al-Raʿifin",
+          "standard_title_english": "Is'af al-Raghibin",
+          "author_arabic": "محمد صبان المصري",
+          "author_death_ah": 1206,
+          "schema": "F",
+          "book_type": "manaqib",
+          "citation_count": 1,
+          "contexts": [
+            "PRIMARY_REBUTTAL"
+          ],
+          "subject_scholars": [
+            "الإمام الحسن"
+          ]
+        },
+        {
+          "book_arabic": "غنية الطالبين",
+          "book_transliterated": "Ghunyat al-Talibin",
+          "standard_title_english": "Ghunyat al-Talibin",
+          "author_arabic": "عبد الغني النابلسي",
+          "author_death_ah": 1143,
+          "schema": "F",
+          "book_type": "adab",
+          "citation_count": 1,
+          "contexts": [
+            "PRIMARY_REBUTTAL"
+          ],
+          "subject_scholars": []
+        },
+        {
+          "book_arabic": "تبيين الحقائق فتاوى أهل السنة شرح كنز الدقائق",
+          "book_transliterated": "Tabyin al-Haqaʾiq Fatawa Ahl al-Sunna Sharh Kanz al-Daqaʾiq",
+          "standard_title_english": "Tabyin al-Haqa'iq Sharh Kanz al-Daqa'iq",
+          "author_arabic": "فخر الدين عثمان بن علي الرملعي الحنفي",
+          "author_death_ah": 844,
+          "schema": "F",
+          "book_type": "fiqh",
+          "citation_count": 1,
+          "contexts": [
+            "LINGUISTIC"
+          ],
+          "subject_scholars": []
+        },
+        {
+          "book_arabic": "رمز الحفائق شرح كنز الدقائق",
+          "book_transliterated": "Ramz al-Hafʾiq Sharh Kanz al-Daqaʾiq",
+          "standard_title_english": "Ramz al-Haqa'iq Sharh Kanz al-Daqa'iq",
+          "author_arabic": "بدر الدين محمود بن أحمد العيني الحنفي",
+          "author_death_ah": 855,
+          "schema": "F",
+          "book_type": "fiqh",
+          "citation_count": 1,
+          "contexts": [
+            "LINGUISTIC"
+          ],
+          "subject_scholars": []
+        },
+        {
+          "book_arabic": "نيل الأوطار",
+          "book_transliterated": "Nayl al-Awtar",
+          "standard_title_english": "Nayl al-Awtar Sharh Muntaqa al-Akhbar",
+          "author_arabic": "شرف الدين أبو الفضل عادل بن علي بن القوكاني",
+          "author_death_ah": 1071,
+          "schema": "E",
+          "book_type": "fiqhi",
+          "citation_count": 1,
+          "contexts": [
+            "LINGUISTIC"
+          ],
+          "subject_scholars": []
+        },
+        {
+          "book_arabic": "شرح عقائد عضدي",
+          "book_transliterated": "Sharh ʿAqaid ʿAdudi",
+          "standard_title_english": "Sharh al-'Aqa'id al-'Adudiyya",
+          "author_arabic": "جلال الدين داود بن محمود الدواني",
+          "author_death_ah": 945,
+          "schema": "F",
+          "book_type": "kalam",
+          "citation_count": 1,
+          "contexts": [
+            "ARGUMENT_LINEAGE"
+          ],
+          "subject_scholars": []
+        },
+        {
+          "book_arabic": "ملل ونحل",
+          "book_transliterated": "al-Milal wa al-Nihal",
+          "standard_title_english": "al-Milal wa al-Nihal",
+          "author_arabic": "أبو الفتح محمد بن عبد الكريم الشهرستاني الشافعي",
+          "author_death_ah": 548,
+          "schema": "F",
+          "book_type": "kalam",
+          "citation_count": 1,
+          "contexts": [
+            "PRIMARY_REBUTTAL"
+          ],
+          "subject_scholars": []
+        },
+        {
+          "book_arabic": "كاشف الشكوكة",
+          "book_transliterated": "Kashf al-Shubuhat",
+          "standard_title_english": "al-Kashif 'an Haqa'iq al-Sunan",
+          "author_arabic": "طيبي",
+          "author_death_ah": 1107,
+          "schema": "E",
+          "book_type": "sharh",
+          "citation_count": 1,
+          "contexts": [
+            "PRIMARY_REBUTTAL"
+          ],
+          "subject_scholars": []
+        },
+        {
+          "book_arabic": "مرقاة الشكوكة",
+          "book_transliterated": "Marqat al-Mashkawat",
+          "standard_title_english": "Mirqat al-Mafatih Sharh Mishkat al-Masabih",
+          "author_arabic": "علي القاري",
+          "author_death_ah": 1014,
+          "schema": "E",
+          "book_type": "sharh",
+          "citation_count": 1,
+          "contexts": [
+            "PRIMARY_REBUTTAL"
+          ],
+          "subject_scholars": []
+        },
+        {
+          "book_arabic": "معالم التنزيل",
+          "book_transliterated": "Ma'alim al-Tanzil",
+          "standard_title_english": "Ma'alim al-Tanzil",
+          "author_arabic": "البايضاوي",
+          "author_death_ah": 685,
+          "schema": "F",
+          "book_type": "tafsir",
+          "citation_count": 1,
+          "contexts": [
+            "PRIMARY_REBUTTAL"
+          ],
+          "subject_scholars": []
+        },
+        {
+          "book_arabic": "تفسير النصابوري",
+          "book_transliterated": "Tafsir al-Nasaburi",
+          "standard_title_english": "Ghara'ib al-Qur'an (Tafsir al-Nisaburi)",
+          "author_arabic": "نظام الدين النصابوري",
+          "author_death_ah": 694,
+          "schema": "F",
+          "book_type": "tafsir",
+          "citation_count": 1,
+          "contexts": [
+            "PRIMARY_REBUTTAL"
+          ],
+          "subject_scholars": []
+        },
+        {
+          "book_arabic": "الدر المنثور",
+          "book_transliterated": "al-Durr al-Manthur",
+          "standard_title_english": "Al-Durr al-Manthur fi al-Tafsir bi al-Ma'thur",
+          "author_arabic": "سيوطي",
+          "author_death_ah": 911,
+          "schema": "F",
+          "book_type": "tafsir",
+          "citation_count": 1,
+          "contexts": [
+            "PRIMARY_REBUTTAL"
+          ],
+          "subject_scholars": []
+        },
+        {
+          "book_arabic": "تفسير الثعلبي",
+          "book_transliterated": "Tafsir al-Tha'labi",
+          "standard_title_english": "al-Kashf wa al-Bayan (Tafsir al-Tha'labi)",
+          "author_arabic": "أحمد بن محمد الثعلبي",
+          "author_death_ah": 427,
+          "schema": "F",
+          "book_type": "tafsir",
+          "citation_count": 1,
+          "contexts": [
+            "PRIMARY_REBUTTAL"
+          ],
+          "subject_scholars": []
+        },
+        {
+          "book_arabic": "تفسير البغوي",
+          "book_transliterated": "Tafsir al-Baghawi",
+          "standard_title_english": "Ma'alim al-Tanzil (Tafsir al-Baghawi)",
+          "author_arabic": "الحسين بن مسعود البغوي",
+          "author_death_ah": 516,
+          "schema": "F",
+          "book_type": "tafsir",
+          "citation_count": 1,
+          "contexts": [
+            "PRIMARY_REBUTTAL"
+          ],
+          "subject_scholars": []
+        },
+        {
+          "book_arabic": "قصص الأنبياء",
+          "book_transliterated": "Qisas al-Anbiya'",
+          "standard_title_english": "Qisas al-Anbiya'",
+          "author_arabic": "عبد الله بن عبد الله الكسائي",
+          "author_death_ah": 299,
+          "schema": "F",
+          "book_type": "tarikh_general",
+          "citation_count": 1,
+          "contexts": [
+            "PRIMARY_REBUTTAL"
+          ],
+          "subject_scholars": []
+        },
+        {
+          "book_arabic": "فضائل الصحابة",
+          "book_transliterated": "Fada'il al-Sahaba",
+          "standard_title_english": "Fada'il al-Sahaba",
+          "author_arabic": "فخر الدين الرازي",
+          "author_death_ah": 606,
+          "schema": "B",
+          "book_type": "juz",
+          "citation_count": 1,
+          "contexts": [
+            "ARGUMENT_LINEAGE"
+          ],
+          "subject_scholars": []
+        },
+        {
+          "book_arabic": "الإحكام في أصول الأحكام",
+          "book_transliterated": "al-Ihkam fi Usul al-Ahkam",
+          "standard_title_english": "",
+          "author_arabic": "ابن حزم الأندلسي",
+          "author_death_ah": 456,
+          "schema": "?",
+          "book_type": "?",
+          "citation_count": 1,
+          "contexts": [
+            "PRIMARY_REBUTTAL"
+          ],
+          "subject_scholars": []
+        },
+        {
+          "book_arabic": "المبسوط",
+          "book_transliterated": "al-Mabsut",
+          "standard_title_english": "",
+          "author_arabic": "أبو بكر محمد بن أبي سهل السرخسي",
+          "author_death_ah": 483,
+          "schema": "?",
+          "book_type": "?",
+          "citation_count": 1,
+          "contexts": [
+            "PRIMARY_REBUTTAL"
+          ],
+          "subject_scholars": []
+        },
+        {
+          "book_arabic": "البدائع",
+          "book_transliterated": "al-Bada'i",
+          "standard_title_english": "",
+          "author_arabic": "علاء الدين الكاساني",
+          "author_death_ah": 587,
+          "schema": "?",
+          "book_type": "?",
+          "citation_count": 1,
+          "contexts": [
+            "PRIMARY_REBUTTAL"
+          ],
+          "subject_scholars": []
+        },
+        {
+          "book_arabic": "الموافقات في أصول الأحكام",
+          "book_transliterated": "al-Muwāfaqāt fī Uṣūl al-Aḥkām",
+          "standard_title_english": "",
+          "author_arabic": "أبو إسحاق إبراهيم بن موسى الشاطبي",
+          "author_death_ah": 790,
+          "schema": "?",
+          "book_type": "?",
+          "citation_count": 1,
+          "contexts": [
+            "SUB_CLAIM_REBUTTAL"
+          ],
+          "subject_scholars": []
+        },
+        {
+          "book_arabic": "التقرير والتحبير",
+          "book_transliterated": "al-Taqrir wa al-Tahbir",
+          "standard_title_english": "",
+          "author_arabic": "ابن أمير الحاج الحلبي",
+          "author_death_ah": 879,
+          "schema": "?",
+          "book_type": "?",
+          "citation_count": 1,
+          "contexts": [
+            "PRIMARY_REBUTTAL"
+          ],
+          "subject_scholars": []
+        },
+        {
+          "book_arabic": "إرشاد التقاد إلى وجوب الاجتهاد",
+          "book_transliterated": "Irshad al-Taqad ila Wujub al-Ijtihad",
+          "standard_title_english": "",
+          "author_arabic": "محمد بن إسماعيل الأمير الشنقيطي",
+          "author_death_ah": 1250,
+          "schema": "?",
+          "book_type": "?",
+          "citation_count": 1,
+          "contexts": [
+            "PRIMARY_REBUTTAL"
+          ],
+          "subject_scholars": []
+        },
+        {
+          "book_arabic": "دفوائج الرحمة - شرح الثر الثبت",
+          "book_transliterated": "Dafawi' al-Rahma - Sharh al-Thir al-Thabit",
+          "standard_title_english": "",
+          "author_arabic": "عبد العلي بن نظام الدين الأنصاري",
+          "author_death_ah": 1085,
+          "schema": "?",
+          "book_type": "?",
+          "citation_count": 1,
+          "contexts": [
+            "PRIMARY_REBUTTAL"
+          ],
+          "subject_scholars": []
+        },
+        {
+          "book_arabic": "شرح منهاج",
+          "book_transliterated": "Sharh Minhaj",
+          "standard_title_english": "",
+          "author_arabic": "علامة سبكي",
+          "author_death_ah": 771,
+          "schema": "?",
+          "book_type": "?",
+          "citation_count": 1,
+          "contexts": [
+            "PRIMARY_REBUTTAL"
+          ],
+          "subject_scholars": []
+        },
+        {
+          "book_arabic": "إعلام الموقعين",
+          "book_transliterated": "I'lam al-Muwaqqi'in",
+          "standard_title_english": "",
+          "author_arabic": "ابن القيم الجوزية",
+          "author_death_ah": 751,
+          "schema": "?",
+          "book_type": "?",
+          "citation_count": 1,
+          "contexts": [
+            "PRIMARY_REBUTTAL"
+          ],
+          "subject_scholars": []
+        },
+        {
+          "book_arabic": "زين الفتى",
+          "book_transliterated": "Zayn al-Fata",
+          "standard_title_english": "Zayn al-Fata fi Tafsir Surat Hal Ata",
+          "author_arabic": "أحمد بن محمد بن علي العاصمي",
+          "author_death_ah": null,
+          "schema": "F",
+          "book_type": "tafsir",
+          "citation_count": 1,
+          "contexts": [
+            "PRIMARY_REBUTTAL"
+          ],
+          "subject_scholars": []
+        },
+        {
+          "book_arabic": "كتاب السقيفة",
+          "book_transliterated": "Kitab al-Saqifa",
+          "standard_title_english": "",
+          "author_arabic": "أبو بكر أحمد بن عبد العزيز الجَوْهَرِيّ",
+          "author_death_ah": null,
+          "schema": "?",
+          "book_type": "?",
+          "citation_count": 1,
+          "contexts": [
+            "PRIMARY_REBUTTAL"
+          ],
+          "subject_scholars": []
+        },
+        {
+          "book_arabic": "الأربعين",
+          "book_transliterated": "al-Arba'un",
+          "standard_title_english": "Al-Arba'un Hadithan",
+          "author_arabic": "جمال الدين المحدث الشيرازي",
+          "author_death_ah": null,
+          "schema": "B",
+          "book_type": "juz",
+          "citation_count": 1,
+          "contexts": [
+            "PRIMARY_REBUTTAL"
+          ],
+          "subject_scholars": []
+        },
+        {
+          "book_arabic": "تاريخ",
+          "book_transliterated": "Tarikh",
+          "standard_title_english": "",
+          "author_arabic": "علامه أحمد بن إسحاق بن جعفر بن وهب بن واضح الكاتب العباسي المعروف بالمقتبي",
+          "author_death_ah": null,
+          "schema": "?",
+          "book_type": "?",
+          "citation_count": 1,
+          "contexts": [
+            "PRIMARY_REBUTTAL"
+          ],
+          "subject_scholars": []
+        },
+        {
+          "book_arabic": "هداية السعدا",
+          "book_transliterated": "Hidayat al-Sa'ada",
+          "standard_title_english": "Hidayat al-Su'ada",
+          "author_arabic": "شهاب الدين بن شمس الدين دولت آبادي",
+          "author_death_ah": null,
+          "schema": "F",
+          "book_type": "manaqib",
+          "citation_count": 1,
+          "contexts": [
+            "PRIMARY_REBUTTAL"
+          ],
+          "subject_scholars": []
+        },
+        {
+          "book_arabic": "الفصول الميته",
+          "book_transliterated": "al-Fusul al-Mi'ah",
+          "standard_title_english": "",
+          "author_arabic": "ابن الصباغ المالكي",
+          "author_death_ah": 855,
+          "schema": "?",
+          "book_type": "?",
+          "citation_count": 1,
+          "contexts": [
+            "PRIMARY_REBUTTAL"
+          ],
+          "subject_scholars": []
+        },
+        {
+          "book_arabic": "رسالة عليه",
+          "book_transliterated": "Risala Alayhi",
+          "standard_title_english": "",
+          "author_arabic": "حسين بن علي الكاشفي",
+          "author_death_ah": 910,
+          "schema": "?",
+          "book_type": "?",
+          "citation_count": 1,
+          "contexts": [
+            "PRIMARY_REBUTTAL"
+          ],
+          "subject_scholars": []
+        },
+        {
+          "book_arabic": "السواعق",
+          "book_transliterated": "al-Sawa'iq",
+          "standard_title_english": "",
+          "author_arabic": "شهاب الدين أحمد بن علي بن حجر العيتمي المكي",
+          "author_death_ah": 974,
+          "schema": "?",
+          "book_type": "?",
+          "citation_count": 1,
+          "contexts": [
+            "PRIMARY_REBUTTAL"
+          ],
+          "subject_scholars": []
+        },
+        {
+          "book_arabic": "وسيلة المآل في عد مناقب الآل",
+          "book_transliterated": "Wasilat al-Ma'al fi 'Add Manaqib al-Al",
+          "standard_title_english": "",
+          "author_arabic": "شيخ أحمد بن الفضلين علي باكثير المكي الشنقيطي",
+          "author_death_ah": null,
+          "schema": "?",
+          "book_type": "?",
+          "citation_count": 1,
+          "contexts": [
+            "PRIMARY_REBUTTAL"
+          ],
+          "subject_scholars": []
+        },
+        {
+          "book_arabic": "صراط السيّ",
+          "book_transliterated": "Sirat al-Sawi",
+          "standard_title_english": "",
+          "author_arabic": "محمد بن علي الشيخاني القادري المدني",
+          "author_death_ah": null,
+          "schema": "?",
+          "book_type": "?",
+          "citation_count": 1,
+          "contexts": [
+            "PRIMARY_REBUTTAL"
+          ],
+          "subject_scholars": []
+        },
+        {
+          "book_arabic": "الإتحاف",
+          "book_transliterated": "al-I'tihaf",
+          "standard_title_english": "",
+          "author_arabic": "فاضل شبراوي",
+          "author_death_ah": null,
+          "schema": "?",
+          "book_type": "?",
+          "citation_count": 1,
+          "contexts": [
+            "PRIMARY_REBUTTAL"
+          ],
+          "subject_scholars": []
+        },
+        {
+          "book_arabic": "شرف النبوة",
+          "book_transliterated": "Sharaf al-Nubuwwa",
+          "standard_title_english": "Sharaf al-Mustafa",
+          "author_arabic": "أبو سعيد عيد الملك بن محمد النيسابوري الخر كوشي",
+          "author_death_ah": 550,
+          "schema": "F",
+          "book_type": "sirah",
+          "citation_count": 1,
+          "contexts": [
+            "PRIMARY_REBUTTAL"
+          ],
+          "subject_scholars": []
+        },
+        {
+          "book_arabic": "نور الأبصار",
+          "book_transliterated": "Nur al-Absar",
+          "standard_title_english": "Nur al-Absar fi Manaqib Al Bayt al-Nabi al-Mukhtar",
+          "author_arabic": "شبلنجي",
+          "author_death_ah": null,
+          "schema": "F",
+          "book_type": "manaqib",
+          "citation_count": 1,
+          "contexts": [
+            "PRIMARY_REBUTTAL"
+          ],
+          "subject_scholars": []
+        },
+        {
+          "book_arabic": "مشارق الأنوار",
+          "book_transliterated": "Mashariq al-Anwar",
+          "standard_title_english": "",
+          "author_arabic": "شيخ حسن عدوي حمزاوي",
+          "author_death_ah": null,
+          "schema": "?",
+          "book_type": "?",
+          "citation_count": 1,
+          "contexts": [
+            "PRIMARY_REBUTTAL"
+          ],
+          "subject_scholars": []
+        },
+        {
+          "book_arabic": "كفاية الطالب",
+          "book_transliterated": "Kifayat al-Talib",
+          "standard_title_english": "Kifayat al-Talib",
+          "author_arabic": "محمد بن يوسف الكنjي الشافعي",
+          "author_death_ah": 1268,
+          "schema": "F",
+          "book_type": "manaqib",
+          "citation_count": 1,
+          "contexts": [
+            "PRIMARY_REBUTTAL"
+          ],
+          "subject_scholars": []
+        },
+        {
+          "book_arabic": "فواتح الرحموت شرح مسلم الثبوت",
+          "book_transliterated": "Fawatih al-Rahamut Sharh Musallam al-Thubut",
+          "standard_title_english": "",
+          "author_arabic": "عبد العلي بن نظام الدين السهالوي",
+          "author_death_ah": 1225,
+          "schema": "?",
+          "book_type": "?",
+          "citation_count": 1,
+          "contexts": [
+            "PRIMARY_REBUTTAL"
+          ],
+          "subject_scholars": []
+        },
+        {
+          "book_arabic": "القاموس المحيط",
+          "book_transliterated": "al-Qamus al-Muhit",
+          "standard_title_english": "",
+          "author_arabic": "مجد الدين محمد بن يعقوب الفيروزآبادي",
+          "author_death_ah": 817,
+          "schema": "?",
+          "book_type": "?",
+          "citation_count": 1,
+          "contexts": [
+            "LINGUISTIC"
+          ],
+          "subject_scholars": []
+        },
+        {
+          "book_arabic": "قمر الأقمار حاشية نور الأنوار",
+          "book_transliterated": "Qamar al-Aqmar Hashiyat Nur al-Anwar",
+          "standard_title_english": "",
+          "author_arabic": "محمد بن عبد الحليم اللكنوي",
+          "author_death_ah": 1286,
+          "schema": "?",
+          "book_type": "?",
+          "citation_count": 1,
+          "contexts": [
+            "PRIMARY_REBUTTAL"
+          ],
+          "subject_scholars": []
+        },
+        {
+          "book_arabic": "القول المفيد في أدلة الاجتهاد والتقليد",
+          "book_transliterated": "al-Qawl al-Mufid fi Adillat al-Ijtihad wa al-Taqlid",
+          "standard_title_english": "",
+          "author_arabic": "محمد بن علي الشوكاني",
+          "author_death_ah": 1250,
+          "schema": "?",
+          "book_type": "?",
+          "citation_count": 1,
+          "contexts": [
+            "PRIMARY_REBUTTAL"
+          ],
+          "subject_scholars": []
+        },
+        {
+          "book_arabic": "كشف الأسرار شرح أصول البزدوي",
+          "book_transliterated": "Kashf al-Asrar Sharh Usul al-Bazdawi",
+          "standard_title_english": "",
+          "author_arabic": "عبد العزيز بن أحمد البخاري",
+          "author_death_ah": 730,
+          "schema": "?",
+          "book_type": "?",
+          "citation_count": 1,
+          "contexts": [
+            "PRIMARY_REBUTTAL"
+          ],
+          "subject_scholars": []
+        },
+        {
+          "book_arabic": "كشف الأسرار شرح المنار",
+          "book_transliterated": "Kashf al-Asrar Sharh al-Manar",
+          "standard_title_english": "",
+          "author_arabic": "عبد الله بن أحمد حافظ الدين النسفي",
+          "author_death_ah": 710,
+          "schema": "?",
+          "book_type": "?",
+          "citation_count": 1,
+          "contexts": [
+            "PRIMARY_REBUTTAL"
+          ],
+          "subject_scholars": []
+        },
+        {
+          "book_arabic": "كشف الفقه",
+          "book_transliterated": "Kashf al-Fiqh",
+          "standard_title_english": "",
+          "author_arabic": "علي بن عيسى الإربلي",
+          "author_death_ah": 693,
+          "schema": "?",
+          "book_type": "?",
+          "citation_count": 1,
+          "contexts": [
+            "PRIMARY_REBUTTAL"
+          ],
+          "subject_scholars": []
+        },
+        {
+          "book_arabic": "كشف المحجوب لأرباب القلوب",
+          "book_transliterated": "Kashf al-Mahjub li-Arbab al-Qulub",
+          "standard_title_english": "",
+          "author_arabic": "علي بن عثمان الغزنوي (الهجويري)",
+          "author_death_ah": 465,
+          "schema": "?",
+          "book_type": "?",
+          "citation_count": 1,
+          "contexts": [
+            "PRIMARY_REBUTTAL"
+          ],
+          "subject_scholars": []
+        },
+        {
+          "book_arabic": "كفاية الطالب في مناقب علي بن أبي طالب",
+          "book_transliterated": "Kifayat al-Talib fi Manaqib Ali ibn Abi Talib",
+          "standard_title_english": "",
+          "author_arabic": "محمد بن يوسف الكنجي الشافعي",
+          "author_death_ah": 658,
+          "schema": "?",
+          "book_type": "?",
+          "citation_count": 1,
+          "contexts": [
+            "PRIMARY_REBUTTAL"
+          ],
+          "subject_scholars": []
+        },
+        {
+          "book_arabic": "كفاية",
+          "book_transliterated": "Kifayah",
+          "standard_title_english": "",
+          "author_arabic": "جلال الدين الكرماني",
+          "author_death_ah": 786,
+          "schema": "?",
+          "book_type": "?",
+          "citation_count": 1,
+          "contexts": [
+            "PRIMARY_REBUTTAL"
+          ],
+          "subject_scholars": []
+        },
+        {
+          "book_arabic": "كفاية المتطلع",
+          "book_transliterated": "Kifayat al-Mutatalli'",
+          "standard_title_english": "",
+          "author_arabic": "شيخ تاج الدين دهان المكي",
+          "author_death_ah": 1200,
+          "schema": "?",
+          "book_type": "?",
+          "citation_count": 1,
+          "contexts": [
+            "PRIMARY_REBUTTAL"
+          ],
+          "subject_scholars": []
+        },
+        {
+          "book_arabic": "لواقح الأنوار",
+          "book_transliterated": "Lawaqih al-Anwar",
+          "standard_title_english": "",
+          "author_arabic": "عبد الوهاب الشعراني",
+          "author_death_ah": 973,
+          "schema": "?",
+          "book_type": "?",
+          "citation_count": 1,
+          "contexts": [
+            "PRIMARY_REBUTTAL"
+          ],
+          "subject_scholars": []
+        },
+        {
+          "book_arabic": "تحفة أثنا عشرية",
+          "book_transliterated": "Tahfat al-Athna 'Ashariyyah",
+          "standard_title_english": "",
+          "author_arabic": "عبد العزيز بن شاه ولي الله الدهلوي",
+          "author_death_ah": 1239,
+          "schema": "?",
+          "book_type": "?",
+          "citation_count": 1,
+          "contexts": [
+            "PRIMARY_REBUTTAL"
+          ],
+          "subject_scholars": []
+        },
+        {
+          "book_arabic": "صواعق",
+          "book_transliterated": "al-Sawa'iq",
+          "standard_title_english": "",
+          "author_arabic": "ابن حجر العسقلاني",
+          "author_death_ah": 852,
+          "schema": "?",
+          "book_type": "?",
+          "citation_count": 1,
+          "contexts": [
+            "ARGUMENT_LINEAGE"
+          ],
+          "subject_scholars": []
+        },
+        {
+          "book_arabic": "كشف الحجب",
+          "book_transliterated": "Kashf al-Hijab",
+          "standard_title_english": "",
+          "author_arabic": "ملا باقر علوخان",
+          "author_death_ah": null,
+          "schema": "?",
+          "book_type": "?",
+          "citation_count": 1,
+          "contexts": [
+            "REBUTTAL_LINEAGE"
+          ],
+          "subject_scholars": []
+        },
+        {
+          "book_arabic": "السيف المسلول على مخربي دين الرسول",
+          "book_transliterated": "al-Sayf al-Masul 'ala Mukharribi Din al-Rasul",
+          "standard_title_english": "",
+          "author_arabic": "أبو أحمد عثمان بن عبد الله بن عبد المنعم الأخباري النيشابوري",
+          "author_death_ah": 1287,
+          "schema": "?",
+          "book_type": "?",
+          "citation_count": 1,
+          "contexts": [
+            "REBUTTAL_LINEAGE"
+          ],
+          "subject_scholars": []
+        },
+        {
+          "book_arabic": "السوارم الإلهيات في قطع شبهات عبيد المرية واللات",
+          "book_transliterated": "al-Sawarm al-Ilahiyyat fi Qat' Shubahat 'Ubayd al-Mar'iyyah wa-l-Lat",
+          "standard_title_english": "",
+          "author_arabic": "سيد دلدار علي بن تك معين نقوي",
+          "author_death_ah": 1237,
+          "schema": "?",
+          "book_type": "?",
+          "citation_count": 1,
+          "contexts": [
+            "REBUTTAL_LINEAGE"
+          ],
+          "subject_scholars": []
+        },
+        {
+          "book_arabic": "صارم الإسلام",
+          "book_transliterated": "Sarim al-Islam",
+          "standard_title_english": "",
+          "author_arabic": "رشيد الدين خان",
+          "author_death_ah": null,
+          "schema": "?",
+          "book_type": "?",
+          "citation_count": 1,
+          "contexts": [
+            "REBUTTAL_LINEAGE"
+          ],
+          "subject_scholars": []
+        },
+        {
+          "book_arabic": "حسام الإسلام وسهام الملام",
+          "book_transliterated": "Hisam al-Islam wa Saham al-Malam",
+          "standard_title_english": "",
+          "author_arabic": "حكيم باقر علوخان",
+          "author_death_ah": null,
+          "schema": "?",
+          "book_type": "?",
+          "citation_count": 1,
+          "contexts": [
+            "REBUTTAL_LINEAGE"
+          ],
+          "subject_scholars": []
+        },
+        {
+          "book_arabic": "إحياء السنة",
+          "book_transliterated": "Ihya' al-Sunnah",
+          "standard_title_english": "",
+          "author_arabic": null,
+          "author_death_ah": null,
+          "schema": "?",
+          "book_type": "?",
+          "citation_count": 1,
+          "contexts": [
+            "REBUTTAL_LINEAGE"
+          ],
+          "subject_scholars": []
+        },
+        {
+          "book_arabic": "ذو الفقار",
+          "book_transliterated": "Dhu al-Fiqar",
+          "standard_title_english": "",
+          "author_arabic": null,
+          "author_death_ah": null,
+          "schema": "?",
+          "book_type": "?",
+          "citation_count": 1,
+          "contexts": [
+            "REBUTTAL_LINEAGE"
+          ],
+          "subject_scholars": []
+        },
+        {
+          "book_arabic": "نزهة الإثني عشرية",
+          "book_transliterated": "Nuzhat al-Athna 'Ashariyyah",
+          "standard_title_english": "",
+          "author_arabic": "ميرزا عدن عثمان أحمد خان الكشميري",
+          "author_death_ah": 1278,
+          "schema": "?",
+          "book_type": "?",
+          "citation_count": 1,
+          "contexts": [
+            "REBUTTAL_LINEAGE"
+          ],
+          "subject_scholars": []
+        },
+        {
+          "book_arabic": "المآثر والآثار",
+          "book_transliterated": "al-Ma'athir wa-l-Athar",
+          "standard_title_english": "",
+          "author_arabic": null,
+          "author_death_ah": null,
+          "schema": "?",
+          "book_type": "?",
+          "citation_count": 1,
+          "contexts": [
+            "ARGUMENT_LINEAGE"
+          ],
+          "subject_scholars": []
+        },
+        {
+          "book_arabic": "الأجناد الإثنا عشرة المحمدية",
+          "book_transliterated": "al-Ajnad al-Athna 'Ashara al-Muhammadiyyah",
+          "standard_title_english": "",
+          "author_arabic": "سيد علي قلي بن سيد الحسين بن سيد حامد حسين بن العابدين الموسوي النيشابوري",
+          "author_death_ah": 1310,
+          "schema": "?",
+          "book_type": "?",
+          "citation_count": 1,
+          "contexts": [
+            "REBUTTAL_LINEAGE"
+          ],
+          "subject_scholars": []
+        },
+        {
+          "book_arabic": "السيف الثاقري",
+          "book_transliterated": "al-Sayf al-Thaqri",
+          "standard_title_english": "",
+          "author_arabic": "سيد علي قلي بن سيد الحسين بن سيد حامد حسين بن العابدين الموسوي النيشابوري",
+          "author_death_ah": 1310,
+          "schema": "?",
+          "book_type": "?",
+          "citation_count": 1,
+          "contexts": [
+            "REBUTTAL_LINEAGE"
+          ],
+          "subject_scholars": []
+        },
+        {
+          "book_arabic": "تقليب المكائد",
+          "book_transliterated": "Taqlib al-Maka'id",
+          "standard_title_english": "",
+          "author_arabic": "سيد علي قلي بن سيد الحسين بن سيد حامد حسين بن العابدين الموسوي النيشابوري",
+          "author_death_ah": 1310,
+          "schema": "?",
+          "book_type": "?",
+          "citation_count": 1,
+          "contexts": [
+            "REBUTTAL_LINEAGE"
+          ],
+          "subject_scholars": []
+        },
+        {
+          "book_arabic": "برهان السعادة",
+          "book_transliterated": "Burhan al-Sa'adah",
+          "standard_title_english": "",
+          "author_arabic": "سيد علي قلي بن سيد الحسين بن سيد حامد حسين بن العابدين الموسوي النيشابوري",
+          "author_death_ah": 1310,
+          "schema": "?",
+          "book_type": "?",
+          "citation_count": 1,
+          "contexts": [
+            "REBUTTAL_LINEAGE"
+          ],
+          "subject_scholars": []
+        },
+        {
+          "book_arabic": "تشييد المطاعن لكشف الضفائن",
+          "book_transliterated": "Tashyid al-Mata'in li-Kashf al-Daf'ain",
+          "standard_title_english": "",
+          "author_arabic": "سيد علي قلي بن سيد الحسين بن سيد حامد حسين بن العابدين الموسوي النيشابوري",
+          "author_death_ah": 1310,
+          "schema": "?",
+          "book_type": "?",
+          "citation_count": 1,
+          "contexts": [
+            "REBUTTAL_LINEAGE"
+          ],
+          "subject_scholars": []
+        },
+        {
+          "book_arabic": "رجوم الشياطين",
+          "book_transliterated": "Rujum al-Shayatin",
+          "standard_title_english": "",
+          "author_arabic": "سيد جعفر أبو علي خان الموسوي",
+          "author_death_ah": null,
+          "schema": "?",
+          "book_type": "?",
+          "citation_count": 1,
+          "contexts": [
+            "REBUTTAL_LINEAGE"
+          ],
+          "subject_scholars": []
+        },
+        {
+          "book_arabic": "تتميم الباب التاسع من النزهة",
+          "book_transliterated": "Tatimmat al-Bab al-Tasi' min al-Nuzhah",
+          "standard_title_english": "",
+          "author_arabic": "سيد جعفر أبو علي خان الموسوي",
+          "author_death_ah": null,
+          "schema": "?",
+          "book_type": "?",
+          "citation_count": 1,
+          "contexts": [
+            "REBUTTAL_LINEAGE"
+          ],
+          "subject_scholars": []
+        },
+        {
+          "book_arabic": "الجوابة الفاخرة في رد الأشاعرة",
+          "book_transliterated": "al-Jawabat al-Fakhirah fi Radd al-Asha'irah",
+          "standard_title_english": "",
+          "author_arabic": "سيد محمد قلي",
+          "author_death_ah": null,
+          "schema": "?",
+          "book_type": "?",
+          "citation_count": 1,
+          "contexts": [
+            "REBUTTAL_LINEAGE"
+          ],
+          "subject_scholars": []
+        },
+        {
+          "book_arabic": "معين الصاداتين في رد رجوم الشياطين",
+          "book_transliterated": "Mu'in al-Sadatin fi Radd Rujum al-Shayatin",
+          "standard_title_english": "",
+          "author_arabic": null,
+          "author_death_ah": null,
+          "schema": "?",
+          "book_type": "?",
+          "citation_count": 1,
+          "contexts": [
+            "REBUTTAL_LINEAGE"
+          ],
+          "subject_scholars": []
+        },
+        {
+          "book_arabic": "مصارع الأفهام",
+          "book_transliterated": "Musar' al-Afham",
+          "standard_title_english": "",
+          "author_arabic": "سيد علي قلي بن سيد الحسين بن سيد حامد حسين بن العابدين الموسوي النيشابوري",
+          "author_death_ah": 1310,
+          "schema": "?",
+          "book_type": "?",
+          "citation_count": 1,
+          "contexts": [
+            "REBUTTAL_LINEAGE"
+          ],
+          "subject_scholars": []
+        },
+        {
+          "book_arabic": "الوجيزة في الأصول",
+          "book_transliterated": "al-Wajizah fi al-Usul",
+          "standard_title_english": "",
+          "author_arabic": "محمد سبحان علي خان الهندي",
+          "author_death_ah": 1250,
+          "schema": "?",
+          "book_type": "?",
+          "citation_count": 1,
+          "contexts": [
+            "REBUTTAL_LINEAGE"
+          ],
+          "subject_scholars": []
+        },
+        {
+          "book_arabic": "الإمامة",
+          "book_transliterated": "al-Imamah",
+          "standard_title_english": "",
+          "author_arabic": "سيد ولدار علي تقوي نضير بادي لكبنوي",
+          "author_death_ah": 1284,
+          "schema": "?",
+          "book_type": "?",
+          "citation_count": 1,
+          "contexts": [
+            "REBUTTAL_LINEAGE"
+          ],
+          "subject_scholars": []
+        },
+        {
+          "book_arabic": "البوارق المويقة",
+          "book_transliterated": "al-Bawa riq al-Maw iqah",
+          "standard_title_english": "",
+          "author_arabic": "سيد ولدار علي تقوي نضير بادي لكبنوي",
+          "author_death_ah": 1284,
+          "schema": "?",
+          "book_type": "?",
+          "citation_count": 1,
+          "contexts": [
+            "REBUTTAL_LINEAGE"
+          ],
+          "subject_scholars": []
+        },
+        {
+          "book_arabic": "برهان الصادقين",
+          "book_transliterated": "Burhan al-Sadiqin",
+          "standard_title_english": "",
+          "author_arabic": "سيد جعفر أبو علي خان الموسوي",
+          "author_death_ah": null,
+          "schema": "?",
+          "book_type": "?",
+          "citation_count": 1,
+          "contexts": [
+            "REBUTTAL_LINEAGE"
+          ],
+          "subject_scholars": []
+        },
+        {
+          "book_arabic": "مهجة البرهان",
+          "book_transliterated": "Mahjat al-Burhan",
+          "standard_title_english": "",
+          "author_arabic": "سيد جعفر أبو علي خان الموسوي",
+          "author_death_ah": null,
+          "schema": "?",
+          "book_type": "?",
+          "citation_count": 1,
+          "contexts": [
+            "REBUTTAL_LINEAGE"
+          ],
+          "subject_scholars": []
+        },
+        {
+          "book_arabic": "تمكيس السثمين",
+          "book_transliterated": "Tamkis al-Sathmin",
+          "standard_title_english": "",
+          "author_arabic": "سيد جعفر أبو علي خان الموسوي",
+          "author_death_ah": null,
+          "schema": "?",
+          "book_type": "?",
+          "citation_count": 1,
+          "contexts": [
+            "REBUTTAL_LINEAGE"
+          ],
+          "subject_scholars": []
+        },
+        {
+          "book_arabic": "هداية العزيز",
+          "book_transliterated": "Hidayat al-Aziz",
+          "standard_title_english": "",
+          "author_arabic": "مولوى خير الدين علي آبادي الهندي",
+          "author_death_ah": null,
+          "schema": "?",
+          "book_type": "?",
+          "citation_count": 1,
+          "contexts": [
+            "REBUTTAL_LINEAGE"
+          ],
+          "subject_scholars": []
+        },
+        {
+          "book_arabic": "الجواهر العبقرية",
+          "book_transliterated": "al-Jawahir al-Ubaqariyyah",
+          "standard_title_english": "",
+          "author_arabic": "سيد مفتي مير علي عباس بن علي كبر شوشتري",
+          "author_death_ah": 1290,
+          "schema": "?",
+          "book_type": "?",
+          "citation_count": 1,
+          "contexts": [
+            "REBUTTAL_LINEAGE"
+          ],
+          "subject_scholars": []
+        },
+        {
+          "book_arabic": "عبقات الأنوار",
+          "book_transliterated": "Abaqat al-Anwar",
+          "standard_title_english": "'Abaqat al-Anwar fi Imamat al-A'immat al-Athar",
+          "author_arabic": "مير سيد حامد حسين بن سيد علي قلي الموسوي النيشابوري",
+          "author_death_ah": 1306,
+          "schema": "D",
+          "book_type": "shia_polemical",
+          "citation_count": 1,
+          "contexts": [
+            "PRIMARY_REBUTTAL"
+          ],
+          "subject_scholars": []
+        },
+        {
+          "book_arabic": "تصحيح المنحة الإلهية عن النفثة الشيطانية",
+          "book_transliterated": "Tas-hih al-Minhah al-Ilahiyyah 'an al-Nafthah al-Shaytaniyyah",
+          "standard_title_english": "",
+          "author_arabic": "شيخ مبدئ بن شيخ حسين خالصي كاظمي",
+          "author_death_ah": 1247,
+          "schema": "?",
+          "book_type": "?",
+          "citation_count": 1,
+          "contexts": [
+            "REBUTTAL_LINEAGE"
+          ],
+          "subject_scholars": []
+        },
+        {
+          "book_arabic": "المنحة الإلهية",
+          "book_transliterated": "al-Minhah al-Ilahiyyah",
+          "standard_title_english": "",
+          "author_arabic": "غلام حليم بن محيي الدين أسلمي",
+          "author_death_ah": null,
+          "schema": "?",
+          "book_type": "?",
+          "citation_count": 1,
+          "contexts": [
+            "SUB_CLAIM_REBUTTAL"
+          ],
+          "subject_scholars": []
+        },
+        {
+          "book_arabic": "طعن الرماح",
+          "book_transliterated": "Ta'n al-Rumah",
+          "standard_title_english": "",
+          "author_arabic": "سيد علي مجتهى مجمع سلطان العلماء",
+          "author_death_ah": null,
+          "schema": "?",
+          "book_type": "?",
+          "citation_count": 1,
+          "contexts": [
+            "REBUTTAL_LINEAGE"
+          ],
+          "subject_scholars": []
+        }
+      ]
+    }
+  }
+}
