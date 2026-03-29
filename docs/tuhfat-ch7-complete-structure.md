@@ -5,7 +5,9 @@ Chapter 7: Shia Beliefs on Imamate
 
 Printed pages 348-472 (125 pages). Extracted from clean Gemini OCR.
 
-**Page numbering:** The 0-indexed PDF page number equals the printed page number in this book (no offset). All page references in this document use **printed page numbers** as shown on the scanned pages, matching the `page_printed` field in the OCR JSONL. The OCR file includes one extra page (347) from the end of Chapter 6.
+**Page numbering:** The 0-indexed PDF page number equals the printed page number in this book (no offset). All page references use **printed page numbers** matching the `page_printed` field in the OCR JSONL.
+
+**Source:** This document is generated from `data/books/tuhfat/structured/ch7.json` (1,272 content units extracted via dual-model: GPT 5.4 + Gemini 3 Flash).
 
 ---
 
@@ -13,12 +15,25 @@ Printed pages 348-472 (125 pages). Extracted from clean Gemini OCR.
 
 Dehlavi's Chapter 7 is a systematic refutation of Shia proofs for the Imamate of Imam Ali (as). He organizes his response into **4 major sections**:
 
-| Section | Pages | Content |
-|---------|-------|---------|
-| **I. Sunni Imamate Theory** | 348-393 | 6 Sunni beliefs on Imamate + defense of the three Caliphs |
-| **II. Shia Quranic Proofs** | 395-422 | Shia verses for Ali's Imamate + Dehlavi's rebuttals |
-| **III. Shia Hadith Proofs** | 404-443 | 12 hadiths cited by Shia + Dehlavi's rebuttals |
-| **IV. Shia Rational Proofs** | 443-472 | 6 rational arguments + Dehlavi's rebuttals |
+| Section | Pages | Units | Content |
+|---------|-------|-------|---------|
+| **I. Sunni Imamate Theory** | 348-394 | 472 | 6 Sunni beliefs on Imamate + defense of the three Caliphs |
+| **II. Shia Quranic Proofs** | 394-421 | 245 | 8 Quranic verses Shia cite + Dehlavi's rebuttals |
+| **III. Shia Hadith Proofs** | 417-442 | 247 | 12 hadiths Shia cite + Dehlavi's rebuttals |
+| **IV. Shia Rational Proofs** | 442-472 | 308 | 6 rational arguments + closing meta-argument |
+| **Total** | 348-472 | **1272** | |
+
+**Dehlavi's three rebuttal methods:**
+
+| Method | Count | Description |
+|--------|-------|-------------|
+| logical | 425 | Reductio ad absurdum, non-contradiction, semantic analysis |
+| meaning_minimization | 117 | Accepts hadith/verse but reinterprets meaning |
+| counter_verse | 91 | Cites other Quranic verses to constrain meaning |
+| ilzam | 88 | Uses Shia sources (Nahj al-Balagha) against Shia |
+| counter_hadith | 74 | Quotes hadiths favoring other companions |
+| grammatical | 62 | Challenges Arabic parsing and word meanings |
+| chain_criticism | 53 | Declares narrators weak or fabricators |
 
 ---
 
@@ -28,21 +43,21 @@ Dehlavi first lays out the Sunni position before addressing Shia proofs.
 
 ### The 6 Sunni Beliefs on Imamate
 
-| # | Belief | Page | Summary |
-|---|--------|------|---------|
-| 1 | Obligation to appoint a leader | 348-349 | Appointing an Imam is a communal obligation (wajib), not divine |
-| 2 | The Imam must be manifest | 358-359 | Against occultation — the Imam must be publicly leading |
-| 3 | Infallibility is not required | 360-361 | Imams are not ma'sum — fallibility is acceptable |
-| 4 | No divine nass required | 362 | Appointment by the people, not by God |
-| 5 | The Imam need not be the most superior | 363 | A less superior but effective leader is valid |
-| 6 | Abu Bakr was the rightful immediate successor | 364-393 | Defense of caliphate of Abu Bakr, Umar, Uthman |
+| # | Belief | Pages | Units |
+|---|--------|-------|-------|
+| 1 | Obligation to appoint a leader — communal obligation, not divine | 348-352 | 37 |
+| 2 | The Imam must be manifest — against occultation | 353-358 | 32 |
+| 3 | Infallibility is not required — fallibility acceptable | 356-360 | 66 |
+| 4 | No divine nass required — appointment by people | 360-361 | 11 |
+| 5 | Imam need not be most superior — effective leader is valid | 361-362 | 8 |
+| 6 | Abu Bakr was the rightful immediate successor | 362-394 | 318 |
 
 ### Defense of the Three Caliphs (pp 364-393)
 
-Dehlavi spends 30 pages defending the caliphate using:
-- Quranic verses (آیات قرآنی) — pp 371+, 381, 393
-- Hadiths from Nahj al-Balagha (using Shia sources against Shia) — pp 374+
-- Historical arguments about Abu Bakr's appointment — pp 386-392
+- **Abu Bakr's caliphate**: 261 units, pp 362-394
+- **Umar's caliphate**: 27 units, pp 364-374
+- **Uthman's caliphate**: 2 units, pp 384-384
+- **Ali's caliphate (Sunni view)**: 16 units, pp 366-368
 
 **Key methodological note:** Dehlavi uses Shia sources (particularly Nahj al-Balagha) to argue that Ali (as) himself endorsed the caliphs — his "الزام" (binding the opponent by their own sources) technique.
 
@@ -50,27 +65,20 @@ Dehlavi spends 30 pages defending the caliphate using:
 
 ## Section II: Shia Quranic Proofs (pp 395-422)
 
-Dehlavi addresses the Quranic verses Shia cite for Imam Ali's Imamate. From the text, the major verses discussed are:
+Dehlavi addresses the Quranic verses Shia cite for Imam Ali's Imamate:
 
-| # | Verse | Arabic | Surah:Ayah | Pages | Shia argument |
-|---|-------|--------|-----------|-------|---------------|
-| 1 | Ayat al-Wilayah | إِنَّمَا وَلِيُّكُمُ اللَّهُ وَرَسُولُهُ وَالَّذِينَ آمَنُوا الَّذِينَ يُقِيمُونَ الصَّلَاةَ وَيُؤْتُونَ الزَّكَاةَ وَهُمْ رَاكِعُونَ | 5:55 | 396-403 | Ali gave his ring in ruku' — proves exclusive wilayah |
-| 2 | Ayat al-Tabligh | يَا أَيُّهَا الرَّسُولُ بَلِّغْ مَا أُنزِلَ إِلَيْكَ | 5:67 | 403-404 | Revealed at Ghadir — divine command to announce Ali |
-| 3 | Ayat al-Ikmal | الْيَوْمَ أَكْمَلْتُ لَكُمْ دِينَكُمْ | 5:3 | 404 | Religion perfected after Ali's appointment |
-| 4 | Ulu al-Amr | أَطِيعُوا اللَّهَ وَأَطِيعُوا الرَّسُولَ وَأُولِي الْأَمْرِ مِنكُمْ | 4:59 | ~405-410 | "Those in authority" = the Imams |
-| 5 | Ayat al-Tathir | إِنَّمَا يُرِيدُ اللَّهُ لِيُذْهِبَ عَنكُمُ الرِّجْسَ أَهْلَ الْبَيْتِ | 33:33 | ~406 | Purification = infallibility |
-| 6 | Ayat al-Mubahala | فَقُلْ تَعَالَوْا نَدْعُ أَبْنَاءَنَا وَأَبْنَاءَكُمْ | 3:61 | ~410+ | Ali as "ourselves" = equal to the Prophet |
-| 7 | Ayat al-Mawaddah | قُل لَّا أَسْأَلُكُمْ عَلَيْهِ أَجْرًا إِلَّا الْمَوَدَّةَ فِي الْقُرْبَىٰ | 42:23 | ~415+ | Love of kin as the Prophet's wage |
-| 8 | Ayat al-Sadiqin | يَا أَيُّهَا الَّذِينَ آمَنُوا اتَّقُوا اللَّهَ وَكُونُوا مَعَ الصَّادِقِينَ | 9:119 | ~418+ | "Be with the truthful" = be with the Imams |
+| # | Verse | Arabic | Surah:Ayah | Pages | Units | Rebuttal methods |
+|---|-------|--------|-----------|-------|-------|------------------|
+| 1 | Ayat al-Wilayah | إِنَّمَا وَلِيُّكُمُ اللَّهُ وَرَسُولُهُ وَالَّذِينَ آمَنُوا | 5:55 | 394-404 | 98 | logical, grammatical, meaning_minimization |
+| 2 | Ayat al-Tabligh | يَا أَيُّهَا الرَّسُولُ بَلِّغْ مَا أُنزِلَ إِلَيْكَ | 5:67 | — | 0 | *(sub-point of adjacent proof)* |
+| 3 | Ayat al-Ikmal | الْيَوْمَ أَكْمَلْتُ لَكُمْ دِينَكُمْ | 5:3 | — | 0 | *(sub-point of adjacent proof)* |
+| 4 | Ulu al-Amr | أَطِيعُوا اللَّهَ وَأَطِيعُوا الرَّسُولَ وَأُولِي الْأَمْرِ مِنكُمْ | 4:59 | 408-411 | 16 | counter_hadith, logical, counter_verse |
+| 5 | Ayat al-Tathir | إِنَّمَا يُرِيدُ اللَّهُ لِيُذْهِبَ عَنكُمُ الرِّجْسَ أَهْلَ الْبَيْتِ | 33:33 | 404-410 | 51 | grammatical, logical, meaning_minimization |
+| 6 | Ayat al-Mubahala | فَقُلْ تَعَالَوْا نَدْعُ أَبْنَاءَنَا وَأَبْنَاءَكُمْ | 3:61 | 411-414 | 31 | logical, ilzam, chain_criticism |
+| 7 | Ayat al-Mawaddah | قُل لَّا أَسْأَلُكُمْ عَلَيْهِ أَجْرًا إِلَّا الْمَوَدَّةَ فِي الْقُرْبَىٰ | 42:23 | 414-417 | 39 | logical, chain_criticism, meaning_minimization |
+| 8 | Ayat al-Sadiqin | يَا أَيُّهَا الَّذِينَ آمَنُوا اتَّقُوا اللَّهَ وَكُونُوا مَعَ الصَّادِقِينَ | 9:119 | 420-421 | 10 | logical, meaning_minimization, counter_verse |
 
-*Note: The exact page ranges for verses 4-8 need verification against the full OCR text. The verse identification is based on keyword matches and contextual reading.*
-
-### Dehlavi's rebuttal method for Quranic proofs:
-- **Reinterpretation:** ولی means friend/helper, not ruler (for Ayat al-Wilayah)
-- **Alternative sha'n al-nuzul:** Attributes different occasion of revelation
-- **Grammatical arguments:** Challenges Arabic parsing (رکوع = khushu', not ritual ruku')
-- **Counter-verses:** Cites other verses to constrain meaning
-- **Sunni tafsir:** Quotes Sunni mufassirin who interpret differently
+*Note: Tabligh (5:67) and Ikmal (5:3) are very brief in Tuhfat — Dehlavi mentions them in passing within the Wilayah discussion, not as standalone multi-page arguments.*
 
 ---
 
@@ -78,142 +86,84 @@ Dehlavi addresses the Quranic verses Shia cite for Imam Ali's Imamate. From the 
 
 **12 hadiths** Shia cite for Imam Ali's Imamate, addressed one by one:
 
-| # | Hadith | Arabic text | Narrated by | Page | Dehlavi's rebuttal |
-|---|--------|-------------|-------------|------|--------------------|
-| 1 | Hadith al-Ghadir | من كنت مولاه فعلي مولاه | Multiple | 404, 419 | مولی = friend, not ruler. Even if ruler, doesn't negate prior caliphs |
-| 2 | Hadith al-Manzilah | أنت مني بمنزلة هارون من موسى | Bara' ibn Azib | 423 | Specific to Tabuk absence. Harun died before Musa — no succession implied |
-| 3 | Hadith of Burayda | إن علياً مني وأنا من علي وهو ولي كل مؤمن من بعدي | Burayda | 425 | Chain contains Ajlah — a Shia accused of fabrication. Chain weak |
-| 4 | Hadith al-Tayr | كان عند النبي ﷺ طائر... اللهم ائتني بأحب خلقك إليك | Anas ibn Malik | 426 | Most muhaddithun declare it mawdu' (fabricated). Al-Jazari explicit |
-| 5 | Hadith Madinat al-Ilm | أنا مدينة العلم وعلي بابها | Jabir | 427 | Scholars differ on authenticity. Being "gate of knowledge" ≠ caliphate |
-| 6 | Twelve Caliphs hadith | يكون اثنا عشر أميراً كلهم من قريش | Shia narration | 428 | This fits Sunni caliphs, not Shia Imams. Shia fabricated the Imami version |
-| 7 | Man nasaba Aliyyan | من ناصب علياً الخلافة فهو كافر | Abu Dharr | 432 | نصب here means "contested" not "denied." No one contested Ali's caliphate during the three caliphs' era |
-| 8 | Kuntu wa Ali nur | كنت أنا وعلي نوراً بين يدي الله | Reported | 433 | Chain extremely weak. Even if authentic, describes pre-creation status, not political caliphate |
-| 9 | Hadith al-Rayah (Khaybar) | لأعطين الراية غداً رجلاً يحب الله ورسوله ويحبه الله ورسوله | Umar | 435 | Describes love/bravery, not caliphate. Many sahaba described similarly |
-| 10 | Adir al-Haqq | رحم الله علياً اللهم أدر الحق معه حيث دار | Reported | 436 | If truth follows Ali always → proves Umar's caliphate was right (since Ali endorsed it) |
-| 11 | Tuqatilu ala ta'wil | أنت تقاتل على تأويل القرآن كما قاتلت على تنزيله | Abu Sa'id al-Khudri | 440 | Means Ali fought for Quran's interpretation — doesn't prove immediate caliphate |
-| 12 | Hadith al-Thaqalayn + Safinah | إني تارك فيكم الثقلين... كتاب الله وعترتي | Zayd ibn Arqam | 439-442 | See detailed breakdown below. **Abaqat Vols 18-22 respond to Thaqalayn; Vol 23 responds to Safinah.** |
+| # | Hadith | Arabic text | Page | Units | Dehlavi's rebuttal |
+|---|--------|-------------|------|-------|---------------------|
+| 1 | Ghadir | من كنت مولاه فعلي مولاه | 417-422 | 37 | مولی = friend, not ruler |
+| 2 | Manzilah | أنت مني بمنزلة هارون من موسى | 422-424 | 10 | Specific to Tabuk. Harun died before Musa |
+| 3 | Burayda | إن علياً مني وأنا من علي وهو ولي كل مؤمن | 424-424 | 3 | Chain contains Ajlah — weak |
+| 4 | Tayr | اللهم ائتني بأحب خلقك إليك | 425-426 | 6 | Most declare mawdu' (fabricated) |
+| 5 | Madinat al-Ilm | أنا مدينة العلم وعلي بابها | 426-426 | 5 | "Gate of knowledge" ≠ caliphate |
+| 6 | 12 Caliphs | يكون اثنا عشر أميراً كلهم من قريش | 426-431 | 48 | Fits Sunni caliphs, not Shia Imams |
+| 7 | Nasb Ali | من ناصب علياً الخلافة فهو كافر | 431-432 | 14 | نصب = contested, not denied |
+| 8 | Nur | كنت أنا وعلي نوراً بين يدي الله | 432-433 | 13 | Chain weak. Pre-creation, not political |
+| 9 | Rayah/Khaybar | لأعطين الراية غداً رجلاً يحب الله ورسوله | 434-434 | 9 | Describes love/bravery, not caliphate |
+| 10 | Adir al-Haqq | اللهم أدر الحق معه حيث دار | 434-438 | 33 | If truth follows Ali → proves caliphs were right too |
+| 11 | Ta'wil | تقاتل على تأويل القرآن كما قاتلت على تنزيله | 438-439 | 13 | Fought for interpretation, not immediate caliphate |
+| 12 | Thaqalayn+Safinah | إني تارك فيكم الثقلين... كتاب الله وعترتي | 440-442 | 35 | تمسک = love. See sub-claims below |
 
 ### Hadith 12 Detail: Thaqalayn + Safinah (pp 439-442)
 
-Hadith 12 begins mid-page 439 (حدیث دوازدهم). Safinah is introduced mid-page 440 as a sub-point ("و همین قسم حدیث..."). The entire discussion runs through mid-page 442 where the rational proofs section begins.
+Hadith 12 begins mid-page 439 (حدیث دوازدهم). Safinah is introduced mid-page 440 as a sub-point. The discussion runs through mid-page 442 where rational proofs begin.
 
-**4 main claims, 13 sub-claims:**
+**Claim B: Safinah = love, not Imamate** (p440-440)
 
-#### Claim A: Thaqalayn does not prove Imamate (pp 439-440)
+> و همین قسم حدیث (مثل اهل بیتی فیکم مثل سفینة نوح من ركبها نجی و من تخلف عنها غرق) دلالت نمیکند مگر ب
 
-Main statement: "و این حدیث هم بدستور احادیث سابقه با مدعی مساس ندارد زیرا که لازم نیست که متمسک بر صاحب زعامت کبری باشد"
+*Interprets the 'Ship of Noah' hadith as indicating that salvation is tied to love and following the Ahl al-Bayt, not Imamate.*
 
-*"This hadith has no connection to the [Imamate] claim, since holding fast does not require adherence to the one with supreme leadership."*
+| Sub-claim | Units | Summary |
+|-----------|-------|---------|
+| Only Sunnis fulfill it | 3 | Claims that only Sunnis truly fulfill the requirement of loving a |
+| Shia selective love (Q2:85) | 1 | Argues that Shia sects are selective in their love for the Ahl al |
+| Shia narrations agree with Sunnis | 1 | Challenges Shia to explain why many of their narrations and belie |
 
-| Sub-claim | Page | Content | Hadiths quoted |
-|-----------|------|---------|----------------|
-| A.1 Counter-hadith | 440 | عليكم بسنتى وسنة الخلفاء الراشدين — "this hadith is also authentic" | 1 (no source) |
-| A.2 عترت = all relatives | 440 | If Imamate, then Ibn Abbas, Ibn Hanafiyyah, Zayd, etc. all Imams | 0 |
-| A.3 Counter-hadiths | 440 | Aisha (خذوا شطر دينكم), Ammar, Muadh, Abu Bakr/Umar (اقتدوا) | 6 (no sources) |
-| A.4 Ali's Shura hadith | 440 | انما الشورى للمهاجرين والانصار — contradicts exclusive Imamate | 1 (attributed to Shia) |
+**Claim C: Ship compartment reductio** (p441-441)
 
-#### Claim B: Safinah = love, not Imamate (pp 440-441)
+> از خوش طبعان شیعه تقریری دارد خیلی دلفریب لابد ذکر آن تقریر و حل آن تزویر نموده آمد گفته است که تشبی
 
-Main statement: "دلالت نمیکند مگر بر آنکه فلاح و هدایت مربوط بدوستی ایشان و منوط باتباع ایشان است"
+*Presents a Shia argument that the ship analogy does not require following or loving all Ahl al-Bayt for salvation.*
 
-*"[Safinah] indicates nothing except that salvation depends on their love and following them."*
+| Sub-claim | Units | Summary |
+|-----------|-------|---------|
+| All Shia sects saved | 2 | Explains that if following only some Ahl al-Bayt suffices, then a |
+| Twelver exclusivity collapses | 2 | Argues that this logic would invalidate the necessity of the Twel |
+| Law of non-contradiction | 2 | Points out that accepting all sects as saved leads to contradicti |
+| Ship wholeness — Shia make holes | 3 | Argues that salvation requires the ship (Ahl al-Bayt) to be whole |
 
-| Sub-claim | Page | Content | Sources cited |
-|-----------|------|---------|---------------|
-| B.1 Only Sunnis fulfill it | 440 | "محض نصیب اهل سنت است" — Sunnis hold to ALL Ahl al-Bayt | 0 |
-| B.2 Shia selective love | 440 | Q2:85 (partial faith), Q2:285 (no distinction) — Shia love selectively | Q2:85, Q2:285 |
-| B.3 Shia's own narrations agree | 440 | References earlier Tuhfat sections — tangential | 0 |
+**Claim D: Only Sunni interpretation works** (p442-442)
 
-#### Claim C: Ship compartment reductio (pp 441-442)
+> و باختیار روش اهل سنت الزام توان داد نواصب را در انکار این دو حدیث که بدلیل عقلی در صحت این هر دو قد
+> اما دلایل عقلیه شیعه پس بیش از حد احصاست چنانچه الفین و دیگر کتب ایشان کافل استیفای آن دلایل است اما
 
-Setup: Dehlavi quotes a Shia argument — "one compartment suffices for salvation"
+*States that only the Sunni approach avoids logical impossibilities, and that Nasibis' objections to these hadiths are invalid.*
 
-| Sub-claim | Page | Content | Technique |
-|-----------|------|---------|-----------|
-| C.1 All Shia sects saved | 441 | Zaydiyyah, Kaysaniyyah, Nawusiyyah, Aftahiyyah all "took a compartment" | Reductio |
-| C.2 Twelver exclusivity collapses | 441 | "تعین ائمه اثنا عشریه نیز مخدوش گشت" | Reductio |
-| C.3 Law of non-contradiction | 441 | "قایل باجتماع نقیضین شدن است که بدیهی الاستحاله است" | Logic |
-| C.4 Ship wholeness | 441-442 | Shia "make holes" by rejecting some Ahl al-Bayt; Sunni ship is intact | Metaphor |
-
-#### Claim D: Only Sunni interpretation resolves rational objections (p 442)
-
-Main statement: "الزام توان داد نواصب را در انکار این دو حدیث"
-
-*"By adopting the Sunni method, we can obligate the Nasibis who deny these two hadiths."*
-
-| Sub-claim | Page | Content | Sources cited |
-|-----------|------|---------|---------------|
-| D.1 Hadiths command impossibles | 442 | "تکلیف بممتنعات عقلیه است" — if all Ahl al-Bayt followed, contradictions arise | Logic |
-| D.2 Q5:48 one shari'ah | 442 | لِكُلٍّ جَعَلْنَا مِنكُمْ شِرْعَةً وَمِنْهَاجًا | Q5:48 |
-
-**Totals for Hadith 12:** 9 hadiths quoted (0 with sources), 3 Quranic verses (Q2:85, Q2:285, Q5:48), 0 books named.
-
-### Dehlavi's rebuttal methodology for hadiths:
-- **Chain criticism (jarh):** Declares narrators weak/fabricators (hadiths 3, 4, 6, 8)
-- **Meaning minimization:** Accepts hadith but reinterprets meaning (hadiths 1, 2, 5, 9, 11, 12)
-- **Counter-hadiths:** Quotes hadiths favoring other companions (hadiths 1, 10, 12)
-- **Logical reversal:** Turns the hadith's logic against Shia (hadith 10)
-- **Source transparency:** 0 sources named for any counter-hadith
+| Sub-claim | Units | Summary |
+|-----------|-------|---------|
+| Hadiths command impossibles if Imamate | 3 | Argues that following all Ahl al-Bayt is logically impossible due |
+| Q5:48 — one shari'ah | 3 | References Quran 2:85 and 2:285 to argue against selective belief |
 
 ---
 
 ## Section IV: Shia Rational Proofs (pp 443-472)
 
-Dehlavi introduces this section saying: "اما دلایل عقلیه شیعه پس بیش از حد احصاست" (Shia rational proofs are beyond count) but selects **6 key arguments**:
+Dehlavi selects **6 key arguments** from Shia theology, preceded by a meta-argument:
 
-| # | Proof | Page | Shia argument | Dehlavi's rebuttal |
-|---|-------|------|---------------|-------------------|
-| 1 | Imam must be infallible (عصمت) | 444 | Only Ali was ma'sum among the Sahaba | Infallibility cannot be known except through a prophet. Shia create circular reasoning. |
-| 2 | Imam must never have committed kufr | 446 | لَا يَنَالُ عَهْدِي الظَّالِمِينَ — disqualifies former idol-worshippers | This condition was invented to exclude the caliphs. Not a Quranic requirement for Imamate. |
-| 3 | *(Not explicitly marked in OCR)* | ~447 | *(May be merged with proof 2 or 4)* | — |
-| 4 | Ali always complained about the caliphs | 448 | Ali was constantly متظلم — proving he was wronged | Complaints were political, not doctrinal. Ali participated in governance under all three caliphs. |
-| 5 | Ali claimed Imamate and showed miracles | 452 | Claim + miracle = proof (like prophets) | Ali never claimed Imamate during the three caliphs' era. Miracles in caliphate period prove caliphate, not prior Imamate. |
-| 6 | Ali had no disqualifying defects | 454 | Unlike the three caliphs, Ali had no مطاعن | The caliphs' alleged defects are fabricated. Ali himself had critics — same standard applies. |
+| # | Proof | Pages | Units | Dehlavi's rebuttal |
+|---|-------|-------|-------|--------------------|
+| 1 | Meta-argument | 442-443 | 8 | All proofs reducible to 3 types — undermine foundations |
+| 2 | Infallibility (عصمت) | 443-445 | 20 | Cannot be known except through a prophet. Circular reasoning. |
+| 3 | No prior kufr | 445-446 | 15 | Condition invented to exclude caliphs. Not Quranic. |
+| 4 | Merged/transitional | 446-447 | 6 | — |
+| 5 | Ali's complaints | 447-451 | 22 | Complaints were political, not doctrinal. |
+| 6 | Ali + miracles | 451-454 | 27 | Never claimed Imamate during three caliphs' era. |
+| 7 | No defects | 454-462 | 109 | Caliphs' defects fabricated. Same standard applies. |
+| 8 | Closing: sectarian splits | 462-472 | 101 | Shia sects disprove all tawatur claims. Q37:69-70. |
 
-### Dehlavi's meta-argument against rational proofs (p 443):
+### Closing argument (p 462-472)
 
-> هر دلیل ایشان را بآن حل توانند نمود اول باید دانست که دلیل عقلی برین مدعا خالی از سه حال نیست یا جمیع مقدمات او عقلی عقلی... یا بعضی مقدمات او عقلی و بعض نقلی... یا جمیع مقدمات آن نقلی است
+*Section header introducing the common ground among all Shia sects: Ali's immediate Imamate and the invalidity of the first three caliphs' Imamate.*
 
-"Every Shia proof is in one of three states: purely rational premises, mixed rational-textual premises, or purely textual premises." He then argues all three types are undermined by refuting their foundational principles (اصول) in theology (الهیات) and prophetology (نبوت).
-
-### Closing argument (p 472) — previously missing from analysis
-
-Dehlavi ends the chapter with a meta-argument: Shia sectarian splits disprove ALL Imamate claims.
-
-> مقصود از بیان اختلاف فرق ایشان و ادعاء تواتر هر یک بزعومات خود استدلال بر کذب و افتراء ایشان است اگر خبر یک فرقه هم متواتر می شد هرگز این اختلاف نمی افتاد
-
-"The purpose of describing their sects' disagreements and each faction's claim of tawatur is to prove their lying and fabrication. If even one faction's report were truly mutawatir, this disagreement would never have occurred."
-
-Specific disputes cited: Muhammad ibn al-Hanafiyyah vs Zayn al-Abidin, Zayd vs Baqir, Ja'far vs Muhammad al-Mahdi. Claims Imams were invented by each faction for financial gain (خمس و نذر و نیاز و فتوح). Cites Q37:69-70 (إنهم ألفوا آباءهم ضالين — "they found their fathers astray").
-
-**This is Dehlavi's strongest closing charge** — it attacks the entire Shia institution, not just a single hadith interpretation. The Vol 23 coverage analysis needs re-running to check if Abaqat addresses this.
-
----
-
-## Summary Statistics
-
-| Metric | Count |
-|--------|-------|
-| Total pages | 125 |
-| Sunni beliefs on Imamate | 6 |
-| Pages defending three Caliphs | ~30 |
-| Quranic proofs addressed | 8 |
-| Hadith proofs addressed | 12 |
-| Rational proofs addressed | 6 |
-| **Total Shia proofs refuted** | **26** |
-| Counter-hadiths quoted by Dehlavi | ~15 |
-| Sources named by Dehlavi | ~3 (Bukhari, Muslim, Nahj al-Balagha) |
-| Shia sources used against Shia (الزام) | Nahj al-Balagha, Shia hadith collections |
-
-### Dehlavi's Three Rebuttal Methods
-
-Your recollection is correct — Dehlavi employs three distinct approaches:
-
-| Method | Description | Used in |
-|--------|-------------|---------|
-| **From Sunni books (کتب اهل سنت)** | Counter-hadiths, Sunni tafsir, historical arguments | Hadiths 1, 9, 10, 12; Quranic proofs |
-| **From Shia books (کتب شیعه / الزام)** | Nahj al-Balagha quotes, Shia narrations that agree with Sunnis | Hadiths 10, 12; Caliphate defense section |
-| **From logical arguments (دلایل عقلی)** | Reductio ad absurdum, law of non-contradiction, semantic analysis | Hadiths 2, 12; All rational proofs |
+Specific disputes cited: Muhammad ibn al-Hanafiyyah vs Zayn al-Abidin, Zayd vs Baqir, Ja'far vs Muhammad al-Mahdi. Claims Imams invented for financial gain (خمس و نذر و نیاز و فتوح). Cites Q37:69-70.
 
 ---
 
@@ -226,11 +176,32 @@ Each of the 26 Shia proofs Dehlavi refutes corresponds to one or more Abaqat vol
 | Hadith 1 (Ghadir) | Vols 1-10 | 10 volumes responding |
 | Hadith 2 (Manzilah) | Vol 11 | 1 volume |
 | Hadith 5 (Madinat al-Ilm) | Vols 14-15 | 2 volumes |
+| Hadith 11 (Ta'wil) | Vol 12 (Wilayah) | 1 volume |
 | Hadith 12 (Thaqalayn) | Vols 18-22 | 5 volumes |
 | Hadith 12 sub-claim (Safinah) | **Vol 23** | **1 volume — analyzed in this project** |
-| Hadith 11 (Ta'wil) | Vol 12 (Wilayah) | 1 volume |
+| Vol 13 | Hadith al-Tayr | 1 volume |
+| Vol 16 | Tashbih | 1 volume |
+| Vol 17 | Hadith al-Nur | 1 volume |
 | Other hadiths | Various | To be mapped |
 | Quranic proofs | Various | To be mapped |
 | Rational proofs | Various | To be mapped |
 
 **The entire 23-volume Abaqat is a response to this ONE chapter of Tuhfat.**
+
+---
+
+## Summary Statistics
+
+| Metric | Count |
+|--------|-------|
+| Total content units | 1272 |
+| Pages covered | 125/125 |
+| Units with Arabic text | 892 |
+| Units with surah:ayah | 528 |
+| Quranic proofs addressed | 8 (6 standalone + 2 sub-points) |
+| Hadith proofs addressed | 12 |
+| Rational proofs addressed | 6 + closing |
+| **Total Shia proofs refuted** | **26** |
+| Enriched (GPT+Gemini merged) | 894 |
+| Gemini unique additions | 270 |
+| Extraction models | GPT 5.4 + Gemini 3 Flash |
