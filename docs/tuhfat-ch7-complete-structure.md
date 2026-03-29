@@ -91,7 +91,62 @@ Dehlavi addresses the Quranic verses Shia cite for Imam Ali's Imamate. From the 
 | 9 | Hadith al-Rayah (Khaybar) | لأعطين الراية غداً رجلاً يحب الله ورسوله ويحبه الله ورسوله | Umar | 435 | Describes love/bravery, not caliphate. Many sahaba described similarly |
 | 10 | Adir al-Haqq | رحم الله علياً اللهم أدر الحق معه حيث دار | Reported | 436 | If truth follows Ali always → proves Umar's caliphate was right (since Ali endorsed it) |
 | 11 | Tuqatilu ala ta'wil | أنت تقاتل على تأويل القرآن كما قاتلت على تنزيله | Abu Sa'id al-Khudri | 440 | Means Ali fought for Quran's interpretation — doesn't prove immediate caliphate |
-| 12 | Hadith al-Thaqalayn + Safinah | إني تارك فيكم الثقلين... كتاب الله وعترتي | Zayd ibn Arqam | 440-443 | تمسک = love/guidance, not political Imamate. Safinah = love. **This is what Abaqat Vol 23 responds to.** |
+| 12 | Hadith al-Thaqalayn + Safinah | إني تارك فيكم الثقلين... كتاب الله وعترتي | Zayd ibn Arqam | 439-442 | See detailed breakdown below. **Abaqat Vols 18-22 respond to Thaqalayn; Vol 23 responds to Safinah.** |
+
+### Hadith 12 Detail: Thaqalayn + Safinah (pp 439-442)
+
+Hadith 12 begins mid-page 439 (حدیث دوازدهم). Safinah is introduced mid-page 440 as a sub-point ("و همین قسم حدیث..."). The entire discussion runs through mid-page 442 where the rational proofs section begins.
+
+**4 main claims, 13 sub-claims:**
+
+#### Claim A: Thaqalayn does not prove Imamate (pp 439-440)
+
+Main statement: "و این حدیث هم بدستور احادیث سابقه با مدعی مساس ندارد زیرا که لازم نیست که متمسک بر صاحب زعامت کبری باشد"
+
+*"This hadith has no connection to the [Imamate] claim, since holding fast does not require adherence to the one with supreme leadership."*
+
+| Sub-claim | Page | Content | Hadiths quoted |
+|-----------|------|---------|----------------|
+| A.1 Counter-hadith | 440 | عليكم بسنتى وسنة الخلفاء الراشدين — "this hadith is also authentic" | 1 (no source) |
+| A.2 عترت = all relatives | 440 | If Imamate, then Ibn Abbas, Ibn Hanafiyyah, Zayd, etc. all Imams | 0 |
+| A.3 Counter-hadiths | 440 | Aisha (خذوا شطر دينكم), Ammar, Muadh, Abu Bakr/Umar (اقتدوا) | 6 (no sources) |
+| A.4 Ali's Shura hadith | 440 | انما الشورى للمهاجرين والانصار — contradicts exclusive Imamate | 1 (attributed to Shia) |
+
+#### Claim B: Safinah = love, not Imamate (pp 440-441)
+
+Main statement: "دلالت نمیکند مگر بر آنکه فلاح و هدایت مربوط بدوستی ایشان و منوط باتباع ایشان است"
+
+*"[Safinah] indicates nothing except that salvation depends on their love and following them."*
+
+| Sub-claim | Page | Content | Sources cited |
+|-----------|------|---------|---------------|
+| B.1 Only Sunnis fulfill it | 440 | "محض نصیب اهل سنت است" — Sunnis hold to ALL Ahl al-Bayt | 0 |
+| B.2 Shia selective love | 440 | Q2:85 (partial faith), Q2:285 (no distinction) — Shia love selectively | Q2:85, Q2:285 |
+| B.3 Shia's own narrations agree | 440 | References earlier Tuhfat sections — tangential | 0 |
+
+#### Claim C: Ship compartment reductio (pp 441-442)
+
+Setup: Dehlavi quotes a Shia argument — "one compartment suffices for salvation"
+
+| Sub-claim | Page | Content | Technique |
+|-----------|------|---------|-----------|
+| C.1 All Shia sects saved | 441 | Zaydiyyah, Kaysaniyyah, Nawusiyyah, Aftahiyyah all "took a compartment" | Reductio |
+| C.2 Twelver exclusivity collapses | 441 | "تعین ائمه اثنا عشریه نیز مخدوش گشت" | Reductio |
+| C.3 Law of non-contradiction | 441 | "قایل باجتماع نقیضین شدن است که بدیهی الاستحاله است" | Logic |
+| C.4 Ship wholeness | 441-442 | Shia "make holes" by rejecting some Ahl al-Bayt; Sunni ship is intact | Metaphor |
+
+#### Claim D: Only Sunni interpretation resolves rational objections (p 442)
+
+Main statement: "الزام توان داد نواصب را در انکار این دو حدیث"
+
+*"By adopting the Sunni method, we can obligate the Nasibis who deny these two hadiths."*
+
+| Sub-claim | Page | Content | Sources cited |
+|-----------|------|---------|---------------|
+| D.1 Hadiths command impossibles | 442 | "تکلیف بممتنعات عقلیه است" — if all Ahl al-Bayt followed, contradictions arise | Logic |
+| D.2 Q5:48 one shari'ah | 442 | لِكُلٍّ جَعَلْنَا مِنكُمْ شِرْعَةً وَمِنْهَاجًا | Q5:48 |
+
+**Totals for Hadith 12:** 9 hadiths quoted (0 with sources), 3 Quranic verses (Q2:85, Q2:285, Q5:48), 0 books named.
 
 ### Dehlavi's rebuttal methodology for hadiths:
 - **Chain criticism (jarh):** Declares narrators weak/fabricators (hadiths 3, 4, 6, 8)
