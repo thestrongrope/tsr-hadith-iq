@@ -28,8 +28,10 @@ from dotenv import load_dotenv
 REPO_ROOT = Path(__file__).resolve().parent.parent
 load_dotenv(REPO_ROOT / ".env")
 
-PDF_DIR = REPO_ROOT / "reference" / "books" / "abaqat" / "pdf"
-OUTPUT_DIR = REPO_ROOT / "reference" / "books" / "abaqat" / "ocr"
+BOOKS_DIR = REPO_ROOT / "reference" / "books"
+# Default to abaqat; can be overridden for other books
+PDF_DIR = BOOKS_DIR / "abaqat" / "pdf"
+OUTPUT_DIR = BOOKS_DIR / "abaqat" / "ocr"
 
 MODEL = "gemini-3.1-flash-lite-preview"
 

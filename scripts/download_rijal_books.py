@@ -19,7 +19,7 @@ from pathlib import Path
 
 REPO_ROOT = Path(__file__).resolve().parent.parent
 CATALOG = REPO_ROOT / "docs" / "source-books-archive-org.json"
-DOWNLOAD_DIR = REPO_ROOT / "reference" / "books" / "rijal"
+DOWNLOAD_DIR = REPO_ROOT / "reference" / "books"
 
 # Tier 1: cited in 8+ volumes
 TIER1 = [
