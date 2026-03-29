@@ -1,13 +1,13 @@
 # Dehlavi's Arguments on Hadith al-Thaqalayn and Hadith al-Safinah
 
-Source: Tuhfat al-Ithna Ashariyya, Chapter 7 (باب هفتم — عقیدهای شیعه در امامت), pages 440-443.
+Source: Tuhfat al-Ithna Ashariyya, Chapter 7 (باب هفتم — عقیدهای شیعه در امامت), pages 439-442. Hadith 12 (حدیث دوازدهم) begins mid-page 439.
 Extracted from clean Gemini OCR of the original scanned PDF.
 
 ---
 
 ## Overview
 
-Dehlavi discusses Hadith al-Safinah as a sub-argument within his 12th hadith (Hadith al-Thaqalayn). His entire treatment spans **4 printed pages** (440-443). He makes **4 main claims**, each supported by sub-claims and notes.
+Dehlavi discusses Hadith al-Safinah as a sub-argument within his 12th hadith (Hadith al-Thaqalayn). Hadith 12 begins mid-page 439 and the Thaqalayn+Safinah discussion runs through mid-page 442, where the rational proofs section begins. He makes **4 main claims**, each supported by sub-claims and notes.
 
 **Dehlavi's method:** He does NOT deny either hadith's authenticity. Instead, he:
 1. Accepts the hadiths as valid
