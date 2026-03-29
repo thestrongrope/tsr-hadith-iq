@@ -77,6 +77,41 @@ Abaqat Vol 23 is not just a response to Dehlavi — it goes significantly furthe
 | 2 | **Hadith al-Nujum** (stars hadith) | Scattered | Authenticates parallel hadiths comparing Ahl al-Bayt to guiding stars — expands the evidence beyond just Safinah |
 | 3 | **Historical critique of Sunni treatment of Ahl al-Bayt** | Biographical dossiers + tanbihat | Documents persecution, cursing, imprisonment of Imams by Sunni rulers — undermines "Sunnis love ALL Ahl al-Bayt" claim |
 | 4 | **Prior refutations of Tuhfat** | Opening sections | Catalogues who has already responded to Tuhfat before Abaqat — establishing a rebuttal lineage |
+| 5 | **The fabricated "usurpation" narration** | pp 119-127 | See detailed section below |
+
+### Additional Topic 5: The Fabricated Narration Insulting Imam Ali (as)
+
+**Pages 119-127** contain a critical section not responding to any specific Dehlavi claim but exposing a broader Sunni historiographical pattern of insulting Ahl al-Bayt.
+
+**The narration:** Sunni sources attribute to Imam Hasan (as) on his deathbed, telling Imam Husayn (as):
+
+> يا أخي ! إن أباك حين قبض رسول الله صلى الله عليه وآله **استشرف لهذا الأمر** ورجا أن يكون صاحبه **فصرفه الله عنه** ووليها أبوبكر... فلما حضرت أبابكر الوفاة **تشوف لها أيضاً فصرفت عنه** إلى عمر... فلم يشك أنها لا تعدوه **فصرفت عنه** إلى عثمان فلما هلك عثمان بويع له ثم نوزع حتى جرد السيف **فطلبها فما صفا له شيء منها** وإني والله **ما أرى أن يجمع الله فينا النبوة والخلافة**
+
+*"O brother! Your father, when the Prophet died, **aspired to this matter** and hoped to be its holder, but **God turned it away from him**... then he **coveted it again** but it was turned to Umar... then he had no doubt it would come to him but **it was turned** to Uthman... then when Uthman was killed he was pledged to, then contested until he drew the sword, **seeking it but nothing of it was ever clear for him**. And I, by God, **do not see that God will unite in us both Prophethood and Caliphate!**"*
+
+**The insult:** This narration portrays Imam Ali (as) as a serial aspirant to political power who repeatedly failed — reducing his caliphate to worldly ambition rather than divine right. It also claims Imam Hasan (as) used this as grounds to discourage Imam Husayn (as) from rising at Karbala.
+
+**Mir Hamid Husain quotes it from 8 Sunni books (pp 122-125):**
+
+| # | Book | Author | Context |
+|---|------|--------|---------|
+| 1 | al-Isti'ab | Ibn Abd al-Barr (d. 463) | In Imam Hasan's biography |
+| 2 | Tarikh al-Khulafa | al-Suyuti (d. 911) | Quoting Ibn Abd al-Barr |
+| 3 | Jawahir al-'Iqdayn | al-Samhudi (d. 911) | In Imam Hasan's death account |
+| 4 | al-Sawa'iq al-Muhriqa | Ibn Hajar al-Makki (d. 974) | In Imam Hasan's biography + Imam Husayn's |
+| 5 | Minah Makkiyya | Ibn Hajar al-Makki (d. 974) | In Imam Hasan's biography |
+| 6 | al-'Iqd al-Nabawi | al-'Aydarus (d. 1032) | Two separate citations |
+| 7 | Mashra' al-Rawi | al-Shilli | In both Imam Hasan and Husayn's biographies |
+| 8 | Is'af al-Raghibin | al-Sabban | In Imam Hasan's biography |
+
+**Broader context (pp 119-127):** This narration is part of a larger section documenting how Sunni scholars disrespect Ahl al-Bayt, including:
+
+- **Ibn Umar calling Imam Husayn a worldly seeker** (pp 120-122): Multiple Sunni books quote Ibn Umar discouraging Husayn from Karbala, saying "the Prophet chose the afterlife, not this world — and you won't get the world either"
+- **Abu Sa'id al-Khudri calling Yazid "Imam"** (p 122): `قال أبوسعيد الخدري: غلبني الحسين على الخروج وقد قلت له اتق الله في نفسك والزم بيتك فلا تخرج على إمامك` — calling Yazid "your imam" to Imam Husayn
+- **Celebrating Ashura as a day of joy** (pp 125-126): Quote from Ghuniyat al-Talibin arguing Ashura should be celebrated, not mourned — comparing Husayn's death to the Prophet's death and Abu Bakr's death as equivalent losses
+- **Imam Zayn al-Abidin belittled** (pp 127-128): Sunni scholars claiming he learned from "low people" and narrated from Marwan ibn al-Hakam
+
+**Argumentative purpose:** Mir Hamid Husain uses these quotes to demolish Dehlavi's Claim B.1 ("Sunnis love ALL Ahl al-Bayt"). He shows that the very Sunni books Dehlavi relies on contain systematic insults to the Imams — making the "Sunni love" claim empirically false.
 
 ---
 
