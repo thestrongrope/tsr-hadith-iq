@@ -28,7 +28,7 @@ from dotenv import load_dotenv
 REPO_ROOT = Path(__file__).resolve().parent.parent
 load_dotenv(REPO_ROOT / ".env")
 
-BOOKS_DIR = REPO_ROOT / "reference" / "books"
+BOOKS_DIR = REPO_ROOT / "data" / "books"
 # Default to abaqat; can be overridden for other books
 PDF_DIR = BOOKS_DIR / "abaqat" / "pdf"
 OUTPUT_DIR = BOOKS_DIR / "abaqat" / "ocr"

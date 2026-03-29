@@ -11,13 +11,12 @@ Research and data model design for Abaqat al-Anwar (عبقات الانوار) �
 ## Project Structure
 - `docs/` — analysis documents, data models, structured outputs, reports
 - `scripts/` — reusable Python scripts (use `uv run --with google-genai --with python-dotenv`)
-- `reference/` — [gitignored] all large/binary data:
+- `data/` — [gitignored] project data:
   - `books/{book-name}/pdf/` — source PDFs
   - `books/{book-name}/ocr/` — OCR extracted text (Gemini/DJVU)
   - 13 books: abaqat (23 vols), tuhfat, + 11 rijal books (~1.9 GB total)
   - `indexes/` — hawramani narrator index (100K entries)
-  - `scripts/` — one-time/exploratory scripts
-  - `SS/`, `hadith-hub/`, `hadith-data/` — cloned external repos
+- `reference/` — [gitignored] external repos (SS, hadith-hub, hadith-data) + one-time scripts
 - `.env` — [gitignored] API keys (Gemini, OpenAI, Mistral, Grok)
 
 ## Key Documents

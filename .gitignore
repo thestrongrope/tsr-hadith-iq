@@ -1,7 +1,10 @@
 # API keys
 .env
 
-# All reference data (PDFs, OCR, indexes, external repos — large/binary)
+# Project data (PDFs, OCR, indexes — large/binary)
+data/
+
+# External reference repos (cloned for inspiration)
 reference/
 
 # IDE / OS
