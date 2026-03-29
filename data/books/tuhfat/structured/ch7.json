@@ -2372,7 +2372,7 @@
       "english_summary": "Dehlavi references Shia reports where Ali (AS) forbade his companions from cursing the Syrians (Mu'awiya's camp), noting the Shia claim this was merely for etiquette.",
       "surah_ayah": null,
       "hadith_source_named": true,
-      "rebuttal_method": "null",
+      "rebuttal_method": null,
       "_source": "gemini_unique"
     },
     {
@@ -2564,7 +2564,7 @@
       "english_summary": "Nasir al-Din al-Tusi in 'Tajrid' distinguishes between those who merely opposed Ali (sinners) and those who fought him (disbelievers).",
       "surah_ayah": null,
       "hadith_source_named": true,
-      "rebuttal_method": "null",
+      "rebuttal_method": "logical",
       "_source": "gemini_unique"
     },
     {
@@ -8672,7 +8672,7 @@
       "english_summary": "Cites Hasan al-Muthanna (grandson of Imam Hasan) via Abu Nu'aym, who denied that the Ghadir hadith was a clear text (Nass) for the Caliphate.",
       "surah_ayah": null,
       "hadith_source_named": true,
-      "rebuttal_method": "null",
+      "rebuttal_method": null,
       "_source": "gemini_unique"
     },
     {
@@ -8971,7 +8971,7 @@
       "arabic_embedded": null,
       "english_summary": "Provides the historical context (Sabab al-Wurud) of Ghadir, citing complaints from Khalid b. Walid and Buraydah after the Yemen expedition as the reason for the Prophet's public defense of Ali.",
       "hadith_source_named": true,
-      "rebuttal_method": "null",
+      "rebuttal_method": null,
       "_source": "gemini_unique"
     },
     {
@@ -13219,7 +13219,7 @@
       "english_summary": "Lists various legal criticisms (Matā'in) against Ali regarding criminal law, arbitration, and testimony, used by opponents to argue he lacked the necessary knowledge for Imamate.",
       "surah_ayah": null,
       "hadith_source_named": true,
-      "rebuttal_method": null,
+      "rebuttal_method": "logical",
       "_source": "gemini_unique"
     },
     {
