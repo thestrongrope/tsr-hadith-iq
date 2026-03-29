@@ -3,7 +3,9 @@
 **باب هفتم — عقیدهای شیعه در امامت**
 Chapter 7: Shia Beliefs on Imamate
 
-Pages 348-472 (125 pages). Extracted from clean Gemini OCR.
+Printed pages 348-472 (125 pages). Extracted from clean Gemini OCR.
+
+**Page numbering note:** The PDF has a 1-page offset (cover page). PDF page = printed page + 1. So printed page 348 = PDF page 349. All page references in this document use **printed page numbers** (as shown on the scanned page), matching the `page_printed` field in the OCR JSONL output.
 
 ---
 
