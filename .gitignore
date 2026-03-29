@@ -1,8 +1,9 @@
 # API keys
 .env
 
-# Project data (PDFs, OCR, indexes — large/binary)
-data/
+# Project data — PDFs are large/binary, OCR and structured JSON are tracked
+data/books/*/pdf/
+data/indexes/
 
 # External reference repos (cloned for inspiration)
 reference/
