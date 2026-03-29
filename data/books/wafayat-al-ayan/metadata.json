@@ -1,0 +1,119 @@
+{
+  "book": "Wafayat al-Ayan wa Anba Abna al-Zaman",
+  "book_arabic": "وفيات الأعيان وأنباء أبناء الزمان",
+  "author": "Ibn Khallikan (d. 681 AH)",
+  "edition": "Ihsan Abbas edition, Dar Sadir, Beirut, 1972",
+  "volumes": 8,
+  "source": "waqfeya.net (book ID: 1539)",
+  "archive_org_id": "WAQ17074",
+  "volume_ranges": {
+    "vol_01": "إبراهيم - جهاركس (entries 1-146)",
+    "vol_02": "حبيب - ظافر (entries 147-314)",
+    "vol_03": "عاصم - عيسى (entries 315-519)",
+    "vol_04": "غازي - محمد بن عبيدالله (entries 520-680)",
+    "vol_05": "محمد بن علي - نفيسة (entries 681-767)",
+    "vol_06": "واصل - يعقوب بن الليث (entries 768-828)",
+    "vol_07": "يعقوب بن أبي يعقوب - يونس (entries 829-855)",
+    "vol_08": "الفهارس (indexes)"
+  },
+  "note": "Critical edition by Ihsan Abbas — gold standard. No Indian edition exists for this book. Mir Hamid Husain likely used an older manuscript or Bulaq edition, but content is identical.",
+  "cited_in_abaqat_volumes": [
+    3,
+    4,
+    7,
+    8,
+    9,
+    10,
+    12,
+    13,
+    17,
+    18,
+    21
+  ],
+  "citation_count": 11,
+  "verified_citations": [
+    {
+      "abaqat_vol": 3,
+      "abaqat_line": 10102,
+      "wafayat_vol": 4,
+      "wafayat_page": 313,
+      "wafayat_entry": 636,
+      "subject": "al-Mubarrad (Abu al-Abbas Muhammad ibn Yazid)",
+      "what_was_verified": "Full genealogy (nasab) — 15+ names in the lineage chain",
+      "status": "VERIFIED — exact match of complete nasab"
+    }
+  ],
+  "validation": {
+    "total_pdfs": 11,
+    "total_pages": 4087,
+    "pdf_details": [
+      {
+        "file": "00_17074.pdf",
+        "pages": 1,
+        "size_mb": 0.2,
+        "readable": true
+      },
+      {
+        "file": "01_17074.pdf",
+        "pages": 494,
+        "size_mb": 7.6,
+        "readable": true
+      },
+      {
+        "file": "02_17075.pdf",
+        "pages": 557,
+        "size_mb": 8.7,
+        "readable": true
+      },
+      {
+        "file": "03_17077.pdf",
+        "pages": 524,
+        "size_mb": 8.6,
+        "readable": true
+      },
+      {
+        "file": "04_17078.pdf",
+        "pages": 490,
+        "size_mb": 8.3,
+        "readable": true
+      },
+      {
+        "file": "04_17078p.pdf",
+        "pages": 15,
+        "size_mb": 0.3,
+        "readable": true
+      },
+      {
+        "file": "05_17079.pdf",
+        "pages": 440,
+        "size_mb": 9.7,
+        "readable": true
+      },
+      {
+        "file": "06_17080.pdf",
+        "pages": 440,
+        "size_mb": 7.6,
+        "readable": true
+      },
+      {
+        "file": "07_17081.pdf",
+        "pages": 383,
+        "size_mb": 11.0,
+        "readable": true
+      },
+      {
+        "file": "07_17081p.pdf",
+        "pages": 107,
+        "size_mb": 1.8,
+        "readable": true
+      },
+      {
+        "file": "08_17082.pdf",
+        "pages": 636,
+        "size_mb": 9.4,
+        "readable": true
+      }
+    ],
+    "all_readable": true
+  }
+}

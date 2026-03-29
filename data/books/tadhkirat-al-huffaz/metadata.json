@@ -1,0 +1,44 @@
+{
+  "book": "Tadhkirat al-Huffaz",
+  "book_arabic": "تذكرة الحفاظ",
+  "author": "al-Dhahabi (d. 748 AH)",
+  "volumes": "4 (all in single PDF)",
+  "source": "waqfeya.net (book ID: 3377)",
+  "cited_in_abaqat_volumes": [
+    1,
+    7,
+    8,
+    9,
+    10,
+    13,
+    14,
+    17,
+    18,
+    21,
+    22
+  ],
+  "citation_count": 11,
+  "verified_citations": [
+    {
+      "abaqat_vol": 1,
+      "abaqat_line": 11773,
+      "tadhkirat_page": 713,
+      "entry": 728,
+      "subject": "al-Tabari (Muhammad ibn Jarir)",
+      "status": "VERIFIED — al-Dhahabi's astonishment at Ghadir chains confirmed"
+    }
+  ],
+  "validation": {
+    "total_pdfs": 1,
+    "total_pages": 1760,
+    "pdf_details": [
+      {
+        "file": "1331.pdf",
+        "pages": 1760,
+        "size_mb": 27.5,
+        "readable": true
+      }
+    ],
+    "all_readable": true
+  }
+}

@@ -1,0 +1,21 @@
+{
+  "book": "Tahdhib al-Kamal fi Asma al-Rijal",
+  "book_arabic": "تهذيب الكمال في أسماء الرجال",
+  "author": "Jamal al-Din al-Mizzi (d. 742 AH)",
+  "edition": "Bashshar Awwad Ma'ruf edition, Mu'assasat al-Risalah",
+  "volumes": 35,
+  "source": "waqfeya.net",
+  "files": {
+    "tkar00.pdf": "COVER PAGE",
+    "tkar01-35": "35 volumes"
+  },
+  "cited_in_abaqat_volumes": [
+    2,
+    14,
+    16,
+    17,
+    18
+  ],
+  "citation_count": 5,
+  "significance": "The comprehensive biographical dictionary of narrators in the six canonical hadith collections. 8,640 entries. Direct predecessor to Ibn Hajar's Tahdhib al-Tahdhib. Together they form the Tahdhib chain — the most important sequence of rijal works in Sunni scholarship."
+}

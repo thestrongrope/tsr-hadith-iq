@@ -1,0 +1,114 @@
+{
+  "book": "Tabaqat al-Shafi'iyya al-Kubra",
+  "book_arabic": "طبقات الشافعية الكبرى",
+  "author": "Taj al-Din al-Subki (d. 771 AH)",
+  "volumes": 10,
+  "edition": "Mahmud al-Tanahi & Abd al-Fattah al-Hilw edition, Dar Ihya al-Kutub al-Arabiyyah",
+  "source": "waqfeya.net",
+  "archive_org_id": "WAQ5093",
+  "files": {
+    "tshk00.pdf": "COVER PAGE",
+    "tshk01.pdf": "Volume 1",
+    "tshk01p.pdf": "Volume 1 supplement",
+    "tshk02.pdf": "Volume 2",
+    "tshk03.pdf": "Volume 3",
+    "tshk04.pdf": "Volume 4",
+    "tshk05.pdf": "Volume 5",
+    "tshk06.pdf": "Volume 6",
+    "tshk07.pdf": "Volume 7",
+    "tshk08.pdf": "Volume 8",
+    "tshk09.pdf": "Volume 9",
+    "tshk10.pdf": "Volume 10"
+  },
+  "cited_in_abaqat_volumes": [
+    1,
+    4,
+    6,
+    7,
+    9,
+    16,
+    18,
+    21
+  ],
+  "citation_count": 8,
+  "significance": "Major biographical dictionary of Shafi'i scholars. Used by Mir Hamid Husain to show that mainstream Sunni authorities from the dominant legal school support the hadiths he defends.",
+  "validation": {
+    "total_pdfs": 12,
+    "total_pages": 5776,
+    "pdf_details": [
+      {
+        "file": "tshk00.pdf",
+        "pages": 1,
+        "size_mb": 0.1,
+        "readable": true
+      },
+      {
+        "file": "tshk01.pdf",
+        "pages": 360,
+        "size_mb": 5.7,
+        "readable": true
+      },
+      {
+        "file": "tshk01p.pdf",
+        "pages": 35,
+        "size_mb": 0.5,
+        "readable": true
+      },
+      {
+        "file": "tshk02.pdf",
+        "pages": 487,
+        "size_mb": 9.1,
+        "readable": true
+      },
+      {
+        "file": "tshk03.pdf",
+        "pages": 616,
+        "size_mb": 9.8,
+        "readable": true
+      },
+      {
+        "file": "tshk04.pdf",
+        "pages": 600,
+        "size_mb": 8.8,
+        "readable": true
+      },
+      {
+        "file": "tshk05.pdf",
+        "pages": 532,
+        "size_mb": 8.0,
+        "readable": true
+      },
+      {
+        "file": "tshk06.pdf",
+        "pages": 560,
+        "size_mb": 8.2,
+        "readable": true
+      },
+      {
+        "file": "tshk07.pdf",
+        "pages": 592,
+        "size_mb": 8.6,
+        "readable": true
+      },
+      {
+        "file": "tshk08.pdf",
+        "pages": 616,
+        "size_mb": 9.4,
+        "readable": true
+      },
+      {
+        "file": "tshk09.pdf",
+        "pages": 596,
+        "size_mb": 8.9,
+        "readable": true
+      },
+      {
+        "file": "tshk10.pdf",
+        "pages": 781,
+        "size_mb": 11.6,
+        "readable": true
+      }
+    ],
+    "all_readable": true
+  }
+}

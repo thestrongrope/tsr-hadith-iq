@@ -1,0 +1,38 @@
+{
+  "book": "Tabaqat al-Huffaz",
+  "book_arabic": "طبقات الحفاظ",
+  "author": "Jalal al-Din al-Suyuti (d. 911 AH)",
+  "volumes": "1 (single PDF, all-in-one)",
+  "edition": "Dar al-Kutub al-Ilmiyyah, Beirut, 1403 AH / 1983 CE",
+  "source": "waqfeya.net",
+  "files": {
+    "Tabakak_Hufath_Sayuti.pdf": "Complete work (cover + content in one file)"
+  },
+  "cited_in_abaqat_volumes": [
+    1,
+    2,
+    4,
+    6,
+    7,
+    9,
+    15,
+    18,
+    19,
+    21
+  ],
+  "citation_count": 10,
+  "significance": "Al-Suyuti's supplement to al-Dhahabi's Tadhkirat al-Huffaz, extending coverage to later generations of hadith memorizers. Used alongside Tadhkirat to show continuous chain of recognized authorities.",
+  "validation": {
+    "total_pdfs": 1,
+    "total_pages": 607,
+    "pdf_details": [
+      {
+        "file": "Tabakak_Hufath_Sayuti.pdf",
+        "pages": 607,
+        "size_mb": 13.0,
+        "readable": true
+      }
+    ],
+    "all_readable": true
+  }
+}

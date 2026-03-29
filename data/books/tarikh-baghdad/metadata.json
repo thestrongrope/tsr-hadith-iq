@@ -1,0 +1,23 @@
+{
+  "book": "Tarikh Madinat al-Salam (Tarikh Baghdad)",
+  "book_arabic": "تاريخ مدينة السلام (تاريخ بغداد)",
+  "author": "al-Khatib al-Baghdadi (d. 463 AH)",
+  "edition": "Bashshar Awwad Ma'ruf edition, Dar al-Gharb al-Islami",
+  "volumes": 17,
+  "source": "waqfeya.net",
+  "files": {
+    "taba00.pdf": "COVER PAGE",
+    "taba01-17": "17 volumes"
+  },
+  "cited_in_abaqat_volumes": [
+    2,
+    8,
+    12,
+    14,
+    15,
+    16,
+    17
+  ],
+  "citation_count": 7,
+  "significance": "Over 7,800 biographies of everyone connected to Baghdad. Essential for verifying narrators who passed through the intellectual capital of the Islamic world."
+}

@@ -1,0 +1,67 @@
+{
+  "book": "Mizan al-I'tidal fi Naqd al-Rijal",
+  "book_arabic": "ميزان الاعتدال في نقد الرجال",
+  "author": "al-Dhahabi (d. 748 AH)",
+  "volumes": 4,
+  "entries": "11,000+",
+  "source": "waqfeya.net",
+  "archive_org_id": "waq15344",
+  "cited_in_abaqat_volumes": [
+    2,
+    3,
+    5,
+    9,
+    11,
+    12,
+    13,
+    15,
+    16,
+    20,
+    21
+  ],
+  "citation_count": 11,
+  "significance": "Primary jarh/ta'dil reference — the most important single rijal work for determining narrator reliability. Mir Hamid Husain's primary weapon against opponents.",
+  "validation": {
+    "total_pdfs": 6,
+    "total_pages": 2809,
+    "pdf_details": [
+      {
+        "file": "00_15344.pdf",
+        "pages": 1,
+        "size_mb": 0.0,
+        "readable": true
+      },
+      {
+        "file": "01_15344.pdf",
+        "pages": 672,
+        "size_mb": 10.9,
+        "readable": true
+      },
+      {
+        "file": "01_15344p.pdf",
+        "pages": 15,
+        "size_mb": 0.5,
+        "readable": true
+      },
+      {
+        "file": "02_15345.pdf",
+        "pages": 688,
+        "size_mb": 11.8,
+        "readable": true
+      },
+      {
+        "file": "03_15346.pdf",
+        "pages": 683,
+        "size_mb": 11.9,
+        "readable": true
+      },
+      {
+        "file": "04_15347.pdf",
+        "pages": 750,
+        "size_mb": 13.4,
+        "readable": true
+      }
+    ],
+    "all_readable": true
+  }
+}

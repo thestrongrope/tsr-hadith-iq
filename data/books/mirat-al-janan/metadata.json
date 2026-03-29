@@ -1,0 +1,76 @@
+{
+  "book": "Mir'at al-Janan wa Ibrat al-Yaqzan",
+  "book_arabic": "مرآة الجنان وعبرة اليقظان",
+  "author": "al-Yafi'i (d. 768 AH)",
+  "volumes": 4,
+  "source": "waqfeya.net",
+  "archive_org_id": "waq77411",
+  "files": {
+    "00_77411.pdf": "COVER PAGE",
+    "01_77411.pdf": "Volume 1",
+    "02_77412.pdf": "Volume 2",
+    "03_77413.pdf": "Volume 3",
+    "04_77414.pdf": "Volume 4"
+  },
+  "cited_in_abaqat_volumes": [
+    1,
+    2,
+    3,
+    4,
+    6,
+    7,
+    8,
+    9,
+    10,
+    18,
+    21
+  ],
+  "citation_count": 11,
+  "verified_citations": [
+    {
+      "abaqat_vol": 3,
+      "abaqat_line": 4129,
+      "mirat_vol": 3,
+      "mirat_page": 22,
+      "subject": "Shaykh al-Mufid (d. 413 AH)",
+      "status": "VERIFIED — verbatim match"
+    }
+  ],
+  "validation": {
+    "total_pdfs": 5,
+    "total_pages": 1429,
+    "pdf_details": [
+      {
+        "file": "00_77411.pdf",
+        "pages": 1,
+        "size_mb": 0.0,
+        "readable": true
+      },
+      {
+        "file": "01_77411.pdf",
+        "pages": 360,
+        "size_mb": 6.8,
+        "readable": true
+      },
+      {
+        "file": "02_77412.pdf",
+        "pages": 351,
+        "size_mb": 6.7,
+        "readable": true
+      },
+      {
+        "file": "03_77413.pdf",
+        "pages": 382,
+        "size_mb": 7.6,
+        "readable": true
+      },
+      {
+        "file": "04_77414.pdf",
+        "pages": 335,
+        "size_mb": 6.3,
+        "readable": true
+      }
+    ],
+    "all_readable": true
+  }
+}

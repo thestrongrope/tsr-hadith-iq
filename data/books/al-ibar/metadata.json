@@ -1,0 +1,81 @@
+{
+  "book": "Al-Ibar fi Khabar man Ghabar",
+  "book_arabic": "العبر في خبر من غبر",
+  "author": "al-Dhahabi (d. 748 AH)",
+  "volumes": 4,
+  "source": "waqfeya.net",
+  "archive_org_id": "fp72833_202503",
+  "files": {
+    "00_72833.pdf": "COVER PAGE (not content)",
+    "01_72833.pdf": "Volume 1",
+    "01_72833p.pdf": "Volume 1 supplement/pages",
+    "02_72834.pdf": "Volume 2",
+    "03_72835.pdf": "Volume 3",
+    "04_72836.pdf": "Volume 4",
+    "04_72836i.pdf": "Volume 4 index"
+  },
+  "note": "File 00_*.pdf is always the cover page, not volume content.",
+  "cited_in_abaqat_volumes": [
+    1,
+    2,
+    4,
+    6,
+    7,
+    8,
+    9,
+    10,
+    18,
+    21
+  ],
+  "citation_count": 10,
+  "significance": "Concise year-by-year chronological history. Used for quick death date verification and as corroboration alongside Siyar and Tadhkirat.",
+  "validation": {
+    "total_pdfs": 7,
+    "total_pages": 1775,
+    "pdf_details": [
+      {
+        "file": "00_72833.pdf",
+        "pages": 2,
+        "size_mb": 1.7,
+        "readable": true
+      },
+      {
+        "file": "01_72833.pdf",
+        "pages": 484,
+        "size_mb": 7.4,
+        "readable": true
+      },
+      {
+        "file": "01_72833p.pdf",
+        "pages": 26,
+        "size_mb": 0.5,
+        "readable": true
+      },
+      {
+        "file": "02_72834.pdf",
+        "pages": 475,
+        "size_mb": 7.9,
+        "readable": true
+      },
+      {
+        "file": "03_72835.pdf",
+        "pages": 411,
+        "size_mb": 7.2,
+        "readable": true
+      },
+      {
+        "file": "04_72836.pdf",
+        "pages": 210,
+        "size_mb": 3.9,
+        "readable": true
+      },
+      {
+        "file": "04_72836i.pdf",
+        "pages": 167,
+        "size_mb": 2.2,
+        "readable": true
+      }
+    ],
+    "all_readable": true
+  }
+}

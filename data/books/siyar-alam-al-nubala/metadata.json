@@ -1,0 +1,97 @@
+{
+  "book": "Siyar Alam al-Nubala",
+  "book_arabic": "سير أعلام النبلاء",
+  "author": "al-Dhahabi (d. 748 AH)",
+  "volumes": "All in single PDF (4,683 pages)",
+  "source": "waqfeya.net",
+  "files": {
+    "105924.pdf": "Complete work — all volumes in one file (132 MB, 4683 pages)"
+  },
+  "note": "Original 132MB PDF split into manageable chunks. Use split/ directory for verification.",
+  "cited_in_abaqat_volumes": [
+    2,
+    4,
+    5,
+    6,
+    9,
+    16,
+    17,
+    21
+  ],
+  "citation_count": 8,
+  "significance": "Comprehensive biographical dictionary of eminent Muslims. 28 volumes organized by generation. One of the most important works in Islamic historiography.",
+  "indexes": {
+    "quranic_verses": {
+      "start_page": 4303,
+      "description": "Index of Quranic verses (آيات قرآنية)"
+    },
+    "prophetic_hadiths": {
+      "start_page": 4323,
+      "description": "Index of Prophetic hadiths (أحاديث نبوية)"
+    },
+    "table_of_contents": {
+      "start_page": 4389,
+      "description": "Table of contents (المحتويات)"
+    },
+    "alphabetical_index": {
+      "start_page": 4423,
+      "end_page": 4683,
+      "description": "Alphabetical index of names (فهرس الأعلام)"
+    }
+  },
+  "navigation_note": "Use the alphabetical index (p.4423-4683) to find any scholar by name, then jump to their entry page. This is essential since the PDF is too large (132MB) for full-text search.",
+  "validation": {
+    "total_pdfs": 1,
+    "total_pages": 4683,
+    "pdf_details": [
+      {
+        "file": "105924.pdf",
+        "pages": 4683,
+        "size_mb": 131.9,
+        "readable": false
+      }
+    ],
+    "all_readable": false
+  },
+  "split_files": {
+    "vol_01_generation_01-05": {
+      "pages": "1-500"
+    },
+    "vol_02_generation_06-10": {
+      "pages": "501-1000"
+    },
+    "vol_03_generation_11-15": {
+      "pages": "1001-1500"
+    },
+    "vol_04_generation_16-20": {
+      "pages": "1501-2000"
+    },
+    "vol_05_generation_21-25": {
+      "pages": "2001-2500"
+    },
+    "vol_06_generation_26-30": {
+      "pages": "2501-3000"
+    },
+    "vol_07_generation_31-35": {
+      "pages": "3001-3500"
+    },
+    "vol_08_generation_36-40": {
+      "pages": "3501-4000"
+    },
+    "vol_09_remaining_content": {
+      "pages": "4001-4302"
+    },
+    "index_quranic_verses": {
+      "pages": "4303-4322"
+    },
+    "index_prophetic_hadiths": {
+      "pages": "4323-4388"
+    },
+    "index_table_of_contents": {
+      "pages": "4389-4422"
+    },
+    "index_alphabetical_names": {
+      "pages": "4423-4683"
+    }
+  }
+}
