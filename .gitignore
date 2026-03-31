@@ -3,7 +3,6 @@
 
 # Project data — PDFs shared via OneDrive, OCR and structured JSON are tracked
 data/pdfs/
-data/indexes/
 
 # External reference repos (cloned for inspiration)
 reference/
