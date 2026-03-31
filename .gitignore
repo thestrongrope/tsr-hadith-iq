@@ -17,6 +17,6 @@ reference/
 __pycache__/
 *.pyc
 .venv/
-# Abaqat structured data caches (large intermediate files)
-data/books/abaqat/structured/parsed/vol23-cache/
-data/books/abaqat/structured/citations/vol23-grok-chunks/
+# Abaqat vol23 intermediate caches
+data/books/abaqat/structured/vol23/cache/
+data/books/abaqat/structured/vol23/grok-chunks/
