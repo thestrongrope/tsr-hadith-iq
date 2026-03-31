@@ -1,12 +1,9 @@
 # API keys
 .env
 
-# Project data — PDFs are large/binary, OCR and structured JSON are tracked
-data/books/*/pdf/
-data/indexes/
-
-# PDF export folder (copy to OneDrive, restore with scripts/restore-pdfs.sh)
+# Project data — PDFs shared via OneDrive, OCR and structured JSON are tracked
 data/pdfs/
+data/indexes/
 
 # External reference repos (cloned for inspiration)
 reference/
