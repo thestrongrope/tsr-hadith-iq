@@ -6,7 +6,7 @@ data/books/*/pdf/
 data/indexes/
 
 # PDF export folder (copy to OneDrive, restore with scripts/restore-pdfs.sh)
-pdfs/
+data/pdfs/
 
 # External reference repos (cloned for inspiration)
 reference/

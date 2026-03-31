@@ -1,18 +1,18 @@
 #!/bin/bash
-# Restore PDFs from pdfs/ (OneDrive export) back to data/books/*/pdf/
+# Restore PDFs from data/pdfs/ (OneDrive export) back to data/books/*/pdf/
 #
 # Usage:
-#   ./scripts/restore-pdfs.sh              # restore from ./pdfs/
+#   ./scripts/restore-pdfs.sh                # restore from ./data/pdfs/
 #   ./scripts/restore-pdfs.sh /path/to/pdfs  # restore from custom path
 
 set -euo pipefail
 
 REPO_ROOT="$(cd "$(dirname "$0")/.." && pwd)"
-SOURCE="${1:-$REPO_ROOT/pdfs}"
+SOURCE="${1:-$REPO_ROOT/data/pdfs}"
 
 if [ ! -d "$SOURCE" ]; then
   echo "Error: PDF source directory not found: $SOURCE"
-  echo "Download the pdfs/ folder from OneDrive and place it at the repo root,"
+  echo "Download the pdfs/ folder from OneDrive and place it at data/pdfs/,"
   echo "or pass the path as an argument."
   exit 1
 fi
