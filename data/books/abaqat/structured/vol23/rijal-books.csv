@@ -1,4 +1,4 @@
-book_arabic,book_transliterated,standard_title,author_arabic,author_death_ah,book_type,schema,citation_count,contexts,subject_scholars,in_our_library,source_layer
+﻿book_arabic,book_transliterated,standard_title,author_arabic,author_death_ah,book_type,schema,citation_count,contexts,subject_scholars,in_our_library,source_layer
 تهذيب التهذيب,Tahdhib al-Tahdhib,Tahdhib al-Tahdhib,شهاب الدين أحمد بن علي بن محمد بن حجر العسقلاني,852,jarh_tadil,A,6,"AUTHOR_TAJRIH, AUTHOR_TAWTHIQ","الإمام جعفر الصادق, الإمام علي الرضا, الإمام موسى الكاظم, علي بن الحسين زين العابدين, نبيط بن شريط",tahdhib-al-tahdhib-hindi,authentication
 طبقات الشافعية,Tabaqat al-Shafi'iyyah,Tabaqat al-Shafi'iyya,تاج الدين السبكي أبو نصر عبد الوهاب بن علي,771,tabaqat,A,5,"AUTHOR_TAJRIH, AUTHOR_TAWTHIQ","ابو عبد الله محمد بن الحسن بن هبة الله البغدادي, عد بن نصر المروزي",tabaqat-al-shafiyya-kubra,authentication
 منهاج السنة,Minhaj al-Sunna,Minhaj al-Sunnah al-Nabawiyyah,تقي الدين أبو العباس أحمد بن عبد الحليم بن عبد السلام ابن تيمية,728,sunni_polemical,D,5,AUTHOR_TAJRIH,"الإمام علي الرضا, الإمام محمد الباقر, الإمام موسى الكاظم, الحسن العسكري, علي بن الحسين زين العابدين",,authentication
