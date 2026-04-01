@@ -1,93 +1,93 @@
-﻿book_arabic,book_transliterated,standard_title,author_arabic,author_death_ah,book_type,schema,citation_count,contexts,subject_scholars,in_our_library,source_layer,downloaded,pdf_path,num_volumes,size_mb
-تهذيب التهذيب,Tahdhib al-Tahdhib,Tahdhib al-Tahdhib,شهاب الدين أحمد بن علي بن محمد بن حجر العسقلاني,852,jarh_tadil,A,6,"AUTHOR_TAJRIH, AUTHOR_TAWTHIQ","الإمام جعفر الصادق, الإمام علي الرضا, الإمام موسى الكاظم, علي بن الحسين زين العابدين, نبيط بن شريط",tahdhib-al-tahdhib-hindi,authentication,YES,data/pdfs/tahdhib-al-tahdhib-hindi/,12,143.4
-طبقات الشافعية,Tabaqat al-Shafi'iyyah,Tabaqat al-Shafi'iyya,تاج الدين السبكي أبو نصر عبد الوهاب بن علي,771,tabaqat,A,5,"AUTHOR_TAJRIH, AUTHOR_TAWTHIQ","ابو عبد الله محمد بن الحسن بن هبة الله البغدادي, عد بن نصر المروزي",tabaqat-al-shafiyya-kubra,authentication,YES,data/pdfs/tabaqat-al-shafiyya-kubra/,10,93.0
-منهاج السنة,Minhaj al-Sunna,Minhaj al-Sunnah al-Nabawiyyah,تقي الدين أبو العباس أحمد بن عبد الحليم بن عبد السلام ابن تيمية,728,sunni_polemical,D,5,AUTHOR_TAJRIH,"الإمام علي الرضا, الإمام محمد الباقر, الإمام موسى الكاظم, الحسن العسكري, علي بن الحسين زين العابدين",,authentication,,,,
-ميزان الاعتدال,Mizan al-Iʿtidal,Mizan al-I'tidal fi Naqd al-Rijal,شمس الدين محمد بن أحمد بن عثمان الذهبي,748,jarh_tadil,A,4,AUTHOR_TAJRIH,"الإمام جعفر الصادق, الإمام علي الرضا, الإمام موسى الكاظم, مروان بن الحكم",mizan-al-itidal,authentication,YES,data/pdfs/mizan-al-itidal/,4,50.9
-أعيان الشيعة,A'yan al-Shi'ah,A'yan al-Shi'ah,سید محسن الأمين,1371,biographical,A,4,AUTHOR_TAWTHIQ,"سيد حامد حسين, سيد علي قلى, سيد ناصر حسين, ميرزا عدن عثمان أحمد خان الكشميري",,authentication,,,,
-رجال مشكاة,Rijal Mishkat,Rijal Mishkat al-Masabih,عبد الحق بن سيف الدين الدهلوي,1052,jarh_tadil,A,3,"AUTHOR_TAJRIH, AUTHOR_TAWTHIQ","فاطمة, مروان بن الحكم",,authentication,,,,
-ريحانة الأدب,Rihanat al-Adab,Rayhanat al-Adab,أحمد بن زين العابدين بن علي الشهرستاني,1299,biographical,A,3,AUTHOR_TAWTHIQ,"سيد إعجاز حسين, سيد حامد حسين, سيد ناصر حسين",,authentication,,,,
-تهذيب الأسماء واللغات,Tahdhib al-Asmaʾ wa al-Lughat,Tahdhib al-Asma' wa al-Lughat,محب الدين أبو زكريا يحيى بن شرف النووي,676,biographical,A,2,"AUTHOR_TAJRIH, AUTHOR_TAWTHIQ","إبراهيم بن يزيد النخعي, علي بن الحسين زين العابدين",,authentication,,,,
-تذكرة الموضوعات,Tadhkirat al-Mawduʿat,Tadhkirat al-Mawdu'at,محمد بن طاهر المهدي المقدسي,507,juz,B,2,AUTHOR_TAJRIH,"الإمام علي الرضا, نبيط بن شريط",,authentication,,,,
-الأنساب,al-Ansab,Al-Ansab,عبد الكريم بن محمد السمعاني,562,genealogical,C,2,"AUTHOR_TAJRIH, AUTHOR_TAWTHIQ","أبو الفتح عد بن علي بن إبراهيم الطنزي, الإمام علي الرضا",,authentication,,,,
-كشف الأحوال في نقد الرجال,Kashf al-Ahwal fi Naqd al-Rijal,Kashf al-Ahwal fi Naqd al-Rijal,عبد الوهاب بن محمد الغوث المدراسي,973,jarh_tadil,A,2,AUTHOR_TAJRIH,الحسن بن علي صاحب العسكري,,authentication,,,,
-فوائد الرضوية,Fawa'id al-Radawiyyah,Al-Fawa'id al-Radawiyya,عباس بن عبد العظيم القمي,1334,biographical,A,2,AUTHOR_TAWTHIQ,سيد حامد حسين,,authentication,,,,
-حلية الأولياء,Hilya al-Awliya',حلية الأولياء وطبقات الأصفياء,أبو نعيم أحمد بن عبد الله الأصبهاني,430,tabaqat,A,2,HADITH_SOURCE,,,registry,,,,
-تاريخ الخلفاء,Tarikh al-Khulafaʾ,تاريخ الخلفاء,جلال الدين عبد الرحمن بن أبي بكر السخاوي,911,tarikh_general,F,2,PRIMARY_REBUTTAL,,,registry,,,,
-ضوء اللامع,Dhu al-Lamʿ,Al-Daw' al-Lami',شهاب الدين أحمد بن محمد بن الحسين السخاوي,902,biographical,A,1,AUTHOR_TAJRIH,,,authentication,,,,
-مغني الليال,Mughni al-Layal,al-Mughni fi al-Du'afa',شمس الدين محمد بن أحمد بن عثمان الذهبي,748,jarh_tadil,A,1,AUTHOR_TAJRIH,الإمام جعفر الصادق,,authentication,,,,
-كشف الظنون,Kashf al-Zunun,Kashf al-Zunun 'an Asami al-Kutub wa al-Funun,شمس الدين محمد بن أحمد بن عثمان الذهبي,748,bibliography,C,1,AUTHOR_TAJRIH,الإمام جعفر الصادق,,authentication,,,,
-فتح القدير,Fath al-Qadir,Fath al-Qadir,محمد بن أحمد السرخسي,483,fiqh,F,1,AUTHOR_TAJRIH,الإمام جعفر الصادق,,authentication,,,,
-كتاب الثقات,Kitab al-Thiqat,Kitab al-Thiqat,محمد بن حبان البستي,354,jarh_tadil,A,1,AUTHOR_TAJRIH,الإمام جعفر الصادق,,authentication,,,,
-نهاية العقول,Nihayat al-ʿUqul,Nihayat al-Uqul fi Dirayat al-Usul,فخر الدين أبو محمد رضي الدين علي بن طاهر الرازي,606,kalam,F,1,AUTHOR_TAJRIH,الأئمة المتأخرون مثل الحسن العسكري,,authentication,,,,
-قانون الموضوعات,Qanun al-Mawduʿat,Qanun al-Mawdu'at wa al-Du'afa,محمد بن طاهر الجراتي,1101,jarh_tadil,A,1,AUTHOR_TAJRIH,الحسن العسكري,,authentication,,,,
-حاشية شرح عفائد,Hashiya Sharh ʿUfaʾid,Hashiyat Sharh al-'Aqa'id,حسين خلخالي,,kalam,F,1,AUTHOR_TAJRIH,,,authentication,,,,
-تذكرة الحكام,Tadhkirat al-Hukama',,لطف الله بن أحمد بن محمود الذهبي,,?,?,1,AUTHOR_TAWTHIQ,ابو عبد الله محمد بن الحسن بن هبة الله البغدادي,,authentication,,,,
-عبر الذهبي,Ubar al-Dhahabi,,لطف الله بن أحمد بن محمود الذهبي,,?,?,1,AUTHOR_TAWTHIQ,ابو عبد الله محمد بن الحسن بن هبة الله البغدادي,,authentication,,,,
-هدى الإسلام,Hidayat al-Islam,,لطف الله بن أحمد بن محمود الذهبي,,?,?,1,AUTHOR_TAWTHIQ,ابو عبد الله محمد بن الحسن بن هبة الله البغدادي,,authentication,,,,
-وفيات الأعيان,Wafayat al-A'yan,,صلاح الدين خليل بن أيبك الصفدي,764,?,?,1,AUTHOR_TAWTHIQ,ابو عبد الله محمد بن الحسن بن هبة الله البغدادي,wafayat-al-ayan,authentication,YES,data/pdfs/wafayat-al-ayan/,8,76.6
-الوفي بالوفيات,al-Wafi bi-l-Wafayat,,صلاح الدين خليل بن أيبك الصفدي,764,?,?,1,AUTHOR_TAWTHIQ,ابو عبد الله محمد بن الحسن بن هبة الله البغدادي,,authentication,,,,
-مرآة الجنآن,Mir'at al-Jinan,,يافعي,768,?,?,1,AUTHOR_TAWTHIQ,ابو عبد الله محمد بن الحسن بن هبة الله البغدادي,,authentication,,,,
-مدائع العلوم,Mada'in al-Ulum,,زنيقي,,?,?,1,AUTHOR_TAWTHIQ,ابو عبد الله محمد بن الحسن بن هبة الله البغدادي,,authentication,,,,
-أبجد العلوم,Abjad al-Ulum,,زنيقي,,?,?,1,AUTHOR_TAWTHIQ,ابو عبد الله محمد بن الحسن بن هبة الله البغدادي,,authentication,,,,
-تاج المكثفل,Taj al-Mukhtasaf,,زنيقي,,?,?,1,AUTHOR_TAWTHIQ,ابو عبد الله محمد بن الحسن بن هبة الله البغدادي,,authentication,,,,
-إتحاف التلاميذ,Ithaf al-Talamidh,,صديق حسن خان,1307,?,?,1,AUTHOR_TAWTHIQ,ابو عبد الله محمد بن الحسن بن هبة الله البغدادي,,authentication,,,,
-تهذيب الأسماء,Tahdhīb al-Asma',,النووي,676,?,?,1,AUTHOR_TAWTHIQ,أمير المؤمنين علي بن أبي طالب,,authentication,,,,
-شرح صحيح البخاري,Sharh Sahih al-Bukhari,,كرماني,412,?,?,1,AUTHOR_TAWTHIQ,أمير المؤمنين علي بن أبي طالب,,authentication,,,,
-الباطل,al-Batil,,ابن روض بهان,,?,?,1,AUTHOR_TAWTHIQ,أمير المؤمنين علي بن أبي طالب,,authentication,,,,
-شرح فقه أكبر,Sharh Fiqh Akbar,,علي القاري,1014,?,?,1,AUTHOR_TAWTHIQ,أمير المؤمنين علي بن أبي طالب,,authentication,,,,
-شرح تهذيب الكلام,Sharh Tahdhib al-Kalam,,يعقوب لاهوري,,?,?,1,AUTHOR_TAWTHIQ,أمير المؤمنين علي بن أبي طالب,,authentication,,,,
-حاشية جامع الصافي,Hashiyat Jam' al-Safi,,محمد بن سالم بن أحمد المحفوظي الحنفي,,?,?,1,AUTHOR_TAWTHIQ,أمير المؤمنين علي بن أبي طالب,,authentication,,,,
-ذخيرة المآل,Dhakhirat al-Ma'al,Dhakhirat al-Ma'al fi Manaqib al-Aal,عبد الله بن محمد بن عبد الوهاب العجيلي,1062,manaqib,F,1,AUTHOR_TAWTHIQ,أمير المؤمنين علي بن أبي طالب,,authentication,,,,
-فوائد مجمعة,Fawa'id Majmu'a,,محمد بن علي الشوكاني,1250,?,?,1,AUTHOR_TAJRIH,نبيط بن شريط,,authentication,,,,
-الاستيعاب,al-Isti'ab,Al-Isti'ab fi Ma'rifat al-Ashab,ابن عبد البر القرطبي,463,biographical,A,1,AUTHOR_TAWTHIQ,شريط بن أنس / نبيط بن شريط,,authentication,,,,
-تجريد التحاويب,Tajrid al-Tahawib,,الذهبي,748,?,?,1,AUTHOR_TAWTHIQ,شريط بن أنس / نبيط بن شريط,,authentication,,,,
-الإصابة في تمييز الصحابة,al-Isaba fi Tamyiz al-Sahaba,,ابن حجر العسقلاني,852,?,?,1,AUTHOR_TAWTHIQ,شريط بن أنس / نبيط بن شريط,,authentication,,,,
-تاج العروس,Taj al-Arus,,محمد بن محمد الرتيبي البيندي,1084,?,?,1,AUTHOR_TAWTHIQ,شريط بن أنس / نبيط بن شريط,,authentication,,,,
-جامع الأصول,Jami' al-Usul,,مجد الدين ابن الاثير الجزري,606,?,?,1,AUTHOR_TAWTHIQ,نبيط بن شريط,,authentication,,,,
-أسد الغابة,Usd al-Ghabah,,عز الدين ابن الاثير الجزري,630,?,?,1,AUTHOR_TAWTHIQ,نبيط بن شريط,,authentication,,,,
-كشف الظهر,Kashf al-Zunun,,الذهبي,748,?,?,1,AUTHOR_TAWTHIQ,نبيط بن شريط,,authentication,,,,
-تقريب التهذيب,Taqrib al-Tahdhib,,ابن حجر العسقلاني,852,?,?,1,AUTHOR_TAWTHIQ,نبيط بن شريط,,authentication,,,,
-مختصر تهذيب التهذيب,Mukhtasar Tahdhīb al-Tahdhīb,,صفي الدين الخزرجي,923,?,?,1,AUTHOR_TAWTHIQ,نبيط بن شريط,tahdhib-al-tahdhib-hindi,authentication,YES,data/pdfs/tahdhib-al-tahdhib-hindi/,12,143.4
-الوفيات,al-Wafayat,,صلاح الدين خليل بن أيبك الصفدي,764,?,?,1,AUTHOR_TAWTHIQ,أبو الفتح عد بن علي بن إبراهيم الطنزي,,authentication,,,,
-فوات الوفيات,Fawat al-Wafayat,,محمد بن شاكر الكتبي,764,?,?,1,AUTHOR_TAWTHIQ,,,authentication,,,,
-كتاب أعلام الأخيار,Kitab A'lam al-Akhyar,,محمود بن سليمان الكفوي,990,?,?,1,AUTHOR_TAWTHIQ,,,authentication,,,,
-كشف الحثيث عمن رمي بوضع الحديث,Kashf al-Hathith 'amman Rumiya bi-Wad' al-Hadith,,إبراهيم بن محمد بن خليل سبط ابن العجمي,841,?,?,1,AUTHOR_TAJRIH,,,authentication,,,,
-كشف الظنون عن أسامي الكتب والفنون,Kashf al-Zunun 'an Asami al-Kutub wa al-Funun,,مصطفى بن عبد الله القسطنطيني (حاجي خليفة),1067,?,?,1,AUTHOR_TAWTHIQ,,,authentication,,,,
-الكمال في أسماء الرجال,al-Kamal fi Asma' al-Rijal,,حافظ عبد الغني المقدسي,600,?,?,1,AUTHOR_TAWTHIQ,,,authentication,,,,
-اللآلئ المصنوعة في الأحاديث الموضوعة,al-La'ali al-Masnu'ah fi al-Ahadith al-Mawdu'ah,,جلال الدين السيوطي,911,?,?,1,AUTHOR_TAJRIH,,,authentication,,,,
-لسان الميزان,Lisan al-Mizan,,ابن حجر العسقلاني,852,?,?,1,AUTHOR_TAJRIH,,,authentication,,,,
-تذكرة علماء الهند,Tadhkirat 'Ulama' al-Hind,,ميرزا محمد بن عين الدين,1272,?,?,1,AUTHOR_TAWTHIQ,عبد العزيز الدهلوي,,authentication,,,,
-الأعلام,al-A'lam,,خير الدين الزركلي,1396,?,?,1,AUTHOR_TAWTHIQ,عبد العزيز الدهلوي,,authentication,,,,
-اليانع الجني,al-Yan' al-Jani,,عبد الحي بن فخر الدين الحسيني,1343,?,?,1,AUTHOR_TAWTHIQ,عبد العزيز الدهلوي,,authentication,,,,
-إيضاح المكنون,Iydah al-Maknun,,عبد الحي بن فخر الدين الحسيني,1343,?,?,1,AUTHOR_TAWTHIQ,عبد العزيز الدهلوي,,authentication,,,,
-حديقة الأفراح لزاحة الأتراح,Hadiqat al-Afrah li-Zahq al-Atarah,,ميرزا أحمد أنصاري شرواني يمني,,?,?,1,AUTHOR_TAWTHIQ,عبد العزيز الدهلوي,,authentication,,,,
-فهرست الغهارس والآثار ومعجم المعاجم والمشيخات والمسلسلات,Fihrist al-Gharars wa-l-Athar wa Mu'jam al-Mu'ajam wa-l-Mashikhat wa-l-Musalsalat,,حافظ العس سيد عبد الحي الحسني الإدريسي,,?,?,1,AUTHOR_TAWTHIQ,عبد العزيز الدهلوي,,authentication,,,,
-عون المعبود على سنن أبي داود,'Awn al-Ma'bud 'ala Sunan Abi Dawud,,عبد الله بن عبد الرحمن بن أحمد الدامري,1130,?,?,1,AUTHOR_TAWTHIQ,عبد العزيز الدهلوي,,authentication,,,,
-القول المجيد على موطأ مالك,al-Qawl al-Majid 'ala Muwatta' Malik,,,,?,?,1,AUTHOR_TAWTHIQ,عبد العزيز الدهلوي,,authentication,,,,
-مجمع المؤلفين,Majma' al-Mu'allifin,,عمر رضا كحالة,1377,?,?,1,AUTHOR_TAWTHIQ,عبد العزيز الدهلوي,,authentication,,,,
-فهرست الآثار والأئمات,Fihrist al-Athar wa-l-A'immat,,,,?,?,1,AUTHOR_TAWTHIQ,شاه ولي الله الدهلوي,,authentication,,,,
-نجوم السماء,Nujum al-Sama',,ميرزا هادي بن ميرزا محمد علي العزيز,1284,?,?,1,AUTHOR_TAWTHIQ,سيد حامد حسين,,authentication,,,,
-نقباء البشر,Nuqaba' al-Bashar,,حاجي خليل بن محمد تقي الخُراساني,1325,?,?,1,AUTHOR_TAWTHIQ,سيد ذاكر حسين,,authentication,,,,
-صحيفة المكتبة,Sahifat al-Maktabah,,غير محدد في النص (مقالة عن مكتبة ناصرية),,?,?,1,AUTHOR_TAWTHIQ,,,authentication,,,,
-نقباء البشر في القرن الرابع عشر,Nuqaba' al-Bashar fi al-Qarn al-Rabi' Ashar,,حاج شيخ آقا بزرك طهراني,1389,?,?,1,AUTHOR_TAWTHIQ,سيد حامد حسين,,authentication,,,,
-تكملة أعيان الشيعة,Takmilat A'yan al-Shi'a,,الحسن بن عبد الله بن الحسن الصدر,1417,?,?,1,AUTHOR_TAWTHIQ,سيد حامد حسين,,authentication,,,,
-علماء معاصرين,Ulama' Mu'asirin,,حاج ملا علي خياباني,1327,?,?,1,AUTHOR_TAWTHIQ,سيد حامد حسين,,authentication,,,,
-أحسن الوديعة,Ahsan al-Wadi'ah,,محمد مهدي بن عبد الحسين بن نور الله المازندراني,1312,?,?,1,AUTHOR_TAWTHIQ,سيد حامد حسين,,authentication,,,,
-شفاء الصدور,Shifa' al-Sudur,,حاج ميرزا أبو الفضل كلانتري الطهراني,1325,?,?,1,AUTHOR_TAWTHIQ,سيد حامد حسين,,authentication,,,,
-كشف الحجب عن أسماء المؤلفات والكتب,Kashf al-Hujub an Asma' al-Mu'allifat wa al-Kutub,,سيد إعجاز حسين الكنتوري,1286,?,?,1,AUTHOR_TAWTHIQ,,,authentication,,,,
-سواطع الأنوار في تقريظات عبقات الأنوار,Suwați' al-Anwar fi Taqriżat Abaqat al-Anwar,,عباس بن أحمد الأنصاري الشيرواني,,?,?,1,AUTHOR_TAWTHIQ,سيد حامد حسين,,authentication,,,,
-حديقة الأفراح,Hadigat al-Afrah,,ميرزا أحمد الشيرواني,,?,?,1,AUTHOR_TAWTHIQ,,,authentication,,,,
-بغية المريد,Bughyat al-Murīd,,حافظ سيوطي,911,?,?,1,AUTHOR_TAWTHIQ,,,authentication,,,,
-روضات الجنات,Rawḍāt al-Jannat,,ميرزا محمد تقي الطباطبائي الإصفهاني,1241,?,?,1,AUTHOR_TAWTHIQ,,,authentication,,,,
-وقائع الأيام,Waqa'i' al-Ayyam,,حاج شيخ زين العابدين المازندراني,1217,?,?,1,AUTHOR_TAWTHIQ,سيد حامد حسين,,authentication,,,,
-مآثر وآثار,Ma'athir wa Athar,,حاج ملا علي خياباني,1327,?,?,1,AUTHOR_TAWTHIQ,,,authentication,,,,
-نامه دانشوران ناصري,Nama-yi Danishwaran Nasiri,,شيخ مهدي عبد الرب آبادي,,?,?,1,AUTHOR_TAWTHIQ,,,authentication,,,,
-مشرع الروي,Mushri' al-Rawi,المشرع الروي في مناقب السادة الكرام آل أبي علوي,محمد بن أبي بكر الشبلي الحضرمي,,biographical,A,1,PRIMARY_REBUTTAL,,,registry,,,,
-المعارف,al-Ma'arif,المعارف,عبد الله بن مسلم بن قتيبة الدينوري,276,tarikh_general,F,1,HADITH_SOURCE,,,registry,,,,
-الإنباء على قبائل الرواة,al-Isthab 'ala Qaba'il al-Riwaya,الإنباه على قبائل الرواة,يوسف بن عبد البرّ القرطبي,463,genealogical,C,1,HADITH_SOURCE,,,registry,,,,
-تاريخ بغداد,Tarikh Baghdad,تاريخ بغداد,أبو بكر أحمد بن علي بن ثابت الخطيب البغدادي,463,tarikh,A,1,HADITH_SOURCE,,tarikh-baghdad,registry,YES,data/pdfs/tarikh-baghdad/,17,155.0
-مشرع روي,Mushra' Rawi,المشرع الروي في مناقب السادة الكرام آل أبي علوي,محمد بن أبي بكر الشري,,biographical,A,1,HADITH_SOURCE,,,registry,,,,
-تاريخ اليعقوبي,Tarikh al-Ya'qubi,تاريخ اليعقوبي,أحمد بن أبي إسحاق بن جعفر بن وهب بن واضح اليعقوبي,284,tarikh_general,F,1,HADITH_SOURCE,,,registry,,,,
-مرآة الأسرار,Mira'at al-Asrar,مرآة الأسرار,عبد الرحمن بن عبد الرسول جنتي,,tabaqat,A,1,CROSS_REF,,,registry,,,,
-مقدمة ابن خلدون,Muqaddimah Ibn Khaldun,مقدمة ابن خلدون,عبد الرحمن بن محمد بن خلدون,808,tarikh_general,F,1,PRIMARY_REBUTTAL,,,registry,,,,
-قصص الأنبياء,Qisas al-Anbiya',قصص الأنبياء,عبد الله بن عبد الله الكسائي,299,tarikh_general,F,1,PRIMARY_REBUTTAL,,,registry,,,,
+﻿book_arabic,book_transliterated,standard_title,author_arabic,author_death_ah,book_type,schema,citation_count,contexts,subject_scholars,in_our_library,source_layer,downloaded,pdf_path,num_volumes,size_mb,pages_referenced
+تهذيب التهذيب,Tahdhib al-Tahdhib,Tahdhib al-Tahdhib,شهاب الدين أحمد بن علي بن محمد بن حجر العسقلاني,852,jarh_tadil,A,6,"AUTHOR_TAJRIH, AUTHOR_TAWTHIQ","الإمام جعفر الصادق, الإمام علي الرضا, الإمام موسى الكاظم, علي بن الحسين زين العابدين, نبيط بن شريط",tahdhib-al-tahdhib-hindi,authentication,YES,data/pdfs/tahdhib-al-tahdhib-hindi/,12,143.4,"11, 15, 119, 131, 203"
+طبقات الشافعية,Tabaqat al-Shafi'iyyah,Tabaqat al-Shafi'iyya,تاج الدين السبكي أبو نصر عبد الوهاب بن علي,771,tabaqat,A,5,"AUTHOR_TAJRIH, AUTHOR_TAWTHIQ","ابو عبد الله محمد بن الحسن بن هبة الله البغدادي, عد بن نصر المروزي",tabaqat-al-shafiyya-kubra,authentication,YES,data/pdfs/tabaqat-al-shafiyya-kubra/,10,93.0,
+منهاج السنة,Minhaj al-Sunna,Minhaj al-Sunnah al-Nabawiyyah,تقي الدين أبو العباس أحمد بن عبد الحليم بن عبد السلام ابن تيمية,728,sunni_polemical,D,5,AUTHOR_TAJRIH,"الإمام علي الرضا, الإمام محمد الباقر, الإمام موسى الكاظم, الحسن العسكري, علي بن الحسين زين العابدين",,authentication,,,,,"15, 137, 159"
+ميزان الاعتدال,Mizan al-Iʿtidal,Mizan al-I'tidal fi Naqd al-Rijal,شمس الدين محمد بن أحمد بن عثمان الذهبي,748,jarh_tadil,A,4,AUTHOR_TAJRIH,"الإمام جعفر الصادق, الإمام علي الرضا, الإمام موسى الكاظم, مروان بن الحكم",mizan-al-itidal,authentication,YES,data/pdfs/mizan-al-itidal/,4,50.9,"15, 131, 262"
+أعيان الشيعة,A'yan al-Shi'ah,A'yan al-Shi'ah,سید محسن الأمين,1371,biographical,A,4,AUTHOR_TAWTHIQ,"سيد حامد حسين, سيد علي قلى, سيد ناصر حسين, ميرزا عدن عثمان أحمد خان الكشميري",,authentication,,,,,"15, 131, 290"
+رجال مشكاة,Rijal Mishkat,Rijal Mishkat al-Masabih,عبد الحق بن سيف الدين الدهلوي,1052,jarh_tadil,A,3,"AUTHOR_TAJRIH, AUTHOR_TAWTHIQ","فاطمة, مروان بن الحكم",,authentication,,,,,"15, 25, 36"
+ريحانة الأدب,Rihanat al-Adab,Rayhanat al-Adab,أحمد بن زين العابدين بن علي الشهرستاني,1299,biographical,A,3,AUTHOR_TAWTHIQ,"سيد إعجاز حسين, سيد حامد حسين, سيد ناصر حسين",,authentication,,,,,"15, 290"
+تهذيب الأسماء واللغات,Tahdhib al-Asmaʾ wa al-Lughat,Tahdhib al-Asma' wa al-Lughat,محب الدين أبو زكريا يحيى بن شرف النووي,676,biographical,A,2,"AUTHOR_TAJRIH, AUTHOR_TAWTHIQ","إبراهيم بن يزيد النخعي, علي بن الحسين زين العابدين",,authentication,,,,,"11, 15, 129"
+تذكرة الموضوعات,Tadhkirat al-Mawduʿat,Tadhkirat al-Mawdu'at,محمد بن طاهر المهدي المقدسي,507,juz,B,2,AUTHOR_TAJRIH,"الإمام علي الرضا, نبيط بن شريط",,authentication,,,,,"5, 15, 56, 130, 131, 183, 203, 244, 262"
+الأنساب,al-Ansab,Al-Ansab,عبد الكريم بن محمد السمعاني,562,genealogical,C,2,"AUTHOR_TAJRIH, AUTHOR_TAWTHIQ","أبو الفتح عد بن علي بن إبراهيم الطنزي, الإمام علي الرضا",,authentication,,,,,"15, 33, 131"
+كشف الأحوال في نقد الرجال,Kashf al-Ahwal fi Naqd al-Rijal,Kashf al-Ahwal fi Naqd al-Rijal,عبد الوهاب بن محمد الغوث المدراسي,973,jarh_tadil,A,2,AUTHOR_TAJRIH,الحسن بن علي صاحب العسكري,,authentication,,,,,"13, 15, 34, 56, 80, 290"
+فوائد الرضوية,Fawa'id al-Radawiyyah,Al-Fawa'id al-Radawiyya,عباس بن عبد العظيم القمي,1334,biographical,A,2,AUTHOR_TAWTHIQ,سيد حامد حسين,,authentication,,,,,"15, 290"
+حلية الأولياء,Hilya al-Awliya',حلية الأولياء وطبقات الأصفياء,أبو نعيم أحمد بن عبد الله الأصبهاني,430,tabaqat,A,2,HADITH_SOURCE,,,registry,,,,,"13, 15, 31, 33, 56"
+تاريخ الخلفاء,Tarikh al-Khulafaʾ,تاريخ الخلفاء,جلال الدين عبد الرحمن بن أبي بكر السخاوي,911,tarikh_general,F,2,PRIMARY_REBUTTAL,,,registry,,,,,"15, 69, 87, 119, 131, 137, 159, 183, 203, 244"
+ضوء اللامع,Dhu al-Lamʿ,Al-Daw' al-Lami',شهاب الدين أحمد بن محمد بن الحسين السخاوي,902,biographical,A,1,AUTHOR_TAJRIH,,,authentication,,,,,
+مغني الليال,Mughni al-Layal,al-Mughni fi al-Du'afa',شمس الدين محمد بن أحمد بن عثمان الذهبي,748,jarh_tadil,A,1,AUTHOR_TAJRIH,الإمام جعفر الصادق,,authentication,,,,,"15, 290"
+كشف الظنون,Kashf al-Zunun,Kashf al-Zunun 'an Asami al-Kutub wa al-Funun,شمس الدين محمد بن أحمد بن عثمان الذهبي,748,bibliography,C,1,AUTHOR_TAJRIH,الإمام جعفر الصادق,,authentication,,,,,"13, 15, 16, 34, 56, 254, 290"
+فتح القدير,Fath al-Qadir,Fath al-Qadir,محمد بن أحمد السرخسي,483,fiqh,F,1,AUTHOR_TAJRIH,الإمام جعفر الصادق,,authentication,,,,,"15, 56, 87, 130, 131, 159, 183, 244"
+كتاب الثقات,Kitab al-Thiqat,Kitab al-Thiqat,محمد بن حبان البستي,354,jarh_tadil,A,1,AUTHOR_TAJRIH,الإمام جعفر الصادق,,authentication,,,,,"15, 17, 34, 131, 203"
+نهاية العقول,Nihayat al-ʿUqul,Nihayat al-Uqul fi Dirayat al-Usul,فخر الدين أبو محمد رضي الدين علي بن طاهر الرازي,606,kalam,F,1,AUTHOR_TAJRIH,الأئمة المتأخرون مثل الحسن العسكري,,authentication,,,,,"15, 17, 20, 28, 131, 262"
+قانون الموضوعات,Qanun al-Mawduʿat,Qanun al-Mawdu'at wa al-Du'afa,محمد بن طاهر الجراتي,1101,jarh_tadil,A,1,AUTHOR_TAJRIH,الحسن العسكري,,authentication,,,,,"5, 15, 130, 131, 183, 203, 244, 262"
+حاشية شرح عفائد,Hashiya Sharh ʿUfaʾid,Hashiyat Sharh al-'Aqa'id,حسين خلخالي,,kalam,F,1,AUTHOR_TAJRIH,,,authentication,,,,,"15, 24, 131, 137, 244"
+تذكرة الحكام,Tadhkirat al-Hukama',,لطف الله بن أحمد بن محمود الذهبي,,?,?,1,AUTHOR_TAWTHIQ,ابو عبد الله محمد بن الحسن بن هبة الله البغدادي,,authentication,,,,,56
+عبر الذهبي,Ubar al-Dhahabi,,لطف الله بن أحمد بن محمود الذهبي,,?,?,1,AUTHOR_TAWTHIQ,ابو عبد الله محمد بن الحسن بن هبة الله البغدادي,,authentication,,,,,
+هدى الإسلام,Hidayat al-Islam,,لطف الله بن أحمد بن محمود الذهبي,,?,?,1,AUTHOR_TAWTHIQ,ابو عبد الله محمد بن الحسن بن هبة الله البغدادي,,authentication,,,,,"15, 25, 45, 56, 77, 87, 183"
+وفيات الأعيان,Wafayat al-A'yan,,صلاح الدين خليل بن أيبك الصفدي,764,?,?,1,AUTHOR_TAWTHIQ,ابو عبد الله محمد بن الحسن بن هبة الله البغدادي,wafayat-al-ayan,authentication,YES,data/pdfs/wafayat-al-ayan/,8,76.6,"15, 262, 290"
+الوفي بالوفيات,al-Wafi bi-l-Wafayat,,صلاح الدين خليل بن أيبك الصفدي,764,?,?,1,AUTHOR_TAWTHIQ,ابو عبد الله محمد بن الحسن بن هبة الله البغدادي,,authentication,,,,,"15, 151, 183, 262"
+مرآة الجنآن,Mir'at al-Jinan,,يافعي,768,?,?,1,AUTHOR_TAWTHIQ,ابو عبد الله محمد بن الحسن بن هبة الله البغدادي,,authentication,,,,,"36, 45, 56"
+مدائع العلوم,Mada'in al-Ulum,,زنيقي,,?,?,1,AUTHOR_TAWTHIQ,ابو عبد الله محمد بن الحسن بن هبة الله البغدادي,,authentication,,,,,"15, 53, 131, 151, 203, 244, 254, 290, 292"
+أبجد العلوم,Abjad al-Ulum,,زنيقي,,?,?,1,AUTHOR_TAWTHIQ,ابو عبد الله محمد بن الحسن بن هبة الله البغدادي,,authentication,,,,,"15, 53, 131, 151, 203, 244, 254, 290, 292"
+تاج المكثفل,Taj al-Mukhtasaf,,زنيقي,,?,?,1,AUTHOR_TAWTHIQ,ابو عبد الله محمد بن الحسن بن هبة الله البغدادي,,authentication,,,,,
+إتحاف التلاميذ,Ithaf al-Talamidh,,صديق حسن خان,1307,?,?,1,AUTHOR_TAWTHIQ,ابو عبد الله محمد بن الحسن بن هبة الله البغدادي,,authentication,,,,,
+تهذيب الأسماء,Tahdhīb al-Asma',,النووي,676,?,?,1,AUTHOR_TAWTHIQ,أمير المؤمنين علي بن أبي طالب,,authentication,,,,,"11, 15, 119, 159, 203"
+شرح صحيح البخاري,Sharh Sahih al-Bukhari,,كرماني,412,?,?,1,AUTHOR_TAWTHIQ,أمير المؤمنين علي بن أبي طالب,,authentication,,,,,"8, 15, 34, 36, 125, 130, 131"
+الباطل,al-Batil,,ابن روض بهان,,?,?,1,AUTHOR_TAWTHIQ,أمير المؤمنين علي بن أبي طالب,,authentication,,,,,"15, 65, 87, 151, 159, 203, 292"
+شرح فقه أكبر,Sharh Fiqh Akbar,,علي القاري,1014,?,?,1,AUTHOR_TAWTHIQ,أمير المؤمنين علي بن أبي طالب,,authentication,,,,,"15, 34, 36, 56, 69, 119, 159, 244"
+شرح تهذيب الكلام,Sharh Tahdhib al-Kalam,,يعقوب لاهوري,,?,?,1,AUTHOR_TAWTHIQ,أمير المؤمنين علي بن أبي طالب,,authentication,,,,,"15, 19, 34, 36, 53, 56, 80, 87, 130, 131, 159, 183, 244, 290"
+حاشية جامع الصافي,Hashiyat Jam' al-Safi,,محمد بن سالم بن أحمد المحفوظي الحنفي,,?,?,1,AUTHOR_TAWTHIQ,أمير المؤمنين علي بن أبي طالب,,authentication,,,,,"15, 24, 292"
+ذخيرة المآل,Dhakhirat al-Ma'al,Dhakhirat al-Ma'al fi Manaqib al-Aal,عبد الله بن محمد بن عبد الوهاب العجيلي,1062,manaqib,F,1,AUTHOR_TAWTHIQ,أمير المؤمنين علي بن أبي طالب,,authentication,,,,,"8, 10, 15, 34, 45, 51, 56, 133, 159, 183, 203, 244, 262"
+فوائد مجمعة,Fawa'id Majmu'a,,محمد بن علي الشوكاني,1250,?,?,1,AUTHOR_TAJRIH,نبيط بن شريط,,authentication,,,,,
+الاستيعاب,al-Isti'ab,Al-Isti'ab fi Ma'rifat al-Ashab,ابن عبد البر القرطبي,463,biographical,A,1,AUTHOR_TAWTHIQ,شريط بن أنس / نبيط بن شريط,,authentication,,,,,
+تجريد التحاويب,Tajrid al-Tahawib,,الذهبي,748,?,?,1,AUTHOR_TAWTHIQ,شريط بن أنس / نبيط بن شريط,,authentication,,,,,
+الإصابة في تمييز الصحابة,al-Isaba fi Tamyiz al-Sahaba,,ابن حجر العسقلاني,852,?,?,1,AUTHOR_TAWTHIQ,شريط بن أنس / نبيط بن شريط,,authentication,,,,,"15, 133, 137"
+تاج العروس,Taj al-Arus,,محمد بن محمد الرتيبي البيندي,1084,?,?,1,AUTHOR_TAWTHIQ,شريط بن أنس / نبيط بن شريط,,authentication,,,,,"15, 44, 183, 203"
+جامع الأصول,Jami' al-Usul,,مجد الدين ابن الاثير الجزري,606,?,?,1,AUTHOR_TAWTHIQ,نبيط بن شريط,,authentication,,,,,"15, 45, 137, 183, 203, 290"
+أسد الغابة,Usd al-Ghabah,,عز الدين ابن الاثير الجزري,630,?,?,1,AUTHOR_TAWTHIQ,نبيط بن شريط,,authentication,,,,,"15, 77"
+كشف الظهر,Kashf al-Zunun,,الذهبي,748,?,?,1,AUTHOR_TAWTHIQ,نبيط بن شريط,,authentication,,,,,"13, 34, 56"
+تقريب التهذيب,Taqrib al-Tahdhib,,ابن حجر العسقلاني,852,?,?,1,AUTHOR_TAWTHIQ,نبيط بن شريط,,authentication,,,,,"15, 119, 131, 203"
+مختصر تهذيب التهذيب,Mukhtasar Tahdhīb al-Tahdhīb,,صفي الدين الخزرجي,923,?,?,1,AUTHOR_TAWTHIQ,نبيط بن شريط,tahdhib-al-tahdhib-hindi,authentication,YES,data/pdfs/tahdhib-al-tahdhib-hindi/,12,143.4,"15, 119, 131, 203"
+الوفيات,al-Wafayat,,صلاح الدين خليل بن أيبك الصفدي,764,?,?,1,AUTHOR_TAWTHIQ,أبو الفتح عد بن علي بن إبراهيم الطنزي,,authentication,,,,,"15, 151, 183, 244, 262"
+فوات الوفيات,Fawat al-Wafayat,,محمد بن شاكر الكتبي,764,?,?,1,AUTHOR_TAWTHIQ,,,authentication,,,,,"15, 151, 183, 244, 262"
+كتاب أعلام الأخيار,Kitab A'lam al-Akhyar,,محمود بن سليمان الكفوي,990,?,?,1,AUTHOR_TAWTHIQ,,,authentication,,,,,"15, 17, 34, 203, 244, 292"
+كشف الحثيث عمن رمي بوضع الحديث,Kashf al-Hathith 'amman Rumiya bi-Wad' al-Hadith,,إبراهيم بن محمد بن خليل سبط ابن العجمي,841,?,?,1,AUTHOR_TAJRIH,,,authentication,,,,,"5, 13, 15, 16, 19, 20, 25, 28, 33, 34, 44, 56, 69, 77, 80, 87, 125, 129, 130, 131, 159, 183, 203, 244, 254, 290"
+كشف الظنون عن أسامي الكتب والفنون,Kashf al-Zunun 'an Asami al-Kutub wa al-Funun,,مصطفى بن عبد الله القسطنطيني (حاجي خليفة),1067,?,?,1,AUTHOR_TAWTHIQ,,,authentication,,,,,"13, 34, 56"
+الكمال في أسماء الرجال,al-Kamal fi Asma' al-Rijal,,حافظ عبد الغني المقدسي,600,?,?,1,AUTHOR_TAWTHIQ,,,authentication,,,,,"15, 80, 290"
+اللآلئ المصنوعة في الأحاديث الموضوعة,al-La'ali al-Masnu'ah fi al-Ahadith al-Mawdu'ah,,جلال الدين السيوطي,911,?,?,1,AUTHOR_TAJRIH,,,authentication,,,,,"15, 130, 159"
+لسان الميزان,Lisan al-Mizan,,ابن حجر العسقلاني,852,?,?,1,AUTHOR_TAJRIH,,,authentication,,,,,"15, 20, 69, 254, 290"
+تذكرة علماء الهند,Tadhkirat 'Ulama' al-Hind,,ميرزا محمد بن عين الدين,1272,?,?,1,AUTHOR_TAWTHIQ,عبد العزيز الدهلوي,,authentication,,,,,"15, 56, 290"
+الأعلام,al-A'lam,,خير الدين الزركلي,1396,?,?,1,AUTHOR_TAWTHIQ,عبد العزيز الدهلوي,,authentication,,,,,"15, 56, 65, 77, 137, 183, 290"
+اليانع الجني,al-Yan' al-Jani,,عبد الحي بن فخر الدين الحسيني,1343,?,?,1,AUTHOR_TAWTHIQ,عبد العزيز الدهلوي,,authentication,,,,,"15, 290"
+إيضاح المكنون,Iydah al-Maknun,,عبد الحي بن فخر الدين الحسيني,1343,?,?,1,AUTHOR_TAWTHIQ,عبد العزيز الدهلوي,,authentication,,,,,"15, 290"
+حديقة الأفراح لزاحة الأتراح,Hadiqat al-Afrah li-Zahq al-Atarah,,ميرزا أحمد أنصاري شرواني يمني,,?,?,1,AUTHOR_TAWTHIQ,عبد العزيز الدهلوي,,authentication,,,,,"15, 290"
+فهرست الغهارس والآثار ومعجم المعاجم والمشيخات والمسلسلات,Fihrist al-Gharars wa-l-Athar wa Mu'jam al-Mu'ajam wa-l-Mashikhat wa-l-Musalsalat,,حافظ العس سيد عبد الحي الحسني الإدريسي,,?,?,1,AUTHOR_TAWTHIQ,عبد العزيز الدهلوي,,authentication,,,,,"15, 20, 290"
+عون المعبود على سنن أبي داود,'Awn al-Ma'bud 'ala Sunan Abi Dawud,,عبد الله بن عبد الرحمن بن أحمد الدامري,1130,?,?,1,AUTHOR_TAWTHIQ,عبد العزيز الدهلوي,,authentication,,,,,"15, 16, 19, 87, 129, 131, 244, 254, 262, 273, 290"
+القول المجيد على موطأ مالك,al-Qawl al-Majid 'ala Muwatta' Malik,,,,?,?,1,AUTHOR_TAWTHIQ,عبد العزيز الدهلوي,,authentication,,,,,"8, 15, 25, 53, 56, 65, 77, 80, 87, 119, 129, 131, 151, 183, 203, 244, 262, 270, 273, 292"
+مجمع المؤلفين,Majma' al-Mu'allifin,,عمر رضا كحالة,1377,?,?,1,AUTHOR_TAWTHIQ,عبد العزيز الدهلوي,,authentication,,,,,"15, 33, 290"
+فهرست الآثار والأئمات,Fihrist al-Athar wa-l-A'immat,,,,?,?,1,AUTHOR_TAWTHIQ,شاه ولي الله الدهلوي,,authentication,,,,,20
+نجوم السماء,Nujum al-Sama',,ميرزا هادي بن ميرزا محمد علي العزيز,1284,?,?,1,AUTHOR_TAWTHIQ,سيد حامد حسين,,authentication,,,,,"2, 15, 69, 151, 183, 203, 281, 290"
+نقباء البشر,Nuqaba' al-Bashar,,حاجي خليل بن محمد تقي الخُراساني,1325,?,?,1,AUTHOR_TAWTHIQ,سيد ذاكر حسين,,authentication,,,,,"15, 203, 254, 290, 292"
+صحيفة المكتبة,Sahifat al-Maktabah,,غير محدد في النص (مقالة عن مكتبة ناصرية),,?,?,1,AUTHOR_TAWTHIQ,,,authentication,,,,,"15, 290"
+نقباء البشر في القرن الرابع عشر,Nuqaba' al-Bashar fi al-Qarn al-Rabi' Ashar,,حاج شيخ آقا بزرك طهراني,1389,?,?,1,AUTHOR_TAWTHIQ,سيد حامد حسين,,authentication,,,,,
+تكملة أعيان الشيعة,Takmilat A'yan al-Shi'a,,الحسن بن عبد الله بن الحسن الصدر,1417,?,?,1,AUTHOR_TAWTHIQ,سيد حامد حسين,,authentication,,,,,"15, 131, 290"
+علماء معاصرين,Ulama' Mu'asirin,,حاج ملا علي خياباني,1327,?,?,1,AUTHOR_TAWTHIQ,سيد حامد حسين,,authentication,,,,,"15, 290"
+أحسن الوديعة,Ahsan al-Wadi'ah,,محمد مهدي بن عبد الحسين بن نور الله المازندراني,1312,?,?,1,AUTHOR_TAWTHIQ,سيد حامد حسين,,authentication,,,,,"15, 290"
+شفاء الصدور,Shifa' al-Sudur,,حاج ميرزا أبو الفضل كلانتري الطهراني,1325,?,?,1,AUTHOR_TAWTHIQ,سيد حامد حسين,,authentication,,,,,"15, 290, 292"
+كشف الحجب عن أسماء المؤلفات والكتب,Kashf al-Hujub an Asma' al-Mu'allifat wa al-Kutub,,سيد إعجاز حسين الكنتوري,1286,?,?,1,AUTHOR_TAWTHIQ,,,authentication,,,,,"13, 15, 34, 56, 290"
+سواطع الأنوار في تقريظات عبقات الأنوار,Suwați' al-Anwar fi Taqriżat Abaqat al-Anwar,,عباس بن أحمد الأنصاري الشيرواني,,?,?,1,AUTHOR_TAWTHIQ,سيد حامد حسين,,authentication,,,,,"10, 12, 14, 15, 16, 20, 25, 31, 51, 53, 56, 65, 69, 77, 80, 87, 102, 106, 119, 125, 129, 131, 133, 137, 151, 159, 183, 203, 244, 254, 262, 290, 292"
+حديقة الأفراح,Hadigat al-Afrah,,ميرزا أحمد الشيرواني,,?,?,1,AUTHOR_TAWTHIQ,,,authentication,,,,,"15, 290, 292"
+بغية المريد,Bughyat al-Murīd,,حافظ سيوطي,911,?,?,1,AUTHOR_TAWTHIQ,,,authentication,,,,,
+روضات الجنات,Rawḍāt al-Jannat,,ميرزا محمد تقي الطباطبائي الإصفهاني,1241,?,?,1,AUTHOR_TAWTHIQ,,,authentication,,,,,"15, 290"
+وقائع الأيام,Waqa'i' al-Ayyam,,حاج شيخ زين العابدين المازندراني,1217,?,?,1,AUTHOR_TAWTHIQ,سيد حامد حسين,,authentication,,,,,"15, 292"
+مآثر وآثار,Ma'athir wa Athar,,حاج ملا علي خياباني,1327,?,?,1,AUTHOR_TAWTHIQ,,,authentication,,,,,"15, 80, 183, 290, 292"
+نامه دانشوران ناصري,Nama-yi Danishwaran Nasiri,,شيخ مهدي عبد الرب آبادي,,?,?,1,AUTHOR_TAWTHIQ,,,authentication,,,,,"15, 290"
+مشرع الروي,Mushri' al-Rawi,المشرع الروي في مناقب السادة الكرام آل أبي علوي,محمد بن أبي بكر الشبلي الحضرمي,,biographical,A,1,PRIMARY_REBUTTAL,,,registry,,,,,
+المعارف,al-Ma'arif,المعارف,عبد الله بن مسلم بن قتيبة الدينوري,276,tarikh_general,F,1,HADITH_SOURCE,,,registry,,,,,"8, 11, 15, 254"
+الإنباء على قبائل الرواة,al-Isthab 'ala Qaba'il al-Riwaya,الإنباه على قبائل الرواة,يوسف بن عبد البرّ القرطبي,463,genealogical,C,1,HADITH_SOURCE,,,registry,,,,,14
+تاريخ بغداد,Tarikh Baghdad,تاريخ بغداد,أبو بكر أحمد بن علي بن ثابت الخطيب البغدادي,463,tarikh,A,1,HADITH_SOURCE,,tarikh-baghdad,registry,YES,data/pdfs/tarikh-baghdad/,17,155.0,"13, 15, 34, 53, 151, 183, 203, 244, 254, 262, 270, 273, 277, 281, 290, 295"
+مشرع روي,Mushra' Rawi,المشرع الروي في مناقب السادة الكرام آل أبي علوي,محمد بن أبي بكر الشري,,biographical,A,1,HADITH_SOURCE,,,registry,,,,,"15, 34, 36, 87, 119, 254"
+تاريخ اليعقوبي,Tarikh al-Ya'qubi,تاريخ اليعقوبي,أحمد بن أبي إسحاق بن جعفر بن وهب بن واضح اليعقوبي,284,tarikh_general,F,1,HADITH_SOURCE,,,registry,,,,,15
+مرآة الأسرار,Mira'at al-Asrar,مرآة الأسرار,عبد الرحمن بن عبد الرسول جنتي,,tabaqat,A,1,CROSS_REF,,,registry,,,,,"15, 56, 87"
+مقدمة ابن خلدون,Muqaddimah Ibn Khaldun,مقدمة ابن خلدون,عبد الرحمن بن محمد بن خلدون,808,tarikh_general,F,1,PRIMARY_REBUTTAL,,,registry,,,,,"15, 42, 87, 102, 262"
+قصص الأنبياء,Qisas al-Anbiya',قصص الأنبياء,عبد الله بن عبد الله الكسائي,299,tarikh_general,F,1,PRIMARY_REBUTTAL,,,registry,,,,,
